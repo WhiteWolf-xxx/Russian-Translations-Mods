@@ -1,0 +1,10 @@
+﻿0-210
+SPECEVENT : refuseRestartConversation<NEXT>Почему ты так не хочешь? Мне неинтересно читать её тебе.
+
+SPECEVENT : refuseRestartConversation<NEXT>У меня нет времени на игры, животное.
+
+SPECEVENT : refuseRestartConversation<NEXT>...
+
+SPECEVENT : refuseRestartConversation<NEXT>Маленькое животное, я не буду читать вещи для непочтительных существ.
+
+SPECEVENT : refuseRestartConversation<NEXT>Передумал? Но я не буду продолжать.
