@@ -658,7 +658,7 @@ It is strange... I'm remembering myself, but also... someone else.|Это стр
 Met Chasing Wind|Встреча с В-Погоне-за-Ветром
 Brought Moon's message to Chasing Wind|Принёс послание Луны к В-Погоне-за-Ветром
 Brought the slag keys to Chasing Wind|Принёс ключи для сброса шлаков к В-Погоне-за-Ветром
-Unique pearls read by Chasing Wind : |Жемчужины, прочитанные В-Погоне-за-Ветром:  
+Unique pearls read by Chasing Wind : |Жемчужины, прочитанные В-Погоне-за-Ветром: 
 
 ///Community Gallery Region (2973060864)///
 LevelEditorCommunityGallery-name|Галерея сообщества
