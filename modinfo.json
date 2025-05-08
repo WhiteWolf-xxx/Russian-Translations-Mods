@@ -1,0 +1,16 @@
+{
+  "id": "Rus_Translations",
+  "name": "Russian Translations Mods",
+  "version": "2.1.0",
+  "hide_version": false,
+  "authors": "_Wolf_",
+  "description": "Translation of regions, campaigns, and modifications into Russian.",
+  "requirements": [],
+  "requirements_names": [],
+  "priorities": ["drought", "moreslugcats", "regionjam.drownedpantheon", "badlands", "coral.caves", "pqrail", "don.desertedwastelands", "far_shore", "Nytrok07.ForsakkenFactory", "forsaken_station", "jam.gildedsanctuary", "wrayk.lushwire", "reclaimingentropy", "shrouded_assembly", "radiosphere", "themast", "myr.chasing_wind", "onh", "Quaint.SunsetRegion", "stormy_coast", "secludedpass", "myr.moss_fields", "pilgrims_ascent", "bio", "jam.aridbarrens", "LevelEditorCommunityGallery", "Community.Gallery2", "jam.moonlitacres", "District4B", "mojosoup.sloptown", "tcan.SacredGarden", "SideHouse", "overgrownfacility", "Sky_tower", "sunpwplnt", "grinder", "wrayk.undersea", "howling_rift", "hanging.gardens", "scorched_district", "scrappedpeak", "neuronforest", "Underbelly", "preservatory", "TaintedOverpass", "Quaeledy.hunterexpansion", "limecultivist.forgottenboiler", "rivuletouterexpanse", "tcan.marshlandwastes", "aqueducts", "NCR.theunbound", "underpass_will", "weakenedplatform", "global_hyper_transit", "Quaeledy.outsider", "kingmaxthe2.gravelslug", "pearlcat", "gayurban", "myr.necropolis", "SnowBee.Snow", "amidstthedeluge", "April.MD", "henpemaz_rainmeadow", "watcher"],
+  "tags": ["Translations"],
+  "checksum_override_version": false,
+  "WorkshopID": 3348967878,
+  "UploadFilesOnly": true,
+  "UploadThumbnail": false
+}

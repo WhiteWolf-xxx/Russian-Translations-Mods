@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.5
+Grime: 0.3043478
+Palette: 12
+EffectColorA: 19
+EffectColorB: 11
+Effects: Fog-1-20-20, RockFlea-0.09782609-283-139, BkgOnlyLightning-1-253-72, 
+PlacedObjects: LightSource><422.6761><298.4053><0.7282609~EffectColor1~110~284~50~86.60254~0~0~None~0~0, LightSource><425.434><308.5612><0.4347826~EffectColor1~82~255~-326~133.6025~0~1~None~0~0, LanternOnStick><633.0688><181.4378><25~-81, LanternOnStick><257.0808><186.1433><-35~-98, CustomDecal><816.5554><226.2036><15~34~47~5~34~-24~40.00006~146~0.2934783~0.3804348~0~ScavMark Arrow~0.5543478~0~0.5543478~0~0.5543478~0~0.5543478~0, ExitSymbolHidden><871.5754><115.1852><, KarmaFlower><356.3027><188.9674><0~0~3~4, UniqueDataPearl><780.8907><207.6421><112~-28~0~0~US_1_Tower~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><706.955><519.8052><0.4673913><1, OMNI><AM_IND-Warehouse01.ogg><742.1445><420.0801><0.3478261><1, OMNI><AM_WIN-HowlingWnd.ogg><625.652><614.8257><0.3695652><1, OMNI><SO_NAT-LilDrips.ogg><384.05><431.0016><0.3369565><1, OMNI><AM_RAIN-QuietThunder.ogg><735.5942><324.0735><0.5><1, SPOT><SO_SFX-ColdNight.ogg><558.5737><297.4056><0.5><0.7456522><449.5737><274.4056><-30.35535><-152.3553><0><0.1760871, 
+FadePalette: 10, 0.6195652
