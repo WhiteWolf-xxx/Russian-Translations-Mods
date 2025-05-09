@@ -1,0 +1,10 @@
+﻿0-209
+SPECEVENT : refuseRestartConversation<NEXT>Почему ты колеблешься? Ладно, давай продолжим.
+
+SPECEVENT : refuseRestartConversation<NEXT>Это какая-то игра, в которую вы, животные, играете?
+
+SPECEVENT : refuseRestartConversation<NEXT>Ты сейчас не очень-то милый! Но ладно, мне всё равно трудно быть с тобой серьёзным. 
+
+SPECEVENT : refuseRestartConversation<NEXT>Ну же, зверушка. На чём мы остановились?
+
+SPECEVENT : refuseRestartConversation<NEXT>Передумал? Хорошо, но я не буду продолжать~

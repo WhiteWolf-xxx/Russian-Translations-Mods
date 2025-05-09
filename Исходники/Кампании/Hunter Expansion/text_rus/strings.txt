@@ -1,0 +1,90 @@
+///Hunter Expansion (3186608452)///
+Quaeledy.hunterexpansion-name|Расширение для Охотника
+Quaeledy.hunterexpansion-description|Добавлены шесть снов исполнения и новая концовка (содержащая две ветки) для охотника. Сделано базовое поведение НЗЗ и некоторые комнаты в его мегаструктуре. Добавлена интерпретация НЗЗ в Коллекцию.<LINE>Я хотел бы посвятить эту работу своим друзьям. Этот мод не представляет никакого официального сеттинга или сюжета. Я сделал его, потому что мои друзья хотели видеть НЗЗ в игре. Надеюсь, мод вам понравится.
+///Название регионов
+No Significant Harassment|Нет Значимых Забот
+The Temporary Arena|Временная арена
+No Significant Harassment (Memory Conflux)|Нет Значимых Забот (Отсек памяти)
+No Significant Harassment (The Boxroom)|Нет Значимых Забот (Комната с ящиками)
+No Significant Harassment (Multistage Amplifier)|Нет Значимых Забот (Многокаскадный усилитель)
+No Significant Harassment (General Systems Bus)|Нет Значимых Забот (Генеральная системная шина)
+///Начало игры
+The pearl you carry may determine your expedition's ending.|От того, какую жемчужину ты возьмёшь с собой, может зависеть финал твоей экспедиции.
+Please treat it with caution.|Пожалуйста, отнесись к этому с осторожностью.
+No Significant Harassment's Transcription|Расшифровка Нет Значимых Забот
+///Обозначения
+little one|малыш
+little messenger|маленький посланник
+little furball|маленький пушистик
+little moth|маленький мотылёк
+little wanderer|маленький странник
+little apprentice|маленький ученик
+little scholar|маленький учёный
+little garbage worm|маленький мусорный червь
+little naturalist|маленький натуралист
+///Второй сон
+///Диалог вызывается приближением игрока к нейрону, диалог выбирается случайным образом
+/// 1 раз
+Please keep out. I don't want anything to go wrong at this stage.|Пожалуйста, держись подальше. Я не хочу, чтобы на этом этапе что-то пошло не так.
+/// 2 раз
+It seems like you're curious about it? I'll hand it over to you at the right time, but not now.|Похоже, тебе это интересно? Я передам его тебе в нужное время, но не сейчас.
+/// 3 раз
+What are you doing, messenger? Please don't touch it.|Что ты делаешь, посланник? Пожалуйста, не трогай его.
+It will interrupt my process and potentially result in errors and irreversible damage.|Это прервёт мой процесс и может привести к ошибкам и необратимым повреждениям.
+It's an unpleasant experience for any iterator, so please stop your attempts.|Это неприятный опыт для любого итератора, поэтому, пожалуйста, прекрати свои попытки.
+///Случайным образом выбирается после многократного использования
+Please do not approach it.|Пожалуйста, не приближайся к нему.
+May I hope you don't interfere with my work?|Могу я надеяться, что ты не будешь мешать мне работать?
+///Диалог, запускаемый при удержании нейрона игроком, запускается по очереди в зависимости от количества нарушений и тяжести проступка.
+/// 1 степень
+I don't know how you did it, but I hope it won't happen again.|Я не знаю, как ты это сделал, но надеюсь, что этого больше не повторится.
+/// 2 степень
+Seems like you are unwilling to follow orders?|Похоже, ты не желаешь выполнять приказы?
+Such a shame! I have to remind you that my patience is not infinite.|Какой позор! Я должен напомнить тебе, что моё терпение не бесконечно.
+/// 3 степень
+Such a disobedient messenger~|Такой непокорный посланник...
+Congratulations! You are free now.|Поздравляю! Теперь ты свободен.
+///Диалог после завершения миссии
+///Луна: Если забрать жемчужину
+Oh... don't you want me to do this?|О... ты не хочешь, чтобы я это сделала?
+Um... I will continue.|Эм... Я продолжу.
+///НЗЗ: Конец игры
+Good morning. Come here, my little messenger. Come to me.|Доброе утро. Иди сюда, мой маленький посланник. Подойди ко мне.
+Good morning, messenger.|Доброе утро, посланник.
+Oh, you're with your friend. But we need some time alone, I believe. Can you come back for me after you take it to somewhere safe?|Ох, ты со своим другом. Но нам нужно побыть наедине, я думаю. Ты можешь вернуться ко мне после того, как отведёшь его в безопасное место?
+Oh, you're with your friends. But we need some time alone, I believe. Can you come back for me after you take them to somewhere safe?|Ох, ты с друзьями. Но нам нужно побыть наедине, я считаю. Ты можешь вернуться ко мне после того, как отведёшь их в безопасное место?
+Welcome back, my messenger. Come, Come here.|С возвращением, мой посланник. Иди, иди сюда.
+///Нападение на НЗЗ
+What are you doing? Please don't attack me.|Что ты делаешь? Пожалуйста, не нападай на меня.
+Stop this barbaric behavior, animal.|Прекрати это варварское поведение, животное.
+Remember to behave in the next cycle.|Не забывай вести себя прилично в следующем цикле.
+I have already warned you.|Я уже предупреждал тебя.
+///Поедание нейронов перед НЗЗ
+Creature, are you intentionally provoking me?|Создание, ты намеренно провоцируешь меня?
+Okay, if you brought it to me just for this moment, feel free.|Ладно, если ты принёс его мне только ради этого момента, не стесняйся.
+///НЗЗ читает жемчуг
+/// 1
+Do you want to give it to me? Or just want me to read it?|Ты хочешь подарить её мне? Или просто хочешь, чтобы я её прочитал?
+Let me take a look at this pearl...|Позволь мне взглянуть на эту жемчужину...
+/// 2
+Are you curious about the content in this pearl? Okay, I'm curious~|Тебе интересно, что содержится в этой жемчужине? Хорошо, мне любопытно...
+/// 3
+Another pearl? It seems that you really like them!|Ещё одна жемчужина? Кажется, они тебе очень нравятся!
+/// 4
+Seeing you appear with pearls, I think I already know your purpose for coming here.|Видя, как ты появляешься с жемчугом, я думаю, что уже знаю, с какой целью ты сюда пришёл.
+The scavengers will be jealous of your horde!|Мусорщики будут завидовать твоей ораве!
+/// 5
+///НЗЗ: Предметы
+What is that?|Что это?
+Seems like you found something new again! Let me take a look.|Похоже, ты снова нашёл что-то новое! Позволь мне взглянуть.
+Seems like you found something new again. Let me take a look.|Похоже, ты снова нашёл что-то новое. Позволь мне взглянуть.
+Ah-Hah! You are making this into a habit! Let me take a close look.|А-ха-ха! Ты превращаешь это в привычку! Позволь мне внимательно посмотреть.
+If you continue to be polite, I will explain to you.|Если ты продолжишь быть вежливым, я объясню тебе.
+I have the right to refuse to entertain impolite guests, don't you think?|Я имею право не принимать невежливых гостей, не так ли?
+Let's see, what do you have here this time?|Давай посмотрим, что у тебя есть на этот раз?
+What is it again?|Что это такое?
+///При чтении забрать жемчужину
+Oh, of course, you can take it away anytime!|Ох, конечно, ты можешь забрать её в любой момент!
+///НЗЗ Интерпретация жемчужных дополнений SL_chimney
+I have to say, you are really cute!|Должен сказать, что ты очень милый!
+///КОНЕЦ СООБЩЕНИЙ
