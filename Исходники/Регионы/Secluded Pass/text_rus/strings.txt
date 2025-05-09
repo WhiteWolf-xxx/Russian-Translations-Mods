@@ -1,0 +1,9 @@
+///Secluded Pass (3338330562)///
+secludedpass-name|Уединённый проход
+secludedpass-description|На самом дальнем краю территории комплекса, за заполненными кораллами гротами и потрепанными штормами береговыми линиями, лежат забытые руины, окутанные туманом.
+Secluded Pass|Уединённый проход
+Eastern Communications Tower|Восточная вышка связи
+Retaining Wall|Подпорная стена
+Forgotten Reach|Забытый предел
+Derelict Spire|Заброшенный шпиль
+Perilous Ascent|Опасный подъём

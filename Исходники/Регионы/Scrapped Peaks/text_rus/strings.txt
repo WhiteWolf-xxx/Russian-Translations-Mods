@@ -1,0 +1,5 @@
+///Scrapped Peaks (3342976438)///
+scrappedpeak-name|Сломленные пики
+scrappedpeak-description|Портированный регион со старой версии.
+Scrapped Peaks|Сломленные пики
+Five Pebbles (Waste Disposal Compound)|Пять Галек (Комплекс утилизации отходов)

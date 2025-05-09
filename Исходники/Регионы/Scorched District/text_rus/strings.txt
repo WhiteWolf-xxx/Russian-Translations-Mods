@@ -1,0 +1,8 @@
+///Scorched District (2987764922)///
+scorched_district-name|Выжженный район
+scorched_district-description|Исследуйте остатки древнего города высоко над облаками, разрушенного сильными пыльными бурями.<LINE>Соединяется с Корпусом, Пятью Гальками, Мегаполисом, Мачтой и Путь паломников.
+Scorched District|Выжженный район
+The Interface|Интерфейс
+Distillation Column|Дистилляционная колонна
+Skyline Railway|Небесная магистраль
+Lost Campfire|Утерянный костёр

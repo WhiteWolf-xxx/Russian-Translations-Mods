@@ -1,0 +1,8 @@
+///Scorched District (2987764922)///
+scorched_district-name|Scorched District
+scorched_district-description|Explore the remnants of an ancient city high above the clouds, ruined by violent dust storms. Connects with The Exterior, 5P, Metropolis, The Mast and Pilgrims' Ascent.
+Scorched District|Выжженный район
+The Interface|Интерфейс
+Distillation Column|Дистилляционная колонна
+Skyline Railway|Небесная магистраль
+Lost Campfire|Утерянный костёр

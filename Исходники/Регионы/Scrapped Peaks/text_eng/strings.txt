@@ -1,0 +1,5 @@
+///Scrapped Peaks (3342976438)///
+scrappedpeak-name|Scrapped Peaks
+scrappedpeak-description|An old region mod Ported.
+Scrapped Peaks|Сломленные пики
+Five Pebbles (Waste Disposal Compound)|Пять Галек (Комплекс утилизации отходов)

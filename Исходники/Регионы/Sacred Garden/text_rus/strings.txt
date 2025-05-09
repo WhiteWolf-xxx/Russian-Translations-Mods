@@ -1,0 +1,6 @@
+///Sacred Garden (3081464445)///
+tcan.SacredGarden-name|Священный сад
+tcan.SacredGarden-description|Заброшенная ферма, соединяющаяся с Окраинами и Затенённой цитаделью.
+Sacred Garden|Священный сад
+Winter Wonderland|Зимняя страна чудес
+Chilled Hydroponics|Стужённые гидропоники

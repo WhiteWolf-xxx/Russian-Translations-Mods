@@ -1,0 +1,9 @@
+///Secluded Pass (3338330562)///
+secludedpass-name|Secluded Pass
+secludedpass-description|At the furthest edge of the facility grounds, beyond coral-filled grottos and storm-battered coastlines,  forgotten ruins lie shrouded in mist.
+Secluded Pass|Уединённый проход
+Eastern Communications Tower|Восточная вышка связи
+Retaining Wall|Подпорная стена
+Forgotten Reach|Забытый предел
+Derelict Spire|Заброшенный шпиль
+Perilous Ascent|Опасный подъём

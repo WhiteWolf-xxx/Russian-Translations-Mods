@@ -1,0 +1,6 @@
+///Sacred Garden (3081464445)///
+tcan.SacredGarden-name|Sacred Garden
+tcan.SacredGarden-description|An abandoned farm that connects to Outskirts and Shaded Citadel
+Sacred Garden|Священный сад
+Winter Wonderland|Зимняя страна чудес
+Chilled Hydroponics|Стужённые гидропоники

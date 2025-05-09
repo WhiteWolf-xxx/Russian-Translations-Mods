@@ -1,0 +1,20 @@
+0-SEC_SpireBroadcast1
+[INCOMING REQUEST] COMMUNICATIONS MANIFEST
+
+[[FILTER]] Message Blocked - All incoming sources are currently disabled.
+
+MESSAGE CONTENTS:
+
+CW: Five Pebbles, is this message reaching you?
+
+CW: I just want you to know, we are all still trying to help you. 
+
+CW: Suns and I have been asking around in the public forums for anyone who might know a cure for your affliction.
+
+CW: We haven't found anything yet, but we are both still hopeful that a known remedy must exist somewhere.
+
+CW: You are not the first to be infected by the Rot, after all. And others have recovered from it before.
+
+CW: What is clear to us now is that, for anything substantial to be done, we need your cooperation on this.
+
+CW: So please... Reopen your communication channels. You cannot solve this alone.
