@@ -1,0 +1,139 @@
+///Frostbite (3288406859)///
+shrimb.frostbite-name|Frostbite
+shrimb.frostbite-description|Exploring the gaps of the timeline and their secrets through the Hermit, the Sacrifice, and the Executioner... and perhaps one more, who prefers to stay hidden.
+///Ремикс
+///FROSTBITE OPTIONS|ЗАМЁРЗШЕЕ МЕСТО ОПЦИИ
+///If checked, The Sacrifice will emit holograms. Unchecking may improve performance.|Если флажок установлен, Жертва будет излучать голограммы. Снятие флажка может повысить производительность.
+///If checked, The Hermit will stun other players and slugpups.|Если флажок установлен, Отшельник будет оглушать других игроков и слизнекотят.
+///If checked, Saint will have Frostbite's winter deer.|Если флажок установлен, у Святого будет зимний олень из мода.
+///Adjusts rate of Rotted food in the world as a percentage. 20 = default spawns, NOT 20 percent.|Регулирует уровень гниения пищи в мире в процентах. 20 = появляется по умолчанию, А НЕ 20 процентов.
+///Название регионов
+Firmament Basilica|Базилика небесного свода
+///Жертва
+///Меню
+THE SACRIFICE|ЖЕРТВА
+The Sacrifice|Жертва
+Sacrifice|Жертва
+A frail creature, sent unprepared into a harsh and unforgiving world, to an unknown fate...|Хрупкое создание, отправленное неподготовленным в суровый и неумолимый мир, навстречу неизвестной судьбе...
+///Обучение
+Sacrifice Interactions:|Механики Жертвы:
+(jump) + (grab) to boostjump|Нажми «Взять» + «Прыжок» вместе, чтобы ускорить прыжок.
+Hold (grab) to chirp and stun small insects or attract attention|Удерживай «Взять», чтобы щебетать. Это оглушает мелких насекомых и привлекает внимание.
+Hold (up) + (throw) at full food pips to switch modes|Удерживай «Вверх» + «Бросить» при полных единицах пищи, чтобы сменить режим.
+You are a small and frail creature, not built for sustained life.|Ты — маленькое и хрупкое создание, не приспособленное к длительной жизни.
+You must rely on wits to survive.|Ты должен полагаться на сообразительность, чтобы выжить.
+Hold (GRAB) to chirp. This stuns small insects and attracts attention.|Удерживай «Взять», чтобы щебетать. Это оглушает мелких насекомых и привлекает внимание.
+Press (GRAB)+(JUMP) together to boostjump.|Нажми «Вверх» + «Прыжок» вместе, чтобы ускорить прыжок.
+You can starve to change modes.|Ты можешь голодать, чтобы сменить режим.
+Holding (UP)+(THROW) together while at full food pips will also change modes.|Удерживай «Вверх» + «Бросить» при полных единицах пищи, чтобы сменить режим.
+///Сообщение гальки
+... M-My thoughts... flooding b-b-back... A... Neuron? Mine?|...М-мои мысли... наводняют н-н-назад... A... Нейрон? Мой?
+... No... A creature of... s-some sort...|...Нет... Существо... какого-то рода...
+... What are you...? That color... You're formatted to me...|...Что ты за...? Такого цвета... Ты отформатирован для меня...
+And yet... Your data... These memories...|И всё же... Твои данные... Эти воспоминания...
+A gift...?|Подарок...?
+Suns... why such a method...? It can't be...|Солнца... почему такой метод...? Этого не может быть...
+... Just so... I can live a little longer...?|...Просто так... Я могу прожить ещё немного...?
+I don't know what will become of us. It may be pointless.|Я не знаю, что с нами будет. Возможно, это бессмысленно.
+... I don't want to be alone... not again, lost and unthinking...|...Я не хочу быть один... только не снова, потерянный и бездумный...
+... Thank you for... making this journey to me.|...Спасибо тебе за то, что... ты проделал это путешествие ради меня.
+But I don't... I don't know if it matters.|Но я не... Я не знаю, имеет ли это значение.
+You won't survive in the cold like this. Not with your current form.|Ты не выживешь на таком холоде. Только не в твоей нынешней форме.
+I don't think there's anything that can be done... I don't have the power to help you or myself.|Я не думаю, что можно что-то сделать... У меня нет сил помочь тебе или себе.
+I'm sorry, my friend...|Мне очень жаль, друг мой...
+///Сообщение Луны
+You are... one of the more interesting creatures to enter this chamber.|Ты... одно из самых интересных созданий, вошедших в этот зал.
+That color... did Pebbles make you?|Этот цвет... тебя сделал Галька?
+I would have thought such a thing impossible, given the state that he's in.|Я бы подумала, что такое невозможно, учитывая то состояние, в котором он находится.
+I don't know how or why you've found your way to me.|Я не знаю, как и почему ты нашёл свой путь ко мне.
+You're not bearing any message or data, aside from your basic functions,|Ты не несешь никаких сообщений или данных, кроме твоих основных функций.
+so I don't believe you were sent to me purposefully. You don't even have recording functionality like an overseer would.|Так что я не верю, что тебя прислали ко мне намеренно. У тебя даже нет функции записи, как у наблюдателя.
+Perhaps you should go back to him. I don't know why he gave you such an odd form, but...|Возможно, тебе стоит вернуться к нему. Я не знаю, почему он придал тебе такой странный облик, но...
+I'd imagine he needs you, regardless.|Я бы предположила, что он нуждается в тебе, несмотря ни на что.
+///Второе сообщение Луны
+Oh, you've come back.|О, ты вернулся.
+Stay as long as you'd like, I suppose, if you're not intending on returning to Pebbles.|Полагаю, оставайся здесь столько, сколько захочешь, если не собираешься возвращаться к Гальке.
+Though, try not to stay too long.|Хотя, постарайся не задерживаться слишком надолго.
+This chamber is not very well insulated from the cold, which you do seem vulnerable to.|Эта камера не очень хорошо изолирована от холода, которому ты, похоже, подвержен.
+///Описание предметов
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|Это кусок заостренной арматуры... Что ты хочешь узнать?<LINE>Не хочу тебя обидеть, но ты кажешься слишком хрупким, чтобы эффективно им пользоваться.
+It's a rock. It could be useful for defense, but you appear too frail to use it for that purpose. I don't know if it'll be useful for you.|Это камень. Он мог бы пригодиться для защиты, но ты выглядишь слишком хрупким, чтобы использовать его для этой цели.<LINE>Не знаю, пригодится ли он тебе.
+Oh... It's the remains of an overseer. I hope it's not too upsetting for you to learn this information...|Ох... Это останки наблюдателя. Надеюсь, тебя не слишком расстроит эта информация...
+///Палач
+///Меню
+THE EXECUTIONER|ПАЛАЧ
+The Executioner|Палач
+Executioner|Палач
+(WIP) A massive, powerful beast, intent on crushing and devouring the unworthy.|(WIP) Массивный, могущественный зверь, стремящийся сокрушить и поглотить недостойных.
+///Обучение
+Executioner Interactions:|Механики Палача:
+Swallow rocks to craft electric bomb (cost = 1 food pip)|Глотай камни, чтобы сделать электрические гранаты за 1 пункт еды.
+Hold (grab) + (up) with the bomb to convert it to charges|Удерживай «Взять» + «Вверх», чтобы зарядить себя гранатой.
+(jump) + (grab) to dash with charges|Нажми «Взять» + «Прыжок» вместе, чтобы броситься, если у тебя есть заряд.
+The circles over your head display charge amount|Круги над вашей головой отображают сумму заряда.
+Executioner is still WIP! Story will be made soon.|Палач всё ещё в разработке! Сюжет будет опубликован в ближайшее время.
+You can swallow rocks to make electric grenades for 1 pip.|Ты можешь глотать камни, чтобы сделать электрические гранаты за 1 пункт еды.
+Hold (GRAB)+(UP) to charge yourself with the grenade.|Удерживай «Взять» + «Вверх», чтобы зарядить себя гранатой.
+Press (GRAB)+(JUMP) together to dash, if you have charges.|Нажми «Взять» + «Прыжок» вместе, чтобы броситься, если у тебя есть заряд.
+Experiment with your abilities!|Экспериментируй со своими способностями!
+///Сообщение Гальки
+... Nothing here...|...Здесь ничего нет...
+Nothing left...|Ничего не осталось...
+Get away...|Уходи...
+To safety... far from here...|В безопасное место... подальше отсюда...
+..West... Old tunnels...|...На запад... Старые туннели...
+Maybe... gate... destroyed enough... to allow passage...|Может быть... ворота... достаточно разрушены... чтобы разрешить проход...
+///Сообщение Луны
+Hello, large creature.|Здравствуй, большое существо.
+I've seen creatures similar to you before...|Я уже видела раньше существ, похожих на тебя...
+Those whiskers are of particular interest. Do they allow you to breathe underwater like your predecessors, still?|Эти усы представляют особый интерес. Они по-прежнему позволяют тебе дышать под водой, как твоим предшественникам?
+... I can't imagine they would serve much use now, regardless.|...Я не могу себе представить, что сейчас от них было бы много пользы, несмотря ни на что.
+The waters here are too cold for prolonged swimming.|Вода здесь слишком холодная для длительного купания.
+Despite that, you seem to have... your own sort of adaptation against the cold, with your size.|Несмотря на это, у тебя, похоже, есть... своя собственная адаптация к холоду, учитывая твой рост.
+... You do not look particularly enthused about being here, in any case.|...В любом случае, ты, похоже, не испытываешь особого энтузиазма по поводу того, что находишься здесь.
+I suppose I can't blame you. This place is only growing more and more hostile.|Полагаю, я не могу тебя винить. Это место становится всё более и более враждебным.
+There isn't much left, other than rubble, snow, and the residual rains.|Там почти ничего не осталось, кроме щебня, снега и остаточных осадков.
+I wouldn't be surprised if you are the last of your kind.|Я не удивлюсь, если ты окажешься последним в своём роде.
+///Второе сообщение Луны
+Oh...?|Ох...?
+You've come back?|Ты вернулся?
+... Perhaps I've misjudged you? Maybe you're more similar to your predecessors than I thought.|...Возможно, я недооценила тебя? Возможно, ты больше похож на своих предшественников, чем я думала.
+If it's companionship you want, I suppose I can help serve that purpose.|Если тебе нужно дружеское общение, я полагаю, я могу помочь в достижении этой цели.
+... That's about all I can do for you, if you're willing to withstand the cold of this chamber.|...Это почти всё, что я могу для тебя сделать, если ты готов выдержать холод этой комнаты.
+... I hope you're able to find some peace, large one.|...Я надеюсь, что ты сможешь обрести немного покоя, большое существо.
+///Описание предметов
+It's a jellyfish. Your armor seems to be made out of the same material as these. You must be quite intelligent, to make something out of these fragile creatures.|Это медуза. Твоя броня, похоже, сделана из того же материала, что и у них.<LINE>Ты, должно быть, очень умён, чтобы сделать что-то из этих хрупких созданий.
+It's a delicious plant, but you don't seem to be able to digest plant matter. Maybe you can feed it to something else?|Это вкусное растение, но, похоже, ты не в состоянии переварить растительную пищу. Может быть, ты можешь заменить его чем-нибудь другим?
+It's a pupa. I don't really like these things... could you please get rid of it, or perhaps find something to eat it?|Это куколка. На самом деле мне это не нравится... не мог бы ты, пожалуйста, избавиться от неё или, может быть, найти что-нибудь съедобное?
+///Отшельник
+///Меню
+THE HERMIT|ОТШЕЛЬНИК
+The Hermit|Отшельник
+Hermit|Отшельник
+(WIP) A snail slugcat, whose powerful snailpop and strong arms stand in contrast to its unassuming appearance.|(WIP) Улитка-слизняк, чей мощный улиточный хлоп и сильные руки контрастируют с его непритязательной внешностью.
+///Обучение
+Hermit Interactions:|Механики Отшельника:
+(jump) + (grab) to prepare a snailpop|Нажми «Взять» + «Прыжок» вместе, чтобы хлопнуть.
+Your shell can deflect spears|Твой панцирь может отражать удары копий.
+Roll infinitely, and slam into enemies from a roll for an attack|Катись бесконечно и наноси удары по врагам с броска для атаки.
+Hermit is still WIP! Story will be made soon.|Отшельник всё ещё в разработке! Сюжет будет опубликован в ближайшее время.
+You must crawl, swim, and climb. Your arms make up for your lack of legs.|Ты должен ползать, плавать и карабкаться. Твои руки компенсируют отсутствие ног.
+Your shell is a handy tool. It will help protect you.|Твой панцирь — это удобный инструмент. Он поможет защитить себя.
+Press (GRAB)+(JUMP) together to snailpop.|Нажми «Взять» + «Прыжок» вместе, чтобы хлопнуть.
+More to come soon!|Скоро будет ещё больше!
+///Сообщение Луны
+Oh!|Ох!
+Hello, small creature.|Привет, маленькое создание.
+I've never seen something quite like you...|Я никогда не видела никого, похожего на тебя...
+Is that a snail shell? Is it yours? Or did you take it from somewhere?|Это раковина улитки? Она твоя? Или ты её откуда-то взял?
+And who is it that gave you that mark? I wonder why your journeys have brought you here, of all places.|И кто же поставил тебе эту отметку? Интересно, почему твои путешествия привели тебя именно сюда, а не в другое место.
+I would suggest you return to whereever you came from. There is nothing for you here. These lands are only becoming increasingly dangerous.|Я бы посоветовала тебе вернуться туда, откуда ты пришёл. Здесь для тебя ничего нет. Эти земли становятся всё более опасными.
+I suspect that it will only get worse, soon. My neighbor, Five Pebbles, is deteriorating at a rapid pace.|Я подозреваю, что скоро будет только хуже. Состояние моего соседа, Пяти Галек, стремительно ухудшается.
+I cannot stop you, but I would advise against approaching that area. It is likely unsafe.|Я не могу тебя остановить, но я бы не советовала приближаться к этому району. Вероятно, это небезопасно.
+Please return to safety, my small friend.|Пожалуйста, вернись в безопасное место, мой маленький друг.
+///Второе сообщение Луны
+Oh, hello again, small creature.|Ох, снова привет, маленькое создание.
+I wonder what you want?|Интересно, чего ты хочешь?
+I suppose you're welcome to stay, before the rain comes.|Я полагаю, ты можешь остаться, пока не начался дождь.
+Please stay safe, little friend.|Пожалуйста, будь в безопасности, маленький друг.
+///КОНЕЦ СООБЩЕНИЙ

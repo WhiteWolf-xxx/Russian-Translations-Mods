@@ -1,0 +1,9 @@
+///Rivulets Outer Expanse (3338239924)///
+rivuletouterexpanse-name|Расширение для Ручья
+rivuletouterexpanse-description|Делает Внешнюю даль доступной для Ручья.
+Fading Expanse|Затухающая даль
+Sunken Pier|Затопленный причал
+Facility Roots (Western Intake)|Основание установки (Западный вход)
+Humid Fields|Влажные поля
+The Rarefaction Cell item is now available in Sandbox Mode.|Ячейка массового разряжения теперь доступна в Песочнице.
+///КОНЕЦ СООБЩЕНИЙ

@@ -1,0 +1,9 @@
+///Rivulets Outer Expanse (3338239924)///
+rivuletouterexpanse-name|Rivulets Outer Expanse
+rivuletouterexpanse-description|Makes Outer Expanse accessible for Rivulet.
+Fading Expanse|
+Sunken Pier|
+Facility Roots (Western Intake)|
+Humid Fields|
+The Rarefaction Cell item is now available in Sandbox Mode.|
+///КОНЕЦ СООБЩЕНИЙ

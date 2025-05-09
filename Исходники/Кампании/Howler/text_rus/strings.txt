@@ -1,0 +1,26 @@
+///Howler (3427933524)///
+Howl-name|Ревун
+Howl-description|Мод, добавляющий нового персонажа.
+///Меню
+HOWLER|РЕВУН
+Howler|Ревун
+You are the nest of parasites. Move this twisted body and survive. Mother nature rejects you.|Ты — гнездо паразитов. Двигай этим искривлённым телом и выживай. Мать-природа отвергает тебя.
+///Сообщение Гальки
+...Is this reaching you?|...Это доходит до тебя?
+You are not like the others of your kind who have fallen into my chamber.|Ты не похож на других представителей своего вида, попавших в мою комнату.
+That thing inside you is not natural. This is not a symptom previously recorded.|То, что находится внутри тебя, неестественно. Это не зарегистрированный ранее симптом.
+Is that an infection? An intrusion of foreign matter?|Это инфекция? Проникновение инородного тела?
+I see. It's a parasite.|Понятно. Это паразит.
+Hidden deep in your head, constantly twisting your brain and muscles.|Спрятанный глубоко в твоей голове, постоянно напрягающий твой мозг и мышцы.
+It will slither free from your dissolving corpse, seeking another body.|Оно выскользнет на свободу из твоего разлагающегося трупа в поисках другого тела.
+I cannot help you. I cannot even help myself.|Я не могу помочь тебе. Я не могу помочь даже себе.
+However...|Однако...
+There is an old path.|Есть старый путь.
+Go to the west past the Farm Arrays.|Иди на запад мимо Фермерских массивов.
+And then down into the earth where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|А потом вниз, в землю, где земля раскалывается так глубоко, как только можно дотянуться, где древние строили свои храмы и исполняли свои глупые ритуалы.
+The mark I gave you will let you through.|Метка, которую я тебе дал, позволит тебе пройти.
+Not that it solves anyone's problem but yours. |Не то чтобы это решало чьи-то проблемы, кроме твоих.
+Unless you wish to bring another unfortunate creature like yourself into being.|Если только ты не хочешь произвести на свет ещё одно несчастное существо, подобное тебе.
+Try not to die in my structure on your way out.|Постарайся не умереть в моей структуре по пути отсюда.
+I have troubles of my own already.|У меня уже есть свои проблемы.
+///КОНЕЦ СООБЩЕНИЙ

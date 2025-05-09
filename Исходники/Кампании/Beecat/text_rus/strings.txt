@@ -1,0 +1,87 @@
+///Beecat (2939738770)///
+beeworld-name|Пчелокот
+beeworld-description|Пчелокот
+///Меню
+The Beecat|Пчелокот
+BEECAT|ПЧЕЛОКОТ
+Beecat|Пчелокот
+A regular bee?|Обычная пчела?
+Wings|Крылья
+Tail|Хвост
+Tail Stripes|Полосы
+Antennae|Усики
+Neck Fluff|Пушок
+///Экспедиция
+SecretScugDontTryThis|Секрет: Не Пытайся это сделать
+Coming soon?|Скоро?
+///Ремикс
+Version |Версия 
+by |от 
+by: |от: 
+///Клавиши
+Stinger Keybinds|Клавиши
+Keybind for Player 1|Клавиши для игрока 1
+Keybind for Player 2|Клавиши для игрока 2
+Keybind for Player 3|Клавиши для игрока 3
+Keybind for Player 4|Клавиши для игрока 4
+///Котята-пчёлы
+Bups Modify|Котята-пчёлы
+Enable Bups to spawn in all campaign|Включить спавн Котят-пчёл во всех кампаниях?
+Bups Spawnrate (enable top one)|Скорость спавна Котят-пчёл (поставьте галочку сверху)
+///Читы
+Maximum Stamina|Максимальная выносливость
+Stamina Recovery Speed|Скорость восстановления выносливости
+Flight Speed|Скорость полёта
+Unlimited Stinger Usage|Неограниченное использование жала
+Unlock Vertical Flight|Разблокировать вертикальный полет
+Bups Upward fly|Котята-пчёлы — полет вверх
+Keep as vanilla|Оставить как в ваниле
+///Цветочный квест
+Speed Increased!|Скорость увеличена!
+WingSpeed Increased!|Увеличена скорость крыльев!
+Sting Damage Increased!|Увеличен урон от жала!
+Vertical Fly Unlocked!|Вертикальный полёт разблокирован!
+///Сообщение Луны
+Oh dear.|О боже.
+There is not much time to talk about situation, Creature.|У нас не так много времени, чтобы говорить о ситуации, существо.
+i have talked about this situation to someone, but.|Я говорил об этой ситуации кое с кем, но.
+Five pebbles decided to cut our communication off.|Пять Галек решил прервать наше общение.
+i need you to help me.|Мне нужно, чтобы ты мне помог.
+Take this pearl. It is important later on.|Возьми эту жемчужину. Это важно позже.
+Here, but be warned, please. Dont let five pebbles read this.|Вот, но имей в виду, пожалуйста. Не позволяй Пяти Галькам читать её.
+Please, be quick.. before this gets worse.|Пожалуйста, поторопись... пока не стало хуже.
+///?
+Let's see what you dropped.|Давай посмотрим, что ты уронил.
+///Жемчужина
+Oh no, not another one! First, that infuriating purple one with the pearl containing THAT information.|О нет, только не ещё одна! Во-первых, это приводящее в бешенство фиолетовое письмо с жемчужиной, содержащей ЭТУ информацию.
+And now this… this abomination, undoubtedly sent by my sister who disrupted my experiments just the other cycle. I despise you!|И теперь это... эта мерзость, несомненно, посланная моей сестрой, которая сорвала мои эксперименты буквально в прошлом цикле. Я презираю тебя!
+Moon ruined EVERYTHING.|Луна ВСЁ испортила.
+I cannot allow THIS to continue.|Я не могу позволить ЭТОМУ продолжаться.
+GET OUT OF MY SIGHT!|УБИРАЙСЯ С ГЛАЗ МОИХ!
+///Секрет
+I DONT WANT TO LET LTTM FIX CRYOBLOOM.|Я НЕ ХОЧУ ПОЗВОЛЯТЬ ЛУНЕ ИСПРАВЛЯТЬ ХЛАДОЦВЕТ.
+Are you seriously waiting or you just left your pc on?|Вы серьезно ждёте или просто оставили свой компьютер включенным?
+why though, you have other places you can be?|Но почему у вас есть другие места, где вы могли бы побывать?
+Does people need this secret dialogue? especially dying on purpose JUST to get this secret.|Нужен ли людям этот тайный диалог? Особенно умирать специально, чтобы заполучить этот секрет.
+But i appreciate your work.|Но я ценю вашу работу.
+You are free to go now.|Теперь ты можешь идти.
+///Сообщение Гальки
+Hello.|Привет.
+Your hiding something from me, I sense it, I feel it|Ты что-то скрываешь от меня, я чувствую это, я чувствую это.
+This pearl... it radiates a singular energy. Surrender it to me, or face the consequences. There is no escape from this inevitability.|Эта жемчужина... она излучает особую энергию. Отдай её мне, или столкнёшься с последствиями. От этой неизбежности никуда не деться.
+You have ten seconds to hand over that pearl, or I will take it from you myself.|У тебя есть десять секунд, чтобы отдать эту жемчужину, или я заберу её у тебя сам.
+///?
+ZERO.|НОЛЬ.
+///?
+It's all my fault.|Это всё моя вина.
+Please, take this pearl to somewhere.|Пожалуйста, отнеси эту жемчужину куда-нибудь.
+i dont want to see that again.|Я не хочу видеть это снова.
+You are free to go now.|Теперь ты можешь идти.
+///?
+Ah, another peculiar creature.|Ах, ещё одно необычное существо.
+Fascinating.|Завораживающе.
+You appear to be part slugcat, part bee.|Похоже, ты наполовину слизнекот, наполовину пчела.
+A 'Beecat', perhaps.|Возможно, «Пчелокот».
+It seems you have the ability to fly around.|Кажется, у тебя есть способность летать.
+You are free to go now.|Теперь ты можешь идти.
+///КОНЕЦ СООБЩЕНИЙ
