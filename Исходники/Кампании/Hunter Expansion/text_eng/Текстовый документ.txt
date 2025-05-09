@@ -1,0 +1,408 @@
+///Интро
+The pearl you carry may determine your ending.
+Please treat it with caution.
+///?
+Oh... don't you want me to do this?
+
+Um... I will continue.
+///Коллекция
+No Significant Harassment's Transcription
+///?
+NSH: Good. Hope you can maintain the same level of proficiency and caution along the way.
+NSH: Well done, but still, you need my help.
+NSH: This can hardly let us satisfied, isn't it?
+NSH: There are not many opportunities left for us.
+NSH: Be calm, your body can reach a level far beyond that.
+NSH: Learning to perfectly manipulate it is not difficult for your race.
+NSH: Concentrate, we just need more time.
+NSH: ......
+NSH: Is this any kind of acting out?
+NSH: I have no intention of making us at odds. A quarter rain cycle - I hope you can recover later.
+NSH: My messenger, I have no other choice in this matter. I can only hope to receive your understanding.
+///?
+This is a weapon. We are already quite familiar with it, aren't we?
+This is a heavy rebar. If you can't use it, please feel free to leave it here.
+This is a sharpened rebar. As an apprentice in nature,<LINE>I guess you are not unaware of its purpose.
+This is an explosive weapon, just throw it like a rebar. Remember<LINE>to keep a certain distance from the explosion point.
+However, I guess you have already figured out its usage!
+A type of explosive weapon. Be careful, I have seen many creatures<LINE>use it to harm themselves.
+A rock, despite its non-lethality, can still play a unique role in your face of enemies. I think you are already familiar with it~
+This is a rock. I seriously suspect that you are trying to use me to compile an encyclopedia,<LINE>or showcase your strange collection addiction.
+This is a plant that swells when exposed to water, and it is edible.<LINE>It is said to have a great taste.
+Yes, I can't eat it. Don't show off in front of me~
+///?
+I have to say, you are really cute!
+///ItemIntro Likes
+What is that?
+
+It seems that you has found something new again! Let me take a look.
+
+It seems that you has found something new again. Let me take a look.
+
+Haha, you have developed a habit! Let me take a look.
+
+If you continue to be polite, I will explain to you.
+
+I have the right to refuse to entertain impolite guests, are you right?
+
+Let's see, what kind of good thing is it?
+
+What kind of thing is it?
+
+Welcome! Searching, please wait a moment~
+
+You are such a difficult little thing, aren't you? Come on, let me take a look.
+
+You're really tireless. Come on, let's take a look.
+
+Let me take a look.
+
+Let's take a look. Today's little lecture of NSH is about...
+
+What is this?
+
+Is there another one? Let me take a look.
+
+Another one? Let me take a look.
+
+Ah, you're here. Is there anything I want to see?
+
+Okay,  I will look at it.
+
+Welcome back! Show me, <itemPlayerName>.
+
+Do you want to show it to me?
+
+Oh, what is that, <ItemPlayerName>?
+
+<itemPlayerName>, let me see what you found again?
+///PearlIntro
+Do you want to give it to me? Or just want me to read it?
+Let me take a look at this pearl...
+
+Are you curious about the content in this pearl? Okay, I'm curious~
+
+Another pearl? It seems that you really like them!
+
+Seeing you appear with pearls, I think I already know your purpose for coming here.
+
+The scavengers will be jealous of your collection ability!
+
+<CapPlayerName>, you would like me to read this?
+
+Would you like me to read this pearl?
+
+Are you curious about the content of this pearl, <PlayerName>?
+
+A pearl! Let me see what's written inside.
+
+Do you want me to read this pearl for you?
+///PebblesPearlIntro
+<CapPlayerName>, do you want me to read this?
+This pearl is still very warm, it seems that it has been used recently.
+
+A beautiful pearl... and it was also used recently! Do you want me to read this?
+
+This pearl was used not long ago! I'm curious where you found it.
+
+Oh... a warm pearl. Do you want to know what is written here?
+I'm also very curious! Let me read it to you.
+
+A fresh pearl! This is a rare find, let's take a look at what it says.
+
+///PebblesPearl
+This pearl has traces of corruption, although very faint... Well, I can guess who wrote it.
+I don't want to read this pearl. Seeing his information is no more enjoyable than seeing corruption.
+
+If possible, please take it with you when you leave.
+
+This pearl is even more blank than blank - it has been completely corrupted<LINE>and cannot perform any read or write operations.
+
+This pearl has suffered severe corruption before. There's nothing inside now.
+
+little one
+little messenger
+little pellet
+little moth
+
+little wanderer
+little garbage worm
+little apprentice
+little scholar
+little naturalist
+///The Temporary Arena
+NSH: This time I'll let you deal with a lizard.
+NSH: Keep your spirits up, soon after the situation you're facing would be far more dangerous than this.
+NSH: We need to ensure that everything is flawless.
+///?
+What are you doing? Please don't attack me.
+
+Beast, stop your barbaric behavior.
+
+Remember to be polite in the next cycle.
+
+I have already warned you.
+///InterruptPearlMessagePlayerLeaving
+/Likes
+/0
+Lost patience, <PlayerName>?
+/1
+Want to leave? In our creators, leaving early is a point deduction~
+/2
+Go play, children.
+/3
+Are you leaving? Did anything scare you?
+
+Are you leaving now? See you later.
+/Neutral
+/0
+Lost patience?
+/1
+Do you want to leave? Go quickly.
+/3
+Are you leaving?
+
+Are you leaving now?
+
+///ResumePauseditemConversation
+/Likes
+/0
+What are you reluctant to part ways with? Okay, let's continue.
+/1
+Is this a game exclusively for small animals?
+/2
+You're really not cute! But okay, it's hard for me to get serious with you.
+/3
+Come on, little beast. Where have we read?
+
+Have you changed your mind? But I won't continue~
+/Neutral
+/0
+What are you reluctant to part with? I'm not interested in reading it to you.
+/1
+I don't have time to play games with you, beast.
+/3
+Little beast, I won't read it to impolite creatures.
+
+Have you changed your mind? But I won't continue.
+///?
+Oh, of course, you can take it away anytime!
+///Artificer_Talk0
+Hello! It seems that I have welcomed a citizen. Let me see... Surprisingly, you belongs to Five Pebbles.
+Then we are enemies, please go back!
+Haha, it's just a joke~
+I am very dissatisfied with him, but I don't want to vent my anger on small animals yet.
+You don't seem to have an easy time, but I can't help you. Nevertheless,<LINE>before you depart, you can rest here to your heart's content.
+///Artificer_Talk1
+Is there anything here that attracts you?
+Oh, of course, you can stay here. I have no intention of interfering with<LINE>your decision, as long as you don't disrupt my structure.
+///Gourmand_Talk0
+...
+(sound of escaping laughter)
+Oh, I'm not laughing at your size - that's something our creator would do. Out of fear of overeating.
+But you little creatures and us iterators don't need to be afraid.
+You look content, which is a rare thing in our land! It makes my heart sing.
+Anyway, I'm glad to see you. As long as you don't eat my neurons.
+///Gourmand_Talk1
+You're back. Anything else you need?
+Seriously, I can't think of anything you'd need from me, you consummate little creature!
+Except for the neurons, of course. This won't work. Give it up.
+///Gourmand_Talk2
+Okay, if you want to stay here, remember not to eat my neurons!
+///Hunter
+Good morning. Come on, my little messenger. Come here to me.
+///Hunter_DreamTalk0
+...
+Hear me?
+We are in a hurry. Let's keep it simple and professional.
+As you see,I should be counted as a creator of you.
+I need you to give me a hand to accomplish something.
+As compensation, I will guide you on the path of ascension.
+But I know, this will always be a unreasonable request. Creating life should have not been such a hasty thing.
+...
+I'm sorry. Unfortunately, we don't have any other options.
+///Hunter_DreamTalk1
+What are you doing here?
+Neither you nor I are ready for the upcoming tasks yet.
+Please go back and don't disturb my work.
+...
+If you just want to take a break, I don't object either.
+///Hunter_DreamTalk3
+I entrusted it to you.
+Guess you have already known its importance.
+If it's necessary, the pearl can be left, but the neuron must be delivered to it's destination.
+This will be your first time entering the natural environment, and the journey will not be easy, but I wish you a pleasant journey.
+Take care, my little messenger.
+///Hunter_DreamTalk5
+You have completed a very great job, messenger.
+I am proud of you, and at the same time, I feel ashamed of myself.
+You don't have much time left. Go deep underground and you will be saved.
+Don't turn back.
+///Hunter_Talk2_Wait
+Is there anything you need, my little messenger?
+Willing to serve~
+///WarnSlugcatStayAwayFromSwarmer
+/0
+Please stay away; I don't want anything to go wrong in this process.
+/1
+It seems you're curious about it? I'll hand it over to you at the right time, but not now.
+/2
+What are you doing, messenger? Please don't attempt to touch it.
+It will interrupt my process and potentially result in errors and irreversible damage.
+It's an unpleasant experience for any iterator, so please stop your attempts.
+
+......
+
+May I hope you don't interfere with my work?
+
+Please do not approach it.
+///WarnSlugcatReleaseSwarmer
+An disobedient messenger~
+Congratulations! You are free now.
+
+Do you seem unwilling to follow orders?
+What a pity! I have to remind you that my patience is limited.
+
+......
+I don't know how you did it, but I hope this kind of thing won't happen again.
+///OtherSlugcat_Talk0
+Strange little guy, hello.
+You are such an interesting little creature... different from the guests who used to come to my place.
+Anyway, I welcome you to stay here and rest, as long as you don't intend to consume my neurons.
+///therSlugcat_Talk1
+Do you want to stay a little longer?
+Of course you can! As long as you don't eat my neurons.
+///Rivulet_Talk0
+Wow, what a surprise! The last time I saw your species was a long time ago, let alone how special you look.
+I hope you don't mind me scanning your structure. As a passionate fan of slugcats,<LINE>I find it difficult to restrain my curiosity.
+Let me see... you have a unique pair of gills, but your ancestors didn't. It seems that<LINE>your ethnic group has unique adaptability.
+Welcome to rest here with me. If you plan to visit the jurisdiction of<LINE>Looks To The Moon, please help me say hello to her.
+///Rivulet_Talk1
+You can stay, but if I lose a dozen neurons again due to my hospitality...
+I swear I can be much more tricky than a bunch of angry scavengers.
+///Rivulet_Talk2
+Do you have any further questions?
+///Rivulet_AfterAltEnd_0
+Hello, I am entangled in a strange matter. A while ago, the area of Five Pebbles stopped raining,<LINE>and after a few cycles, the rain clouds began to condense over Looks To The Moon.
+It is obvious that someone installed his battery for Moon. Considering that her structure has<LINE>been submerged by water, this is almost an impossible task.
+Now that I see you, everything has a clue. Did I guess correctly, the magical little one?<LINE>If you did this, please accept my gratitude.
+I hope this means that Five Pebbles have already digested his anger. Anyway, what you<LINE>have accomplished has extraordinary significance.
+Okay, you're the only slugcat worth enjoying the neuron buffet, just take it as my thank you.
+Uh, be merciful under your tongue.
+///Rivulet_AfterAltEnd_1
+I calculated your movement speed based on the time interval of battery installation.<LINE>You're really agile, aren't you?
+You can simply race against a frightened eggbug, and my fellows may even bet on you.
+///Rivulet_AfterAltEnd_2
+Of course you can stay, but I am planning to start studying your body structure.
+Do you mind seeing your own scanned slices?
+///Saint_Talk0
+Ha, it's really strange! After the weather turns cold, have slugcats evolved hair?
+Come on, although my room may not be warm, it can barely keep warm. I have always<LINE>loved the companionship of your kind, especially recently.
+To this day, this land is still trapped here with us...
+I hope you can leave when you want. You know, the void sea has always been open for you.
+///Saint_Talk1
+Do you want to stay a little longer? I am very welcome.
+You remind me of the past. Although it may sound incredible, your species has<LINE>always been a good partner for iterators...
+- When you're not feasting on neurons.
+///Saint_Talk2
+Do you want to stay a little longer? I am very welcome.
+///Sofanthiel
+Closer, I understand your desire for fusion, and today your hopes will not be dashed once again...
+
+... We can be together forever in the future.
+///Sofanthiel_Talk0
+You have come at last, my valiant visitor. As I witnessed your arduous journey<LINE>through the watchers, a firm idea took shape:
+I love you.
+I've waited a long time for this, and I'm sure you have too! Come to me.
+///Sofanthiel_Talk1
+Come here... don't be afraid...
+///Spear_Talk0
+Are you...
+The messenger of Suns.
+Are you lost? The situation is urgent now, and we all need you to rush to Five Pebbles as soon as possible.
+Please set off quickly.
+///Spear_Talk1
+Is there anything I can do? I'm not the iterator you're looking for, little idiot.
+She doesn't have much time, please hurry up and get on the road.
+///Spear_Talk2
+Suns, what's wrong with your messenger?
+...
+Little one, set off quickly, please.
+///Spear_AfterMeetPebbles_0
+Messenger? Come here and take a break. It's not easy to make this trip, is it.
+I know that guy is hard to persuade, but I didn't expect it to end in this way.
+Ha, he has already treated Moon like this, what's so unexpected?
+I will think of other methods.
+///Spear_AfterMeetPebbles_1
+...
+///Spear_AfterAltEnd_0
+I received her... message.
+...
+Did you do it, little messenger? Thank you.
+Your mission has been completed and your return journey is smooth.
+///Spear_AfterAltEnd_1
+Is there anything you need?
+If not, do you mind leaving me alone for a while? I need to think.
+Goodbye, excellent messenger.
+///Spear_AfterAltEnd_2
+Do you still want to stay here and rest? I don't object.
+But don't forget that Suns is still waiting for you, messenger.
+///White_Talk0
+Oh? Hello, I haven't encountered a small customer like you in a while.
+You look very primitive, but you have been marked. There are only Five Pebbles nearby that<LINE>can do this. It seems that you have walked a long way, little traveler.
+You can rest here for a while. It used to be known as a temple, but now I don't<LINE>mind being treated as an inn anymore~
+///White_Talk1
+Do you want anything else?
+If you want a job, I can accept you as a messenger.
+Just kidding. I'm sorry, but there's not much I can do, I can't even hear your needs.
+///White_Talk2
+Okay, if you want to stay here, don't forget my words: no neuron buffet!
+///Yellow_Talk0
+Oh, hi! Your kind is really smart, isn't it? It's a rare occurrence for organisms to grope for the<LINE>location of the calculation room, but in hundreds of rain cycles, I actually saw two slugcats.
+Listen up: The rule of NSH Inn is: YES to overnight, NO to neuron buffet. If you encounter<LINE>someone of your kind, please let them know.
+///Yellow_Talk1
+Meeting again, what makes you reluctant to part ways? Let me guess...
+Your kind has gone to the jurisdiction of Five Pebbles - if that's what you want to know.
+///Yellow_Talk2
+Okay, if you want to stay here, don't forget my words: no neuron buffet!
+///LoadSLPearlConversation
+Let's see... A pearl...
+
+Would you like me to read this pearl?
+
+You would like me to read this?
+/0
+Its data writing style is very familiar... I think it comes from No Significant Harassement.
+
+Its data writing style is very familiar... I think it comes from a member of local group.
+
+There isn't much left inside. I think this is a part of the unstructured grid of a physical field, but I lack information to further interpret it.
+/1
+This is a calculation process used to carefully encrypt and store special data, possibly some kind of key.
+Without context, I don't know its purpose.
+/2
+Strange... This data clearly comes from an iterator. But there are several small errors inside, even though they have been carefully corrected, traces can still be seen.
+We rarely make mistakes in calculations, so its writers are certainly absent-minded.
+/3
+This is a working memory, but I can only understand a few words.
+It is obvious that the compiler used some method to compress his information, in order to store it in a short period of time and perform more operations.
+This iterator used to handle an urgent matter, which overwhelmed them, but their calculations were still well-organized.
+
+This makes me feel familiar. If I were to speculate on my own, little creature, I would guess that it comes from the jurisdiction of No Significant Harassment.
+
+Ah, this makes me feel familiar...
+
+This is a biological notebook, and its owner has observed and recorded the evolution of nearly a hundred species of organisms within its jurisdiction.
+......
+
+I saw a species unique to the jurisdiction of No Significant Harassment.
+I hope you didn't steal it, little creature. The time span for rewriting text is significant, and he persisted in updating its data until a long time ago.
+But for a long time recently, he seems to have forgotten it.
+
+I hope you didn't steal it, little creature. The time span for rewriting text is significant, and its owner persisted in updating its data until a long time ago.
+But for a long time recently, the writer seems to have forgotten it.
+
+This is a special qualia... it's a dying experience.
+We all know that the near death of ancient people was not accompanied by fear, so obviously, this feeling is extracted from a simple creature.
+I can distinguish the chaotic desire for survival - perhaps from the brain of a squidcada.
+I find it difficult to imagine whether it will have any practical use.
