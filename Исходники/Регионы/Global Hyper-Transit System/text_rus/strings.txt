@@ -1,0 +1,9 @@
+///Global Hyper-Transit System (3377469453)///
+global_hyper_transit-name|Глобальная гипертранзитная система
+global_hyper_transit-description|Глобальная сеть подземных поездов, которые курсируют от итератора к итератору.
+Freezing Flights|Замёрзшие рейсы
+Santa Claws Pain|Боль от когтей Санты
+Drenched Dwellings|Промокшие жилища
+Global Hyper-Transit System|Глобальная гипертранзитная система
+i herd you liek twains :3|я стадо, ты любишь твинов :3
+Subzero Locomotive System|Замёрзшая локомотивная система

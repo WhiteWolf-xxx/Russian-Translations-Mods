@@ -1,0 +1,5 @@
+///Gilded Sanctuary (3265383340)///
+jam.gildedsanctuary-name|Золочённое святилище
+jam.gildedsanctuary-description|Золочённое святилище - это регион!
+Gilded Sanctuary|Золочённое святилище
+Tangled Steeple|Запутанный шпиль

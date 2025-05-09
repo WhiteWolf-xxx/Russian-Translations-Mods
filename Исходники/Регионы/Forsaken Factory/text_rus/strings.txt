@@ -1,0 +1,9 @@
+///Forsaken Factory (3301169303)///
+Nytrok07.ForsakkenFactory-name|Покинутый завод
+Nytrok07.ForsakkenFactory-description|Исследуйте загадочную фабрику, расположенную в пяти шагах от дождя.....<LINE>нет, подождите, дождь всё ещё идет....<LINE>на самом деле, совсем немного........<LINE>ЭТО СТРИЖ СТЕРВЯТНИК!!!<LINE>фабрика зовет.....<LINE>обложка выполнена anzel.
+Forsaken Factory|Покинутый завод
+The Overgrowth|Заросли
+Core|Ядро
+Factory Roof|Крыша завода
+Abyss|Бездна
+New|Новое

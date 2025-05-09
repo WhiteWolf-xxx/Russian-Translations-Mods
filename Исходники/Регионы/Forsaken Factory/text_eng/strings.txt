@@ -1,0 +1,9 @@
+///Forsaken Factory (3301169303)///
+Nytrok07.ForsakkenFactory-name|Forsaken Factory
+Nytrok07.ForsakkenFactory-description|Expolre a mystirous factory far from five pebbles away from the rain..... no wait there is still rain.... acually quite a bit of rain........ IS THAT A MIROS VULTURE!!!        the factory calls.....         cover art by anzel
+Forsaken Factory|Покинутый завод
+The Overgrowth|Заросли
+Core|Ядро
+Factory Roof|Крыша завода
+Abyss|Бездна
+New|Новое

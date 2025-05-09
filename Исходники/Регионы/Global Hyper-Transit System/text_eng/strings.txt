@@ -1,0 +1,9 @@
+///Global Hyper-Transit System (3377469453)///
+global_hyper_transit-name|Global Hyper-Transit System
+global_hyper_transit-description|A global subterranean train network that runs from Iterator to Iterator. Includes regions Q0 and IQ.
+Freezing Flights|Замёрзшие рейсы
+Santa Claws Pain|Боль от когтей Санты
+Drenched Dwellings|Промокшие жилища
+Global Hyper-Transit System|Глобальная гипертранзитная система
+i herd you liek twains :3|я стадо, ты любишь твинов :3
+Subzero Locomotive System|Замёрзшая локомотивная система

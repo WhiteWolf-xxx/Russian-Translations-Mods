@@ -1,0 +1,23 @@
+(Red,Gourmand,Spear,Rivulet,White,Yellow,Artificer)Oh? What are you? A little rodent?
+
+(Red,Gourmand,Spear,Rivulet,White,Yellow,Artificer)A pilgrim, a traveller, just as lost as the rest of us?
+
+(Red,Gourmand,Spear,Rivulet,White,Yellow,Artificer)You now stand upon our great monument, a temple unto the self.<LINE> Only by living and indulging in our urges could we begin to understand their loss.
+
+(Red,Gourmand,Spear,Rivulet,White,Yellow,Artificer)How does one understand starvation if one has never feasted?<LINE> How does one recognize poverty if they have never partaken in all the luxuries there are?
+
+(Red,Gourmand,Spear,Rivulet,White,Yellow,Artificer)Whether we were right or wrong, it matters not. In the end it claimed us all. 
+
+(Red,Gourmand,Spear,Rivulet,White,Yellow,Artificer)But, given my unique oppurtunity, I'd much rather an eternity of our greatest masterpiece<LINE> than the silence within those golden waters. Wouldn't you agree?
+
+(Saint)Welcome!
+
+(Saint)Revel in this exquisite moment with me, little mouse! 
+
+(Saint)Our monument to hedonistic excess still stands, lingering, floating above just like we do.
+
+(Saint)Like you might, if you had any sense!
+
+(Saint)This sanctuary was the exception- for the seldom few not utterly deranged- the only ones who lived!<LINE> The only ones that felt GOOD!
+
+(Saint)Why shouldn't you?

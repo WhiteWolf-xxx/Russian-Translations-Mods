@@ -1,0 +1,8 @@
+0-0
+...
+
+This is a log of the latest supply shipment from Production Facility 5F1. 
+
+It seems to be from over 1000 cycles ago, surprisingly it reports no items to transport. 
+
+I am surprised that the transit system failed before the production line.

@@ -1,0 +1,8 @@
+0-0
+Interesting! 
+
+This appears to be a weather report from one of Production Facility 5F1’s weather nodes. 
+
+It reports a much higher level of precipitation then normal. 
+
+It also seems to suggest that the relatively recent<LINE>increase in rainfall has damaged part of the weather node network.

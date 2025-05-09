@@ -1,0 +1,12 @@
+///Forsaken Station (3304867363)///
+forsaken_station-name|Forsaken Station
+forsaken_station-description|A expansive region where all tracks meet a common place, lost through the time.
+Forlorn Valley|Заброшенная долина
+Pristine Lake|Нетронутое озеро
+Underwood|Подлесок
+Summit Edge|Край вершины
+Deep Lake|Глубокое озеро
+Forsaken Station|Заброшенная станция
+Forsaken Station (Auxiliary Storage)|Заброшенная станция (Вспомогательное хранилище)
+Forsaken Station (Supply Network)|Заброшенная станция (Сеть снабжения)
+Mountain Railways|Горные железные дороги
