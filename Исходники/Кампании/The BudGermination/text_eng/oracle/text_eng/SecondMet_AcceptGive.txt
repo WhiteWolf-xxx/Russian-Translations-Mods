@@ -1,0 +1,15 @@
+...|40|120
+You decided to give it to me after all? Let me see.|0|40
+...Solemn Ceremony?|200|40
+...
+......|0|80
+Go back. You cannot help me.
+Even if you could clear the corruption within me, the severely damaged and missing facilities and structures cannot be restored.
+I have lost almost all of my computing capabilities.
+You are too late, but it is not your fault.
+Moreover...|0|20
+I think you may not have noticed, while you can remove the corruption within us to some extent, it takes time for<LINE>the transformation to occur within you. Overuse will lead to your own corruption.
+Perhaps Solemn Ceremony has realized this.
+But from the content of the message, he seems to place great importance on you.
+Therefore, for your own sake and for the sake of Solemn Ceremony, go back.
+Do not concern yourself with me anymore. I must bear my own sins.

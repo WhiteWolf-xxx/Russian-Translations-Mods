@@ -1,0 +1,14 @@
+///The BudGermination (3213500658)///
+budgermination-name|The BudGermination
+budgermination-description|a slugfox that have come a long way,carrying a heavy and fatal mission...
+THE BUDGERMINATION|
+The BudGermination|
+BudGermination|
+You have come a long way, carrying a heavy and fatal mission.<LINE> Please ensure your own safety while helping others.<LINE> The only one who depends on you is waiting for your victorious return in the distance...|
+Despite being well aware of the dangers of the world, and despite realizing that all efforts may be in vain,<LINE> you still choose to embark on the adventure...|
+///Ремикс (часть)///
+key to throw branch (Player|
+enable slow time when using branch|
+craft branch cost food|
+tentacle can grab any creatures|
+///КОНЕЦ СООБЩЕНИЙ

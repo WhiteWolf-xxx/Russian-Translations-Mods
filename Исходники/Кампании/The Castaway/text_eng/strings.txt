@@ -1,0 +1,33 @@
+///The Castaway (3333707258)
+pocky-raisin.bubblepup-name|The Castaway
+pocky-raisin.bubblepup-description|Explore the world as the Castaway, a semi-aquatic, bubble blowing slugpup from beyond the sea!
+///Меню
+THE CASTAWAY|
+The Castaway|
+Castaway|
+A juvenile from beyond the sea, relying on wit and caution for survival.<LINE>Vunerable and far away from home, will you adapt to your circumstances, or reconnect with distant kin?|
+Now confident in exploring the world,<LINE>the Castaway returns to find their place in the food chain|
+Castaway|
+///Миссии
+Sightseeing|
+///Обучение
+Castaway Interactions:|
+Hold GRAB to blow a bubble / Destroy bubble shield / Refill bubble-weed|
+Press DOWN + JUMP + GRAB with some food to create a bubble shield|
+You are starving, find food and shelter|
+Hold GRAB with free hands to blow a bubble|
+With sufficient food, press DOWN, JUMP and GRAB together to create a bubble shield|
+You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|
+Hold GRAB to fill shrivelled bubbleweed with air|
+///Сообщение Гальки
+...is this reaching you?|
+A young animal on the floor around my chamber. I think I know what you are looking for.|
+You're stuck in a cycle, a repeating pattern. You want a way out.|
+The good news first. As a gift of charity from my creators to this world, I am aware of the ecosystems enclosed within my facility.<LINE>You are an outsider. You do not belong here.|
+East past the shore, past the channel that separates your world from mine lies the rest of your subspecies.|
+A tunnel connects these two coastlines. Go east, beyond the Garbage Wastes, and deep into the remains of my neighbour's structure.|
+The bad news is that in your particular situation, the bonds that tether you to this world are too great.<LINE>Even with the assistance of a god such as myself, you would remain unable to pass through to the spiritual realm.|
+If for some inane reason you still believe that you could break free from your cycle, your solution lies deep beneath my structure, where the land fissures.|
+Not that my assistance solves anyone's problem but yours.|
+Best of luck to you, young creature. I must resume my work.|
+///КОНЕЦ СООБЩЕНИЙ

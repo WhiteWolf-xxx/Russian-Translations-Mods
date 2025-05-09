@@ -1,0 +1,32 @@
+///The Castaway (3333707258)
+pocky-raisin.bubblepup-name|Потерпевший
+pocky-raisin.bubblepup-description|Исследуйте мир в роли Потерпевшего — полуводный, пускающий пузыри слизнекот из-за моря!
+///Меню
+THE CASTAWAY|ПОТЕРПЕВШИЙ
+The Castaway|Потерпевший
+Castaway|Потерпевший
+A juvenile from beyond the sea, relying on wit and caution for survival.<LINE>Vunerable and far away from home, will you adapt to your circumstances, or reconnect with distant kin?|Юноша из-за моря, полагающийся в выживании на смекалку и осторожность.<LINE>Находясь вдали от дома, приспособитесь ли вы к своим обстоятельствам или воссоединитесь с дальними родственниками?
+Now confident in exploring the world,<LINE>the Castaway returns to find their place in the food chain|Теперь, уверенно исследуя мир,<LINE>Потерпевший возвращается, чтобы найти своё место в пищевой цепочке.
+///Миссии
+Sightseeing|Экскурсия
+///Обучение
+Castaway Interactions:|Механики Потерпевшего:
+Hold GRAB to blow a bubble / Destroy bubble shield / Refill bubble-weed|Удерживай «Взять» чтобы: надуть пузырь, разрушить щит, наполнить воздухом Пузырьковый сорняк
+Press DOWN + JUMP + GRAB with some food to create a bubble shield|Нажми «Вниз», «Прыжок» и «Взять» при достаточном количестве еды, чтобы создать пузырьковый щит
+You are starving, find food and shelter|Ты умираешь с голоду, найди еду и убежище
+Hold GRAB with free hands to blow a bubble|Удерживай «Взять» свободными руками, чтобы надуть пузырь
+With sufficient food, press DOWN, JUMP and GRAB together to create a bubble shield|При достаточном количестве еды нажми «Вниз», «Прыжок» и «Взять», чтобы создать пузырьковый щит
+You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|Ты не можешь пускать пузыри, находясь в щите. Удерживай «Взять», чтобы разрушить щит
+Hold GRAB to fill shrivelled bubbleweed with air|Удерживай «Взять», чтобы наполнить воздухом Пузырьковый сорняк
+///Сообщение Гальки
+///...is this reaching you?|...это доходит до тебя?
+///A young animal on the floor around my chamber. I think I know what you are looking for.|Молодое животное на полу моей комнаты. Думаю, я знаю, что ты ищешь.
+///You're stuck in a cycle, a repeating pattern. You want a way out.|Ты застрял в цикле, повторяющемся шаблоне. Ты хочешь найти выход.
+///The good news first. As a gift of charity from my creators to this world, I am aware of the ecosystems enclosed within my facility.<LINE>You are an outsider. You do not belong here.|Сначала хорошие новости. В качестве благотворительного дара от моих создателей этому миру, я осведомлен об экосистемах, заключенных в пределах моего объекта. Ты посторонний. Тебе здесь не место.
+///East past the shore, past the channel that separates your world from mine lies the rest of your subspecies.|К востоку от берега, за каналом, который отделяет твой мир от моего, находится остальная часть твоего подвида.
+///A tunnel connects these two coastlines. Go east, beyond the Garbage Wastes, and deep into the remains of my neighbour's structure.|Туннель соединяет эти две береговые линии. Иди на восток, за пределы Свалки, вглубь остатков строения моей соседки.
+///The bad news is that in your particular situation, the bonds that tether you to this world are too great.<LINE>Even with the assistance of a god such as myself, you would remain unable to pass through to the spiritual realm.|Плохая новость заключается в том, что в твоей конкретной ситуации узы, привязывающие тебя к этому миру, слишком велики. Даже с помощью такого бога, как я, ты не смог бы перейти в духовное царство.
+///If for some inane reason you still believe that you could break free from your cycle, your solution lies deep beneath my structure, where the land fissures.|Если по какой-то безумной причине ты всё ещё веришь, что сможешь вырваться из своего порочного круга, твоё решение лежит глубоко под моей структурой, там, где земля раскалывается.
+///Not that my assistance solves anyone's problem but yours.|Не то чтобы моя помощь решала чьи-либо проблемы, кроме твоих.
+///Best of luck to you, young creature. I must resume my work.|Удачи тебе, юное создание. Я должен вернуться к своей работе.
+///КОНЕЦ СООБЩЕНИЙ

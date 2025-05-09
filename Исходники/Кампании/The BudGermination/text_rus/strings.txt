@@ -1,0 +1,15 @@
+///The BudGermination (3213500658)///
+budgermination-name|Зарождение Ростка
+budgermination-description|Слизнелис, который проделал долгий путь, выполняя тяжелую и смертельную миссию...
+///Меню
+THE BUDGERMINATION|ЗАРОЖДЕНИЕ РОСТКА
+The BudGermination|Зарождение Ростка
+BudGermination|Зарождение Ростка
+You have come a long way, carrying a heavy and fatal mission.<LINE> Please ensure your own safety while helping others.<LINE> The only one who depends on you is waiting for your victorious return in the distance...|Вы прошли долгий путь, выполняя тяжелую и роковую миссию.<LINE>Пожалуйста, позаботьтесь о собственной безопасности, помогая другим.<LINE>Единственный, кто зависит от вас, ждет вашего победного возвращения вдали...
+Despite being well aware of the dangers of the world, and despite realizing that all efforts may be in vain,<LINE> you still choose to embark on the adventure...|Несмотря на то, что вы хорошо осведомлены об опасностях окружающего мира и понимаете,<LINE>что все усилия могут оказаться напрасными, вы всё равно решаете отправиться в приключение...
+///Ремикс
+key to throw branch (Player|Кнопка для броска ветки (Игрок
+enable slow time when using branch|Замедление времени при исп. ветки
+craft branch cost food|Создание ветки требует очков еды
+tentacle can grab any creatures|Ветка хватает любых существ
+///КОНЕЦ СООБЩЕНИЙ

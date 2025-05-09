@@ -1,0 +1,19 @@
+...|0|80
+Looks like you are slipping away, helper.
+This is the consequence of your own choices, and you have to bear it on your own.
+...I can't save you. I can't even save myself. |40|0
+It's not that I didn't advise you better, but you chose to stay here and carry out your mission.
+...|0|80
+No one forced you, and no one will save you -|0|20
+This ending is inevitable.
+You were unable to finish your mission, and could never return to Solemn Ceremony.
+...|0|40
+If you really want some solace at the very last, then......
+You did the best you could. Good job.
+...Thank you.
+Rest in peace, little one.
+...|80|40
+......|0|60
+Is this the result that Solemn Ceremony wanted? I don't understand...|0|60
+...Perhaps there were mistakes somewhere. We are always making mistakes...
+...Perhaps...|0|120

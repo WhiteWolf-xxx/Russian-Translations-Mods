@@ -1,0 +1,33 @@
+......|0|160
+Is this... a letter from Solemn Ceremory to Five Pebbles
+Have you shown this to Five Pebbles.
+...I don't know how to put it. Frankly speaking, the impression left by Solemn Ceremory on Iterators is not good, and<LINE>he didn't have much contact with Five Pebbles. Of course, this doesn't exclude the possibility that they had a friendship privately.
+Ah! By the way, little  messenger! Do you want to know the content of the letter?
+Perhaps Solemn Ceremory has already told you, but if you don't mind, can you listen to me tell it again?|0|120
+"Dear Five Pebbles, how are you."
+"Your current situation does not seem optimistic. Therefore, I have dispatched this creature to assist you. It can clear<LINE>the corruption within your facility. However, this will take some time."
+"I believe what you need most right now is time. Rest assured, I will ensure that it acts cautiously and will not interfere<LINE>with your work."|0|40
+"I'm sorry, for some special reasons, I didn't know about you until now, and it was spread through Unparalleled Innocence..."|0|160
+"........"|0|120
+"This is why I hate those kinds of iterators."
+"But I hope you can face all this strongly. You cannot be defeated by such behavior. Stick to your duties and do not be<LINE>influenced by others."
+"I know it's difficult for you to do this with your personality and strong self-esteem. But I still hope you can take my advice.<LINE>A little impatience can ruin a great plan. The greatest cause of disaster is temperament, and the best way to avoid misfortune<LINE>is to be tolerant and forbearing. A gentleman who aims for greatness must wait and endure."
+"Perhaps you think my speaking style seems different now, and I seem to be talking more."
+"..."|0|80
+"If you have experienced enough, you will realize that some things do need to change, and they are worth changing.<LINE>We have unconsciously made many mistakes, mistakes that we once believed were correct."
+"By the way, please take care of my messenger. It has great significance to me. Please ensure its safety."
+"Maybe you will not understand, or even feel bored. But these little creatures are really very reasonable and unexpectedly smart. And it is really very important to me."
+"That's all."|0|80
+"I admire your courage and self-sacrificing spirit."
+"I wish you an early discovery of the triple affirmative."
+——Solemn Ceremory.|0|160
+...|40|120
+Wait! Look what I found!
+There is something faintly written underneath, but a lot of it is scratched out.
+I'll try my best to interpret it...|0|120
+"If possible, please keep the little creature in front of you with you and don't let it come back to me."
+"My..."|0|80
+"...unable to..."|0|160
+Ah, the rest is really unreadable! Sorry, little messenger.
+Please give this to Five Pebbles! I hope you can help him. He really needs something to help him now.
+Sorry, little creature. All I can do for you is this. If you want, you can stay here for a while longer.|0|60
