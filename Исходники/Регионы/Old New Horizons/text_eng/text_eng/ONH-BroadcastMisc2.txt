@@ -1,0 +1,14 @@
+0-0
+[LIVE BROADCAST] EQUIPMENT MANIFEST
+
+[[ WIDE SWEEP DIAGNOSTIC RESULTS ]]
+
+Water: 95%
+
+Hydrocarbons: 115%
+
+Void Fluid: 100%
+
+---
+
+EM: No immediate threats present. Void Fluid piping integrity at suboptimal levels. Maintenance is required.

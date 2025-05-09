@@ -1,0 +1,10 @@
+0AY_C10-White
+Bro: The first version of ONH that was released only had 1 connection on the left side.<LINE>Players would have to turn around after reaching the dead-end on the right side.
+
+Bro: So I knew I had to make a 2nd connection on the right side, with Memory Crypts being the obvious place.<LINE>Sticking with the out-of-bounds theme, connecting to the spot where everybody tries to go was too perfect.
+
+Bro: But I don't want players entering from here. Even if it is<LINE>easier to reach than climbing the Fissure, it has to be an exit.
+
+Bro: Some players are insistent on entering here. And I have to respect those that are willing to grind out the karma.
+
+Bro: What I *really* want is to completely disconnect the right side. But that can't happen until NNH...

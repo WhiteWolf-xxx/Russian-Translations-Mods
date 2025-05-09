@@ -1,0 +1,16 @@
+0CF_A10-White
+Bro: So much of ONH are these long platforming gauntlets in wide-open rooms.
+
+Bro: Rain World is all about the creatures, but these sections are designed for the player, not for the lizard.
+
+Bro: Very few creatures can jump, and Slugcats are the only ones whose pathfinding will acknowledge this ability.<LINE>A cyan lizard jump is essentially a fling in the general direction, not suited for precision platforming.
+
+Bro: And while wall-climbing or flying creatures work, it is incredibly unfair to have a lizard<LINE>sitting in-between required jumps. It's a situation in which there's nothing that can be done.
+
+Bro: And dealing with creatures at the same time as having to learn these precise jumps is incredibly frustrating and too much.
+
+Bro: So... that's why Hunter has spitter spam. They're wall-climbing, non-melee threats<LINE>for a Slugcat who's equipped to fight and who isn't usually (hopefully) played on the first playthrough.
+
+Bro: Normally I aim to design an ecosystem of creatures, but the occasional ostinato-like gameplay is cool when used tastefully.
+
+Bro: But if somebody plays Hunter or other 'hard mode' Slugcats first, it's their own fault for doing this to themselves.

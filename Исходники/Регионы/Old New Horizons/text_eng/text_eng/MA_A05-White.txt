@@ -1,0 +1,10 @@
+0MA_A05-White
+Bro: This room originally didn't have this shelter or the poles leading up to it.
+
+Bro: But FishSwallower lost the level editor files for Swamplands, so I had to<LINE>manually edit the screen and geometry array.
+
+Bro: For those of you who don't know how rooms are made... this is basically unheard of.<LINE>An hour spent splitting a depth map into layers and drawing pixels to perfectly match tiles...
+
+Bro: I want to revamp as many ONH regions as I can to bring back in NNH.<LINE>How many make it depends mostly on how much time I have, or if I can get any help.
+
+Bro: But with Swamplands missing the level editor files, I fear this region could never reach the bar.

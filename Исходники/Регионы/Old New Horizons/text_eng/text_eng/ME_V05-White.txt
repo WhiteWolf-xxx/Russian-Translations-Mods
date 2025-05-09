@@ -1,0 +1,10 @@
+0ME_V05-White
+Bro: This entrance used to connect to Subterranean.<LINE>You can find the gate still in the files.
+
+Bro: This area was made in kind of a transitionary period when New Horizons was going from some<LINE>regions that added some shortcuts through vanilla to a more isolated adventure, with its own campaign.
+
+Bro: The proper connection was never made though, so Pump Station Alpha sits here, dormant, with no purpose.
+
+Bro: Solar wanted me to put a pearl here, but the player shouldn't have an incentive to experience such Pain.
+
+Bro: And it's not like FishSwallower would write any Lore for us to use anyways.

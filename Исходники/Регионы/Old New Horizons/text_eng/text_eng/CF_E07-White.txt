@@ -1,0 +1,22 @@
+0CF_E07-White
+Bro: I've been throwing around a lot of names, but you might be wondering who everybody is<LINE>and what their roles are in ONH. So let me introduce everyone chronologically
+
+Bro: FishSwallower originally started making New Horizons as a hobby.<LINE>Enjoyed the act of level editing and did it for fun.
+
+Bro: She'd occasionally post previews of New Horizons on YouTube and Discord, which caught the eye of Solar.
+
+Bro: Solar thought New Horizons was so cool that he convinced FishSwallower to let him playtest so he could see the levels.<LINE>And that's how it was for around 6 months, before FishSwallower decided to scrap half the regions.
+
+Bro: When the ONH regions were scrapped, Solar got permission to release them all.<LINE>He turned to me to help him pack them into an actual mod since<LINE>he'd never done it before and I'd been helping him a lot with getting into modding.
+
+Bro: Everything was basically untouched when Solar first dropped the download in the #modding-releases channel,<LINE>aside from the LF_CA gate. Although many files were missing so I helped Solar track them down.
+
+Bro: A little later, we got news that Farlands was being scrapped as well and we'd add it to the pack.<LINE>When this happened I had the Idea of the current connections and made those myself.
+
+Bro: Then my work on ONH snowballed as I realized that some very small tweaks would significantly improve the gameplay experience.
+
+Bro: First it was a few extra poles, then it was rebalancing the audio,<LINE>then it was redoing all the creature spawns, then fixing jank geometry...
+
+Bro: And at this point I've poured over a thousand hours into ONH. Nowhere near the years that FishSwallower put in of course,<LINE>but I've been the main person supporting it in its current form, with Solar helping out with a few things.
+
+Bro: So that's mostly everybody - we've gotten some people to help out with other aspects that we can't do<LINE>like the region arts by Shotgun Slugs & Snugboat, the intro theme by Intikus, dialogue edits by Kaeporo,<LINE>all the many playtesters, and all the modding community who've helped us along the way.

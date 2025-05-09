@@ -1,0 +1,41 @@
+///Old New Horizons (2923214961)///
+onh-name|Old New Horizons
+onh-description|A polished beta\\unused content for the 'New Horizons' region expansion.<LINE>Includes 8 new regions and over 1,200 new screens.<LINE><LINE>MSC COMPATIBILITY INSTRUCTIONS<LINE>In the Remix menu, place Old New Horizons above the More Slugcats Expansion.
+Stormy lands|Штормовые земли
+Abyss|Бездна
+Railway|Железная дорога
+Rackdale|Рэкдейл
+Central Factory|Центральная фабрика
+Central Factory - Sector A|Центральная фабрика - Сектор A
+Central Factory - Sector A - Reactor|Центральная фабрика - Сектор A - Реактор
+Reactor Core - Void fluid convertor|Ядро реактора - Преобразователь Пустотной жидкости
+Central Factory - Sector B - Water Intake System|Центральная фабрика - Сектор В - Система водозабора
+Central Factory - Facade|Центральная фабрика - Фасад
+Central Factory - Sector C|Центральная фабрика - Сектор С
+Central Factory - Sector C - Chimney Canopy|Центральная фабрика - Сектор С - Дымоход
+???|???
+Scavenger Colony|Колония мусорщиков
+Industrial District|Промышленный район
+Industrial Port Area|Промышленная портовая зона
+Hold right to exit animation|Удерживайте правую кнопку мыши, чтобы выйти из анимации
+Yeah this area is scrapped lol|Да, этот район забракован
+Sorry this one's still in NNH so we can't show you|К сожалению, он всё ещё находится в NNH, поэтому мы не можем показать его вам
+Farlands|Дальние земли
+Limestone Caves|Известняковые пещеры
+Stonepit|Каменная яма
+Swamplands|Болото
+Swamplands (Purple)|Болото (Фиолетовое)
+Sewers|Канализация
+Subway lines|Линии метро
+Abandoned Drainage System|Заброшенная дренажная система
+Incinerator|Мусорозжигатель
+Pump Station (Beta)|Насосная станция (Бета)
+Pump Station (Alpha)|Насосная станция (Альфа)
+Oil Station|Нефтяная станция
+Living Areas|Жилые помещения
+Corrupted Refinery|Повреждённый нефтеперерабатывающий завод
+Refinery|Нефтеперерабатывающий завод
+Refinery (Pump Station)|Нефтеперерабатывающий завод (Насосная станция)
+Communication Relay|Реле связи
+Info (You can swim on the surface of oil, but if you dive, you will drown)|Ты можешь плавать на поверхности нефти, но если ты нырнёшь, то утонешь
+Suburbs|Пригород

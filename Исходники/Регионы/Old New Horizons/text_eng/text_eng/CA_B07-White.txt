@@ -1,0 +1,8 @@
+0CA_B07-White
+Bro: The first version of ONH that Solar released connected here.<LINE>At the time Industrial District was in the pack but Farlands was not.
+
+Bro: It connected to the awful LF room with the red pearl. I suggested that<LINE>Solar connect there as it perfectly sets up the pain to come.
+
+Bro: ONH has come a long way since the download was first dropped in modding-releases, though...<LINE>I've completely redone all of the spawns since then, fixed the most jank geometry, reblanaced all the audio, ect.
+
+Bro: I really want to emphasize the 'polished' in 'polished beta,' since, while I have tried to<LINE>preserve some of the beta feeling, it is a much smoother experience than it used to be.

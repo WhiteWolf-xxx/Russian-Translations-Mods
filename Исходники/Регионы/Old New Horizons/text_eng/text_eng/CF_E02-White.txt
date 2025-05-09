@@ -1,0 +1,14 @@
+0OS_E02-White
+Bro: I suppose I should talk about ONH alt somewhere...
+
+Bro: Solar first dropped the download to all the ONH regions in the #modding-releases<LINE>discord channel, simply saying "here are FishSwallower's scrapped regions."
+
+Bro: This was before I got majorly involved and heavily polished a lot of stuff. But some other people had a similar idea...
+
+Bro: Solo Race and Harvy Sorroway took it upon themselves to connect every dead-end in ONH to vanilla, and to<LINE>remove all the unfun parts. They called their project ONH alt, to differentiate it from the 'Official' version.
+
+Bro: And they finished before me! I'm still a bit salty that ONH alt instead of Official is on the Russian Wiki...
+
+Bro: My thoughts on ONH alt? It does a good job at what it set out to do. All the connections are well-made, and the new secrets are cool.<LINE>But when I explore modded regions I want to see the new stuff, so all the gates back to vanilla are more annoying to me than anything.<LINE>And the design direction they took in multiple areas feels a bit antithetical to what the regions are.
+
+Bro: But I'm glad it exists for those who prefer that approach. Or, *did* exist. I wonder if it'll ever be ported to 1.9...<LINE>Maybe not, Solo Race said they were doing it mainly as a way to get practice with level editing.

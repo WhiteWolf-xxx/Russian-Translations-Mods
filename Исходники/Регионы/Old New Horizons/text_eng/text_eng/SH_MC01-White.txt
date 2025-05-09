@@ -1,0 +1,10 @@
+0SH_MC01-White
+Bro: Memory Crypts is my favorite area in the game. But due to how<LINE>tightly it's designed, it was hard to think of a good way to add onto it.
+
+Bro: I came up with the idea of inverting the safe zones. Instead of crawling underneath to be safe,<LINE>the player would have to climb on dangerous scaffolding and suspended crates.
+
+Bro: I'm a big fan of motivic gameplay, and expanding on a new angle of an existing gameplay loop is always fun.
+
+Bro: I actually have an entire Memory Crypts expansion planned,<LINE>but every time I try to work on it the tiling looks too ugly :(
+
+Bro: One of these days I'll be a good enough leditor to make more Memory Crypts.

@@ -1,0 +1,6 @@
+﻿0AY_C01-White
+Bro: Stormy Lands was originally its own region,but was<LINE>too small by itself, so it was combined with Abyss.
+
+Bro: The rain effect originally came from an invisible ceiling above each room, with ceiling drips set to 100.<LINE>But Downpour comes with some nice atmospheric rain settings, so now it uses those.
+
+Bro: The 'Bullet Rain Flux' setting is never actually used, so this is the first time it's been featured.<LINE>The Rooms aren't designed around the mechanic at all, so I hope it doesn't get too annoying.

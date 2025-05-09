@@ -1,0 +1,10 @@
+0OE_FNCAVE-White
+Bro: Two months before MSC came out I had a dream that<LINE>I was a blue slugcat travelling with Gourmand from Sunken Pier to Farlands
+
+Bro: I actually started making this connection before MSC came out.<LINE>On the first day before we had the level editor files<LINE>I managed to expand OE_RUIN04 using the old Andrew Editor.
+
+Bro: But being a bad leditor, I couldn't figure out some of the rooms<LINE>so this got delayed from being in the first workshop version to now.
+
+Bro: Shoutout to Wrayk for making the previous room.
+
+Bro: (don't worry this connection will be in NNH too, it's not a waste of talent.)
