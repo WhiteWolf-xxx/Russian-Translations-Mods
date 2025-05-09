@@ -1,0 +1,7 @@
+///Stormy Coast (3042385413)///
+stormy_coast-name|Бушующий берег
+stormy_coast-description|Портовый регион на южной окраине Побережья с более чем 200 экранами.
+Stormy Coast|Бушующий берег
+Sunlit Port|Солнечный порт
+Desolate Port|Опустелый порт
+Shrouded Coast|Окутанный берег

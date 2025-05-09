@@ -1,0 +1,16 @@
+0-7
+It is a program that generates various poems through random sequencing of the same lines.<LINE>This randomization occurs every time the pearl is accessed.
+
+While some of our creators valued repetition in all things, others viewed constant change as a key to escape the cycle.<LINE>It was likely one of these change-obsessed individuals that created this poem randomizer.
+
+As for the poem itself, I will read to you the version I witnessed first.
+
+"An endless cycle"
+
+"Above a black sea"
+
+"Existence a trifle"
+
+"We wish to be free"
+
+Ironically, no matter how you swap the order of the lines, the meaning of the poem remains the same.

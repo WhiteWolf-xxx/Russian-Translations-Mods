@@ -1,0 +1,8 @@
+///The Grinder (3254167010)///
+grinder-name|The Grinder
+grinder-description|You are not welcome in the grinder. From the retaining wall, climb until you reach the peak. But are you sure you want to enter?<LINE>Huge thanks to Lángos, renistakingten and Timofey for helping with the region art, the music and coding.<LINE> Chek out the wiki to!<LINE>(updated to support 1.10)
+The grinder|Дробитель
+Kern|Ядро
+Crucible|Тигель
+Power rail|Силовая шина
+room where stuff happens|комната где всё происходит

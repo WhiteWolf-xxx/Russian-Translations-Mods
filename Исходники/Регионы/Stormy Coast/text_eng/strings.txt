@@ -1,0 +1,7 @@
+///Stormy Coast (3042385413)///
+stormy_coast-name|Stormy Coast
+stormy_coast-description|A port region on the southern edge of the Shoreline with over 200 screens.
+Stormy Coast|Бушующий берег
+Sunlit Port|Солнечный порт
+Desolate Port|Опустелый порт
+Shrouded Coast|Окутанный берег

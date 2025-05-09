@@ -1,0 +1,5 @@
+///Sunlit Power Plant (3289086902)///
+sunpwplnt-name|Освещённая электростанция
+sunpwplnt-description|Исследуйте Освещённую электростанцию
+Sunlit Power Plant|Освещённая электростанция
+Overgrown Transfer System|Заросшая транспортная система
