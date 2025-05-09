@@ -1,0 +1,49 @@
+///Reclaiming Entropy (3215860805)///
+///reclaimingentropy-name|Reclaiming Entropy - A post-Saint world state
+reclaimingentropy-description|WORK IN PROGRESS! See steamdescription.txt for more details :)
+///Меню
+THE MATRIARCH|МАТРИАРХ
+The Matriarch|Матриарх
+Matriarch|Матриарх
+An ancient legend calls you to a familiar, faraway land<LINE>to establish a new home for your kind. With your three companions,<LINE>offspring and apprentices both, you will lead the future of your species.|Древняя легенда зовет тебя в знакомые и далекие земли,<LINE>чтобы основать новый дом для своего вида. Вместе с тремя своими спутниками,<LINE>потомками и учениками, ты возглавишь будущее своего вида.
+///Название регионов
+Aquifer Tunnels|Водоносные туннели
+Melting Depths|Тающие глубины
+Farflung Beach|Пляж Фарфлунг
+The Undergrowth|Подлесок
+Heart of the Jungle|Сердце джунглей
+Gloomy Marshland|Мрачные болота
+Crumpled Scaffolding|Помятые строительные леса
+Pipegrave|Трубная могила
+Desolate Canal|Пустынный канал
+Luna|Луна
+Rusted Basin|Ржавый бассейн
+Sunlit Alleyways|Солнечные аллеи
+Suburban Outpost|Пригородная застава
+Smokestack Treetop|Верхушка древа над дымовыми трубами
+The Stump|Пень
+Nascent Woods|Зарождающийся лес
+Fallen Spires|Упавшие шпили
+Withstanding Factory|Устойчивый завод
+The Matriarch|Матриарх
+///AQ_BEACH2
+Your children are also your comrades in your expedition.
+They are less clumsy and more capable than other pups, but you can still carry them if you fear they won't be able to keep up.
+///AQ_BEACH1
+It is highly recommended to take the upper path in the next room, which continues the tutorial.
+///AQ_TUTORIAL1
+Click on your young or their food indicator to select them. Then press the jump button to direct them to the location of the cursor.
+They will stay at that location even if you move to a different room, and defend their position to the best of their ability.
+///AQ_TUTORIAL2
+To direct one of your young to follow you or to cancel an order, click on them (or their food indicator) and double-tap either jump, throw, or grab.
+Pressing the map and jump button at once will also recall your entire family, should you have multiple children staying at different points.
+///AQ_TUTORIAL3
+You can also press the throw button after selecting a pup to attack any creature at the location of the cursor.
+They will pursue the target and attempt to kill them to the best of their ability.
+However, the strength of your family is in numbers.
+Press the map and throw button at once and all of your children will attack the creature at the location of your cursor.
+Recalling or cancelling attack orders works the same as how movement orders work.
+///AQ_TUTORIAL4
+Select a pup and press the grab button to direct them to retrieve the item at the location of your cursor. They will then bring that item back to you.
+If you double-pressed grab instead, and the object at the location of your cursor was edible, they would eat it as soon as they reached its location.
+Your pups will also grab and consume any food they directly encounter when following you or being carried, but this option can be toggled off in remix settings.

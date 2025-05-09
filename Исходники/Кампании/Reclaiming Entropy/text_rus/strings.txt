@@ -1,0 +1,50 @@
+///Reclaiming Entropy (3215860805)///
+///reclaimingentropy-name|Reclaiming Entropy - A post-Saint world state
+reclaimingentropy-description|WORK IN PROGRESS! See steamdescription.txt for more details :)
+///Меню
+THE MATRIARCH|МАТРИАРХ
+The Matriarch|Матриарх
+Matriarch|Матриарх
+An ancient legend calls you to a familiar, faraway land<LINE>to establish a new home for your kind. With your three companions,<LINE>offspring and apprentices both, you will lead the future of your species.|Древняя легенда зовет тебя в знакомые и далекие земли,<LINE>чтобы основать новый дом для своего вида. Вместе с тремя своими спутниками,<LINE>потомками и учениками, ты возглавишь будущее своего вида.
+///Название регионов
+Aquifer Tunnels|Водоносные туннели
+Melting Depths|Тающие глубины
+Farflung Beach|Пляж Фарфлунг
+The Undergrowth|Подлесок
+Heart of the Jungle|Сердце джунглей
+Gloomy Marshland|Мрачные болота
+Crumpled Scaffolding|Помятые строительные леса
+Pipegrave|Трубная могила
+Desolate Canal|Пустынный канал
+Luna|Луна
+Rusted Basin|Ржавый бассейн
+Sunlit Alleyways|Солнечные аллеи
+Suburban Outpost|Пригородная застава
+Smokestack Treetop|Верхушка древа над дымовыми трубами
+The Stump|Пень
+Nascent Woods|Зарождающийся лес
+Fallen Spires|Упавшие шпили
+Withstanding Factory|Устойчивый завод
+The Matriarch|Матриарх
+///Обучение
+///AQ_BEACH2
+Your children are also your comrades in your expedition.|Твои дети — твои товарищи по экспедиции.
+They are less clumsy and more capable than other pups, but you can still carry them if you fear they won't be able to keep up.|Они менее неуклюжие и более способные, чем другие щенки, но ты всё равно можешь нести их, если боишься, что они не смогут угнаться за тобой.
+///AQ_BEACH1
+It is highly recommended to take the upper path in the next room, which continues the tutorial.|Настоятельно рекомендую пройти по верхнему пути в соседнюю комнату, которая является продолжением обучения.
+///AQ_TUTORIAL1
+Click on your young or their food indicator to select them. Then press the jump button to direct them to the location of the cursor.|Щелкни по щенку или индикатору его питания, чтобы выбрать его. Затем нажми кнопку прыжка, чтобы направить его к местоположению курсора.
+They will stay at that location even if you move to a different room, and defend their position to the best of their ability.|Он останется в этом месте, даже если ты перейдёшь в другую комнату, и будет защищать эту позицию в меру своих возможностей.
+///AQ_TUTORIAL2
+To direct one of your young to follow you or to cancel an order, click on them (or their food indicator) and double-tap either jump, throw, or grab.|Чтобы приказать следовать за тобой или отменить приказ, нажми на него и дважды нажми прыгнуть, бросить или схватить.
+Pressing the map and jump button at once will also recall your entire family, should you have multiple children staying at different points.|Одновременное нажатие карты и прыжка также вызовет всю твою семью, если у тебя несколько детей, находящихся в разных точках.
+///AQ_TUTORIAL3
+You can also press the throw button after selecting a pup to attack any creature at the location of the cursor.|Ты также можешь нажать кнопку броска после выбора щенка, чтобы атаковать любое существо в месте нахождения курсора.
+They will pursue the target and attempt to kill them to the best of their ability.|Они будут преследовать цель и пытаться убить её в меру своих возможностей.
+However, the strength of your family is in numbers.|Однако сила твоей семьи в численности.
+Press the map and throw button at once and all of your children will attack the creature at the location of your cursor.|Нажми карту и кнопку броска одновременно, и все ваши дети атакуют существо в том месте, где находится твой курсор.
+Recalling or cancelling attack orders works the same as how movement orders work.|Отзыв или отмена приказов на атаку работает так же, как и приказы на перемещение.
+///AQ_TUTORIAL4
+Select a pup and press the grab button to direct them to retrieve the item at the location of your cursor. They will then bring that item back to you.|Выбери щенка и нажми кнопку взять, чтобы направить его на получение предмета в месте, указанном твоим курсором. Затем он вернет тебе этот предмет.
+If you double-pressed grab instead, and the object at the location of your cursor was edible, they would eat it as soon as they reached its location.|Если дважды нажать взять, и объект в месте нахождения твоего курсора съедобный, то они съедят его, как только достигнут его местоположения.
+Your pups will also grab and consume any food they directly encounter when following you or being carried, but this option can be toggled off in remix settings.|Твои щенки также будут потреблять пищу, с которой они столкнутся, когда будут следовать за тобой, эту опцию можно отключить в настройках ремикса.
