@@ -1,0 +1,5 @@
+///Community Gallery Region (2973060864)///
+LevelEditorCommunityGallery-name|Community Gallery Region
+LevelEditorCommunityGallery-description|Adds a new region composed by a collection of 80+ rooms with 160+ total screens submited for the Leveleditor month event hosted by the Modding academy. The 3 region entrances are located close to Saint, Artificer and Survivor starting rooms.
+Hall of Fame|Зал Славы
+gallery|Галерея

@@ -1,0 +1,15 @@
+///Community Gallery Region 2024 (3305713194)///
+Community.Gallery2-name|Community Gallery Region 2024
+Community.Gallery2-description|A collection of 190 rooms (477 screens) submitted by 72 different people as part of the 2024 Leditor Month.\n\nThere are no region connections this time, but you play as a slugcat with many assists available to help you on your exploration, should you feel you need it. No rain cycle, no dying, just exploring.
+COMMUNITY GALLERY REGION 2024|ГАЛЕРЕЯ СООБЩЕСТВА 2024
+A collection of rooms submitted as part of the 2024 Leditor Month hosted by Nautillo.<LINE>You are equipped with many tools to assist you on your gallery room safari.|Коллекция комнат, представленная в рамках Месяца Создателей Комнат 2024 и организованная Nautillo.<LINE>В вашем распоряжении множество инструментов, которые помогут вам в вашем сафари по галерее.
+Bridge|Мост
+Suspended|Навес
+Crypt|Склеп
+Growth|Заросли
+Shrouded|Окутанное
+Monolith|Монолит
+Respite|Покой
+Diseased|Заражённое
+The Community Gallery Region 2024|Исследователь (2024)
+Community Gallery 2024|Галерея сообщества 2024

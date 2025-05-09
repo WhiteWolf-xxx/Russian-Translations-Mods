@@ -1,0 +1,9 @@
+///Coral Caves (3019770072)///
+coral.caves-name|Coral Caves
+coral.caves-description|A colorful, aquatic-themed region featuring over 200 new screens.
+Coral Caves|Коралловые пещеры
+Turbulent Pump|Турбулентный насос
+Deep Reef|Глубокий риф
+Bleached Grotto|Бледный грот
+Stagnant Pump|Застывший насос
+Submerged Superstructure (Struts)|Затонувшая конструкция (Подпорка)

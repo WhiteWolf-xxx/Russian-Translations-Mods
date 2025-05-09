@@ -1,0 +1,12 @@
+///Arid Barrens (3265401327)///
+jam.aridbarrens-name|Arid Barrens
+jam.aridbarrens-description|An inhospitable desert connecting the Farm Arrays to the Shoreline, left dry only by a huge dam blocking the sea's waters. Made by the Rain World Community.<LINE>The following mods are recommended but not required: The Downpour DLC, Scorched District code stuff, Water Spitter, Fat Firefly, Red Horror Centipede & Bouncing Ball.
+Arid Barrens|Засушливые пустоши
+The Tower|Башня
+The Dam|Плотина
+Miros World|Мир стрижей
+The Wall 2|Стена 2
+Windswept Barrens|Выветренные пустоши
+The Nest|Гнездо
+Frigid Desert|Мёрзлая пустыня
+The Fortress|Крепость

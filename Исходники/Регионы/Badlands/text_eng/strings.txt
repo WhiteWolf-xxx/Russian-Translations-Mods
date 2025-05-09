@@ -1,0 +1,5 @@
+///Badlands (3083682990)///
+badlands-name|Badlands
+badlands-description|A desolate stretch of land populated with ancient ruins.
+Archaic Tundra|Архаичная тундра
+Badlands|Бесплодные земли

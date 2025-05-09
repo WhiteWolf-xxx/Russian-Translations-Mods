@@ -1,0 +1,5 @@
+///Badlands (3083682990)///
+badlands-name|Бесплодные земли
+badlands-description|Пустынный участок земли, населённый древними руинами.
+Archaic Tundra|Архаичная тундра
+Badlands|Бесплодные земли

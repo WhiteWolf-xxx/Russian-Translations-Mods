@@ -1,0 +1,5 @@
+///Community Gallery Region (2973060864)///
+LevelEditorCommunityGallery-name|Галерея сообщества
+LevelEditorCommunityGallery-description|Добавлен новый регион, состоящий из более чем 80 комнат с более чем 160 экранами, представленными для участия в мероприятии Leveleditor month, организованном академией моддинга. 3 Входа в регион расположены рядом со стартовыми комнатами Святого, Техника и Выжевшего.
+Hall of Fame|Зал Славы
+gallery|Галерея

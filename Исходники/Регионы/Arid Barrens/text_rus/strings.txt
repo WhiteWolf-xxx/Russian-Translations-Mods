@@ -1,0 +1,12 @@
+///Arid Barrens (3265401327)///
+jam.aridbarrens-name|Засушливые пустоши
+jam.aridbarrens-description|Негостеприимная пустыня, соединяющая Массивы ферм с Побережьем, остается сухой только благодаря огромной дамбе, перегораживающей морские воды.<LINE>Сделано сообществом Rain World.<LINE>Следующие моды рекомендуются, но не обязательны: The Downpour DLC, Scorched District code stuff, Water Spitter, Fat Firefly, Red Horror Centipede & Bouncing Bal.
+Arid Barrens|Засушливые пустоши
+The Tower|Башня
+The Dam|Плотина
+Miros World|Мир стрижей
+The Wall 2|Стена 2
+Windswept Barrens|Выветренные пустоши
+The Nest|Гнездо
+Frigid Desert|Мёрзлая пустыня
+The Fortress|Крепость

@@ -1,0 +1,15 @@
+///Community Gallery Region 2024 (3305713194)///
+Community.Gallery2-name|Галерея сообщества 2024
+Community.Gallery2-description|Коллекция из 190 комнат (477 экранов), представленных 72 разными людьми в рамках Месяца Создателей 2024 года. На этот раз нет привязки к регионам, но вы играете за слизнекота, и вам доступно множество инструментов, которые помогут вам в исследовании, если вы почувствуете, что это необходимо. Никаких дождей, никаких смертей, только исследование.
+COMMUNITY GALLERY REGION 2024|ГАЛЕРЕЯ СООБЩЕСТВА 2024
+A collection of rooms submitted as part of the 2024 Leditor Month hosted by Nautillo.<LINE>You are equipped with many tools to assist you on your gallery room safari.|Коллекция комнат, представленная в рамках Месяца Создателей Комнат 2024 и организованная Nautillo.<LINE>В вашем распоряжении множество инструментов, которые помогут вам в вашем сафари по галерее.
+Bridge|Мост
+Suspended|Навес
+Crypt|Склеп
+Growth|Заросли
+Shrouded|Окутанное
+Monolith|Монолит
+Respite|Покой
+Diseased|Заражённое
+The Community Gallery Region 2024|Исследователь (2024)
+Community Gallery 2024|Галерея сообщества 2024

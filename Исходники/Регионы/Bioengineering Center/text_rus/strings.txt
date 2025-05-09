@@ -1,0 +1,13 @@
+///Bioengineering Center (3221585921)///
+bio-name|Центр биоинженерии
+bio-description|Привет, Центр биоинженерии вернулся с обновлением!<LINE>Теперь это полностью функциональный регион с более чем 120+ экранами.<LINE>Никаких внезапных тупиков, и он полностью совместим (возможно) с любым модом.<LINE>Это всё ещё мой первый регион, так что не судите его СЛИШКОМ строго.<LINE>Надеюсь, вам здесь понравится! :3<LINE>(Рекомендуемый вход находится в Окраине, теперь соединен с SU_B08).
+Bioengineering Center|Центр Биоинженерии
+Towering Ruins|Возвышающиеся Руины
+Bioengineering Center (The Underground)|Центр Биоинженерии (Подземелье)
+Cabinet|Кабинет
+POPSNAIL HEAVEN|УЛИТОЧНЫЙ РАЙ
+MORE POPSNAIL HEAVEN|БОЛЬШЕ УЛИТОЧНОГО РАЯ
+Welcome to the underground how was the fall if you wanna look around give us a call we don't see humans often we're happy you're just talking i'll be so popular when I show all the monsters what I just brought in|Я не буду это переводить
+Forgotten Factories|Забытые Заводы
+Snowy Ruins|Заснеженные Руины
+Old Canals|Старые Каналы
