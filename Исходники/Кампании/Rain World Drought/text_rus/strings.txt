@@ -1,0 +1,259 @@
+///Rain World Drought (3324777051)///
+drought-name|Rain World — Странник
+drought-description|Rain World Drought — это старый амбициозный мод от Drought Team, возвращённый к жизни самым пышным способом, который только можно себе представить. Исследуйте мир и его новые тайны в роли Странника — и приготовьтесь к тому, что вас ждёт в будущем. 
+///Меню
+The Wanderer|Странник
+THE WANDERER|СТРАННИК
+Curious and calm, with an innate desire to discover ancient mysteries around.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.|Любознательный и спокойный, с врожденным желанием открывать древние тайны вокруг.<LINE>Находясь в гармонии с событиями в мире, ваше путешествие окажет значительное влияние на вещи,<LINE>которые намного значительнее вас самих.
+///Название регионов
+Intake System|Система впуска
+Water Reservoir|Водохранилище
+Gravity Pump|Гравитационный насос
+Looks to the Moon|Смотрящая-на-Луну
+Looks to the Moon (General System Bus)|Смотрящая-на-Луну (Генеральная системная шина)
+Looks to the Moon (Damaged Transform Arrays)|Смотрящая-на-Луну (Повреждённый трансформаторный массив)
+Looks to the Moon (Memory Conflux)|Смотрящая-на-Луну (Отсек памяти)
+The Fragmented Exterior|Фрагментированный корпус
+The West Leg|Западная опора
+The East Leg|Восточная опора
+The Decaying Wall|Разрушающаяся стена
+Forest Sanctuary|Лесной заповедник
+Depot Remnants|Остатки депо
+Preservation Facility|Консервационный комплекс
+///Сообщения об ошибках
+DroughtAssets folder is missing! Put DroughtAssets with [Rain World Drought.dll]!|Папка DroughtAssets отсутствует! Поместите DroughtAssets с помощью [Rain World Drought.dll]!
+EnumExtender is missing! Download EnumExtender from RainDB - Tools Category.|EnumExtender отсутствует! Загрузите EnumExtender из RainDB — категория «Инструменты».
+Directory [<assetDir>] is missing: Reinstall DroughtAssets.|Каталог [<assetDir>] отсутствует: переустановите DroughtAssets.
+File [<file>] is missing: Reinstall DroughtAssets.|Файл [<file>] отсутствует: переустановите DroughtAssets.
+Error occured while loading Drought Atlas [<file>]: Reinstall DroughtAssets.|Произошла ошибка при загрузке Drought Atlas [<file>]: переустановите DroughtAssets.
+///Обучение
+While on the ground, tap MAP and then press JUMP to slow down time.|Находясь на земле, нажми «Картe», а затем «Прыжок», чтобы замедлить время.
+Then hold a DIRECTION and press JUMP to finish the boost.|Затем выбири «Направление» и нажми «Прыжок», чтобы завершить ускорение.
+///Именя Игрока
+///Луна
+Little creature|Маленький зверёк
+little creature|маленький зверёк
+///Галька
+Little messenger|Маленький посланник
+little messenger|маленький посланник
+///Солнца
+Messenger|Посланник
+messenger|посланник
+///Плохие отношения с Луной
+Little tormentor|Маленький мучитель
+little tormentor|маленький мучитель
+///Плохие отношения с Галькой
+Little annoyance|Небольшое раздражение
+little annoyance|небольшое раздражение
+///Плохие отношения с СКС
+Traitor|Предатель
+traitor|предатель
+///Хорошие отношения со всеми, принести 10+ жемчужин
+Little archaeologist|Маленький археолог
+little archaeologist|маленький археолог
+///Хорошие отношения с Луной
+Little friend|Маленький друг
+little friend|маленький друг
+///Хорошие отношения с Гальклй
+Little helper|Маленький помощник
+little helper|маленький помощник
+///Хорошие отношения с СКС
+My little friend|Мой маленький друг
+my little friend|мой маленький друг
+///Чтение жемчежин ~ Дистанционное подключение к LTTM с отметкой Луны
+///Конец игры
+You're reaching the end of your journey, little friend.|Ты приближаешься к концу своего путешествия, маленький друг.
+Thank you, for helping me.|Спасибо тебе, за то, что помог мне.
+///Диалоги Луны
+I have very little to give you.|Я могу дать тебе очень мало.
+Another discovery?|Ещё одно открытие?
+Don't toy around with those, please.|Не играй с ними, пожалуйста.
+Please, don't play around with those.|Пожалуйста, не играй с ними.
+I can see that it's not for me. You should deliver it to Pebbles.|Я вижу, что это не для меня. Тебе следует отнести это Гальке.
+I can see that it's not for me. You should deliver it to Pebbles!|Я вижу, что это не для меня. Тебе следует отнести это Гальке!
+Once again, <PlayerName>? Well, aren't you a sweet little thing!<LINE>But listen, as much as I'd like to keep your gift - it clearly says that FP is recipient. Have it back.|Ещё раз, <PlayerName>? Ну, разве ты не прелесть, малыш?<LINE>Но послушай, как бы мне ни хотелось сохранить твой подарок — здесь ясно сказано, что получатель — ПГ.<LINE>Возьми её обратно.
+You're very stubborn about it, for some reason.<LINE>You want me to decorate the room with it? Or do you want to know what's inside?<LINE>I do really like the color of it... No, it's not for me, I shouldn't.|По какой-то причине ты очень упрямишься.<LINE>Ты хочешь, чтобы я украсила ей комнату? Или ты хочешь узнать, что внутри?<LINE>Мне действительно нравится её цвет... Нет, это не для меня, я не должна.
+Here.|Здесь.
+That's all. You can go now.|Вот и все. Теперь ты можешь идти.
+LEAVE.|УХОДИ.
+///Диалоги Гальки
+You again.|Снова ты.
+Hello messenger.|Привет, посланник.
+Do you have that pearl Suns was talking about?|У тебя есть та жемчужина, о которой говорил Солнца?
+Do you have anything for me, perhaps?|Может быть, у тебя есть что-нибудь для меня?
+You are welcome to stay here, but I must return to my work.|Ты можешь остаться здесь, но я должен вернуться к своей работе.
+You are welcome to stay here, but I must return to my work shortly.|Ты можешь остаться здесь, но я вскоре должен вернуться к своей работе.
+Hello, little envoy.|Здравствуй, маленький посланник.
+///Третье Приветствие и Выше (Dislike)
+Again?|Снова?
+You.|Ты.
+Please stop annoying me.|Пожалуйста, перестань меня раздражать.
+Oh, it's you, <PlayerName>.|Ах, это ты, <PlayerName>.
+///Третье Приветствие и Выше (Neutral)
+Hello again, <PlayerName>.|Привет ещё раз, <PlayerName>.
+Hello, <PlayerName>.|Привет, <PlayerName>.
+Welcome back.|С возвращением.
+Oh, <PlayerName>. Hello.|Ох, <PlayerName>. Привет.
+It's you, <PlayerName>. Hello.|Это ты, <PlayerName>. Привет.
+Ah... <PlayerName>, you're here again.|Ах... <PlayerName>, ты снова здесь.
+Ah... <PlayerName>, you're back.|Ах... <PlayerName>, ты вернулся.
+///Третье Приветствие и Выше (Like)
+Hello again, <PlayerName>!|Привет ещё раз, <PlayerName>!
+Hello, <PlayerName>!|Привет, <PlayerName>!
+How have you been?|Как у тебя дела?
+Oh, <PlayerName>. Hello!|Ой, <PlayerName>. Привет!
+It's you, <PlayerName>! Hello.|Это ты, <PlayerName>! Привет.
+Ah... <PlayerName>, you're here again!|Ах... <PlayerName>, ты снова здесь!
+Ah... <PlayerName>, you're back!|Ах... <PlayerName>, ты вернулся!
+///Игрок прерывает разговор
+/// 1
+Please. Calm down.|Пожалуйста. Успокойся.
+/// 2
+Stop it!|Прекрати это!
+/// 3 и дальше
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>! Стой спокойно и слушай. 
+I won't let you stay here, if you continue like this.|Я не позволю тебе остаться здесь, если ты будешь продолжать в том же духе.
+Why should I tolerate this?|Почему я должен это терпеть?
+STOP!|ОСТАНОВИСЬ!
+This again.|Опять это.
+Calm down, <PlayerName>.|Успокойся, <PlayerName>.
+///Раздражение Гальки
+Are you done?|Ты закончил?
+What are you doing?|Что ты делаешь?
+Down you go.|Спускайся вниз.
+Leave me alone!|Оставь меня в покое!
+///Возобновление прерванного разговора
+///Первые три
+Thank you.|Спасибо.
+/// 1
+As I was saying...|Как я уже говорил...
+/// 2
+As I tried to say to you...|Как я и пытался сказать тебе...
+/// 3
+Little messenger, stop that immediately!|Маленький посланник, немедленно прекрати это!
+Let's continue...|Давай продолжим...
+/// 4
+And now you expect me to continue speaking?|И теперь ты ожидаешь, что я продолжу говорить?
+Let us try again - not that it has worked well before. I was saying...|Давайте попробуем ещё раз — не то чтобы раньше это хорошо срабатывало. Я уже говорил...
+/// 5 и дальше
+As I tried to say to you...|Как я и пытался тебе сказать...
+If you behave like this, why should I talk to you?|Если ты так себя ведёшь, почему я должен с тобой разговаривать?
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|Ты приходишь сюда, но не можешь быть достаточно почтительным, чтобы выслушать меня.<LINE>Будешь ли ты слушать на этот раз?
+Now, if you let me, I will try to say this again.|А теперь, если ты позволишь, я попробую повторить это ещё раз.
+///Перед тем, как поставить отметку
+Just a minute, little messenger.|Минуточку, маленький посланник.
+///Уходи
+You've helped me, and I am thankful for that, but you must go now.|Ты помог мне, и я благодарен тебе за это, но сейчас ты должен уйти.
+///Чтение жемчужин
+/// 1
+Oh, something from outside?|Ох, что-то извне?
+/// 2
+Another thing for me to inspect?|Ещё кое-что, что я должен проверить?
+I will take a look.|Я сейчас посмотрю.
+/// 3 (like)
+What is that, <PlayerName>?|Что это, <PlayerName>?
+/// 3 (not like)
+What is it, <PlayerName>?|Что это, <PlayerName>?
+/// 4
+Yet another thing?|Ещё кое-что?
+/// 5 и дальше (like)
+Another thing for me to study?|Ещё одна вещь, которую я должен изучить?
+You're unusually curious, <PlayerName>!|Ты необычайно любопытен, <PlayerName>!
+Oh... I will look at it.|Ох... Я посмотрю на это.
+Oh... sure, I will take a look.|Ох... конечно, я посмотрю.
+/// 5 и дальше
+Something new you want me to investigate, <PlayerName>?|Ты хочешь, чтобы я исследовал что-то новое, <PlayerName>?
+Let me see.|Дай-ка я посмотрю.
+Oh, what is that, <PlayerName>?|Ох, что это, <PlayerName>?
+Yet another thing?|Ещё кое-что?
+Your curiosity seems expansive, <PlayerName>.|Твоё любопытство кажется безграничным, <PlayerName>.
+Something else you want me to look at?|Ты хочешь, чтобы я посмотрел на что-то ещё?
+Something else you want me to see,<LINE>I suppose, <PlayerName>?|Я полагаю, ты хочешь, чтобы я увидел что-то ещё, <PlayerName>?
+Oh... I will take a look.|Ох... Я сейчас посмотрю.
+Do you want me to take a look at that?|Ты хочешь, чтобы я взглянул на это?
+Oh... Should I look at that?|Ох... Должен ли я взглянуть на это?
+Another thing for me, <PlayerName>?|Ещё одна вещь для меня, <PlayerName>?
+A new object for me, <PlayerName>?|Новый предмет для меня, <PlayerName>?
+///Чтение то го же сомого
+///Жемчужины
+I have already read this one to you, <PlayerName>.|Я уже читал тебе это, <PlayerName>.
+This one I've already read to you, <PlayerName>.|Эту я тебе уже читал, <PlayerName>.
+This one, <PlayerName>?|Ещё одна, <PlayerName>?
+///Предмет
+We have already talked about this one, <PlayerName>.|Мы уже говорили об этом, <PlayerName>.
+I've told you about this one, <PlayerName>.|Я уже рассказывал тебе об этом, <PlayerName>.
+<PlayerName>! AGAIN with this?|<PlayerName>! ОПЯТЬ это?
+///Взять предмет при разговоре
+/// Moon_Pearl_CC
+GIVE THAT BACK, VERMIN!|ОТДАЙ ЭТО, ВРЕДИТЕЛЬ!
+///Уже не нравишься
+Yes, take it and don't bother me.|Да, возьми это и не беспокой меня.
+And now you're taking it.|И теперь ты принимаешь это.
+///Нейтральная
+Oh... Okay, have it back.|Ох... Ладно, забирай это обратно.
+You want it back?|Ты хочешь её вернуть?
+And now you're taking it back.|А теперь ты забираешь свои слова обратно.
+Want it back, <PlayerName>?|Хочешь получить её обратно, <PlayerName>?
+Oh...|Ох...
+Yes, you may to have it back.|Да, ты можешь получить её обратно.
+///Чтение любой жемчужины
+/// 1
+Ah, a pearl. Not the message though. Would you like me to read it to you?|Ах, жемчужина. Но это не послание. Хочешь, я тебе её прочту?
+/// 2
+Another pearl! You want me to read this one too? Just a moment...|Ещё одна жемчужина! Хочешь, я прочту и эту тоже? Минуточку...
+/// 3
+And yet another one! I will read it to you.|И ещё одна! Я тебе её зачитаю.
+/// 4
+Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits?|Другая? Твоя жажда знаний — это действительно нечто!<LINE>Или это потому, что моё чтение поднимают тебе настроение?
+/// 4 доп диалог при хороших отношениях с Галькой
+Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|Давай посмотрим...<LINE>Честно говоря, <PlayerName>, мне так же, как и тебе, любопытно посмотреть, что там внутри.
+/// 5 и дальше
+The scavengers must be envious of you.|Мусорщики, должно быть, завидуют тебе.
+Here we go again, <PlayerName>. Let's read your pearl.|И снова ты, <PlayerName>. Давай прочтём твою жемчужину.
+... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.|...Знаешь, у тебя это неплохо получается. Маленький зверёк-археолог.<LINE>А теперь давай посмотрим, что там написано.
+And yet another one! I will read it to you in a moment.|И ещё одна! Я зачитаю её тебе через минуту.
+So many of these lately! I see you've been wandering the world a lot.|В последнее время их так много! Я вижу, ты много путешествуешь по миру.
+///Чтени жемчужин (Луна) (Рандом)
+/// 1
+You would like me to read this?|Ты хотел бы, чтобы я это прочитала?
+This pearl must have been used recently. You can still feel the heat.|Эта жемчужина, должно быть, использовалась недавно. Я всё ешё чевствую тепло.
+/// 2
+A pearl... This one is crystal clear - it was used recently.|Жемчужина... Эта жемчужина кристально чистая — её использовали недавно.
+/// 3
+Would you like me to read this pearl?|Хочешь, я прочту тебе эту жемчужину?
+It has been recently written to.|Об этом недавно было написано.
+/// 4
+This pearl has been written to just now!|Эта жемчужина была написана только что!
+/// 5
+Let's see... A pearl...|Давай посмотрим... Жемчужина...
+And this one is sharp! It was not long ago this data was written to it!|А эта — острая! Не так давно в неё были записаны данные!
+///Сообщения СКС
+/// 1
+[Incoming direct communication]|[Входящая прямая связь]
+Hey, little envoy, wherever you're going - I suggest you turn back a bit.|Эй, маленький посланник, куда бы ты ни направлялся, я предлагаю тебе немного повернуть назад.
+The signal is getting too awry, I can't get a good reading of your status.|Сигнал становится слишком сбивчивым, я не могу точно определить твоё состояние.
+/// 2
+[Warning: Low signal strength detected]|[Предупреждение: Обнаружен низкий уровень сигнала]
+You're still not out of there! Unbelievable!|Ты всё ещё не выбрался оттуда! Невероятно!
+Well, I'm no longer aware of what's going on around you, but I believe that you have a reason to go so deep that the local array can't reach you.|Что ж, я больше не в курсе того, что происходит вокруг тебя, но я верю, что у тебя есть причина проникнуть так глубоко, что локальный массив не может до тебя дотянуться.
+Still, I strongly advise you turn back when you can.|Тем не менее, я настоятельно советую тебе повернуть назад, когда сможешь.
+/// 3
+[Incoming direct communication from low frequency emergency channel]|[Входящая прямая связь по низкочастотному аварийному каналу]
+[Utilizing stored energy to increase signal gain...]|[Использование накопленной энергии для увеличения усиления сигнала...]
+What is going on? I've stopped getting any data, the rebound is zeroed completely!|Что происходит? Я перестал получать какие-либо данные, отдача полностью обнулена!
+I can't believe I'm talking into the void - turn back this instant!|Я не могу поверить, что говорю в пустоту - немедленно поверни назад!
+Nibby, you can still hear me, I know how the protocol works, I wrote it! GO. BACK.|Кроха, ты всё ещё слышишь меня, я знаю, как работает протокол, я написал его! ИДИ. НАЗАД.
+Wait, what if he can't hear me? Did the chip fry? Is he being dragged by predators?|Подожди, а что, если он меня не слышит? Чип поджарился? Неужели его утащили хищники?
+///?
+[Rerouting Protocol Initiated]<LINE>[Owner ID Handle: 'S3_sidify']|[Инициирован протокол перенаправления]<LINE>[Дескриптор идентификатора владельца: 'S3_sidify']
+///?
+[Uncoupling artificial glial cells...]|[Отсоединение искусственных глиальных клеток...]
+///?
+[No-Threat Area Located]|[Нет-Расположенния зоны угрозы]
+///?
+[Severed connections recovered]|[Разорванное соединение восстановлено]
+[Condition nominal]|[Состояние номинальное]
+///?
+There. There we go. You should be safe now, hopefully.|Вот. Вот так-то. Надеюсь, теперь ты в безопасности.
+Rest well, and then off you go to Pebbles!|Отдохни хорошенько, а потом отправляйся к Гальке!
+///КОНЕЦ СООБЩЕНИЙ
