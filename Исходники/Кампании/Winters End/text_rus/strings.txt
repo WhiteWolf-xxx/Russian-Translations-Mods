@@ -1,0 +1,90 @@
+///Winters End (3424930016)///
+SnowBee.Snow-name|Конец Зимы
+SnowBee.Snow-description|Расширение и другой взгляд на мир.
+///Меню
+The SnowFlake|Снежинка
+THE SNOWFLAKE|СНЕЖИНКА
+SnowFlake|Снежинка
+Fragile in the embrace of its icy power, navigates the brutal blizzards with a remarkable resilience. <LINE>Its unique survival skills keep it thriving amidst the unforgiving snowscape.|Хрупкий в объятиях своей ледяной мощи, он с поразительной стойкостью преодолевает жестокие снежные бури.<LINE>Благодаря уникальным навыкам выживания он процветает среди неумолимого снежного пейзажа.
+The Lumia|Люмия
+THE LUMIA|ЛЮМИЯ
+Lumia|Люмия
+Seems concerned about the two iterators.|Похоже, вас беспокоят два итератора.
+The Frost|Мороз
+THE FROST|Мороз
+The Frost|Мороз
+A nimble and agile ice-type slugcat, adept at navigating frozen terrains with ease. <LINE>Its sleek blend seamlessly into icy environments, making it survival in the coldest of climates.|Шустрый и маневренный ледяной слизнекот, умеющий с легкостью перемещаться по замерзшей местности.<LINE>Его гладкая форма органично вписывается в ледяную среду, что позволяет ему выживать в самом холодном климате.
+Details|Детали
+Blush|Румянец
+///Миссии
+UNLOCKS|ОТКРЫТО
+Hungry Beecat|Голодный Пчелокот
+Hunting Critters|Охота на Тварей
+Venture out Flowers|Цветочная Авантюра
+Friends to Lose|Потерянные Друзья
+Losing ideas|Потерянная идея
+Snowy Snuggly Business|Снежный Уютный Комплекс
+Fight than flee!|Сражайся, а не убегай!
+What?|Что?
+Lovable Critters|Милые Создания
+Lore Advocate|Защитник Знаний
+Blizzard Lizard|Снежные ящеры
+Frost Lizard|Морозные ящеры
+Glace Lizard|Глазированные ящеры
+Ice Lizard|Ледяные ящеры
+WEBlizard Lizard|Перепончатокрылые ящеры
+Cryptic Centi|Скрытные сороконожки
+Frosti Centi|Морозные сороконожки
+IceSpear|Ледяные копья
+DataPearl|Жемчины
+<region> pearl delivered to CryoBloom|<region>: доставь жемчужину Хладоцвету
+///Ремикс
+Winters End|Конец Зимы
+///Создатели
+Thanks to|Спасибо вам:
+Arts: Tsunochizu, Lat, Elliot (from the snowbee hug), Allux (Snowflake ending art)|Арты: Tsunochizu, Lat, Elliot (from the snowbee hug), Allux (Snowflake ending art)
+Music Threat Theme: Roasted, Sequoia7|Музыкальная Тема Угрозы: Roasted, Sequoia7
+Misc Music: itsloq(Iterator Music)|Разная Музыка: itsloq (Iterator Music)
+Parts: RegionKit (Fan Codes Fix Ver.), Master (Gate Effects, Conveyor, and fruit)|Частицы: RegionKit (Fan Codes Fix Ver.), Master (Gate Effects, Conveyor, and fruit)
+PLAYTESTER|ТЕСТЕРЫ
+///Опции
+Snowflake|Снежинка
+Able to grab snowflake|Способность схватить снежинку
+Less Particle|Меньше Частиц
+///Читы
+Remove Z1 Requirements|Удалить требования Z1
+///Регионы
+Conduit Reliquary|Трубопроводный реликварий
+NaturePath|Природный путь
+Outpost Citadel|Цитадельная застава
+Terrestrial Tower|Наземная башня
+Blizzard's Embrace|Объятья метели
+Frostbite Hailstorm |Обмёрзший град
+Tundra Ruinfields|Тундровые руины
+Terranium Train|Поезд Терраниум
+Ashen Desolation|Пепельное запустение
+Dusk|Сумерки
+Eroded Ridge|Разрушенный хребет
+FrostFall Expanse|Ледяные просторы
+Withered Wall|Иссохшая стена
+CryoBloom|Хладоцвет
+CryoBloom Chamber|Хладоцвет (Камера)
+CryoBloom (General Bus)|Хладоцвет (Общая шина)
+CryoBloom (Data Recursive Data)|Хладоцвет (Данные рекурсивных данных)
+CryoBloom (PowerLine System)|Хладоцвет (Система линий электропередачи)
+CryoBloom (Memory Flux Lane)|Хладоцвет (Полоса потока памяти)
+Glacial Tower|Ледяная башня
+///Снежинка
+///Обучение
+[ Pause to see all mechanic ]|[Поставьте паузу, чтобы просмотреть все механики]
+Grab + Jmp = Double jump, Weakens by the high hypothermia|Нажмите «Взять» + «Прыжок» = Двойной прыжок, Ослабевает при сильном переохлаждении
+Snowflake Mechanic:|Механики Снежинки:
+Hold Grab + Press Jump: Double Jump|Нажмите «Взять» + «Прыжок», чтобы сделать двойной прыжок
+Hold Down: Warm up to lower hypothermia|Нажмите «Вниз», чтобы согреться и снизить переохлаждение
+Hold Down + Grab + Press Jump: SnowPuffs|Нажмите «Вниз» + «Взять» + «Прыжок», чтобы сделать снежную завесу
+Hold Grab with spear and 1 food pip: Ice Spear|Нажмите «Взять» с копьём в руках и 1 кусочком еды, чтобы сделать ледяное копьё
+Slide/Crawling: Deal more damage|Скольжение и ползание наносит больше урона
+Slide Pounce: Stun and deal minor damage|Скользящий удар оглушает и наносит незначительный урон
+///Мороз
+Frost Mechanic:|Механики Мороза:
+///КОНЕЦ СООБЩЕНИЙ

@@ -1,0 +1,299 @@
+///Winters End (3424930016)///
+SnowBee.Snow-name|Конец Зимы
+SnowBee.Snow-description|Расширение и другой взгляд на мир.
+///Меню
+The SnowFlake|Снежинка
+THE SNOWFLAKE|СНЕЖИНКА
+SnowFlake|Снежинка
+Fragile in the embrace of its icy power, navigates the brutal blizzards with a remarkable resilience. <LINE>Its unique survival skills keep it thriving amidst the unforgiving snowscape.|Хрупкий в объятиях своей ледяной мощи, он с поразительной стойкостью преодолевает жестокие снежные бури.<LINE>Благодаря уникальным навыкам выживания он процветает среди неумолимого снежного пейзажа.
+The Lumia|Люмия
+THE LUMIA|ЛЮМИЯ
+Lumia|Люмия
+Seems concerned about the two iterators.|Похоже, вас беспокоят два итератора.
+The Frost|Мороз
+THE FROST|Мороз
+The Frost|Мороз
+A nimble and agile ice-type slugcat, adept at navigating frozen terrains with ease. <LINE>Its sleek blend seamlessly into icy environments, making it survival in the coldest of climates.|Шустрый и маневренный ледяной слизнекот, умеющий с легкостью перемещаться по замерзшей местности.<LINE>Его гладкая форма органично вписывается в ледяную среду, что позволяет ему выживать в самом холодном климате.
+Snowbee|
+Snowflake, fragile yet resilient, twirls with icy grace. Alongside the playful Beecat, \na jolly duo emerges, their unique bond partner blossoming amidst the snowscape.|
+Details|Детали
+Blush|Румянец
+///Миссии
+UNLOCKS|ОТКРЫТО
+Hungry Beecat|Голодный Пчелокот
+Hunting Critters|Охота на Тварей
+Venture out Flowers|Цветочная Авантюра
+Friends to Lose|Потерянные Друзья
+Losing ideas|Потерянная идея
+Snowy Snuggly Business|Снежный Уютный Комплекс
+Fight than flee!|Сражайся, а не убегай!
+What?|Что?
+Lovable Critters|Милые Создания
+Lore Advocate|Защитник Знаний
+Blizzard Lizard|Снежные ящеры
+Frost Lizard|Морозные ящеры
+Glace Lizard|Глазированные ящеры
+Ice Lizard|Ледяные ящеры
+WEBlizard Lizard|Перепончатокрылые ящеры
+Cryptic Centi|Скрытные сороконожки
+Frosti Centi|Морозные сороконожки
+IceSpear|Ледяные копья
+DataPearl|Жемчины
+<region> pearl delivered to CryoBloom|<region>: доставь жемчужину Хладоцвету
+///Ремикс
+Winters End|Конец Зимы
+///Создатели
+Thanks to|Спасибо вам:
+Arts: Tsunochizu, Lat, Elliot (from the snowbee hug), Allux (Snowflake ending art)|Арты: Tsunochizu, Lat, Elliot (from the snowbee hug), Allux (Snowflake ending art)
+Music Threat Theme: Roasted, Sequoia7|Музыкальная Тема Угрозы: Roasted, Sequoia7
+Misc Music: itsloq(Iterator Music)|Разная Музыка: itsloq (Iterator Music)
+Parts: RegionKit (Fan Codes Fix Ver.), Master (Gate Effects, Conveyor, and fruit)|Частицы: RegionKit (Fan Codes Fix Ver.), Master (Gate Effects, Conveyor, and fruit)
+PLAYTESTER|ТЕСТЕРЫ
+///Опции
+Snowflake|Снежинка
+Able to grab snowflake|Способность схватить снежинку
+Less Particle|Меньше Частиц
+///Читы
+Remove Z1 Requirements|Удалить требования Z1
+///Регионы
+Conduit Reliquary|Трубопроводный реликварий
+NaturePath|Природный путь
+Outpost Citadel|Цитадельная застава
+Terrestrial Tower|Наземная башня
+Blizzard's Embrace|Объятья метели
+Frostbite Hailstorm |Обмёрзший град
+Tundra Ruinfields|Тундровые руины
+Terranium Train|Поезд Терраниум
+Ashen Desolation|Пепельное запустение
+Dusk|Сумерки
+Eroded Ridge|Разрушенный хребет
+FrostFall Expanse|Ледяные просторы
+Withered Wall|Иссохшая стена
+CryoBloom|Хладоцвет
+CryoBloom Chamber|Хладоцвет (Камера)
+CryoBloom (General Bus)|Хладоцвет (Общая шина)
+CryoBloom (Data Recursive Data)|Хладоцвет (Данные рекурсивных данных)
+CryoBloom (PowerLine System)|Хладоцвет (Система линий электропередачи)
+CryoBloom (Memory Flux Lane)|Хладоцвет (Полоса потока памяти)
+Glacial Tower|Ледяная башня
+///Снежинка
+///Обучение
+[ Pause to see all mechanic ]|[Поставьте паузу, чтобы просмотреть все механики]
+Grab + Jmp = Double jump, Weakens by the high hypothermia|Нажмите «Взять» + «Прыжок» = Двойной прыжок, Ослабевает при сильном переохлаждении
+Snowflake Mechanic:|Механики Снежинки:
+Hold Grab + Press Jump: Double Jump|Нажмите «Взять» + «Прыжок», чтобы сделать двойной прыжок
+Hold Down: Warm up to lower hypothermia|Нажмите «Вниз», чтобы согреться и снизить переохлаждение
+Hold Down + Grab + Press Jump: SnowPuffs|Нажмите «Вниз» + «Взять» + «Прыжок», чтобы сделать снежную завесу
+Hold Grab with spear and 1 food pip: Ice Spear|Нажмите «Взять» с копьём в руках и 1 кусочком еды, чтобы сделать ледяное копьё
+Slide/Crawling: Deal more damage|Скольжение и ползание наносит больше урона
+Slide Pounce: Stun and deal minor damage|Скользящий удар оглушает и наносит незначительный урон
+Use Grab + Jump to activate double jump, it gets weakens as you get high hypoerthermia.
+Grab + down + jump will activate snowpuff, this will make a small puff of cloud to blind them, A good way to run or hide inside.
+///Мороз
+Frost Mechanic:|Механики Мороза:
+///Пчелокот
+...
+Can you hear me..?
+...
+I... I don't know if you're still there...
+I tried to reach you sooner... but everything is falling apart...
+...
+I... I don’t know what to say...
+Did we fail? Is this the end?
+I wanted to save you... but I don't know if I can...
+...
+Please, if you can still hear me... say something...
+Anything...
+...
+But maybe... it's too late.
+///?
+...
+...?
+?!
+The telecommunication is back?.
+...
+I must check on my friend...
+...
+Please, if you can still hear me... say something...
+Anything...
+...
+But maybe... it's too late.
+There is nothing i can do now.
+I wonder who fix the tower...
+///Люмия
+Ah, another creature.
+...
+feels familiar.
+Lumia..? is that.
+...
+i.. remember you..
+i'm deeply sorry what you've done to yourself...
+your body seems.. good condition what i saw.
+...
+Give that pearl to Moon.
+and leave. I want you to be safe..
+///?
+lumia..?
+wake up..
+wake up..
+Can you hear me?
+...
+...the blackout will rouse her...
+...
+If you're seeing this, Lumia.
+Take the pearl...
+Give it to two nearby iterators...
+///Снежинка
+...
+..?
+A creature?
+How interesting. It got into my chamber.
+I must assume you did not arrive here of your own volition.
+Whatever led you here whether accident or intention it is wasted effort.
+There is nothing of value for you within this place.
+I suggest you turn back. No curiosity for beings such as yourself.
+///?
+Oh.
+You're back
+There is nothing i can do in this chamber.
+Who brought you here still?
+Although, i feel something you have..
+May I see?
+
+...
+This pearl...
+It holds significance beyond your understanding.
+Deliver it to the top of the tower. It is imperative.
+You may not comprehend its importance, but you have my gratitude.
+Do not delay.
+The reason I require your assistance is simple.
+Something has occurred...
+The communication tower’s processing unit has been damaged.
+///?
+...
+..?
+A creature?
+How interesting. It got into my chamber.
+Who brought you here, intelligent creature?
+Although, i feel something you have..
+May I see?
+
+...
+This pearl...
+It holds significance beyond your understanding.
+Deliver it to the top of the tower. It is imperative.
+You may not comprehend its importance, but you have my gratitude.
+Do not delay.
+The reason I require your assistance is simple.
+Something has occurred...
+The communication tower’s processing unit has been damaged.
+///?
+...
+Does this method suffice? Is this reaching you?
+
+You two are quite adorable. You should work together in this situation.
+Perhaps a kinder entity has already tried, though their success is uncertain.
+Now, I find myself requiring your assistance to stabilize this decaying structure.
+Time is not a resource we can afford to squander.
+Here. This device will serve as your temporary Drone.
+It's calibrated to interact with the core systems of the power network.
+Travel to Outpost Citadel, that's where ancient lived. Beyond that, head bottom left of the map.
+There's a gate, only for drone unit to open. To avoid any dangerous creature coming in.
+There lies the system drawing power to sustain this place.
+We will speak further when the energy flow is restored. I trust you.
+
+...
+I will wait... for as long as I can.
+///?
+...
+A different species.
+Curious. Speak.
+Your kind should not persist in these conditions.
+I am surprised you survive so far from safer habitats.
+Your body temperature teeters dangerously close to hyperthermic collapse.
+Yet... you are alive. Resilient, against odds.
+
+What drives you here, small creature? Is it mere instinct?
+Or perhaps... something more?
+Your presence warrants observation. Speak or act. I will watch.
+
+Bye.
+///?
+...
+There is nothing i can talk.
+You can sleep here now.
+///?
+...
+We don't have time.
+Please.
+///?
+...
+///?
+...
+You finally come back.
+Thank you.
+I don't understand why the power went malfunction itself.
+Where ancient lives now? Where are they?
+Been a long time.
+...
+Your efforts have preserved my existence an outcome I had not dared to hope for.
+Now, I must attempt to establish contact with an acquaintance.
+....
+
+... It appears I cannot.
+What has become of the other places, I wonder?
+
+...
+Nevertheless, my gratitude remains.
+If you carry pearls or seek answers, I will do what I can to assist.
+My name is Cryobloom Mist.
+Often call as cryobloom.
+...
+I can only hope they are safe.
+///?
+You two should be along together.
+
+...
+I have gathered more data on you...
+You are different from the others I have seen.
+Your behavior unlike the usual patterns.
+Sadly, I cannot trace your past. I wish I knew what happened to you.\r\n
+...
+You appear weak... yet you stand against hostile creatures without hesitation.
+Nonetheless, I believe you can endure.
+///?
+Hello.
+All the system is restored.
+Again, thank you.
+i don't have any plans but you can enjoy resting here.
+As your own big little chamber with me.
+i have nothing to do on, Take a good rest.
+///?
+I do not have time, please.
+
+I cant help with this, i need you to restore my power.
+
+Time is ticking, please quick.
+
+You really like to know this pearl, Later after you restore the power.
+
+...
+///?
+...
+///?
+Lets see.
+///?
+...?
+Let me read this pearl.
+
+A pearl. How intriguing.
+Its data is fragmented, but I will extract what I can.
+
+Pearl one? These objects hold secrets even their creators forgot.
+This will take a moment to process.
+
+Hmm. This pearl is unlike the others.
+The data might be corrupted, but there’s something here...
+
+What is this? An offering?
+Very well. Let me see if it holds anything of value.
