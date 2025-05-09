@@ -1,0 +1,10 @@
+///Aqueducts CustomRegion (3122525868)///
+aqueducts-name|Океанический Акведук
+aqueducts-description|Большой регион, соединяющий Побережье и Небесные острова. Предназначен для игры за охотника, Акведуки представляют собой сложную задачу в бою.
+Oceanic Aqueduct|Океанический акведук
+Overgrown Aqueduct|Заросший акведук
+Great filter|Отличный фильтр
+Storerooms|Складские помещения
+Shell|Ракушка
+Rotten pipes|Гнилые трубы
+WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|ПРЕДУПРЕЖДЕНИЕ! Неподготовленного подстерегает серьезная опасность (рекомендуемая сложность - охотник)

@@ -1,0 +1,10 @@
+///Aqueducts CustomRegion (3122525868)///
+aqueducts-name|Aqueducts CustomRegion
+aqueducts-description|A large region connecting shoreline and sky islands. Meant to be played as hunter, Aqueducts presents a challenge in combat.
+Oceanic Aqueduct|Океанический акведук
+Overgrown Aqueduct|Заросший акведук
+Great filter|Отличный фильтр
+Storerooms|Складские помещения
+Shell|Ракушка
+Rotten pipes|Гнилые трубы
+WARNING! grave danger awaits the unprepared (Hunter difficulty reccommended)|ПРЕДУПРЕЖДЕНИЕ! Неподготовленного подстерегает серьезная опасность (рекомендуемая сложность - охотник)
