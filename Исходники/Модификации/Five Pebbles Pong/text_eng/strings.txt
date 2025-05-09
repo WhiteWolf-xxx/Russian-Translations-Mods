@@ -1,0 +1,106 @@
+///Five Pebbles Pong (2942659714)///
+maxi-mol.fivepebblespong-name|Five Pebbles Pong
+maxi-mol.fivepebblespong-description|Adds a game controller to Five Pebbles' room. If a player grabs it, Pebbles invites you to play Pong. The controls are the up and down keys. This mod does not alter existing dialogue or behavior.
+///Я не буду это расписывать
+///Looks like your score is |Похоже, твой результат таков 
+///Your new highscore!|Твой новый рекорд!
+///Your highscore is |Твой рекорд равен 
+Nice!|Класс!
+No cheating!|Не читери!
+That won't lower my score, but I appreciate your creativity!|Это не снизит мой балл, но я ценю твою креативность!
+It looks like we used all pearls.|Похоже, что мы использовали весь жемчуг.
+Git gud.|Стань лучше.
+Now that's a lot of playtime!|Теперь у нас будет много времени для игр!
+You're a talented little creature.|Ты талантливое маленькое создание.
+Nice.|Класс.
+Well done!|Отличная работа!
+You're getting better every game!|Ты становишься лучше с каждой игрой!
+Let's make this somewhat fair.|Давай сделаем всё по-честному.
+Try again.|Попробуй ещё раз.
+Sorry, the game has become a bit difficult now that there's water in this room.|Извини, но теперь, когда в этой комнате есть вода, игра стала немного сложнее.
+I see you've found a controller. Let's check if it still works.|Я вижу, ты нашёл контроллер. Давай проверим, работает ли он ещё.
+Sure, let's play a game.|Конечно, давай поиграем в игру.
+Sure, I can make some time.|Конечно, я смогу выкроить немного времени.
+A game is fine. I don't have a lot to occupy my time with anyway...|Игра — это прекрасно. В любом случае, мне нечем занять своё время...
+One moment. Let me turn the projector back on.|Минутку. Позволь мне снова включить проектор.
+One moment. ...I hope you don't have epilepsy.|Минутку. ...Надеюсь, у тебя нет эпилепсии.
+One moment. The projector is having some difficulties.|Минутку. У проектора возникли некоторые проблемы.
+Yes, you'd better go. For your own sake.|Да, тебе лучше уйти. Ради своего же блага.
+Don't want to? That's ok.|Не хочешь? Ничего страшного.
+I will take that as a no.|Я приму это как «Нет».
+I see you've changed your mind.|Я вижу, ты передумал.
+Follow one of my overseers, it will show you where the energy rail is.|Следуй за одним из моих наблюдателей, он покажет тебе, где находится энергетическая рельса.
+An overseer will catch up to you, and show you where the mass rarefaction cell is.|Наблюдатель догонит тебя и покажет, где находится камера массового разрежения.
+Please follow one of my overseers to the energy rail.<LINE>Pay close attention, and it will show you where to go.|Пожалуйста, следуй за одним из моих наблюдателей к энергетической рельсе.<LINE>Будь очень внимателен, и он покажет тебе, куда идти.
+Don't forget to bring the cell to Looks to the Moon.|Не забудьте взять с собой ячейку, к Смотрящей на Луну.
+The mass rarefaction cell, please take it to the structure in the far east.<LINE>It might still be of value there.|Ячейка массового разрежения, пожалуйста, отнеси в структуру на дальнем Востоке.<LINE>Возможно, там она ещё может пригодиться.
+Take that rarefaction cell with you to the far east.<LINE>Then for your own sake, never return here.|Возьмите эту ячейку массового разрежения с собой на дальний восток.<LINE>А потом, ради своего же блага, никогда не возвращайся сюда.
+Have you got the cell to Looks to the Moon?|У тебя есть ячейка для Смотрящей на Луну?
+Have you been to Looks to the Moon yet?|Ты уже побывал у Смотрящей на Луну?
+The energy rail has shut down. Dit you get the cell to it's new owner?<LINE>...if she is somehow still alive.|Система подачи энергии отключилась. Не мог бы ты передать ячейку её новой владелице?<LINE>...Если она каким-то образом всё ещё жива.
+Thanks for playing. But again, you should leave.<LINE>Leave quickly while you still can.|Спасибо, за игру. Но, повторяю, тебе следует уйти.<LINE>Уходи быстрее, пока ещё можешь.
+This structure is in a constant state of decay.<LINE>Please find a way out little creature.|Эта структура находится в состоянии постоянного распада.<LINE>Пожалуйста, найди выход, маленькое создание.
+Sure, I'll play a game with you!|Конечно, я поиграю с тобой в одну игру!
+It's been a while since I last played this one...|Прошло много времени с тех пор, как я в последний раз играла в эту игру...
+Ah, don't want to?|Ах, не хочешь?
+No obligations.|Никаких обязаностей.
+You're welcome to play again!|Добро пожаловать в игру снова!
+That was fun. Unfortunately I don't have many other games currently.|Это было весело. К сожалению, в настоящее время у меня не так много других игр.
+Thank you for playing!|Спасибо тебе за игру!
+No games. I am currently very busy.|Никаких игр. Сейчас я очень занят.
+Well, a little game shouldn't hurt.|Что ж, небольшая игра не повредит.
+Fine, I needed a break.|Ладно, мне нужен был перерыв.
+Have you made up your mind?|Ты уже принял решение?
+You're just playing with that, aren't you..|Ты просто играешь с этим, не так ли...
+I'll ignore that.|Я проигнорирую это.
+Pick one.|Выбери одну.
+You may grab a pearl.|Ты можешь взять жемчужину.
+To choose a game, you'll have to grab a pearl.|Чтобы выбрать игру, тебе нужно будет взять жемчужину.
+It's yours now, please keep it.|Теперь он твой, пожалуйста, сохрани его.
+That's also not edible.|Это тоже несъедобно.
+I think you've dropped something...|Мне кажется, ты что-то уронил...
+You are not very decisive.|Ты не очень решителен.
+Now, please leave. I would prefer to be alone.|А теперь, пожалуйста, уходи. Я бы предпочёл побыть один.
+Game is over, please leave. I would prefer to be alone.|Игра окончена, пожалуйста, уходи. Я бы предпочёл побыть один.
+Ok. Now, please leave.|Хорошо. А теперь, пожалуйста, уходи.
+I'd prefer if you left, little creature.|Я бы предпочёл, чтобы ты ушёл, маленькое создание.
+Ok, where was I?|Ладно, на чем я остановился?
+Now, what was I saying?|Итак, о чем я говорил?
+Break is over.|Перерыв закончился.
+Ok, one game. But please, hurry to Five Pebbles.|Ладно, одна игра. Но, пожалуйста, поторопись к Пяти Галькам.
+I don't have much time left.<LINE>After this game, please be on your way.|У меня осталось не так много времени.<LINE>После этой игры, пожалуйста, отправляйся своей дорогой.
+Every minute counts. After this game,<LINE>please be on your way.|На счету каждая минута. После этой игры, пожалуйста, отправляйся своей дорогой.
+Ok, one game. Have you been to Five Pebbles yet?|Ладно, одна игра. Ты уже был у Пяти Галек?
+One game is fine. Don't forget to deliver<LINE>the pearl to the Communications Array.|Одной игры вполне достаточно. Не забудьте доставить жемчужину в Массив связи.
+A game is ok, but you need to leave soon.<LINE>I don't want you to get hit by falling debris. Or.. me.|Игра — это хорошо, но тебе нужно поскорее уйти.<LINE>Я не хочу, чтобы на тебя падали обломки. Или... на меня.
+Want to play a game? Don't forget about the pearl!|Хочешь поиграть? Не забудь про жемчужину!
+Games sound great!|Игры звучат великолепно!
+What game do you want to play?<LINE>I don't have that many installed.|В какую игру ты хочешь поиграть?<LINE>У меня не так уж много игр.
+The device should be durable.<LINE>You do not have to test it.|Устройство должно быть долговечным.<LINE>Тебе не нужно его тестировать.
+Games can wait. Please hurry, little messenger!|Игры могут подождать. Пожалуйста, поторопись, маленький посланник!
+There is an elevated cable to the west.<LINE>It is the fastest way to Five Pebbles.|На западе находится эстакада.<LINE>Это самый быстрый способ добраться до Пяти Галек.
+Time is running out. Please hurry!|Время на исходе. Пожалуйста, поторопись!
+Did you deliver the pearl to Five Pebbles?|Ты доставил жемчужину к Пяти Галькам?
+Games can wait. Did you get the pearl to the Communications Array?|Игры могут подождать. Ты доставил жемчужину в Массив связи?
+The Communications Array is past Five Pebbles' complex.<LINE>Don't worry, I won't get bored.|Массив связи находится за комплексом Пять Галек.<LINE>Не волнуйся, мне не будет скучно.
+You may deliver the pearl to the Communications Array on your return trip to Seven Red Suns.|Ты можешь доставить жемчужину в Массив связи на обратном пути к Семи Красным Солнцам.
+Don't forget about the pearl!|Не забудьте о жемчужине!
+Thanks for staying, but please do not say for too long.<LINE>This place will become very hazardous.|Спасибо, что остался, но, пожалуйста, не говори, что надолго.<LINE>Это место станет очень опасным.
+Thank you for your visit before you return to Seven Red Suns.|Спасибо тебе за твой визит, прежде чем ты вернёшься к Семи Красным Солнцам.
+That was fun. Thank you for your company, little creature.|Это было весело. Спасибо тебе за компанию, маленькое создание.
+You might have to leave soon. This complex will soon collapse.|Возможно, тебе скоро придется уйти. Этот комплекс скоро рухнет.
+Never mind...|Не бери в голову...
+Hey, you found my controller! I was wondering where I left it..|Эй, ты нашёл мой контроллер! Я всё думала, где я его оставила...
+I haven't seen this thing since my collapse. Where did you find this?|Я не видела эту штуку с тех пор, как упала в обморок. Где ты его нашёл?
+It's a miracle it still works.|Это чудо, что он всё ещё работает.
+Another one? I don't remember having two..|Ещё один? Я не помню, чтобы их было два...
+The color indicates it's Five Pebbles' property.<LINE>I don't think he likes you stealing his stuff.|Цвет указывает на то, что это собственность Пяти Галек.<LINE>Не думаю, что ему нравится, что ты крадёшь его вещи.
+It's an electronic device with buttons. Where did you find this?|Это электронное устройство с кнопками. Где ты его нашёл?
+The shape looks vaguely familiar to me...|Эта форма кажется мне смутно знакомой...
+...No games...|...Нет игр...
+...Sorry...|...Извини...
+///Ремикс
+///Pacify Five Pebbles
+///Change behavior to SlumberParty when kill-on-sight action is reached. Only works with the mark (because of limitations).\nThere may be exceptions if you don't use Downpour, but it shouldn't crash the game.
+///HR Pong (SPOILER)
+///Pebbles and Moon play Pong in Rubicon before you enter.

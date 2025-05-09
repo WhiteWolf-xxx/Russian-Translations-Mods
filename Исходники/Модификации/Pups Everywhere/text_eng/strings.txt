@@ -1,0 +1,19 @@
+///Pups Everywhere (3424319552)///
+maxi-mol.fivepebblespong-name|Pups Everywhere
+maxi-mol.fivepebblespong-description|Have you ever wondered why there are no pups in [b]all campaigns or expeditions[/b]? Well, now there are! This mod adds pups to all campaigns and expeditions with some nice configurable features.\n\nUse it as you please, you can have a more Rain World like experience by leaving it with default options, or you can [b]customize it to make spawns lots of pups[/b] in the region xD. \n\nCheckout the [b]collection[/b] i've created it can make even funnier to play with.\n\n[i]Pinterest artist: Karma_De45.[/i]
+///Ремикс
+///Options|
+///Possible amount of pups to spawn in the region|
+///Bypass allowed numbers of pups in a region?|
+///Note: If you want to bypass the allowed number of pups in a region, you can set this to true. This will\n allow you to spawn as many pups as you want in a region.|
+///Allow pups to spawn on:|
+///Monk campaign|
+///Survivor campaign|
+///Hunter campaign|
+///Gourmand campaign|
+///Artificer campaign|
+///Rivulet campaign|
+///Spearmaster campaign|
+///Saint campaign|
+///Do you want a custom pup spawn chance?|
+///Allow pups to be spawned in expedition?|

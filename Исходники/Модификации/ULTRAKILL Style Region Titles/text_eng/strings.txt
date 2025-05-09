@@ -1,0 +1,40 @@
+///ULTRAKILL Style Region Titles (3050636729)///
+nacu.ultrakilltitles-name|ULTRAKILL Style Region Titles
+nacu.ultrakilltitles-description|Displays region and subregion names in the style of Ultrakill's level name pop-ups.
+
+nesting birds|nesting birds
+whisper in the darkness|whisper in the darkness
+waxing crescent|waxing crescent
+last drop of sanity|last drop of sanity
+dancing monkeys|dancing monkeys
+the slaughterhouse|the slaughterhouse
+i find it quite simple|i find it quite simple
+lost city|lost city
+el dorado|el dorado
+touch grass|touch grass
+calm before the storm|calm before the storm
+god damn the salt|god damn the salt
+endured to the end|endured to the end
+root of the problem|root of the problem
+godlike in comparison|godlike in comparison
+ancient swan song|ancient swan song
+14.3 billion spiders|14.3 billion spiders
+six miles above|six miles above
+lizards of the coast|lizards of the coast
+bug in a maze|bug in a maze
+the gift of life|the gift of life
+forgotten crossroads|forgotten crossroads
+???|???
+CRESCENDO|CRESCENDO
+CLIMAX|CLIMAX
+FIRST|FIRST
+SECOND|SECOND
+THIRD|THIRD
+FOURTH|FOURTH
+FIFTH|FIFTH
+SIXTH|SIXTH
+SEVENTH|SEVENTH
+EIGTH|EIGTH
+NINTH|NINTH
+TENTH|TENTH
+CYCLE|CYCLE

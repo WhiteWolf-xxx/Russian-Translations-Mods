@@ -1,0 +1,3 @@
+///Warp Menu (2920446893)///
+warp-name|Warp Menu
+warp-description|A utility for quickly teleporting to new rooms and regions via the Pause Menu.

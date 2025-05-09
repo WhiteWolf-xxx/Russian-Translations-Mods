@@ -1,0 +1,107 @@
+///SBCameraScroll (2928752589)///
+///SBCameraScroll-name|SBCameraScroll
+SBCameraScroll-description|Creates a smooth, scrolling camera that moves with the slugcat. Based on pipi toki's CameraScroll mod.<LINE><LINE>
+INCOMPATIBILITIES:<LINE>- The zoom camera option in the Slugcat Eyebrow Raise mod.
+///Ремикс
+///General
+General|
+SBCameraScroll Mod|
+General:|
+Camera Type|
+Position (Default)|
+This type tries to stay close to the player. A larger distance means a faster camera.\nThe smoothing factor determines how much of the distance is covered per frame.|
+Vanilla|
+Vanilla-style camera. You can center the camera by pressing the map button. Pressing the map button again will revert to vanilla camera positions.\nWhen the player is close to the edge of the screen the camera jumps a constant distance.|
+Switch|
+You can switch between the other two camera types by pressing the map button.\nThe keybinding can be configured using the mod 'Improved Input Config'.|
+Full Screen Effects|
+When disabled, full screen effects like fog, bloom and melt are removed.|
+One Screen Rooms|
+When disabled, the camera does not scroll in rooms with only one screen.|
+Smoothing Factor (8)|
+Determines how much of the distance is covered per frame. This is used when switching cameras as well to ensure a smooth transition.|
+CLEAR CACHE|
+The cache is not used anymore. Just clear it.|
+///Position
+Position|
+Position Type Camera:|
+Minimum Distance in X (2)|
+The camera does not move when the player is closer than this.|
+Minimum Distance in Y (2)|
+The camera does not move when the player is closer than this.|
+0 tiles|
+35 tiles|
+Camera Offset|
+When enabled, the camera can move ahead but still stays within the minimum distance.|
+Camera Offset Speed Multiplier (2)|
+Determines how fast the camera pulls ahead. When set to 1.0 then the offset changes as fast as the player moves.|
+///Vanilla
+Vanilla|
+Vanilla Type Camera:|
+Distance from the Edge in X (9)|
+The camera changes position if the player is closer to the edge of the screen than this value.|
+outerCameraBoxY_Vanilla|
+Distance to the Edge in Y (1)|
+The camera changes position if the player is closer to the edge of the screen than this value.|
+///Experimental
+Experimental|
+Experimental:|
+Camera Zoom (10)|
+Works for the most part but makes some shaders glitch out more. Not used when the SplitScreen Co-op mod is active.|
+Dynamic Zoom|
+When enabled, the camera zoom is adjusted dynamically per room. This removes any black borders when using custom resolutions.\nEnables scrolling in one-screen rooms. Disabled when SplitScreen Coop is used.|
+Custom Resolution:|
+Requires the format \"WIDTHxHEIGHT\". Needs to be at least 960x540.\nFirst, you need to select \"Custom\" in the Resolution combo box.|
+Resolution:|
+Overrides the current resolution. Can be used to zoom out with less\npixelation issues. Might reduce black borders on larger monitors.|
+Default|
+Resets the screen resolution.|
+Sets the screen resolution to " + resolution + " pixels.|
+Custom|
+Uses the resolution from the text box `Custom Resolution:`.|
+///Сообщения камеры
+SBCameraScroll: One or more camera screen positions are out of bounds. Remove them from cameraPositions.|
+SBCameraScroll: Remove worm grass from |
+SBCameraScroll: Region is null. Blacklist room |
+SBCameraScroll: Camera positions could not be loaded. Blacklist room |
+SBCameraScroll: This graphics card does not support large textures. Blacklist room |
+SBCameraScroll: The dimensions for the merged texture have changed. Merge again|
+SBCameraScroll: Cutting edges by modifying the texture offset.|
+SBCameraScroll: offsetModifier |
+SBCameraScroll: Merge camera textures for room " + room_name + " with " + camera_positions.Length + " cameras.|
+SBCameraScroll: Resize failed. Blacklist room |
+SBCameraScroll: Could not find or load texture with path " + room_file_path + ". Blacklist " + room_name + ".|
+SBCameraScroll: Merging completed.|
+SBCameraScroll: Encountered an exception. Blacklist |
+SBCameraScroll: Warning! Merged texture width or height is too large. Setting to the maximum and hoping for the best.|
+SBCameraScroll: The mod " + region_mod.id + " has changed one or more camera textures in the room " + room_name.ToUpper() + ". Clear the corresponding cached room texture.|
+SBCameraScroll: Initialize custom input.|
+SBCameraScroll: Improved Input Config found. Use custom keybindings.|
+SBCameraScroll: Improved Input Config not found.|
+SBCameraScroll: SplitScreen Co-op found. Enable scrolling one-screen rooms.|
+SBCameraScroll: SplitScreen Co-op not found.|
+SBCameraScroll: Checking rooms in region " + region.name + " for missing merged textures.|
+SBCameraScroll: Initialize variables.|
+SBCameraScroll: Cleanup.|
+SBCameraScroll: Could not load the asset bundle with modded shaders.\n  |
+SBCameraScroll: Didn't find the shader '" + shader_name + "'.|
+SBCameraScroll: Didn't find the modded shader for '" + shader_name + "'.|
+SBCameraScroll: Replaced the shader '" + shader_name + "'.|
+SBCameraScroll: [WARNING] Expected to be in-game. But I did not find the instance for RainWorldGame. I assume now that this is the camera for player 1 and hope for the best.|
+SBCameraScroll: [WARNING] Expected to be in-game. But I did not find the room camera for the rippleData " + ripple_data + ". I assume now this is the camera for player 1 and hope for the best.|
+SBCameraScroll: [WARNING] Did not find the game process. Aborting the function RippleCameraDataMod_LoadRippleTargetScreen().|
+SBCameraScroll: [WARNING] Did not find the room camera. Aborting the function RippleCameraDataMod_LoadRippleTargetScreen().|
+SBCameraScroll: [WARNING] Did not find any room name. Aborting the function RippleCameraDataMod_LoadRippleTargetScreen().|
+SBCameraScroll: [WARNING] Expected cam_pos_index for the loading room to be valid (>= 0) but got -1.|
+SBCameraScroll: [WARNING] Cannot load the image. The room name is not found.|
+SBCameraScroll: [WARNING] Expected room_camera.room not to be null but got null.|
+SBCameraScroll: The warp room " + room_name + " is blacklisted (for now). Try to change screens as a workaround.|
+SBCameraScroll: The room " + room_name + " is blacklisted.|
+SBCameraScroll: [WARNING] The currently loading room is null.|
+SBCameraScroll: [WARNING] Expected to be in-game. But I did not find the instance for RainWorldGame. Aborting the function RippleCameraDataMod_GetRippleTargetScreen().|
+SBCameraScroll: [WARNING] Could not calculate the level texture rectangle. Aborting the function Util_LoadRoomTextureIntoRenderTexture().|
+SBCameraScroll: [WARNING] Could not load camera positions. Aborting the function RippleCameraDataMod_GetRippleTargetScreen().|
+SBCameraScroll: Warning! Merged texture width or height is too large. Setting to the maximum and hoping for the best.|
+SBCameraScroll: Checking rooms for missing merged textures.|
+SBCameraScroll: This worm grass for room " + room.abstractRoom.name + " has no patches. Destroy.|
+SBCameraScroll: There is already worm grass in " + room.abstractRoom.name + ". Destroy the old one.|

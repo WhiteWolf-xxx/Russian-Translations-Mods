@@ -1,0 +1,3 @@
+///ImprovedCollectiblesTracker (3126910221)///
+///improvedcollectiblestracker-name|ImprovedCollectiblesTracker
+improvedcollectiblestracker-description|Трекер коллекционных предметов переработан и отображается после каждого цикла.<LINE>При наведении курсора на код региона появляется подсказка с полным его названием.<LINE>Поддерживает пользовательские регионы.

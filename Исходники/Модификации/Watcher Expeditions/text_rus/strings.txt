@@ -1,0 +1,54 @@
+///Watcher Expeditions (3466127398)
+WatcherExpeditions-name|Экспедиции для Созерцателя
+WatcherExpeditions-description|Добавляет Созерцателя в игровой режим Экспедиции.
+///Ремикс
+Fix Custom Color|Исправить Кастомный Цвет
+Spinning Top speaking|Spinning Top говорит
+Allow Spinning Top to speak. It will choose dialogues in order.|Разрешить Spinning Top говорить. Он будет выберать диалоги по порядку.
+Info Dump|Выгрузить информацию
+Dump a bunch of info|Выгрузить кучу информации.
+Passages for Watcher Campaign|Переходы для кампании Созерцателя
+Enable functional but black screen passages in the Watcher Campaign.  Blackscreens for areas as it's not compatible with the Warp Sphere and there is no art for the new areas.|Включить переходы на черном экране в кампании Созерцателя. Черные экраны для областей, поскольку это несовместимо с Warp Sphere, а для новых областей нет рисунков.
+Rot Spreading Challenge|Испытание Заражение гнилью
+Challenge where you need to infect regions to beat it.  5 with normal difficulty, range of 3-9.|Испытание, в котором вам нужно заразить регионы, чтобы победить. 5 с обычной сложностью, диапазон 3-9.
+Watcher Jukebox|Музыка Созерцателя
+Add Watcher soundtrack to the Jukebox. No unlock required.|Добавить саундтрек Созерцателя в музыкальный автомат. Разблокировка не требуется.
+Watcher Sandbox|Песочница Созерцателя
+Move Jukebox button|Переместить кнопку музыкального автомата
+Move the Jukebox button to better fit the Watcher next to the other slugcats.|Переместить кнопку музыкального автомата, чтобы Созерцатель лучше поместился рядом с другими слизнекотами.
+Starting Ripple|Начальная Пульсация
+Starting amount of Ripple. The karma replacement.|Начальная величина пульсации. Замена кармы.
+Starting min Ripple|Начальная мин. Пульсация
+Starting amount of minimum Ripple. If you didn't know, your minimum increases as you visit Spinning Top more times.|Начальная величина минимальной пульсации. Если вы не знали, ваш минимальный размер увеличивается по мере того, как вы посещаете Spinning Top больше раз.
+Starting max Ripple|Начальная макс. Пульсация
+Starting amount of max Ripple. You need 3 max Ripple to open Portals. 5 Ripple to hover. 8 Ripple to teleport to all Regions. 9 Ripple to enter Daemon.|Начальная величина максимальной пульсации. Вам нужна 3-я, чтобы открывать Порталы. 5-я для парения. 8-я для телепортации во все регионы. 9-я для входа к Искусителю.
+Max Ripple difference|Макс. разница в пульсациях
+Your max and minimum Ripple will be at most this far apart. |Ваши максимальная и минимальная пульсации будут находиться не более чем на таком расстоянии друг от друга.
+Force unlock|Принудительно разблокировать
+Unlock the Watcher Expedition regardless of campaign completion.|Разблокировать экспедицию Созерцателя независимо от завершения кампании.
+Karma Flowers all regions|Цветы Кармы во всех регионах
+Shattered Terrance|Разбитая терраса
+Expeditions can start in Shattered Terrance and Hunt challenges will count creatures in it.|Экспедиции могут начинаться в Разбитой террасе и Охотничьи задания будут подсчитывать количество существ в ней.
+Rot Dimension - Hunt|Измерение Гнили — Охота
+Hunts count enemies within Rot Regions, such as DLLs and Red Centipedes.  As you have no choice in what Rot Region you get teleported to, this isn't recommended.|Охота учитывает врагов в регионах Гнили, таких как Отцы-долгоноги и Красные многоножки. Поскольку у вас нет выбора, в какой регион Гнили вас телепортирует, это не рекомендуется.
+Rot Dimension - Shelters|Измерение Гнили — Убежища
+Expeditions will be able to start in Rot Regions. You will need to find an exit which then teleports you to a random region. Never Outer Rim|Экспедиции можно будет начинать в регионах Гнили. Вам нужно будет найти выход, который затем телепортирует вас в случайный регион. Никогда за пределы Внешнего кольца.
+Echo changes max/min Ripple|Мин/макс пульсация эха
+Allow Spinning Top to increase maximum and minimum Ripple amount. Still sets Ripple to the highest it can be. Echoes do not in vanilla Expedition.|Разрешить Spinning Top увеличивать максимальную и минимальную величину пульсаций. По-прежнему устанавливает максимально возможную пульсацию. В ванильной экспедиции этого нет.
+Carry over Warp Map progress|Перенос прогресса деформируемой карты.
+Carry over discovered Warps that always have the same destination.|Перенос обнаруженных перекосов, которые всегда ведут к одному и тому же месту назначения.
+Hunt - Barnacles|Охота — Усоноги
+Allow Hunting challenges to pick : Barnacle. As of 1.10.2 they can be desheled with Snails.|Разрешите выбирать охотничьи задания : Усоноги. Начиная с 1.10.2, их можно очистить от скорлупы улитками.
+Hunt - Sand Worms|Охота — Песчаный червь
+Allow Hunting challenges to pick : Sand Worm. Similiar Monster Kelp, but stun you making escape not possible once grabbed, and can hide.|Разрешите выбирать охотничьи задания : Песчаный червь. Похожие на Чудовищные Водоросли, но оглушают вас, делая побег невозможным после захвата, и можгут прятаться.
+Hunt - Box Worm|Охота — Коробчатый червь
+Hunt - Big Moth|Охота — Большая моль
+Allow Hunting challenges to pick : Big Moth. With 1.10.2 these seem more fight-able and escapeable. |Разрешите выбирать охотничьи задания : Большая моль. В версии 1.10.2 они кажутся более боеспособными и способными к побегу.
+Hunt - Bone Shaker|Охота — Костотряс
+Allow Hunting challenges to pick : Bone Shaker. They only appear in rot regions and can be killed from the top, by knocking them over. |Разрешите выбирать охотничьи задания : Костотряс. Они появляются только в местах гнили, и их можно убить, сбив с ног.
+///Экспедиция
+Rotten|ГНИЕНИЕ
+Rot World|Гниющий Мир
+Infect <score_target> regions with sentient rot [<current_score>/<score_target>]|Зарази <score_target> регионов разумной гнилью [<current_score>/<score_target>]
+Rot Spreading|Заражение гнилью
+Bone Shakers|Костотрясы

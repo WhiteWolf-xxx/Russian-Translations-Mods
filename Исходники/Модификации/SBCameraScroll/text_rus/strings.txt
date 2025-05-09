@@ -1,0 +1,4 @@
+///SBCameraScroll (2928752589)///
+///SBCameraScroll-name|SBCameraScroll
+SBCameraScroll-description|Создает плавную прокрутку камеры, которая перемещается вместе со слизнекотом.<LINE>Основана на моде CameraScroll от pipi toki.<LINE>НЕСОВМЕСТИМОСТИ: Функция масштабирования камеры в моде Slugcat Eyebrow Raise.
+SBCameraScroll: Merging camera textures completed.|SBCameraScroll: Слияние текстур камеры завершено.
