@@ -1,0 +1,81 @@
+SPECIAL : LOCKPATHS
+
+SPECIAL : GRAV
+
+WAIT : 5
+
+Greetings!
+
+WAIT : 5
+
+...
+
+I followed your little excursion through my infrastructure, and I must say I'm impressed you made it here.
+
+I couldn't resist studying you from a distance, I hope you didn't mind! I don't see your kind often here.
+
+I see one of my kind already gave you the gift of communication. This is a great privilege for a small beast like you.
+
+Were you sent by one of them? You could be a messenger... Let me see...
+
+...
+
+A quick isotopic analysis suggests you are native to No Significant Harassment's territory.
+
+This is a very impressive hike for such a little beast! Although you seem to have seen worse...
+
+I don't think NSH is the type to send me a purposed organism on a whim.
+
+Although knowing his... facetious personality, I could be wrong.
+
+But you don't look like a joke. You might simply be lost.
+
+WAIT : 5
+
+Well anyway, welcome to my small island!
+
+I have to apologize for the mess, my bacteria colonies are spewing sulfur everywhere...
+
+You probably met them on your way here, they're hard to miss.
+
+I'm in the middle of cleaning up, trying to contain them in my memory conflux for now.
+
+Some invasive flora is also trying to force its way through my circuits, but I have grown accustomed to it.
+
+WAIT : 3
+
+Anyway, I'm afraid I can't offer you much for your condition.
+
+WAIT : 3
+
+You are not doing well, you know that?
+
+WAIT : 2
+
+I'm impressed you found the time to visit me.
+
+WAIT : 5
+
+It's likely not enough, but I very much hope this helps you.
+
+SPECIAL : FOODMAX+KARMA10+CURE
+
+There might be a way for you. For the suffering to end.
+
+Follow the old path. Go to the north-west, past the overgrown farms.
+
+Then down into the earth, where the rock boils, go as deep as you can reach.
+
+You're resourceful, I'm sure you'll find your way.
+
+You can exit my structure by using the access shaft on the left.
+
+Take care of the little time you have left.
+
+WAIT : 3
+
+Farewell.
+
+SPECIAL : PARTIALGRAV
+
+SPECIAL : UNLOCKPATHS

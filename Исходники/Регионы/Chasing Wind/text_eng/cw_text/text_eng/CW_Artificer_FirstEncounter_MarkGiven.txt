@@ -1,0 +1,89 @@
+SPECIAL : LOCKPATHS
+
+SPECIAL : GRAV
+
+WAIT : 10
+
+SPECIAL : SHOWBRAINPIC
+
+SPECIAL : MARK
+
+Hello?
+
+WAIT : 5
+
+...
+
+WAIT : 5
+
+Is this reaching you?
+
+WAIT : 10
+
+I’ve been expecting you.
+
+WAIT : 5
+
+You left a mark coming here, for sure.
+
+I followed your little excursion across my island and through my infrastructure, and I must say I'm impressed you made it here alive.
+
+You fight well for something of your size. Could you also be a purposed organism?
+
+Let me see...
+
+...
+
+A quick isotopic analysis suggests you are native to Five Pebbles' territory.
+
+And that citizenship drone following you seems to confirm my suspicions. 
+
+This is a long hike for such a little beast, for sure...
+
+WAIT : 5
+
+Apologies for the mess, my sulfur-metabolizing bacteria colonies are giving me a lot of trouble right now.
+
+You probably met them on your way here, they're hard to miss.
+
+I'm in the middle of cleaning up, had to shift some memory circuits left and right.
+
+And as if that was not enough, I’m fighting an invasion of the local ecosystem!
+
+Tough little things...
+
+...
+
+WAIT : 5
+
+Anyway, enough about me! 
+
+I'm afraid I can't offer you much.
+
+The path you're following is one of violence and bloodshed.
+
+That's regrettable.
+
+But I can help you, in a way.
+
+SPECIAL : FOODMAX+SCAVIMMU
+
+...
+
+Try not to slaughter the scavenger tribes of my island.
+
+You seem to have a grudge toward them, but they are innocent.
+
+In return, I warned them not to touch you. 
+
+Don't make me regret this.
+
+You can exit my structure by using the access shaft on the left.
+
+WAIT : 5
+
+Farewell.
+
+SPECIAL : PARTIALGRAV
+
+SPECIAL : UNLOCKPATHS

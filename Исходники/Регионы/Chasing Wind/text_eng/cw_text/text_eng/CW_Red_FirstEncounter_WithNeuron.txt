@@ -1,0 +1,63 @@
+SPECIAL : LOCKPATHS
+
+SPECIAL : GRAV
+
+WAIT : 5
+
+Greetings, curious creature!
+
+WAIT : 5
+
+Oh!
+
+SPECIAL : TAKENEURON
+
+What is this?
+
+WAIT : 5
+
+Slag reset keys! And a lot of them...
+
+Thank you little one, but I don't need them!
+
+I don't think these are for me, but your sense of duty is admirable.
+
+Hmmm...
+
+I haven't been in contact with Big Sister Moon for a long time. Maybe something happened?
+
+She probably is the one you should check on. I would tell you to take a break here but...
+
+SPECIAL : RELEASENEURON
+
+WAIT : 5
+
+You are not doing well, you know that?
+
+WAIT : 5
+
+I'm impressed you even found the time to visit me.
+
+WAIT : 5
+
+It's likely not enough, but I very much hope this helps you fulfill your mission.
+
+SPECIAL : FOODMAX+KARMA10+CURE
+
+I wish I could do more, but this is beyond my reach.
+
+WAIT : 5
+
+Go now, you can use the access shaft to reach the urban settlement I was built next to. 
+
+From there, the path you'll take is up to you.
+
+Take care of the little time you have left.
+
+WAIT : 5
+
+Farewell.
+
+SPECIAL : PARTIALGRAV
+
+SPECIAL : UNLOCKPATHS

@@ -1,0 +1,35 @@
+SPECIAL : LOCKPATHS
+
+SPECIAL : GRAV
+
+WAIT : 5
+
+Oh!
+
+SPECIAL : TAKENEURON
+
+What is this?
+
+WAIT : 5
+
+Slag reset keys! And a lot of them...
+
+Thank you little one, but I don't need them!
+
+I don't think these are for me, but your sense of duty is admirable.
+
+Hmmm...
+
+I haven't been in contact with Big Sister Moon for a long time. Maybe something happened?
+
+She probably is the one you should check on. I would tell you to take a break here but ...
+
+SPECIAL : RELEASENEURON
+
+WAIT : 5
+
+I wish I could do more, but this is beyond my reach.
+
+SPECIAL : PARTIALGRAV
+
+SPECIAL : UNLOCKPATHS

@@ -1,0 +1,28 @@
+///Chasing Wind (3232063592)///
+myr.chasing_wind-name|Chasing Wind
+myr.chasing_wind-description|Beyond the lush jungle of the Moss Fields stands a superstructure, shrouded by storms.
+Chasing Wind|В-Погоне-за-Ветром
+Chasing Wind (Main Processing Cortex)|В-Погоне-за-Ветром (Основная обрабатывающая кора)
+Chasing Wind (Lymphatic Conduits)|В-Погоне-за-Ветром (Лимфатические каналы)
+Chasing Wind (Memory Conflux)|В-Погоне-за-Ветром (Отсек памяти)
+Chasing Wind (Inner Wall)|В-Погоне-за-Ветром (Внутренняя стена)
+The Anchor|Крепёж
+Chatoyant Waterfalls|Оживлённые водопады
+Derelict Rigs|Покинутые буровые установки
+Luminous Cove|Светящаяся бухта
+///Принести нейроны к В-Погоне-за-Ветром
+///5
+After all this time, a lifeline. Thank you.|После всего этого времени, спасательный круг. Спасибо тебе.
+I'll never feel the power I once had, but this is something to sustain an old soul.|Я никогда не почувствую той силы, которая была у меня когда-то, но это то, что поддерживает старую душу.
+You get these at Five Pebbles'?<LINE>Thank you <little creature>, but please, leave Five Pebbles be.|Ты берёшь их у Пяти Галек? Спасибо <PlayerName>, но, пожалуйста, оставь Пять Галек в покое.
+///6
+Thank you again <little creature>, but please, leave Five Pebbles be.|Ещё раз спасибо тебе <PlayerName>, но, пожалуйста, оставь Пять Галек в покое.
+Neither of us are well. We have both lost more than we could ever recover from.|Нам обоим нехорошо. Мы оба потеряли больше, чем могли бы когда-либо восполнить.
+It is for the best that our circumstances are not agitated.|Это к лучшему, что наши обстоятельства не вызывают беспокойства.
+///Рандом
+It is strange... I'm remembering myself, but also... someone else.|Это странно... Я вспоминаю себя, но также... и кого-то другого.
+///Статистика в конце игры
+Met Chasing Wind|Встреча с В-Погоне-за-Ветром
+Brought Moon's message to Chasing Wind|Принёс послание Луны к В-Погоне-за-Ветром
+Brought the slag keys to Chasing Wind|Принёс ключи для сброса шлаков к В-Погоне-за-Ветром
+Unique pearls read by Chasing Wind : |Жемчужины, прочитанные В-Погоне-за-Ветром: 

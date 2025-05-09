@@ -1,0 +1,93 @@
+SPECIAL : LOCKPATHS
+
+SPECIAL : GRAV
+
+WAIT : 5
+
+Greetings!
+
+WAIT : 5
+
+...
+
+I followed your little excursion through my infrastructure, and I must say I'm impressed you made it here.
+
+I couldn't resist studying you from a distance, I hope you didn't mind! I have never seen one of your kind here.
+
+I think I know what you are. It's evident that you are a purposed organism.
+
+You were designed to be a messenger, did you know that?
+
+I bet you come on behalf of Seven Red Suns. Their overseers can't quite reach this place.
+
+It seems one of my neighbors has already bestowed you the gift of communication! This is a surprising privilege for a small lifeform like you.
+
+I doubt this is Suns action. They are quite... efficient in their design.
+
+...
+
+You must have crossed Five Pebbles lands... 
+
+How is Big Sister Moon doing? Haven't heard of her in quite a few cycles... 
+
+My overseers don't enter the retaining wall, not anymore.
+
+...
+
+WAIT : 5
+
+Excuse my manners, you must be exhausted.
+
+Welcome to my small island! Please take the time to rest, you're safe here.
+
+WAIT : 5
+
+I apologize for the mess, my bacteria colonies are spewing sulfur everywhere...
+
+You probably met them on your way here, they're hard to miss.
+
+I'm in the middle of cleaning up, trying to contain them in my memory conflux for now.
+
+And as if that was not enough, I’m fighting an invasion of the local ecosystem!
+
+Tough little things...
+
+...
+
+WAIT : 5
+
+Anyway, enough about me! 
+
+I'm afraid I can't offer you much right now.
+
+I believe this small gift should help you find what you seek. 
+
+SPECIAL : FOODMAX+KARMA10
+
+You must have noticed the peculiarity of being tethered to this physical world, waking up again and again. 
+
+I sometimes wish I was a little beast like you, because you have a way out.
+
+Follow the old path. Go to the north-west, past the overgrown farms.
+
+Then down into the earth, where the rock boils, go as deep as you can reach.
+
+You're resourceful, I'm sure you'll find your way.
+
+WAIT : 5
+
+It may be ill advised to give such instructions to a messenger,  but I think you deserve it.
+
+WAIT : 5
+
+You can exit my structure by using the access shaft on the left.
+
+I will now resume my work, there is much to be done.
+
+WAIT : 5
+
+Good luck, little one.
+
+SPECIAL : PARTIALGRAV
+
+SPECIAL : UNLOCKPATHS

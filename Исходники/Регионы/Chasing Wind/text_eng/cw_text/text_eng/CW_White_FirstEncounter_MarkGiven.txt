@@ -1,0 +1,93 @@
+SPECIAL : LOCKPATHS
+
+SPECIAL : GRAV
+
+WAIT : 10
+
+SPECIAL : SHOWBRAINPIC
+
+SPECIAL : MARK
+
+Hello?
+
+WAIT : 5
+
+...
+
+WAIT : 5
+
+Is this reaching you?
+
+WAIT : 10
+
+Greetings!
+
+WAIT : 10
+
+I followed your little excursion through my infrastructure, and I must say I'm impressed you made it here.
+
+I couldn't resist studying you from a distance, I hope you didn't mind! I don't see your kind often here.
+
+But where do you come from? Let me see...
+
+...
+
+A quick isotopic analysis suggests you are native to somewhere beyond Five Pebbles territory.
+
+Fascinating! This is an impressive hike for such a little beast! I guess you must have crossed the shallow waters to come here.
+
+Well, you are here now! Welcome to my small island, a perfect place of peace and leisure!
+
+...
+
+I'm joking, things are only getting worse. Especially with neighbors like mine.
+
+Your presence here is refreshing from the constant quarrels of the local group.
+
+Please take the time to rest, you're safe here.
+
+... 
+
+WAIT : 5
+
+I have to apologize for the mess, my bacteria colonies are spewing sulfur everywhere...
+
+You probably met them on your way here, they're hard to miss.
+
+I'm in the middle of cleaning up, trying to contain them in my memory conflux for now.
+
+I'm trying something new, sampling some local flora to compete for resources with my colonies.
+
+This is a hard balance to keep, and the consequences could be catastrophic for my immune system.
+
+But it also let me test some old theories I haven't yet dare to try.
+
+...
+
+WAIT : 5
+
+Anyway, enough about me! 
+
+I'm afraid I can't offer you much right now.
+
+I believe this small gift should help you find what you seek. 
+
+SPECIAL : FOODMAX+KARMA10
+
+You must have noticed the peculiarity of being tethered to this physical world, waking up again and again. 
+
+I sometimes wish I was a little beast like you, because you have a way out.
+
+Follow the old path. Go to the north-west, past the overgrown farms.
+
+Then down into the earth, where the rock boils, go as deep as you can reach.
+
+You're resourceful, I'm sure you'll find your way.
+
+WAIT : 5
+
+You can exit my structure by using the access shaft on the left.
+
+I will now resume my work, there is much to be done.
+
+WAIT : 5
