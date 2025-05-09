@@ -1,0 +1,6 @@
+0-27
+Oh! This plant is quite dangerous.<LINE>Theoretically, it could be utilized as some sort of a weapon, I'd be very careful with this.<LINE>At least wait until you are out of here before you throw it. I don't like bright things.
+
+This 'nut' is capable of releasing a blinding flash of light when thrown. It doesn't even need to collide with anything.
+
+In retrospect, calling this a dangerous weapon was a misnomer.<LINE>I would explain how it works in detail to you - but do you really need it, <PlayerName>?<LINE>You have your own job to do. Don't fill your head with malarkey.

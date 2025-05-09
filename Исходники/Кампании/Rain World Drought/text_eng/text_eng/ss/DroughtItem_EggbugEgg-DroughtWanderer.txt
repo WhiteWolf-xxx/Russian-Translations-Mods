@@ -1,0 +1,4 @@
+0-???
+Hmm. This is some sort of a fungus, but I can't say for certain where it came from or what it does.<LINE>My databases have no information from my overseers on these fungi growing anywhere in my vicinity, so it must<LINE>be from quite afar.
+
+You can eat it, of course. I see no traces of toxins that would be poisonous to you, <PlayerName>.

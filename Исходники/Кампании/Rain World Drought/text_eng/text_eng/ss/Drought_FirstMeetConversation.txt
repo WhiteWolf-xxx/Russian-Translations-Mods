@@ -1,0 +1,8 @@
+0-81
+Hello <PlayerName>. Welcome back!
+
+I've been expecting you. Do you have a message for me?<LINE>The pearl, that Suns passed down to you at the start of your journey?<LINE>Or are you passing through here for another delivery?
+
+If you have something more important to deliver - I understand.<LINE>But unless you have something specifically for me, I must return to my work.
+
+Stay safe, little one!

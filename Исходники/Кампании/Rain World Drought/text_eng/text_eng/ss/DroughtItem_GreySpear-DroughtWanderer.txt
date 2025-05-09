@@ -1,0 +1,6 @@
+0-108
+For starters - this is a weapon. Secondly - it's not makeshift, it's organic.<LINE>What did you bring to me this time, <PlayerName>?
+
+Hmm... Unbalanced, irregular in shape - it's almost like a bone of sorts. Oh, and it's brittle, too...<LINE>Well, then it's not a bone.
+
+<CapPlayerName>, I'm not sure what it is, so you can have it back. It's definitely organic, though, so you may<LINE>ask your savior about it. Worry not, it's definitely safe to use, I simply can't properly analyze it, whatever creature made<LINE>this is quite contemporary, I think.

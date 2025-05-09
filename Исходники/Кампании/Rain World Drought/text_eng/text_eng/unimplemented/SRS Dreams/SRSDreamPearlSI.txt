@@ -1,0 +1,4 @@
+0-120
+We are all aware of the futility of our Task.<LINE>Even the most dedicated iterators out there have felt frustration over our seemingly pointless efforts.
+
+It's not like we have anything else we could do. It's either iterate or do nothing.
