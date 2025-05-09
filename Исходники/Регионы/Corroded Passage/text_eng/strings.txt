@@ -1,0 +1,9 @@
+///Corroded Passage (3222863079)///
+pqrail-name|Corroded Passage
+pqrail-description|Explore an abandoned station, along with the paths that those long gone used themselves. Explore further and further! Perhaps you'll find something worth the journey?
+
+Corroded Passage is still in development! However, I am almost done with it. If there is any interest in helping with playtesting, I'd appreciate it quite a ton! Please leave a comment or any feedback, I read every single one!
+
+Thanks to MojiEmoji for the threat music!
+Corroded Passage|Проржавевший переход
+Howling Trenches|Воющие траншеи

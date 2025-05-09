@@ -1,0 +1,8 @@
+///Deserted Wastelands (3089929720)///
+don.desertedwastelands-name|Заброшенные пустоши
+don.desertedwastelands-description|Заброшенные пустоши - это таинственная пустыня на дальнем востоке, соединяющая вершину Пяти Галек и Смотрящую на Луну. С более чем 540 экранами нового контента, это один из крупнейших региональных модов.
+Deserted Wastelands|Заброшенные пустоши
+The Backwall|Задняя стена
+The Edge|Край
+Hydration System|Система гидратации
+Hydration System (Collapsed Main Control Environment)|Система гидратации (Разрушенная центральная среда управления)
