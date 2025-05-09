@@ -1,0 +1,13 @@
+sm3d
+fp3d
+
+Вы стоите там, не зная, что делать. Внезапно роботизированное существо заговаривает.
+«Что, чёрт возьми?! Как вы, два идиота, создали новое измерение?
+В этом нет никакого смысла! КАК ЭТО ВОЗМОЖНО?!»
+Вы смотрите на оранжевого слизнекота, но вы оба понятия не имеете, что происходит.
+«ОШИБКА! НЕ УДАЕТСЯ ВЫЧИСЛИТЬ! Сумасшедший? Когда-то я был сумасшедшим. Меня заперли в комнате.
+Obitoj komnate s mokrymi krysami. Y las ratas babosas me hicieron loco. ¿Loco? U menja byla shchiza.
+They locked me in a room. Una  habitación de goma. Una habitación de goma con ratas babosas. And wet rats make me crazy...»
+
+«Мокрые крысы?»
+up_egg4.txt
