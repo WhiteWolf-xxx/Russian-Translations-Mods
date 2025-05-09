@@ -1,0 +1,8 @@
+0
+Sonix: A lot of rooms got recreated completely as I learned the editor, resulting in some pretty strange names. 
+Sonix: I believe RG_A4 and RG_A4NEW started this stupid trend 
+Sonix: Both existed in the files at the same time in development as I toiled over which one I liked more. In the end,
+Sonix: I axed A4 entirely and never renamed A4NEW because I grew so fond of the name, and completely redid the room’s geo and tiling three times before I decided on something I liked.
+Sonix: This room, along with B01A, were slated to be redesigned but I put it off for so long when I came back my level editing style had changed so much I couldn’t salvage them
+Sonix: So I kept their names in the files for ease of use and made completely different rooms to replace them.
+Sonix: Seeing these stupid names still get a chuckle out of me sometimes

@@ -1,0 +1,12 @@
+0
+Ah...
+
+This is a junk pearl from a transcription line. It was created by accident due to a common issue in the process of a fully-automated pearl line. 
+
+Iterators themselves can transcribe pearls just fine, however some Data Banks on the surface still opted to include transcription lines for<LINE>bulk production and physical storage alongside the digital storage units. 
+
+An oversight in the design paired with a single line of erroneous code would lead to the confirmation order itself getting transcribed to a pearl<LINE>instead of being sent to the Headmaster overseeing the facility grounds.
+
+However, as the confirmation would appear unsent, the facility would attempt to send the confirmation alongside the contents of the previous pearl once more… 
+
+In the case of this pearl, the confirmations are repeated for four-thousand six hundred and twenty-eight lines.

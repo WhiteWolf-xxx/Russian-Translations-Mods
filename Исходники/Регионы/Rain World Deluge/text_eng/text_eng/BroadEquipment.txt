@@ -1,0 +1,24 @@
+0
+[LIVE BROADCAST] EQUIPMENT MANIFEST
+[[ WIDE SWEEP DIAGNOSTIC RESULTS ]]
+Water: 200 %<LINE>Hydrocarbons: 4 %<LINE>Sulfur: 0 %<LINE>Silicon: 15 %<LINE>Phosphates: 10 %<LINE>Biomass Reserve: 100%
+
+[Internal resource levels within expected amount]
+
+! WARNING !
+
+[[INTERNAL DAMAGE DETECTED]]
+<Node 16-A409>
+[[DIAGNOSTIC RESULT: POTENTIAL RUPTURE]]
+
+Pump A1: Operational<LINE>Pump A2: Operational<LINE>Pump A3: Operational
+[[VOID FLUID CONTAINED]]
+
+Pump B1: Operational<LINE>Pump B2: Operational<LINE>
+Pump B3: [[DAMAGE DETECTED]]
+[[FLOODING DETECTED]]
+[[EROSION DETECTED]]
+
+Temperature within acceptable ranges
+No data loss detected
+<IMMEDIATE ATTENTION REQUIRED>

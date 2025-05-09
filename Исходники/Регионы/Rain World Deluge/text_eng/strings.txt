@@ -1,0 +1,7 @@
+///Rain World Deluge (3413218083)///
+amidstthedeluge-name|Rain World Deluge
+amidstthedeluge-description|Past the Expanse, upon a flat and unforgiving Steppe, a new horizon has opened to those strong enough to weather the oncoming Deluge...
+More information, in-depth credits, and helpful notes can be found in the mod's README file.
+Consecrated Steppe|Освящённая степь
+Resting Grounds|Место отдыха
+Forlorn Glade|Заброшенная поляна

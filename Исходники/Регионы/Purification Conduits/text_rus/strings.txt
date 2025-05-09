@@ -1,0 +1,6 @@
+///Purification Conduits (3156584472)///
+mojosoup.sloptown-name|Очистительные каналы
+mojosoup.sloptown-description|Создает зону повышенной влажности, соединяющую Массивы ферм и Дренажную систему.
+Purification Conduits|Очистительные каналы
+SLOPTOWN|СЛОПТАУН
+Sterile Waterworks|Стерильные гидросооружения

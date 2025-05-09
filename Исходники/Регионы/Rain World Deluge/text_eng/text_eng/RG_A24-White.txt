@@ -1,0 +1,6 @@
+0RG_A24-White
+Sonix: This region has support for Nacu’s “ULTRAKILL Style Region Titles” Mod
+Sonix: I was originally going to make the Steppe’s flavor text simply read “Her Towers”
+Sonix: But I eventually decided on a reference to 7-4 in Ultrakill, changing “Antennas” to “Antennae” to imply something more biological, as if the towers themselves are alive.
+Sonix: Who knows, maybe just like an iterator these data banks have an unknown amount of biological components to them. 
+Sonix: A single human brain is said to have about a million gigabytes worth of storage, so who knows how much storage space specifically engineered neural tissue might have...
