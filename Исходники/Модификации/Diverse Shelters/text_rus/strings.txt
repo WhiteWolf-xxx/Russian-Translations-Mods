@@ -1,0 +1,3 @@
+///Diverse Shelters (2951387438)///
+diverse_shelters-name|Разнообразные убежища
+diverse_shelters-description|Порт мода «Лучшие убежища», а также изменение убежищ, которые вы можете найти в дополнении More Slugcats Expansion.
