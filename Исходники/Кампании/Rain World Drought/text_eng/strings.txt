@@ -1,0 +1,208 @@
+0|0 /// Flag to check whether this file is encrypted (0 = raw, 1 = encrypted)
+/// Add| at the end of each line and add translation. anything after '///' will be ignored.
+
+/// Character Screen ///
+The Wanderer|The Wanderer
+THE WANDERER|THE WANDERER
+Curious and calm, with a deep desire to discover the ancient mysteries around it.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.|Curious and calm, with a deep desire to discover the ancient mysteries around it.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.
+
+
+/// Region Name ///
+Intake System|Intake System
+Looks to the Moon|Looks to the Moon
+The Fragmented Exterior|The Fragmented Exterior
+Forest Sanctuary|Forest Sanctuary
+/// Subregions
+/// Forest Sanctuary
+Depot Remnants|Depot Remnants
+Preservation Facility|Preservation Facility
+/// Intake System
+Water Reservoir|Water Reservoir
+Gravity Pump|Gravity Pump
+/// The Fractured Exterior
+The West Leg|The West Leg
+The East Leg|The East Leg
+The Wall|The Wall
+/// Looks To The Moon
+Looks To The Moon (General System Bus)|Looks To The Moon (General System Bus)
+Looks To The Moon (Damaged Transform Arrays)|Looks To The Moon (Damaged Transform Arrays)
+Looks To The Moon (Memory Conflux)|Looks To The Moon (Memory Conflux)
+
+
+/// Error Messages ///
+DroughtAssets folder is missing! Put DroughtAssets with [Rain World Drought.dll]!|DroughtAssets folder is missing! Put DroughtAssets with [Rain World Drought.dll]!
+EnumExtender is missing! Download EnumExtender from RainDB - Tools Category.|EnumExtender is missing! Download EnumExtender from RainDB - Tools Category.
+Directory [<assetDir>] is missing: Reinstall DroughtAssets.|Directory [<assetDir>] is missing: Reinstall DroughtAssets.
+File [<file>] is missing: Reinstall DroughtAssets.|File [<file>] is missing: Reinstall DroughtAssets.
+Error occured while loading Drought Atlas [<file>]: Reinstall DroughtAssets.|Error occured while loading Drought Atlas [<file>]: Reinstall DroughtAssets.
+
+/// Tutorial ///
+While on the ground, tap MAP and then press JUMP to slow down time.|While on the ground, tap MAP and then press JUMP to slow down time.
+Then hold a DIRECTION and press JUMP to finish the boost.|Then hold a DIRECTION and press JUMP to finish the boost.
+
+/// PlayerName ///
+/// occasionally by moon
+Little creature|Little creature
+little creature|little creature
+/// occasionally by pebbles
+Little messenger|Little messenger
+little messenger|little messenger
+/// neutral by SRS
+Messenger|Messenger
+messenger|messenger
+/// disliked by moon
+Little tormentor|Little tormentor
+little tormentor|little tormentor
+/// disliked by pebbles
+Little annoyance|Little annoyance
+little annoyance|little annoyance
+/// disliked by SRS
+Traitor|Traitor
+traitor|traitor
+/// liked by any, brought pearl 10+
+Little archaeologist|Little archaeologist
+little archaeologist|little archaeologist
+/// liked by moon
+Little friend|Little friend
+little friend|little friend
+/// liked by pebbles
+Little helper|Little helper
+little helper|little helper
+/// liked by SRS
+My little friend|My little friend
+my little friend|my little friend
+
+/// PearlConversation ~ Distant connect to LTTM with Moon Mark ///
+/// MoonReceiveSwarmer
+You're reaching the end of your journey, little friend.|You're reaching the end of your journey, little friend.
+Thank you, for helping me.|Thank you, for helping me.
+
+/// Moon Conversation ///
+/// Moon Second+ Conversation, when she doesn't dislike you
+/// I wonder what it is that you want? /// The following line comes after this vanilla dialogue
+I have very little to give you.|I have very little to give you.
+/// Before Giving Mark
+Here.|Here.
+/// Grabbed MoonPearl
+Please, don't play around with those.|Please, don't play around with those.
+/// ThrowOut
+That's all. You can go now.|That's all. You can go now.
+LEAVE.|LEAVE.
+
+/// Pebbles Conversation ///
+/// Pebbles Second+ Conversation (Didn't delieved CC to Moon)
+You again.|You again. /// dislikes
+Hello messenger.|Hello messenger. /// neutral or likes
+Do you have that pearl Suns was talking about?|Do you have that pearl Suns was talking about?
+You are welcome to stay here, but I must return to my work shortly.|You are welcome to stay here, but I must return to my work shortly. /// likes remark
+/// Third And Up Greeting (Dislike)
+Again?|Again?
+You.|You.
+Please stop annoying me.|Please stop annoying me.
+Oh, it's you, <PlayerName>.|Oh, it's you, <PlayerName>.
+/// Third And Up Greeting (Neutral)
+Hello again, <PlayerName>.|Hello again, <PlayerName>.
+Hello, <PlayerName>.|Hello, <PlayerName>.
+Welcome back.|Welcome back.
+Oh, <PlayerName>. Hello.|Oh, <PlayerName>. Hello.
+It's you, <PlayerName>. Hello.|It's you, <PlayerName>. Hello.
+Ah... <PlayerName>, you're here again.|Ah... <PlayerName>, you're here again.
+Ah... <PlayerName>, you're back.|Ah... <PlayerName>, you're back.
+/// Third And Up Greeting (Like)
+Hello again, <PlayerName>!|Hello again, <PlayerName>!
+Hello, <PlayerName>!|Hello, <PlayerName>!
+How have you been?|How have you been?
+Oh, <PlayerName>. Hello!|Oh, <PlayerName>. Hello!
+It's you, <PlayerName>! Hello.|It's you, <PlayerName>! Hello.
+Ah... <PlayerName>, you're here again!|Ah... <PlayerName>, you're here again!
+Ah... <PlayerName>, you're back!|Ah... <PlayerName>, you're back!
+/// Player Interrupts Conversation
+Please. Calm down.|Please. Calm down. /// 1st
+Stop it!|Stop it! /// 2nd
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>! Stay still and listen. /// 3rd and so on
+I won't let you stay here, if you continue like this.|I won't let you stay here, if you continue like this.
+Why should I tolerate this?|Why should I tolerate this?
+STOP!|STOP!
+This again.|This again.
+Calm down, <PlayerName>.|Calm down, <PlayerName>.
+/// Annoyed Pebbles
+Are you done?|Are you done?
+What are you doing?|What are you doing?
+Down you go.|Down you go.
+Leave me alone!|Leave me alone!
+/// Resume Paused Conversation
+Thank you.|Thank you. /// first three interruption
+As I was saying...|As I was saying... /// 1st
+As I tried to say to you...|As I tried to say to you... /// 2nd
+Little messenger, stop that immediately!|Little messenger, stop that immediately! /// 3rd
+Let's continue...|Let's continue...
+And now you expect me to continue speaking?|And now you expect me to continue speaking? /// 4th
+Let us try again - not that it has worked well before. I was saying...|Let us try again - not that it has worked well before. I was saying...
+As I tried to say to you...|As I tried to say to you... /// 5th and so on
+If you behave like this, why should I talk to you?|If you behave like this, why should I talk to you?
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?
+Now, if you let me, I will try to say this again.|Now, if you let me, I will try to say this again.
+/// Before Giving Mark
+Just a minute, little messenger.|Just a minute, little messenger.
+/// ThrowOut
+You've helped me, and I am thankful for that, but you must go now.|You've helped me, and I am thankful for that, but you must go now.
+/// Misc Item Intro
+Oh, Something from outside?|Oh, Something from outside? /// 1st
+Another thing for me to inspect?|Another thing for me to inspect? /// 2nd
+I will take a look.|I will take a look.
+What is that, <PlayerName>?|What is that, <PlayerName>? /// 3rd (like)
+What is it, <PlayerName>?|What is it, <PlayerName>? /// 3rd (not like)
+Yet another thing?|Yet another thing? /// 4th
+Another thing for me to study?|Another thing for me to study? /// 5th and so on (like)
+You're unusually curious, <PlayerName>!|You're unusually curious, <PlayerName>!
+Oh... I will look at it.|Oh... I will look at it.
+Oh... sure, I will take a look.|Oh... sure, I will take a look.
+Something new you want me to investigate, <PlayerName>?|Something new you want me to investigate, <PlayerName>? /// 5th and so on
+Let me see.|Let me see.
+Oh, what is that, <PlayerName>?|Oh, what is that, <PlayerName>?
+Yet another thing?|Yet another thing?
+Your curiosity seems expansive, <PlayerName>.|Your curiosity seems expansive, <PlayerName>.
+Something else you want me to look at?|Something else you want me to look at?
+Something else you want me to see,<LINE>I suppose, <PlayerName>?|Something else you want me to see,<LINE>I suppose, <PlayerName>?
+Oh... I will take a look.|Oh... I will take a look.
+Do you want me to take a look at that?|Do you want me to take a look at that?
+Oh... Should I look at that?|Oh... Should I look at that?
+Another thing for me, <PlayerName>?|Another thing for me, <PlayerName>?
+A new object for me, <PlayerName>?|A new object for me, <PlayerName>?
+/// Item Already Discussed
+I have already read this one to you, <PlayerName>.|I have already read this one to you, <PlayerName>. /// is Pearl
+This one I've already read to you, <PlayerName>.|This one I've already read to you, <PlayerName>.
+This one, <PlayerName>?|This one, <PlayerName>?
+We have already talked about this one, <PlayerName>.|We have already talked about this one, <PlayerName>. /// not Pearl
+I've told you about this one, <PlayerName>.|I've told you about this one, <PlayerName>.
+<PlayerName>! AGAIN with this?|<PlayerName>! AGAIN with this?
+/// Interrupted by Taking Item
+GIVE THAT BACK, VERMIN!|GIVE THAT BACK, VERMIN! /// Moon_Pearl_CC
+Yes, take it and don't bother me.|Yes, take it and don't bother me. /// Already Dislike
+And now you're taking it.|And now you're taking it.
+Oh... Okay, have it back.|Oh... Okay, have it back. /// Not Dislike
+You want it back?|You want it back?
+And now you're taking it back.|And now you're taking it back.
+Want it back, <PlayerName>?|Want it back, <PlayerName>?
+Oh...|Oh...
+Yes, you may to have it back.|Yes, you may to have it back.
+/// Any Pearl Intro
+Ah, a pearl. Not the message though. Would you like me to read it to you?|Ah, a pearl. Not the message though. Would you like me to read it to you? /// 1st
+Another pearl! You want me to read this one too? Just a moment...|Another pearl! You want me to read this one too? Just a moment... /// 2nd
+And yet another one! I will read it to you.|And yet another one! I will read it to you. /// 3rd
+Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits?|Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits? /// 4th
+Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are. /// 4th, extra remark when 5p likes
+The scavengers must be envious of you.|The scavengers must be envious of you. /// 5th or later random
+Here we go again, <PlayerName>. Let's read your pearl.|Here we go again, <PlayerName>. Let's read your pearl.
+... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.|... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.
+And yet another one! I will read it to you in a moment.|And yet another one! I will read it to you in a moment.
+So many of these lately! I see you've been wandering the world a lot.|So many of these lately! I see you've been wandering the world a lot.
+/// Moon Pearl Intro (random)
+You would like me to read this?|You would like me to read this? /// 0
+This pearl must have been used recently. You can still feel the heat.|This pearl must have been used recently. You can still feel the heat.
+A pearl... This one is crystal clear - it was used recently.|A pearl... This one is crystal clear - it was used recently. /// 1
+Would you like me to read this pearl?|Would you like me to read this pearl? /// 2
+It has been recently written to.|It has been recently written to.
+This pearl has been written to just now!|This pearl has been written to just now! /// 3
+Let's see... A pearl...|Let's see... A pearl... /// 4
+And this one is sharp! It was not long ago this data was written to it!|And this one is sharp! It was not long ago this data was written to it!

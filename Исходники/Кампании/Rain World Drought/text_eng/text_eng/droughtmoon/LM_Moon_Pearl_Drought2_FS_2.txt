@@ -1,0 +1,12 @@
+0-???
+Ah, <PlayerName>. This pearl feels off to me.<LINE>I hear rustling inside - it's already started to crumble away, and yet it's crystal clear,<LINE>with no signs of surface parching. It's either received a truly powerful,<LINE>crushing blow, or it's incredulously old, yet managed to preserve itself nigh perfectly.
+
+The color is wonderful, the surface is clean and polished. I'd keep it if I could, but it'd get lost among<LINE>other pearls here! 
+
+I can see your confusion. Wouldn't you like to learn more? Let's see what's inside...
+
+SPECEVENT : DETONATE
+
+Huh? I didn't know pearls can explode like that! It's not violent enough, of course, but still. Quite out of the norm.<LINE>I couldn't even make out anything in the outer layers before it crumbled away into dust! Just a bunch of strange pictograms is all<LINE>I could glimpse.
+
+Well... Besides the deep desire to notify my creators that I feel rumbling through my circuits - I can't<LINE>do anything about it, I'm sorry. I don't think this pearl can be recovered now... But still, <PlayerName>, thank you<LINE>for taking your time and bringing me this piece of old. It was definitely the most memorable event in recent times.
