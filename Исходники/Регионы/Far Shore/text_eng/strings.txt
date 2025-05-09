@@ -1,0 +1,9 @@
+///Far Shore (3026723782)///
+far_shore-name|Far Shore
+far_shore-description|Beyond Five Pebbles and Looks to the Moon lies forgotten lands waiting to be explored. Far Shore connects to Pilgrims' Ascent, Submerged Superstructure and Subterranean.
+Far Shore|Далёкий берег
+Woven Nest|Плетённое гнездо
+Caldera|Кальдера
+Tidal Pools|Приливные бассейны
+Void Vents|Пустотные жерла
+Lost Strand|Утерянное звено

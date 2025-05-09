@@ -1,0 +1,6 @@
+///Forgotten Boiler (3364527943)///
+limecultivist.forgottenboiler-name|Забытый бойлер
+limecultivist.forgottenboiler-description|Тёмный и коварный проход, соединяющий Затенённую цитадель и Дымоход.
+Forgotten Boiler|Забытый бойлер
+South Warehouse|Южный склад
+Centipede's Lair|Логово сороконожки

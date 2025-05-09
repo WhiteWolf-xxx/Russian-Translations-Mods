@@ -1,0 +1,16 @@
+﻿0-ET_Cars
+It's a log detailing a batch of cargo freights through an area of my and Five Pebbles' facility grounds.<LINE>It appears to still have data from a rather recent time frame, as little as 6 cycles ago. How odd...
+
+It's a rather long and extensive line of commands, data, schematics - nothing of interest to either you or me.<LINE>However the most recent lines are a bit more curious.
+
+[!WARNING!] Flooding detected in cars: 1, 6, 8, 5<LINE>[EQUIPMENT MANIFEST]<LINE>Inventory - Car1: N/A<LINE>Inventory - Car2: N/A<LINE>Inventory - Car3: N/A<LINE>[!WARNING!] Unidentified lifeforms detected in cars: 10, 11, 12, 14
+
+And the equipment manifest continues from there...
+
+It's astonishing how this log has managed to continue its routine checks, despite its state of decay.
+
+It really is interesting to me how much my creators wished to be organized and all-knowing.<LINE>So much done to ensure that no information would be lost or destroyed, and yet the only things that remain of them are their ruins and logs.
+
+There's me and the others too of course, but even we will be lost to the void soon.
+
+I'm sorry if I sound morbid little creature. It just saddens me to think of all the good that will be forgotten.<LINE>Though I suppose my creators wouldn't have had much to share in that regard anyway.

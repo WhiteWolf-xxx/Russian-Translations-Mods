@@ -1,0 +1,6 @@
+///Drowned Pantheon (3337851216)///
+regionjam.drownedpantheon-name|Drowned Pantheon
+regionjam.drownedpantheon-description|The 1.5 region jam region is here!<LINE>-Downpour recommended but not required.<LINE>-Unique spawns are clustered as follows Spear/Arti/Hunter, Gourmand/Survivor/Monk, Rivulet, Saint, Inv.<LINE>-Having Drain Mites and Shrouded Assembly will cause the creatures from those mods to spawn.<LINE>'A mysterious pantheon, flooded by water leaking from the Drainage System. This hostile region allows for fast travel between the surface and the deepest caves to those who manage to traverse its murky waters.'
+Drowned Pantheon|Затонувший пантеон
+Spooderland|Страна призраков
+Artic Chasm|Арктическая пропасть

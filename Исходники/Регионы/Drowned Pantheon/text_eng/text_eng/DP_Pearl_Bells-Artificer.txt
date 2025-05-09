@@ -1,0 +1,5 @@
+0-2
+You found an instruction set for making bells for temples.
+The way you make them is by collecting scrap, melting it down,<LINE>purifying it and casting it into one of several molds.
+Now while the process itself is relatively simple for those who already know metalworking<LINE>their traditions dictated that this be done in complete solitude and without eating food or water for the entire duration.
+If you think this made the process unecesarily tedious you would be correct, though I suppose it is the ritual that elevates temple bells over common bells.

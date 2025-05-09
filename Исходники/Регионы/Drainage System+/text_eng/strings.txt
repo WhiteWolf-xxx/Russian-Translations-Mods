@@ -1,0 +1,3 @@
+///Drainage System+ (2993225799)///
+jevmen.drainagesystemplus-name|Drainage System+
+jevmen.drainagesystemplus-description|Drastically increases the size and variety of Drainage System and Undergrowth, featuring:<LINE>- Over 200 new screens<LINE>- 5 New music tracks<LINE>- Redesigned layout and unlock locations<LINE>- 3 New unlockable arenas<LINE>- More varied creature spawns<LINE>- New entrance from Expanded Outskirts<LINE><LINE>NOTE: Requieres Expanded Outskirts and Diverse Shelters to be under More Slugcats in load order, otherwise will crash. Remix sometimes changes the order of mods when a new one is added, keep an eye on the order.

@@ -1,0 +1,6 @@
+///Forgotten Boiler (3364527943)///
+limecultivist.forgottenboiler-name|Forgotten Boiler
+limecultivist.forgottenboiler-description|A dark and treacherous passage that connects Shaded Citadel to Chimney Canopy.
+Forgotten Boiler|Забытый бойлер
+South Warehouse|Южный склад
+Centipede's Lair|Логово сороконожки
