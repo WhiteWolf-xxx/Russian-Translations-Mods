@@ -1,0 +1,5 @@
+///Preservatory (3357751340)///
+preservatory-name|Preservatory
+preservatory-description|A new path awaits at hanging garden's peak, offering secrets and unforeseen dangers.
+Preservatory|Консерваторий
+Forgone Cycles|Забытые циклы

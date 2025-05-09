@@ -1,0 +1,20 @@
+0-1
+Oh, this pearl is very special! A major portion of it is encrypted, but it also contains sections of plain text.
+
+The language used in it is very different from the ones generally used in the group...
+
+It looks like it's written in the dialect of a pre-iterator settlement; particularly a community secluded on an island that was south-east of my complex.
+
+This is a surprising find. The language was thought to be extinct!<LINE>For all we're both concerned, this might as well be the last trace of their dialect. 
+
+Let me try and translate it for you.
+
+...
+
+Ah. These are the usual thanks and prayers accompanying deliveries from an agricultural site to a residential center.<LINE>In this case it was an inventory of moss infusions, heading to the island's capital. 
+
+These infusions were used as an alternative to herbal tea, for ritualistic starvation.
+
+I don't really understand why you would need to encrypt this kind of data.
+
+Unfortunately, I do not have the computational power to unlock the rest of the pearl content. I'm sorry, little one.

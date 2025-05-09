@@ -1,0 +1,5 @@
+///Pilgrims' Ascent (2923894366)///
+pilgrims_ascent-name|Pilgrims' Ascent
+pilgrims_ascent-description|Explore another facet of everybody's favorite iterator. PA is a vertical region that connects with different parts of Five Pebbles' can.
+Pilgrims' Ascent|Путь паломников
+Five Pebbles (Blind Spot)|Пять Галек (Слепое пятно)

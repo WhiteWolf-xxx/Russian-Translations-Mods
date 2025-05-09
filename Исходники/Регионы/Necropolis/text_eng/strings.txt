@@ -1,0 +1,4 @@
+///Necropolis (3393902748)///
+myr.necropolis-name|Necropolis
+myr.necropolis-description|Deep beneath the urban crawl lies an ancient place of worship, lost to time.
+Necropolis|Некрополис
