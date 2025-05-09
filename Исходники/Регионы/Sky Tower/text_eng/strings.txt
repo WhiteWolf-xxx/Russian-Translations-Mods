@@ -1,0 +1,6 @@
+///Sky Tower (3159705472)///
+Sky_tower-name|Sky Tower
+Sky_tower-description|A high tower connected to The Wall and Industrial Complex with three different areas and more than 50 rooms.
+Sky Tower|Небесная башня
+Green Bridge|Зелёный мост
+The top|Вершина

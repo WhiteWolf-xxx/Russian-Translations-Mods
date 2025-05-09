@@ -1,0 +1,5 @@
+///Sizzling Sewers (3058851317)///
+overgrownfacility-name|Шипящия канализация
+overgrownfacility-description|Шипящия канализация - это небольшая область, похожая на лабиринт, соединяющая Трубную базу и Свалку.
+Sizzling Sewers|Шипящия канализация
+Caustic Caverns|Едкие пещеры

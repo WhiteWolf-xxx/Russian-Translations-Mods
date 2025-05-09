@@ -1,0 +1,21 @@
+(White,Yellow,Gourmand,Red,Spear,Artificer,Rivulet)Ах! Ты!
+
+(White,Yellow,Gourmand,Red,Spear,Artificer,Rivulet)Привлеченный громким зовом глубин?<LINE>Это огромное море тумана, поглощающее все чувства.
+
+(White,Yellow,Gourmand,Red,Spear,Artificer,Rivulet)Жужжание, боль, миллионы невидимых жизней вокруг нас.<LINE>Это так заворожило меня!
+
+(White,Yellow,Gourmand,Red,Spear,Artificer,Rivulet)И вот мы стоим здесь, на краю всего этого.<LINE>Не повторяй мою ошибку!
+
+(White,Yellow,Gourmand,Red,Spear,Artificer,Rivulet)Иди! Искать то, чего я никогда не мог найти!
+
+(Saint)О, это ты?<LINE>Снова вытащили из пучины?
+
+(Saint)Ха-ха.
+
+(Saint)Этот повторяющийся транс никогда не перестает забавлять.
+
+(Saint)Ты идёшь на попятную, снова совершая те же ошибки.
+
+(Saint)Случайно - может быть, это в последний раз?<LINE>Сомневаюсь в этом.
+
+(Saint)И внутри себя, я думаю, ты тоже так думаешь.

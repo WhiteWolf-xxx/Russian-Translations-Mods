@@ -1,0 +1,32 @@
+///Shrouded Assembly (3316476691)///
+shrouded_assembly-name|Shrouded Assembly
+shrouded_assembly-description|A region pack shrouded in mystery, including Fog Gulch and Steaming Edifice. Offering up multiple new custom creatures, mechanics, and items. Intended entrance is through Farm Arrays.
+Lunar Byway|Лунная Тропа
+Steaming Edifice|Паровая конструкция
+Cold Dredge|Охладелая драга
+Fog Gulch|Туманное ущелье
+Hadal Depths|Бездонные глубины
+///Большая жемчужина
+///Галька
+Oh. Interesting. This is a standard issue confluence pearl,<LINE>many times larger than the standard fare, printed from a similarly colossal strand manipulator.|Как интересно! Это жемчужина, произведённая по стандартной технологии, но она гораздо крупнее обычных.<LINE>Она была напечатана на таком же огромном нитяном манипуляторе.
+The pearl itself contains a barely living liquid center,<LINE>rendering the data easily overwritten by any skilled technician.|Сама жемчужина состоит из почти живой жидкости, что делает её чрезвычайно восприимчивой к перезаписи данных,<LINE>которую может выполнить любой квалифицированный специалист.
+The data on this traces its ownership back to a massive cargo sail,<LINE>with a departure date scheduled soon after our benefactors mass ascension. How peculiar.|Информация на ней свидетельствует о том, что она была частью большого грузового корабля.<LINE>Дата отправления была назначена вскоре после массового вознесения наших создателей, что весьма удивительно.
+It’s highly likely whichever rebellious citizen commandeered this ship belonged to one of many groups of dissident monks.|Вероятно, мятежник, захвативший этот корабль, принадлежал к одной из многочисленных групп монахов-диссидентов.
+Given the ships proximity to a particularly weak spot in the firmament,<LINE>they could have been a pure spindle fanatic, one of few remaining after the monastic purges carried out during the void fluid revolution.|Учитывая расположение кораблей в особенно уязвимом месте на небосводе, можно предположить, что они являются приверженцами философии шпинделя — одними из немногих,<LINE>кто выжил после чисток среди монахов, произошедших во время революции пустотной жидкости.
+Focused on a physical and spiritual un-birth, this reclusive order felt their fate lie in the stars rather than beneath them,<LINE>and this particular believer may have escaped in order to decipher the nature of this ancient belief, unheeded by everyday needs.|Этот орден отшельников, погружённый в физическое и духовное небытиё, ощущал, что их судьба находится среди звёзд, а не на земле.<LINE>Возможно, именно поэтому этот верующий покинул свои родные края, стремясь постичь суть древней веры, не затуманенной повседневными заботами.
+As for where it departed from? The tracking data suggests it came from one of my neighboring cans-<LINE>not that I care enough to discover its exact origin.|Откуда он появился? Согласно данным отслеживания, его взяли из одной из соседних банок.<LINE>Хотя меня и не очень волнует его точное происхождение, мне всё же интересно.
+Although it hardly aligns with my present ambitions, I thank you for this strange insight.|Хотя это и не совсем соответствует моим нынешним целям, я хочу выразить свою благодарность за это неожиданное открытие.
+///Луна
+This seems to be a larger variant of the standard data pearls you may have seen around,<LINE>meant for more direct interfacing.|Вероятно, это более крупный вариант стандартных пакетов данных, с которыми ты, возможно, знаком.<LINE>Он предназначен для более удобного взаимодействия.
+The data stored on this shows a trade route traversing the celestial underlayer,<LINE>our creators ever so wary of any slips in the firmament.|На этом носителе хранятся данные о торговом маршруте, который проходит через нижний слой неба.<LINE>Наши создатели всегда внимательно следят за любыми изменениями в небесной сфере.
+I never payed them any mind, however.<LINE>My kind concerned themselves with matters below, rather than above.|Однако я никогда не обращала на них внимания.<LINE>Таких, как я, больше интересовали дела внизу, чем наверху.
+Besides that, this includes the departure and docking log for the ship.|Кроме того, сюда также входит журнал отправления и стыковки судна.
+Strangely, it records docking at a refueling tower when no ships should have been active,<LINE>after the final days of my creators ascent.|Удивительно, но на этом снимке запечатлена стыковка с заправочной вышкой в то время,<LINE>когда ни один корабль не должен был находиться в активном состоянии - после последних дней восхождения моих создателей.
+Whoever departed in this vessel must have felt their fate lied in the stars,<LINE>rather than beneath the earth.|Тот, кто отправился в полёт на этом корабле, должно быть, чувствовал,<LINE>что его судьба лежит где-то за пределами нашей планеты, а не под землёй.
+Select few superstitious old monks used to believe the same,<LINE>despite their shunning by wider society.|Несколько пожилых монахов, отличавшихся суеверностью, разделяли эту веру, несмотря на то, что общество их сторонилось.
+Even still, some still clung to their belief,<LINE>evident with the existence of this pearl.|Тем не менее, некоторые люди продолжали верить, и это подтверждается существованием этой жемчужины.
+So much effort, endless ruminating,<LINE>our gift swatted away without care.|Столько усилий, бесконечных размышлений — и наш дар был просто проигнорирован.
+It infuriates me.|Это приводит меня в бешенство.
+Like a selfish child, they defied what would have benefited them,<LINE>leaving us to clean up the mess.|Как эгоистичные дети, они не стали принимать решения, которые могли бы принести им пользу,<LINE>и теперь нам приходится разбираться с последствиями.
+Not that I could, anyways, in the state that I am in.|В любом случае, я бы не смогла этого сделать в том состоянии, в котором нахожусь сейчас.
+But I apologize, I shouldn’t have gotten so worked up.<LINE>It’s ultimately insignificant.|Прошу прощения, мне не стоило так переживать.<LINE>В конце концов, это не так важно.
