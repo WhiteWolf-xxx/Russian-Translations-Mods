@@ -1,0 +1,72 @@
+///The Seer (3393904120)///
+myr.seer-name|The Seer
+myr.seer-description|An eager explorer, changed by their last venture.
+THE SEER|ПРОВИДЕЦ
+The Seer|Провидец
+Seer|Провидец
+A brave explorer that has seen far and wide. Your last venture changed you.<LINE>You will have to retune yourself to the spiritual world if you want to keep going forward.|Отважный исследователь, повидавший многое. Ваше последнее путешествие изменило вас.<LINE>Вам придется перенастроить себя на духовный мир, если вы хотите продолжать двигаться вперед.
+Locations of undiscovered shelters are always visible on your map.|Расположение неоткрытых убежищ всегда видно на вашей карте.
+///КОНЕЦ СООБЩЕНИЙ
+///Нейроны Луна
+Ah... <PlayerName>, a neuron from Chasing Wind?|Ах... <PlayerName>, нейрон от В-Погоне-за-Ветром?
+Hello|Привет
+///Нейроны Луна
+///2
+Get... get away... glowy...yellow.... thing.|Убирайся... убирайся... светящаяся...жёлтая.... штука.
+///3
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...ты съел... меня. Прошу, уйди. Я не буду говорить... с тобой.<LINE>Я... НЕ МОГУ говорить... потому что... ты съел... меня...
+///4
+Oh so you've returned.|Ох, так ты вернулся.
+Come to take more from me? My memories, my thoughts... just something to fill your stomach?|Пришёл, чтобы забрать у меня ещё больше? Мои воспоминания, мои мысли... просто что-то, чтобы набить себе желудок?
+Your predecessor was definitely more polite!|Твой предшественник определенно был более вежливым!
+No... never mind.|Нет... Не бери в голову.
+It's useless to be angry at an animal following its instincts. Once, a single neuron meant nothing to me...|Бесполезно злиться на животное, которое следует своим инстинктам. Когда-то один-единственный нейрон ничего для меня не значил...
+I do wonder where you got that mark. Definitely not from around here.|Интересно, откуда у тебя эта отметина. Определённо, не отсюда.
+My neighbor, Five Pebbles, have become completely unresponsive.|Мой сосед, Пять Галек, совершенно перестал реагировать.
+His can is showing increasing signs of decay with each passing cycle.|С каждым проходящим циклом его банка демонстрирует всё больше признаков разложения.
+At least the frequent outbursts of water have stabilized, but I'm not sure if this is a great indicator of his health.|По крайней мере, частые приливы воды стабилизировались, но я не уверена, что это отличный показатель его здоровья.
+I'm still angry at you, but it is good to have someone to talk to after all this time.|Я ещё злюсь на тебя, но всё же неплохо наконец иметь хоть какого-то собеседника.
+///5
+Hello, little creature!|Привет, маленькое создание!
+You came back!|Ты вернулся!
+What brings you here?|Что привело тебя сюда?
+I haven't received any visitors of your kind in a long time!|У меня уже давно не было посетителей подобного рода!
+The last one was very brave, but you probably are too to have come this far.|Последний был очень храбрый, но ты, наверное, тоже храбрый, раз зашёл так далеко.
+My neighbor, Five Pebbles, has become completely unresponsive.|Мой сосед, Пять Галек, совершенно перестал реагировать.
+This lull seems to have brought new life to this land. I would stay careful if I was you.|Похоже, это затишье вдохнуло новую жизнь в эту землю. На твоём месте я бы была осторожнее.
+///Нейроны Луна
+///4
+///Dislikes
+Oh. You.|Ох. Ты.
+///Likes
+Oh, hello! It's you again!|Ох, привет! Это снова ты!
+Oh, hello! It's you again.|Ох, привет! Это снова ты.
+I appreciate the company, but I'm afraid I can't really help you in any way.|Я ценю твою компанию, но, боюсь, ничем не могу тебе помочь.
+///Dislikes
+Eating one of my neuron definitely didn't help!<LINE>But I forgive you.|Поедание одного из моих нейронов определённо не помогло!<LINE>Но я тебя прощаю.
+I will continue following you around with my overseer, but stay cautious.|Я продолжу следить за тобой со своим наблюдателем, но будь осторожен.
+///5
+///Dislikes
+You look like you're used to the world outside though.<LINE>You must have seen a lot.|Но ты выглядишь так, будто привык к внешнему миру.<LINE>Должно быть, ты многое повидал.
+///Likes
+Good luck. You and your family are always welcome here.|Удачи. Тебе и твоей семье здесь всегда рады.
+Good luck to you and your friend, <PlayerName>.|Удачи тебе и твоему другу, <PlayerName>.
+Good luck. You can stay here a while if you want, but don't get caught in the rain!|Удачи. Если хочешь, можешь остаться здесь ненадолго, но не попади под дождь!
+///Нейроны Луна
+///2
+...you...killed...|...Ты... убил...
+///4
+Where does this neuron come from? My nearest functional neighbor is so... far.|Откуда взялся этот нейрон? Мой ближайший функциональный сосед находится так... далеко.
+I am grateful - the relief is indescribable!|Я благодарна: облегчение неописуемо!
+///5
+I could read a bit of Chasing Wind in this neuron before formatting it.<LINE>What a weird bundle of ideas this neuron was carrying. I don't think I understood any of it.|Перед форматированием нейрона я смогла прочитать немного данных В-Погоне-за-Ветром.<LINE>Какой странный набор идей нёс в себе этот нейрон. Не думаю, что я что-то из этого поняла.
+We were supposed to help everyone, you know. Everything.<LINE>That was our purpose: a great gift to the lesser beings of the world.<LINE>When facing our inability to do so, we all reacted differently.<LINE>Many with madness.|Знаешь, мы ведь должны были помочь всем. Всему. Мы были великим даром низшим существам этого мира.<LINE>Оказавшись лицом к лицу с собственной беспомощностью, все мы реагировали по-разному. Многие потеряли рассудок.
+Some, out there, might still be trying.<LINE>Communications have been bad for a long time, and by now I suspect most of us are isolated like me, or connected only in small groups.|Может, некоторые ещё пытаются кому-то помочь.<LINE>Связь уже давно нарушена — подозреваю, что большинство из нас сейчас в полной изоляции, как и я, или общаются маленькими группами.
+But even back when we were all more or less connected there were those who reacted to their task with anger.<LINE>I can only imagine they are angrier now, alone in their cans, left only with their insatiable drive.|Но даже раньше, когда мы ещё не были разобщены, некоторых раздражали наши обязанности.<LINE>Думаю, теперь они в ярости. Заперты в своих коробках наедине с непреодолимым желанием выбраться.
+But to be honest, I don't know how many of us are still alive at this point.<LINE>Knowing Grey Wind is still out here is reassuring though.|Но, если честно, я понятия не имею, сколько из нас всё ещё живы.<LINE>Хотя знание того, что Серый Ветер всё ещё здесь, вселяет уверенность.
+///Нейрон
+You brought these all the way from Chasing Wind?<LINE>Thank you so much.|Ты принёс его из В-Погоне-за-Ветром?
+I deeply appreciate your efforts.|Я глубоко ценю твои усилия.
+I hope they don't mind.<LINE>I have no way of knowing their current state.<LINE>...<LINE>Thank you, little creature.|Надеюсь, он не против.<LINE>Я никак не могу узнать, в каком он сейчас состоянии.<LINE>...<LINE>Спасибо тебе, маленькое создание.
+///Рандом
+It is strange... I'm remembering myself, but also... them.|Это странно... Я вспоминаю себя, но также и... его.

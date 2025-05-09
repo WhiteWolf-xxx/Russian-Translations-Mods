@@ -1,0 +1,39 @@
+SPECIAL : LOCKPATHS
+SPECIAL : GRAV
+WAIT : 10
+SPECIAL : SHOWBRAINPIC
+SPECIAL : MARK
+WAIT : 10
+Greetings, little intruder!
+WAIT : 5
+I have followed your small excursion in climbing my infrastructure with great interest.
+It really was quite peculiar; a non-native specimen appearing out of nowhere from the depths of my island.
+I am sure I would enjoy discovering where you have come from, though my systems have long since atrophied to uselessness.
+WAIT : 5
+There is certainly something wrong with you; I don't need many tools to tell you that.
+You do not belong here. You are stranded in an unfamiliar world.
+Are you attempting to find your way back home, or are you working for something else? Someone or something dear?
+I am afraid I cannot offer you much guidance in my current state.
+I would offer you direction, but my overseers are unreliable as of late.
+Peculiar fate for a being like myself, isn't it? To slowly lose one's cognitive functions...
+It is... sad to say, though I decay further with each passing cycle.
+My immune systems have long since begun to falter, and foreign organisms have started to creep toward my main processing systems.
+Some rather crafty scavengers are doing a fair enough job of helping maintain my structural integrity, but it is simply not enough.
+WAIT : 5
+It won't be long before I am completely covered and buried by the life of this land.
+...
+My processes have become irregular.
+I hear the thoughts and feel the emotions of such strange creatures in near-dreams...
+suddenly becoming aware of my surroundings in deep and novel ways.
+I feel strangely close to the tiny beasts crawling throughout my circuitry.
+Is this a hint toward the Solution? Is it perhaps the right path?
+Hmm...
+...
+Enough about myself! I am quite sorry you have to hear my ramblings, I don't often have the opportunity to converse anymore.
+I should welcome you to my small island; at least, what remains of it.
+I hope that we both find what we are looking for. 
+You seem resourceful; I'm sure you'll find your way back.
+WAIT : 5
+Good luck, little one.
+SPECIAL : PARTIALGRAV
+SPECIAL : UNLOCKPATHS

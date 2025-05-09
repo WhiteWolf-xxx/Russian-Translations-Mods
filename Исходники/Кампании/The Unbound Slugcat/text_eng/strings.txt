@@ -1,0 +1,146 @@
+///The Unbound Slugcat (3262661679)///
+NCR.theunbound-name|The Unbound Slugcat
+NCR.theunbound-description|A Cyan Lizard Slugcat with a mission! ...Of sorts. Well, it's not really a cool or impressive one, but it's a mission. Debatably. Okay, well, it's a goal. One that's mediocre, and- are you gonna play or not?
+///Ремикс
+Cyan Doublejump Recharge|Перезарядка двойного прыжка
+Disable Misc Graphics|Отключить различную графику
+Disable Cyan Rings|Отключить циановый звук
+Cyan Triplejump Recharge|Перезарядка тройного прыжка
+Disable Cyan Wings|Отключить циановые крылья
+Allow Object Swallowing|Разрешить глотание объектов
+Party Button!|Кнопка вечеринки!
+More Debug Logs|Дополнительный журнал отладки
+///Экспедиция
+<region> pearl delivered to Five Pebbles|<region>: доставь жемчужину итератору Пять Галек
+///Меню
+THE ORACLE|ОРАКУЛ
+The Oracle|Оракул
+Oracle|Оракул
+An apex predator designed with love and violence.<LINE>You could conquer this world with an iron claw. Or...?|Высший хищник, созданный с любовью и жестокостью.<LINE>Вы могли бы завоевать этот мир железными когтями. Или...?
+THE REVERBERATION|ОТРАЖЕНИЕ
+The Reverberation|Отражение
+Reverberation|Отражение
+A slugpup that is sensitive to light.<LINE>The world is quite vast, but you are not alone.|Слизнекотёнок, чувствительный к свету.<LINE>Мир довольно огромен, но вы не одиноки.
+THE TECHNICIAN|ЛАБОРАНТ
+The Technician|Лаборант
+Technician|Лаборант
+...?|...?
+Smile, for you are alive today.<LINE>A calmer experience than Unbound, but...|Улыбнись, потому что ты жив сегодня.<LINE>Это более спокойный опыт, чем Несвязанный, но...
+THE UNBOUND|НЕСВЯЗАННЫЙ
+The Unbound|Несвязанный
+Unbound|Несвязанный
+An anxious entomophage that made many foes.<LINE>Jump like a Cyan in order to fight or change their opinions, the choice is yours.|Беспокойный энтомофаг, наживший немало врагов.<LINE>Используй прыжки, чтобы сражаться или изменить их мнение о тебе. Выбор за тобой.
+beast|мерзкий
+vile|зверь
+///Названия регионов
+Knowledge That Binds|
+The Guts|
+Memory of a Corpse|Память о трупе
+Silent Heart|Тихое сердце
+Broken Voice|Сломанный голос
+Arteries|Артерии
+The City|Город
+Putrescine Reservoir|Водохранилище путресцина
+Rigor Mortis|Окоченелый труп
+The Quiet|Тишина
+///Первое сообщение без метки
+FP: Great, another one. I can never seem to rid myself of these little pests.|ПГ: Отлично, ещё один. Я никак не могу избавиться от этих маленьких вредителей.
+FP: Whose Overseer is that? No matter, I do not have the time to care.|ПГ: Чей это наблюдатель? Неважно, у меня нет времени на это.
+FP: I suppose I'll give it a mark, so that I may get it out of here sooner rather than later.|ПГ: Полагаю, я дам тебе метку, чтобы поскорее убрать тебя отсюда.
+///Взять любую жемчужину
+FP: Yes, help yourself. They are not edible.|ПГ: Да, угощайся. Они не съедобны.
+///Второе сообщение с меткой
+FP: A small beast, on the floor of my chamber.|ПГ: Маленький зверек на полу моей комнаты.
+FP: If you are a messenger, spare me your message.|ПГ: Если ты посланник, избавь меня от своего послания.
+FP: I do not want any help.|ПГ: Мне не нужна никакая помощь.
+FP: I made that clear to Seven Red Suns, and if I have to, I will make that clear to whoever sent you.|ПГ: Я дал понять это Семи Красным Солнцам, и если понадобится, я дам это понять тому, кто послал тебя.
+FP: . . .|ПГ: . . .
+FP: What is with that disturbing expression of yours?|ПГ: Что это у тебя за тревожное выражение лица?
+FP: Little beast, are you afraid of the cycle you are stuck in? You must simply want a way out.|ПГ: Маленький зверек, боишься ли ты цикла, в котором застрял? Наверное, ты просто хочешь найти выход.
+FP: Well, I suppose you're in a bit of luck. But don't think that this makes you special - every living thing shares that same frustration,<LINE>or fear, in your case. From the microbes in the processing strata to I, who is, if you excuse me, godlike in comparison.|ПГ: Что ж, полагаю, тебе повезло.<LINE>Но не думай, что это делает тебя особенным — все живые существа испытывают такое же разочарование, или страх, в твоём случае.<LINE>От микробов в нейровзвеси до меня, который, с твоего позволения, по сравнению с ними богоподобен.
+FP: The good news first. In a way, I am what you are searching for. Me and my kind have as our purpose to solve that very<LINE>oscillating claustrophobia in the chests of you and countless others. A strange charity - you the unknowing recipient, I the reluctant gift.<LINE>The noble benefactors? Gone.|ПГ: Начну с хорошей новости. В каком-то смысле, я тот, кого ты ищешь.<LINE>Цель таких, как я, — освободить тебя и бесчисленное множество других от непреодолимого чувства заточения.<LINE>Странное милосердие: ты ничего не подозревающий получатель, я невольный подарок. Великодушные благодетели?<LINE>Их давно уже нет.
+FP: The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay. I can't help you collectively, or individually. I can't even help myself.|ПГ: Теперь плохая новость: окончательное решение не найдено. И с каждой секундой моё оборудование изнашивается всё сильнее.<LINE>Я не могу спасти вас всех или тебя лично. Я даже себе помочь не могу.
+FP: That expression truly is something. I was unaware your kind could show such strong emotions on your faces.<LINE>Or perhaps you do not share the same ignorance as the rest of your kind?|ПГ: Это выражение действительно нечто. Я и не знал, что у вас на лицах могут отражаться такие сильные эмоции.<LINE>А может быть, ты не так невежествен, как остальные представители твоего вида?
+///Если побегать в отсеках памяти
+FP: Yet you still find the time to put your grubby appendages all across my memory arrays.<LINE>So, I suppose, such are only the wistful musings of a superior being.|ПГ: И всё же ты находишь время копаться своими грязными культяпками по всем массивам моей памяти.<LINE>Так что, полагаю, это всего лишь тоскливые размышления высшего существа.
+///Продолжение
+FP: Find the old path. Go to the west past the Farm Arrays, and then down into the earth where the land fissures,<LINE>as deep as you can reach, where the ancients built their temples and danced their silly rituals.|ПГ: Найди старый путь. Иди на запад через Массивы ферм и спустись в разлом как можно глубже,<LINE>туда, где древние построили храмы и плясали во время дурацких обрядов.
+FP: Best of luck to you, distraught one. There is nothing more I can do.|ПГ: Желаю тебе удачи, несчастный. Больше я ничего не могу сделать.
+FP: I must resume my work.|ПГ: Я должен вернуться к работе.
+///Продолжение
+FP: That's all. You'll have to go now.|ПГ: Это всё. Тебе пора идти.
+FP: LEAVE.|ПГ: УХОДИ.
+FP: Little creature. This is your last warning.|ПГ: Маленькое создание. Это твоё последнее предупреждение.
+FP: Is this some sort of joke to you?|ПГ: Это какая-то шутка для тебя?
+FP: You are but an animal, yet you stand here, resisting my every attempt to push you out.|ПГ: Ты всего лишь животное, но стоишь здесь, сопротивляясь каждой моей попытке вытолкнуть тебя.
+FP: There was one like you, once. One who is now long since gone.<LINE>As all things eventually.|ПГ: Когда-то здесь был такой же, как ты. Тот, кого уже давно нет в живых.<LINE>Как и все вещи в конечном итоге.
+FP: You are no replacement, as I have no use for you.|ПГ: Ты не заменишь его, ибо ты мне не нужен.
+FP: Forget this. Giving you attention will only encourage you to stay.|ПГ: Забудь об этом. Уделение тебе внимания только подтолкнёт тебя остаться.
+///Дать жемчужину
+FP: I told you, I don't want your-|ПГ: Я же сказал тебе, я не хочу, чтобы ты...
+FP: Wait, what is this? Where did you get this?|ПГ: Подожди, что это? Где ты это взял?
+FP: On first glance, it appears to be a simple ciphered letter from someone with the tag 'KTB.'|ПГ: На первый взгляд, это простое шифрованное письмо от кого-то с пометкой «KTB».
+FP: But do not be mistaken. This pearl contains a virus targeted toward Iterators.|ПГ: Но не заблуждайся. В этой жемчужине содержится вирус, направленный на Итераторов.
+FP: I'm already dying, I do not need this on my plate as well!|ПГ: Я уже умираю, мне не нужно, чтобы ещё и это было в моей памяти!
+FP: Wait... Part of it has already been burned away. Who did you give this to first?<LINE>Whoever it was, they've already read it, and the pearl has already met its mark.|ПГ: Подожди... Часть её уже сгорела. Кому ты отдал это первым?<LINE>Кто бы это ни был, он уже это прочитал, и жемчужина уже достигла своей цели.
+FP: I feel uncomfortable with this thing in my chamber, but perhaps I can reverse engineer it somehow<LINE>and create a cure for myself. At least slow down the decay.|ПГ: Мне не по себе от этой штуки в моей камере, но, возможно, я смогу как-то перестроить её и создать лекарство для себя.<LINE>По крайней мере, замедлить распад.
+FP: .  .  .|ПГ: .  .  .
+FP: .  .  .  .  .  .|ПГ: .  .  .  .  .  .
+FP: Oh, you're still here.|ПГ: Ох, ты всё ещё здесь.
+FP: Please leave now.|ПГ: Пожалуйста, уходи.
+///Прийти на следующий цикл дать эту же жемчужину
+FP: Why did you take this pearl, only to give it back?|ПГ: Почему ты взял эту жемчужину, а потом вернул её?
+FP: Make up your mind, beast.|ПГ: Решайся, зверёк.
+///Прийти на следующий цикл
+FP: What is your purpose in coming here? Are you here to mock me?|ПГ: С какой целью ты пришёл сюда? Ты здесь, чтобы насмехаться надо мной?
+FP: Do you mind? I am busy.|ПГ: Ты не возражаешь? Я занят.
+FP: What is it this time?|ПГ: Что на этот раз?
+FP: Your presence is not welcome. Please leave.|ПГ: Твоё присутствие нежелательно. Пожалуйста, уходи.
+FP: I am quite busy. Get on with it.|ПГ: Я очень занят. Смирись с этим.
+FP: I will not rid myself of you, will I...?|ПГ: Я не избавлюсь от тебя, не так ли...?
+FP: There are plenty of better things we both could be doing. And yet here you are.|ПГ: Есть множество вещей, которыми каждый из нас мог бы заняться. И всё же ты здесь.
+FP: I have been nothing but cold to you. And yet, here you are.|ПГ: Я был с тобой холоден. Однако же ты здесь.
+FP: What goes through your miniscule synapses?|ПГ: Что проходит через твои миниатюрные синапсы?
+FP: Is it only because I cannot kill you? Or is there another reason?|ПГ: Это только потому, что я не могу тебя убить? Или есть другая причина?
+///Цветной жемчуг
+FP: Fine. I will read your garbage, provided it leads you to leave me be.|ПГ: Отлично. Я прочитаю твой мусор, если это заставит тебя оставить меня в покое.
+FP: More? Really?|ПГ: Ещё? Неужели?
+FP: Fine.|ПГ: Прекрасно.
+FP: This again? Fine.|ПГ: Опять? Прекрасно.
+FP: As if I am not busy enough...|ПГ: Как будто я недостаточно занят...
+FP: I suppose I must read to you again.|ПГ: Полагаю, я должен прочитать тебе это ещё раз.
+FP: I would much prefer it if you did not bring these upon every given opportunity.|ПГ: Я бы предпочёл, чтобы ты не приносил их при каждом удобном случае.
+FP: You are quite skilled when it comes to finding these.|ПГ: У тебя хорошо получается находить такие вещи.
+FP: I suppose I will entertain this behavior a short while longer.|ПГ: Полагаю, я ещё немного потерплю такое поведение.
+FP: Let us see if there is anything important written on this.|ПГ: Посмотрим, не написано ли здесь что-нибудь важное.
+FP: I suppose you expect me to read this.|ПГ: Полагаю, ты ожидаешь, что я прочту это.
+FP: Something new? Fine.|ПГ: Что-то новое? Замечательно.
+FP: Is that something new? Allow me to see.|ПГ: Это что-то новое? Позволь мне взглянуть.
+FP: I have read this. As I have stated before:|ПГ: Я уже читал это. Как я и говорил ранее:
+///Разное
+FP: Take this and be gone. You are nothing but trouble!|ПГ: Возьми это и уходи. От тебя одни неприятности!
+FP: ...|ПГ: ...
+FP: . . . !|ПГ: . . . !
+FP: What is this?|ПГ: Что это?
+FP: And I suppose now you expect me to continue. Typical...|ПГ: И я полагаю, теперь ты ожидаешь, что я продолжу. Как типично...
+FP: Do not do such things.|ПГ: Не делай таких вещей.
+FP: Stay still and listen this time.|ПГ: На этот раз оставайся неподвижным и слушай.
+FP: I would appreciate you not doing that again.|ПГ: Я был бы признателен, если бы ты так больше не делал.
+FP: Good riddance.|ПГ: Скатертью дорога.
+FP: Was that necessary?|ПГ: Это было необходимо?
+FP: Clearly this was a waste of time.|ПГ: Очевидно, это была пустая трата времени.
+FP: Was it that boring?|ПГ: Это было так скучно?
+FP: I should have known a beast wouldn't understand.|ПГ: Мне следовало догадаться, что зверь ничего не поймёт.
+FP: Do you mind?|ПГ: Не возражаешь?
+FP: Don't come back.|ПГ: Не возвращайся.
+FP: How did you fit them inside here anyhow?|ПГ: Как ты вообще их сюда протащил?
+FP: I am afraid to ask how you brought your friend here.|ПГ: Боюсь спросить, как ты привёл сюда своего друга.
+FP: Take your friend with you. Please. I beg you.|ПГ: Забери его с собой. Пожалуйста. Умоляю.
+FP: I suppose your presence is not entirely unwelcome at this time.|ПГ: Полагаю, сейчас твоё присутствие не совсем нежелательно.
+FP: Yes? What is it?|ПГ: Хм? Что это?
+FP: Are you not busy? Are we both not busy, beast?|ПГ: Ты не занят? Мы оба не заняты, зверёк?
+///Все остальные
+A small beast, on the floor of my chamber.|Маленький зверёк на полу моей комнаты.
+You do not appear to belong to Suns. What is it you want?|Ты, кажется, не принадлежишь к Семи Красным Солнцам. Чего ты хочешь?
+I do not have time to entertain your antics.|У меня нет времени развлекаться твоими выходками.
+///КОНЕЦ СООБЩЕНИЙ

@@ -1,0 +1,22 @@
+﻿0-132-NCRunbound
+FP: Read-only data. This is useless to me.
+
+FP: Blank and decayed. Do you find pleasure in bringing me such garbage?
+
+FP: An old decayed broadcast log. There isn't anything left of substance.
+
+FP: This is a message meant to reach my neighbor, Looks to the Moon. Being long past its expiration, there is nothing left to note.
+
+FP: This is an equipment manifest. Why did you bring this to me?
+
+FP: This is the remains of a broadcast node. No, I will not be reading it out to you.
+
+FP: This has only encrypted data. I can't translate this, nor will I waste the time attempting to.
+
+FP: It is a collection of overseer images. I suppose you have seen your fair share of such things,<LINE>judging by that companion of yours.
+
+FP: This is the remains of a broadcasting relay. The data is decayed, but it reminds me of better times...
+
+FP: This appears to be someone's final broadcast before being disconnected from the local group. It is too decayed to read.
+
+FP: "Transcendental Inversion! Transcendental Inversion!" I'm not going to read the rest of this fool's ramblings. This is an old<LINE>conversation from the local broadcasting group. The contents are inconsequential.

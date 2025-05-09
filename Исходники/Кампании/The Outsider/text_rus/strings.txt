@@ -1,0 +1,67 @@
+///The Outsider (2961788239)///
+Outsider|Аутсайдер
+Quaeledy.outsider-name|Аутсайдер
+Quaeledy.outsider-description|[ ТЕПЕРЬ У ВАС ЕСТЬ МЕНЮ РЕМИКСА! ]<LINE>[ Требуется дополнение, в противном случае это может привести к вылету игры. ]<LINE>Аутсайдер — это чрезмерно броский слизнекот, или, скорее, дальний родственник слизнекота. Он обладает генами крылатых насекомых, что позволяет ему приобретать биологическую флуоресценцию и способность к полету, но также делает споровую пыльцу смертельной для него.
+///Меню
+THE OUTSIDER|АУТСАЙДЕР
+The Outsider|Аутсайдер
+Outsider|Аутсайдер
+A quick and light vegetarian animal that have bioluminescence and short-time flight ability.<LINE>With amazing vigilance and flexible skills, it seeks a foothold in this dark foreign land.|Быстрое и легкое животное-вегетарианец, обладающее биолюминесценцией и способностью к кратковременному полету.<LINE>Обладая удивительной бдительностью и гибкими навыками, оно стремится закрепиться на этой темной чужой земле.
+Antennae|Усики
+LepidoticWing|Чешуйки
+Speckles|Крапинки
+FlaringLight|Вспыхивающий свет
+///Название регионов
+Auroral Mercury|Сияющий Меркурий
+Dark Loam|Тёмный суглинок
+Degenerate Cathedral|Дегенеративный собор
+Dry Ditch|Высохший канал
+Discontinued Factories|Остановленный завод
+Dust Wasteland|Пыльная пустошь
+///Обучение
+While in the air, tap jump to flutter.|Находясь в воздухе, нажми «Прыжок», чтобы начать порхать.
+While stand on the ground, Tap jump and pick-up together to flare at the cost of consuming food.|Стоя на земле, нажми «Прыжок» и «Взять» вместе, чтобы вспыхнуть ценой потребления пищи.
+You have a wider range of vegetarian diet, including those explosive red grasses.|У тебя есть более широкий выбор вегетарианской диеты, включая эти взрывоопасные красные травы.
+[Please do not see echoes in the first rain cycle. This will prevent your game from being saved.]|[Пожалуйста, не ходи к эхо в первом цикле. Это предотвратит сохранение твоей игры.]
+///Сообщения Гальки
+...How long... has it been...|...Как давно... сколько времени прошло?...
+...Get out... of here...|...Убирайся... отсюда...
+...It is... brighter... today.|...Сегодня... светлее....
+...Why....|...Почему?....
+...No...|...Нет...
+...Stop...|...Остановись...
+...Please...|...Пожалуйста...
+A ...|A...
+...Go away...|...Уходи...
+...Not forgotten pain...|...Не забытая боль...
+...So little... left. Why hurt... me more...|...Так мало... уходи. Зачем причинять боль... мне ещё больше...
+...Leave me... alone.|...Оставь меня... в покое.
+...Why back?|...Почему вернулся?
+...Nice to see...|..Приятно видеть..
+...Thank you... for... company.|...Спасибо тебе... за... компанию.
+///Сообщение луны
+Hello, little creature.|Привет, маленькое создание.
+You seem to have met one of us before.|Кажется, ты уже встречался с одним из нас раньше.
+From your peculiar appearance, I guess you probably come from a distant place. What brought you here?|Судя по твоей необычной внешности, ты, вероятно, пришёл издалека. Что привело тебя сюда?
+Did you lose contact with your companions during your migration? I haven't seen your ethnic group. I haven't even seen your distant relatives for a long time.|Ты потерял связь со своими товарищами во время миграции? Я не видела твою этническую группу.<LINE>Я долгое время не видела даже твоих дальних родственников.
+I'm sorry, no matter what you want, I can't help you.|Мне очень жаль, но, чего бы ты ни хотел, я ничем не могу тебе помочь.
+Our era is about to pass. The old world is coming to an end. It's not advisable to stay here for a long time. You'd better leave here as soon as possible.|Наша эпоха подходит к концу. Старому миру приходит конец.<LINE>Не рекомендую оставаться здесь надолго. Тебе лучше уйти отсюда как можно скорее.
+///Ремикс
+///Удобства
+Capacity|Удобства
+These options mainly exist for the gaming experience.|Эти опции существуют в основном для удобства игры.
+Flight Does not Consume Food|Полет не требует употребления пищи
+Immune Spore Cloud|Облако иммунных спор
+Disable Flare|Отключить вспышку
+Set a Key Code to Fly|Установить клавишу для полёта
+Set a Key Code to Flare|Установить клавишу для вспышки
+///Внешний вид
+Appearance|Внешний вид
+These options mainly exist to dress up your slugcat.|Эти опции существуют для того, чтобы нарядить вашего слизнекота.
+Hide the Flaring Light|Спрятать вспыхивающий свет
+Hide the Swallow Tail|Спрятать хвост
+Hide the Antennae|Спрятать усики
+Hide the Speckles|Спрятать крапинки
+Hide the Wing all the time|Спрятать крылья на всё время
+Hide the Wing when it is folded|Спрятать крылья, когда они сложены
+Replacing Wings with Hands (Chiroptera)|Замена рук на крылья с руками (Рукокрылые)
