@@ -1,0 +1,5 @@
+///Weakened Platform (3375820548)///
+weakenedplatform-name|Ослабленная платформа
+weakenedplatform-description|Исследуйте металлическое плато с более чем 200+ экранами, расположенное между Массивами ферм и Небесными островами.
+Weakened Platform|Ослабленная платформа
+The following region doesn't have any changes for Downpour slugcats any slugcat beside Monk and Survivor uses Hunter spawns|В этом регионе все слизнекоты, кроме Монаха и Выжившего, используют спавны Охотника

@@ -1,0 +1,8 @@
+///The Radiosphere (3162697023)///
+radiosphere-name|The radiosphere
+radiosphere-description|This my first reagion ive decided to make. Venture deep in to the cold and empty wasteland of the radiosphere. Be sure not to starve to death! <LINE> Creddit to @avocado999,neoncityrain and XenomporhicDNA, Eli from the RW academy and all the playtestersfor help <LINE> The enterance is in LF_D07, left of the echo
+The radiosphere|Радиосфера
+The pits |Ямы
+The plateau|Плато
+The barrier|Барьер
+Northern sealine|Северная прибрежная линия

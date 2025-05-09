@@ -1,0 +1,9 @@
+///Underbelly (3321866775)///
+Underbelly-name|Подбрюшье
+Underbelly-description|Старый регион Подбрюшья стерт с лица земли и перенесен на версию 1.9 Наслаждайтесь!
+Underbelly|Подбрюшье
+The Shallows|Мелководье
+Power Core|Силовое ядро
+Pipeline|Трубопровод
+Scavenger lair|Логово мусорщиков
+Wreckage|Крушение

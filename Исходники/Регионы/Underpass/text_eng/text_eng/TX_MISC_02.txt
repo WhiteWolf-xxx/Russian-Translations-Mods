@@ -1,0 +1,13 @@
+0-TX_MISC_02
+[OUTGOING REQUEST] COMMUNICATIONS MANIFEST
+[[ERROR]] UNABLE TO SEND - Destination Inaccessible
+SOURCE NODE TRACE: BA_ROOT, BA_COMM02, NK_RELAY05, MM_RELAY02, TX_RELAY01 || DESTINATION: (NULL)unknown group
+MESSAGE CONTENTS:
+BA: ... any ... receive messages?
+BA: No replies ... 15 cycle ...
+BA: Anyone ... hearing?
+BA: ...
+BA: ...
+BA: Anyone?
+BA: Don't ... be alone.
+BA: ...

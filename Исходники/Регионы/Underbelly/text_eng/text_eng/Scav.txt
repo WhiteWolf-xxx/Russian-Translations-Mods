@@ -1,0 +1,14 @@
+a-21
+This pearl has been scrambled. But some information is still readable.<LINE>How lucky!
+
+It has some plain text, let me read it for you<LINE>it seems to be from some kind of automated output log.
+
+222-TEST B: Unit_ID 72001, title: LeviathanB. Cycle 32. condition:poor<LINE>Cycle 35. condition: decent<LINE>Cycle 63. condition: decent
+
+The list goes on and on...
+
+The only noteable thing is that the Units condition went from "great" to "eliminated" between cycle 175 and 178.<LINE>Certainly strange...
+
+There are some notes here aswell discussing different colour pigments in aquatic organisms.<LINE>perhaps they were modifying them for fancy colours.
+
+Its quite suspicious how a pearl with seemingly innocent contents was scrambeled, or perhaps it was done accidentaly.

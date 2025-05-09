@@ -1,0 +1,9 @@
+///Underbelly (3321866775)///
+Underbelly-name|Underbelly Legacy Region
+Underbelly-description|The old Underbelly region Dusted off and ported to 1.9 Enjoy!
+Underbelly|Подбрюшье
+The Shallows|Мелководье
+Power Core|Силовое ядро
+Pipeline|Трубопровод
+Scavenger lair|Логово мусорщиков
+Wreckage|Крушение

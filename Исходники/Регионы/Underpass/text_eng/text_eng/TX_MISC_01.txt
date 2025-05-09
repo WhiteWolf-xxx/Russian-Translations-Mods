@@ -1,0 +1,17 @@
+0-TX_MISC_01
+[LIVE BROADCAST] EQUIPMENT MANIFEST
+EM: Network integrity compromised due to regional seismic activity.<LINE>Attempting rerouting...
+EM: ROUTE PROC - FAILURE
+EM: ROUTE PROC - Transport HI - Side House, industrial complex - SUCCESS
+EM: ROUTE PROC - FAILURE
+EM: ROUTE PROC - Transport DC - Enclosed Predicate, drainage structure - SUCCESS
+EM: ROUTE PROC - FAILURE
+EM: ROUTE PROC - Transport FT - Paramount Nucleus Terminal, storage depot - SUCCESS
+EM: ROUTE PROC - FAILURE
+EM: ROUTE PROC - FAILURE
+EM: ROUTE PROC - Transport RG - Data Complex, Acero tower - SUCCESS
+EM: ROUTE PROC - FAILURE
+EM: ROUTE PROC - Transport TR - Five Pebbles, primary facility structure - SUCCESS
+EM: ROUTE PROC - FAILURE
+EM: ROUTE PROC - FAILURE
+EM: Warning, not all transit connections could successfully reroute...

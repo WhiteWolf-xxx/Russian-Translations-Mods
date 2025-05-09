@@ -1,0 +1,6 @@
+0-DC_MISC_02
+[LIVE BROADCAST] EQUIPMENT MANIFEST
+EM: Facility monitoring report:
+EM: Excessive outflow notice: Rates excess of 6000ul
+EM: Excess outflow will cause erosion, maintenance request appended to outflow notice.
+EM: Forwarding data to pump station gamma, FW_COMM04
