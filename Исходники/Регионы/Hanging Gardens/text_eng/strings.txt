@@ -1,0 +1,5 @@
+///Hanging Gardens (3022284148)///
+hanging.gardens-name|Hanging Gardens
+hanging.gardens-description|A towering greenhouse structure which acts as a sanctuary for many exotic creatures.
+Hanging Gardens|Висячие сады
+Enduring Sanctuary|Незабвенное убежище

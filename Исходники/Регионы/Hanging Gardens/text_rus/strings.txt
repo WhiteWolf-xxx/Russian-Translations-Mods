@@ -1,0 +1,5 @@
+///Hanging Gardens (3022284148)///
+hanging.gardens-name|Висячие сады
+hanging.gardens-description|Возвышающееся оранжерейное сооружение, которое служит убежищем для многих экзотических существ.
+Hanging Gardens|Висячие сады
+Enduring Sanctuary|Незабвенное убежище

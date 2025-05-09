@@ -1,0 +1,23 @@
+Hello little creature.<LINE>What brings you to these gardens?
+
+When I still had my senses, I would lie in this very place, pondering what I was.
+
+Do you know what you are? Does your existence trouble you as much as mine troubled me?
+
+(Yellow)For you are balanced in mind and soft of heart. 
+
+(Yellow)Then why do you linger? Are you searching for another?<LINE>I'm afraid what you seek cannot be found here.
+
+(Yellow)So look elsewhere, lest you lose yourself amongst the swaying fronds.
+
+(White)For you are alone, lost in this strange land.<LINE>Looking for answers but finding only more questions.
+
+(White)However, I envy your being, for discovery is a gift. What wonders lie beyond our horizons?
+
+(White)Yet no matter how far you travel beyond these emerald hills, the cycle will continue.
+
+(Red)For you are imbalanced, with discordance in your heart.<LINE>It must be difficult, to live in a world which despises those that do not belong.
+
+(Red)Yet in you I see a purpose.<LINE>How far have you traveled to reach these emerald hills?
+
+(Red)Your journey is coming to an end. I hope you arrive at the destination you seek.

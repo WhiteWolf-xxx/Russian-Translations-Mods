@@ -1,0 +1,5 @@
+///Moonlit Acres (3068084165)///
+jam.moonlitacres-name|Лунные акры
+jam.moonlitacres-description|Лунные акры - это мрачный и праздничный регион, соединяющий Затенённую цитадель и Массивы ферм, где обитает новый вид ящериц.
+Moonlit Acres|Лунные акры
+Sunlit Sanctuary|Солнечное святилище

@@ -1,0 +1,5 @@
+///Moonlit Acres (3068084165)///
+jam.moonlitacres-name|Moonlit Acres
+jam.moonlitacres-description|Moonlit Acres is a dark and festive region connecting Shaded Citadel and Farm Arrays, featuring a new lizard type
+Moonlit Acres|Лунные акры
+Sunlit Sanctuary|Солнечное святилище

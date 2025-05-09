@@ -1,0 +1,14 @@
+///Marshland Wastes (2989757351)///
+tcan.marshlandwastes-name|Marshland Wastes
+tcan.marshlandwastes-description|A short region connecting Garbage Wastes, Pipeyard, Chimney Canopy, and Farm Arrays together
+Marshland Waste|Болотная пустошь
+Industrial Ouput|Промышленный отвод
+The Slums|Трущобы
+Filter Residue|Осадочный фильтр
+Garbage Wastes 2 Electric Boogaloo|Свалка 2 Электрическое бугало
+Scav Factory|Фабрика мусорщиков
+Scav Town|Город мусорщиков
+Forgotten Tundra|Забытая тундра
+Slush Dispenser|Слив слякоти
+Frozen City|Замёрзший город
+Sludge Pipeway|Илистый трубопровод

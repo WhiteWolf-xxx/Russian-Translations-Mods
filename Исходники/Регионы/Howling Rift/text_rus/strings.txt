@@ -1,0 +1,4 @@
+///Howling Rift (2987817211)///
+howling_rift-name|Воющий разлом
+howling_rift-description|Разрушающийся рудник, соединяющий Склепы памяти и Подземку.
+Howling Rift|Воющий разлом

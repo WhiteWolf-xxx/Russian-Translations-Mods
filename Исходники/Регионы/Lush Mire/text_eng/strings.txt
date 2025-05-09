@@ -1,0 +1,5 @@
+///Lush Mire (3014893271)///
+wrayk.lushwire-name|Lush Mire
+wrayk.lushwire-description|An overgrown and humid industrial zone between Drainage System, Shaded Citadel, and Hanging Gardens
+Lush Mire|Пышная трясина
+Serene Grotto|Безмятежный грот

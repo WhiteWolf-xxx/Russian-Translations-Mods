@@ -1,0 +1,4 @@
+///Howling Rift (2987817211)///
+howling_rift-name|Howling Rift
+howling_rift-description|A crumbling mining site connecting Memory Crypts and Subterranean.
+Howling Rift|Воющий разлом
