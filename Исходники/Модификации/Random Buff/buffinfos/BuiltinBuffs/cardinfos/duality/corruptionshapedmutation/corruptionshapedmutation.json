@@ -1,0 +1,29 @@
+{
+    "FaceName" : "corruptionshapedmutation",
+    "BuffID" : "CorruptionShapedMutation",
+    "BuffType" : "Duality",
+    "BuffProperty" : "Special",
+    "AsPositive" : true,
+    "Triggerable" : false,
+    "Stackable" : true,
+    "Color" : "6ABFE5",
+    "Tag" : ["ShapedMutation"],
+    "Conflict" : ["ShapedMutation"],
+    "MaxStackLayers" : 3,
+    "MultiLayerFace" : true,
+    "FaceLayer" : 8,
+    "MaxFaceDepth" : 0.5,
+    "FaceBackgroundColor" : "0C0B02",
+    "Chinese" : {
+        "BuffName" : "菌形突变",
+        "Description" : "你身上长出长腿菌的触手，并以长腿菌的的方式进行移动。你失去了视力，但可以看见声源附近的场景。许多生物开始恐惧你，长腿菌将你视为同类，腐化墙壁不再吸附你，而迭代器拒绝和你说话。你的食量增大，并倾向于食肉。你不能拾取和投掷物品，只能使用触手将生物拖至核心吞噬以进食。不按跳跃键时，你可以按方向键使核心移动，按住跳跃键时，你可以按方向键使空闲触手移动。长按投掷键以使触手自动伸向附近的生物并拖至核心，长按拾取键以抓住触手附近的生物并拖至核心。\n叠加效果：每层叠加都增加你的生命值、触手数量和长度。从第二层开始，你将不再有进食眩晕，并且力气更大；在第三层，爆炸不再是你的弱点。"
+    },
+    "English" : {
+        "BuffName" : "Corruption-Shaped Mutation",
+        "Description": "You grow tentacles of Long Legs creatures on your body and move in the way of Long Legs creatures. You have lost your vision, but you can see the scene near the sound source. Many creatures begin to fear you, All Daddy Long Legs see you as their own kind, Corrupted Wall no longer attracts you, and Iterator refuses to speak to you. Your appetite increases and you tend to eat meat. You cannot pick up or throw items, you can only use tentacles to drag the creature to your core for consumption. When holding down the jump key, you can press the directional keys to move the idle tentacles. When not pressing the jump key, you can press the directional keys to move your core. Long press the throw button to automatically extend the tentacles towards nearby creatures, and long press the pick button to grab the creatures near the tentacles. \nStacking effect: Each layer of overlay increases your health, tentacle count, and length. Starting from the second layer of stacking, you will no longer experience eating dizziness and will have greater strength; On the third layer of stacking, explosions are no longer your weakness."
+    },
+    "Russian" : {
+        "BuffName" : "Мутация в Форме Гнили",
+        "Description": "На вашем теле вырастают щупальца Долгоногов, и вы двигаетесь так же, как они. Вы потеряли зрение, но можете видеть сцену рядом с источником звука. Многие существа начинают вас бояться, все Отцы Долгоноги видят в вас своего, Заражённая Стена больше не привлекает вас, а Итератор отказывается с вами разговаривать. Ваш аппетит усиливается, и вы предпочитаете есть мясо. Вы не можете поднимать или бросать предметы, вы можете только использовать щупальца, чтобы подтащить существо к своему ядру для поглощения. Удерживая нажатой клавишу прыжка, вы можете нажимать клавиши со стрелками, чтобы перемещать свободные щупальца. Не удерживая нажатой клавишу прыжка, вы можете нажимать клавиши со стрелками, чтобы перемещать ядро. Нажмите и удерживайте кнопку броска, чтобы автоматически вытянуть щупальца в сторону ближайших существ, и нажмите и удерживайте кнопку захвата, чтобы схватить существ рядом с щупальцами. Эффект стака: каждый слой наложения увеличивает ваше здоровье, количество щупалец и их длину. Начиная со второго уровня стака, вы больше не будете испытывать головокружение от еды и станете сильнее. На третьем уровне стака взрывы больше не будут вашей слабостью."
+    }
+}

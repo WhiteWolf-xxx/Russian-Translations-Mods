@@ -1,0 +1,20 @@
+{
+    "FaceName" : "danglebomb",
+    "BuffID" : "DangleBomb",
+    "BuffType" : "Duality",
+    "BuffProperty" : "Normal",
+    "Triggerable" : false,
+    "Color" : "FFE7B0",
+    "Chinese" : {
+        "BuffName" : "蓝果炸弹",
+        "Description" : "使所有蓝果变成定时炸弹，投出后倒记时并爆炸，食用也会导致爆炸"
+    },
+    "English" : {
+        "BuffName" : "Danglebomb",
+        "Description" : "All blue fruit become timed bombs that explode when thrown or consumed."
+    },
+    "Russian" : {
+        "BuffName" : "Подвесная Бомба",
+        "Description" : "Все синие фрукты становятся бомбами замедленного действия, которые взрываются при броске или употреблении в пищу."
+    }
+}
