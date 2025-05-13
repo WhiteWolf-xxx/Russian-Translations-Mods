@@ -1,0 +1,20 @@
+{
+    "FaceName" : "napalm",
+    "BuffID" : "Napalm",
+    "BuffType" : "Duality",
+    "BuffProperty" : "Normal",
+    "Triggerable" : false,
+    "Color" : "FF3200",
+    "Chinese" : {
+        "BuffName" : "凝固汽油弹",
+        "Description" : "前置为温度; 极大降低炸弹的爆炸伤害，但炸弹爆炸将创造一片持续15秒的火区。"
+    },
+    "English" : {
+        "BuffName" : "Napalm",
+        "Description" : "Bind with Temperature; Significantly reduces the damage of bombs, but they will leave a ring of fire for 15s after explosion."
+    },
+    "Russian" : {
+        "BuffName" : "Напалм",
+        "Description" : "Связано с температурой; значительно снижает урон от бомб, но они оставляют огненное кольцо в течение 15 секунд после взрыва."
+    }
+}
