@@ -1,0 +1,21 @@
+{
+    "FaceName" : "byebyeweapon",
+    "BuffID" : "ByeByeWeaponID",
+    "BuffType" : "Negative",
+    "BuffProperty" : "Normal",
+    "Triggerable" : false,
+    "Stackable" : false,
+    "Color" : "7f1e1e",
+    "Chinese" : {
+        "BuffName" : "再见武器",
+        "Description" : "没法扔武器了"
+    },
+    "English" : {
+        "BuffName" : "Bye Bye Weapons",
+        "Description":"Slugcat can no longer throw things."
+    },
+    "Russian" : {
+        "BuffName" : "Прощай, Оружие",
+        "Description" : "Слизнекот больше не может бросать предметы."
+    }
+}

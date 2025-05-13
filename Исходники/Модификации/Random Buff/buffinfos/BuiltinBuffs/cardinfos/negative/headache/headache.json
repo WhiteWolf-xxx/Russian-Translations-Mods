@@ -1,0 +1,21 @@
+{
+    "FaceName" : "HeadAche",
+    "BuffID" : "HeadAcheID",
+    "BuffType" : "Negative",
+    "BuffProperty" : "Normal",
+    "Triggerable" :  false,
+    "Stackable" :  false,
+    "Color" : "ff1df0",
+    "Chinese" : {
+        "BuffName" : "我脑袋疼",
+        "Description" : "间歇性眩晕2秒"
+    },
+    "English" : {
+        "BuffName" : "Headache",
+        "Description" : "Slugcat will faint randomly."
+    },
+    "Russian" : {
+        "BuffName" : "Головная Боль",
+        "Description" : "Слизнекот будет падать в обморок случайным образом."
+    }
+}

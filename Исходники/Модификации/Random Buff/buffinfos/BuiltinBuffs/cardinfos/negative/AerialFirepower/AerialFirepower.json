@@ -1,0 +1,21 @@
+{
+    "FaceName" : "AerialFirepower",
+    "BuffID": "AerialFirepowerID",
+    "BuffType" : "Negative",
+    "BuffProperty" : "Normal",
+    "Triggerable" : false,
+    "Stackable" : false,
+    "Color" : "#ffffff",
+    "Chinese" : {
+        "BuffName" : "空中火力",
+        "Description" : "大幅提高魔王秃鹫的射击和回收速度"
+    },
+    "English" : {
+        "BuffName" : "Aerial Firepower",
+        "Description" : "Massively increases the fire rate of king vultures."
+    },
+    "Russian" : {
+        "BuffName" : "Воздушная Огневая Мощь",
+        "Description" : "Значительно увеличивает скорострельность королевских стервятников."
+    }
+}
