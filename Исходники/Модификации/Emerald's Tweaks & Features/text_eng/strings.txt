@@ -1,0 +1,173 @@
+///Emerald's Tweaks & Features (2933890889)///
+emeralds_features-name|Emerald's Tweaks & Features
+emeralds_features-description|An expansive collection of tweaks, features, fixes and assists to help fine tune and improve your Rain World experience.\n\nSince the start of Downpour's release, I have compiled a mod\nincluding all the tweaks, fixes, and features I've made\nto make the game more enjoyable (and bearable).\n\nThere are quite a few tweaks here so there's bound to be something\nfor everyone. And in addition, there are also some cool features\nto enjoy like rare creatures and more.\n\nThis would never have come out if my friends Arden\nand Lucky didn't encourage me to release it, so\nthank you guys for the support <3
+Tweaks
+Features
+Shiny Spawns
+Slugsomnia
+Advanced
+Advanced
+~Slugcat Tweaks~
+Deep Breathing
+No More Batgrab
+Back Spear For All
+Slug Charisma
+Chad Gourmand
+Violent Saint
+Resilient Saint
+Thick Spearmaster
+Winter Coat
+Deadly Spears
+Antacid Coating
+~Gameplay Tweaks~
+Glowy Slug
+Enlightened Slug
+Karmic Balance
+Special Spear Spawns
+Simpleflips
+Egg Yeet
+Unlimited Passage
+Unrestricted Passage
+~Creature Tweaks~
+Leech Repellent
+Respectful Worms
+Wormgrass Immunity
+Rotproof
+Stowaway Energizer
+Breakable Barnacles
+Brave Pups
+Anti-Spyware
+~Mod Features~
+Slugsomnia
+Shiny Spawns
+~Shiny Config~
+Shiny Chance
+Albino Shiny Chance
+Colorful Shiny Chance
+Shiny Food
+Shiny Tools
+Shiny Lizards
+Shiny Creatures
+~Slugsomnia Config~
+Oversleep Chance
+Weather Chance
+Rare Weather Chance
+Wake Time
+Random
+Afternoon
+Evening
+Sunset
+Dusk
+Twilight
+Night
+Grace Period
+Weather Type
+Random
+Rain
+Snow
+Heatwave
+Thunderstorm
+Foggy
+Hail
+Distortion
+~Random Weathers~
+Rain
+Snow
+Heatwaves
+Thunderstorms
+Fog
+Hail
+Distortion
+~Advanced Options~
+Rock Damage Multiplier
+Spear Damage Multiplier
+Maul Damage Multiplier
+Breath Multiplier
+Passive Reputation Gain
+Passive Reputation Cap
+Explosive Spear Chance
+Electric Spear Chance
+Fire Spear Chance
+Poison Spear Chance
+Acid Bounces
+Arti Patch Only
+No Pup Flipping
+~Configure Keybinds~
+Player 1 Backflip Button
+Player 2 Backflip Button
+Player 3 Backflip Button
+Player 4 Backflip Button
+Gives all slugcats increased breath while underwater.
+Disables auto-grabbing of batflys. For those who don't need the game to do it for them.
+Allows all slugcats to equip a backspear, even when not playing expedition mode.
+Allows all slugcats to passively gain reputation by simply existing, and allows Artificer to befriend Scavengers. Go make some friends!
+Buffs Gourmand's climbing speed, and allows him to throw more spears before getting winded.
+Allows Saint to throw spears. Now you can finally open those popcorn plants!
+Makes it so Saint no longer gets one shot by everything.
+Makes Spearmaster as thick as the other slugcats.
+Gives you fluffier fur, allowing you to stay out in the cold without freezing. Lasts until the blizzard starts.
+Makes spears, and rocks thrown by you deal increased damage. Mauling also deals quite a bit more damage as well.
+Coats your body in a powerful antacid, allowing you to touch spicy water multiple times without dying.
+Allows you to start with the Neuron Glow effect.
+Allows you to start with the Mark of Communication. [May Have Weird Sideeffects!]
+Allows you to encounter echos without activating them first. (If you have enough karma) [BREAKS SAINT & ARTIFICER CAMPAIGNS!]
+Allows Saint and Artificer to start the game with 5 karma levels already unlocked.
+Allows a variety of special spear types to spawn naturally in all campaigns.
+Adds a new keybind that allows you to do a small backflip. (Works on poles!
+[Spoilers] Allows you to yeet firebug eggs with the same strength as throwing a spear.
+[Spoilers] Makes poison tipped spears never run out.
+Allows you to use a passage as many times as you want. Picks art at random from currently acquired passages.
+Allows Hunter and Saint to use passages. Finally!
+Forces the cycle timer to always show, regardless of character, or region.
+Prevents 'most' leeches from grabbing on to you. Other creatures are not affected by this effect.
+Gives garbage worms a newfound respect for slugcats, so they no longer steal your spears. They still steal from scavs though, because they deserve it.
+Makes wormgrass unable to touch you. Now you can finally enjoy Farm Arrays without using the deer!
+Tired of dying to the rot covered walls that can't even move? Well with this new lubricative solution, you can glide off them with ease!
+\"Stowaway isn't real! Stowaway can't hurt you!\" Makes stowaways much more likely to be awake, so that they can be encountered more often.
+Tired of barnacles getting in the way? Well chuck a few stones at them and watch their pesky shells shatter!
+Makes slugpups more brave, so they won't grasp onto you and hinder your movement unless you grab them.
+Prevents the guide overseer from spawning, allowing you to explore without it's guidance. (Reduced chance of a scav 'accidentally' killing you)
+Adds various random wakeup events. Face the dangers of the night, or enjoy frolicking in the snow. It's up to you! [Neuron Light Recommended]
+Adds rare creature variants into the game to spice up your exploration. Variants come in wacky colors, like rainbow, monochrome, and more!
+Overhauls 1 vanilla slugcat to be more unique, so that they are no longer in Downpour's shadow.
+[Deep Breathing] Slugcat underwater breath loss multiplier - Default: 1
+[Slug Charisma] Amount of passive reputation gained - Default: 0.08
+[Slug Charisma] Max reputation that can be obtained passively - Default: 0.25
+[Slug Charisma] Only apply the Artificer scavenger patch - Default: false
+[Deadly Spears] Spear damage multiplier - Default: 2
+[Deadly Spears] Rock damage multiplier - Default: 25
+[Deadly Spears] Maul damage multiplier - Default: 2.5
+[Karmic Balance] Karma cap override (Works for all slugcats) - Default: 4
+[Antacid Coating] Number of bounces before acid becomes lethal - Default: 3
+[Special Spear Spawns] Spear spawn density modifier - Default: 1.2
+[Special Spear Spawns] Explosive spear spawn chance - Default: 0.12
+[Special Spear Spawns] Electric spear spawn chance - Default: 0.08
+[Special Spear Spawns] Fire spear spawn chance - Default: 0.06
+[Special Spear Spawns] Poison spear spawn chance - Default: 0.1
+[Simpleflips] Prevent pups from reading the backflip button (Enable if pups are backflipping instead of you) - Default: true
+[Slugsomnia] Chance to wake up later than normal - Default: 0.2
+[Slugsomnia] Chance for a cycle to be rainy - Default: 0.1
+[Slugsomnia] Chance for unique weathers and effects - Default: 0.5
+[Slugsomnia] Number of cycles needed before slugsomnia can start occuring - Default: 6
+[Slugsomnia] Time chosen when starting a slugsomnia cycle - Default: Dusk
+[Slugsomnia] Weather type chosen when starting an alterred cycle - Default: Random
+[Slugsomnia] Allows rainy weather to occur when weather is set to random.
+[Slugsomnia] Allows snowy weather to occur when weather is set to random.
+[Slugsomnia] Allows heatwaves to occur when weather is set to random.
+[Slugsomnia] Allows thunderstorms to occur when weather is set to random.
+[Slugsomnia] Allows foggy weather to occur when weather is set to random.
+[Slugsomnia] Allows hailstorms to occur when weather is set to random.
+[Slugsomnia] Allows reality distortions to occur when weather is set to random.
+Forces the BkgDrone to always be at least 0.3.
+[Shiny Spawns] Chance for spawns to have different colors - Default: 0.05
+[Shiny Spawns] Chance for spawns to have wildly different colors (Must be lower than or equal to shiny chance) - Default: 0.01
+[Shiny Spawns] Chance for spawns to be albino - Default: 0.02
+[Shiny Spawns] Chance for spawns with graphically intensive effects - Default: 0.005
+[Shiny Spawns] Enables rare colors for natural food items.
+[Shiny Spawns] Enables rare colors for tools and weapons.
+[Shiny Spawns] Enables rare colors for most varieties of lizard.
+[Shiny Spawns] Enables rare colors for almost all living creatures.
+Set which button Player 1 can use to do a small backflip.
+Set which button Player 2 can use to do a small backflip.
+Set which button Player 3 can use to do a small backflip.
+Set which button Player 4 can use to do a small backflip.
