@@ -1,0 +1,374 @@
+//MainMenu
+MainMenu_Buff|Бафф Режим
+MainMenu_Cardpedia|КАРТОПЕДИЯ
+
+//PackMenu
+PackMenu_Show|Паки
+PackMenu_Hide|Скрыть
+
+//BuffGameMenu
+BuffGameMenu_NewGame|НОВАЯ ИГРА
+BuffGameMenu_LoadGame|{0} — Цикл: {1} — Количество баффов: {2}
+BuffGameMenu_LoadGameUK|НЕИЗВЕСТНЫЕ ДАННЫЕ — Количество баффов: {0}
+
+//BuffNewGameDetailPage
+BuffNewGameDetailPage_FilterTitle|FILTER
+
+//BuffMissionPage
+BuffMissionPage_General|ОБЩИЕ МИССИИ
+BuffMissionPage_Exclusive|ЭКСКЛЮЗИВНАЯ<LINE>МИССИЯ
+BuffMissionPage_No_Exclusive|НЕТ<LINE>МИССИЙ
+BuffMissionPage_Start|НАЧАТЬ МИССИЮ
+BuffMissionPage_Goal|ЦЕЛИ МИССИИ
+BuffMissionPage_Buffs|УСИЛИТЕЛИ МИССИИ
+
+//BuffContinueGamePage
+BuffContinueGamePage_Restart|Перезапуск
+
+//CardSheetPage:
+CardSheetPage_Life_Countable|Cycles
+CardSheetPage_Life_Uncountable|Everlasting
+CardSheetPage_Stack_Stackable|Stackable
+CardSheetPage_Stack_Unstackable|Unstackable
+CardSheetPage_Stack_Triggerable|Manually
+CardSheetPage_Stack_Untriggerable|Automatically
+
+//CardInfoDisplay:
+CardInfoDisplay_Missing|???
+CardInfoDisplay_MissingDescription|Select a buff card to view description
+CardInfoDisplay_MissingConflict|Select a buff card to view conflict
+CardInfoDisplay_MissingPack|Select a buff card to view its pack
+
+CardInfoDisplay_TypeTitle|Type:
+CardInfoDisplay_TriggerTitle|Trigger:
+CardInfoDisplay_StackTitle|Stack:
+CardInfoDisplay_DescriptionTitle|Description:
+CardInfoDisplay_ConflictTitle|Conflict:
+CardInfoDisplay_PackTitle|Pack:
+
+//Notification:
+Notificaion_ConfirmButton|Ок
+Notification_RewardTitle|Полученные награды:
+Notification_MissionReward|Открытые миссии:
+Notification_MissionReward_Unique|Открытые эксклюзивные миссии:
+Notification_CosmeticReward|Открытая косметика:
+Notification_CardReward|Открытые карты:
+Notification_FreePickReward|Открытое количество бесплатных подборов:
+Notification_WatcherVersionWarning_Title|Предупреждение о нестабильной версии:
+Notification_WatcherVersionWarning_Info|Бафф Режим может быть нестабильным в новой версии и вызывать исключения или сбои игры.<LINE>Если возникает исключение, пожалуйста, следите за уведомлениями об исключениях (если включено) и файлами ниже:<LINE>exceptionLog.txt (найдите в корневом каталоге Rain World)<LINE>buffcore.txt (найдите по адресу Rain World\RainWorld_Data\StreamingAssets).
+Notification_TooManyMods_Title|Предупреждение о количестве модов:
+Notification_TooManyMods_Info|Похоже, вы включили слишком много модов, имейте в виду, что это может привести к ещё большему количеству исключений или сбоев.<LINE>Если возникает исключение, пожалуйста, следите за уведомлениями об исключениях (если включено) и файлами ниже:<LINE>exceptionLog.txt (найдите в корневом каталоге Rain World)<LINE>buffcore.txt (найдите по адресу Rain World\RainWorld_Data\StreamingAssets).
+Notification_UnlockWawa_Title|Скрытая функция разблокирована:
+Notification_UnlockWawa_Info|Скрытая функция разблокирована! Перейдите к параметрам мода в Ремиксе для получения подробной информации.
+
+//BuffMenu:
+MANUAL|РУКОВОДСТВО
+Survival|SURVIVAL MODE
+Normal|NORMAL MODE
+Quick|QUICK MODE
+Sandbox|SANDBOX MODE
+ProgressionMenu_Show|ПРОГРЕСС
+ExtraInfo_Label|Инфо
+PauseMenu_EndRun|ЗАВЕРШИТЬ
+PauseMenu_EndRun_CountDown|{0} ЕЩЁ ЦИКЛОВ {1}
+PauseMenu_EndRun_ConfirmInfo|Действительно завершить забег? Все невыполненные условия будут засчитаны как невыполненные. Можно получить только половину опыта.
+
+//BuffConditionHUD
+BuffConditionHUD_WinInfo|Поспите, чтобы закончить игру
+BuffConditionHUD_WinTitle|WIN
+BuffConditionHUD_FailedInfo|Завершите игру вручную в меню паузы
+BuffConditionHUD_FailedTitle|FAILED
+
+//BuffHUD
+BuffHUD_FreePick|Выберите начальные карты ({0}/{1})
+
+//BuffModeSelect
+Mode_Free|СВОБОДНЫЙ РЕЖИМ
+Mode_Mission|РЕЖИМ МИССИЙ
+Mode_Desc_Free|Вы можете свободно настроить сложность игры, режим и цели перед началом новой игры,<LINE>и можете получать карты только через карточные гачи.
+Mode_Desc_Mission|Выберите миссию, чтобы начать новую игру.<LINE>Ваши цели и начальные карты определяются тем, какую миссию вы выбрали,<LINE>и вы не можете изменить сложность и режим игры.
+
+//BuffCardSlot
+InGameSlot_SlotTitle|BuffCardSlot
+InGameSlot_CardDetail|BuffCardDetail
+CardPickSlot_SlotTitle|Выберите <Cards> карты
+InGameSlot_SandBoxTitle|Изменение активных баффов
+InGameSlot_OpenSandBoxButton|Баффы
+HudTips|Нажмите {0}, чтобы открыть инвентарь для просмотра карт.
+
+//CardpediaCardSheet
+Everlasting|Вечная
+Cycles|Циклов
+Stackable|Стак.
+Unstackable|Не Стак.
+CardpediaCardSheet_Manually|Ручная
+CardpediaCardSheet_Automatically|Автоматическая
+CardpediaCardSheet_Info|(Нажмите на карточки ниже, чтобы просмотреть подробную информацию)
+CardpediaCardSheet_None|(Ничего)
+
+//Records
+totCard|Всего карт приоб. :
+totPositiveCard|Приоб. пол. карты :
+totNegativeCard|Приоб. отриц карты :
+totDualityCard|Приоб. нейтр. карты :
+totTriggerCount|Активируемые карты :
+totTime|Время игры:
+RunCount|Завершённые игры:
+InitPickCount|Первоначальный подсчет :
+
+//BasicInGameBuffCardSlot
+BasicInGameBuffCardSlot_OnMouseFocus|[Левый клик/X] для просмотра <BuffID>
+BasicInGameBuffCardSlot_OnCardExclusiveShow|[Левый клик/X] чтобы перевернуть карту<LINE>[Клик на пустом месте/Esc] для выхода из режима детализации<LINE>[Прокрутка/стрелочки] чтобы просмотреть описание, если оно слишком длинное
+BasicInGameBuffCardSlot_NoCardFocus|Наведите курсор мыши на карту и [Левый клик/X] чтобы просмотреть её
+BasicInGameBuffCardSlot_ExitHUD|<LINE>Нажмите <HUD_KEY>, чтобы выйти
+BasicInGameBuffCardSlot_BindKey|<LINE>Нажмите другую клавишу, удерживая <KEYBINDER_KEY>, чтобы привязать сочетание клавиш к <BuffID>
+
+//CardPickerSlot
+CardPickerSlot_NoCardFocus|Наведите курсор мыши на карту и [Левый клик/X] чтобы просмотреть её
+CardPickerSlot_OnMouseFocus|[Левый клик/X] чтобы перевернуть карту<LINE>[Правый клик/Shift] чтобы выбрать карту
+
+//GachaTemplate
+GachaTemplate_Desc_Normal_NoPick|Стандартный режим розыгрыша карт; без розыгрыша карт.
+GachaTemplate_Desc_Normal|Стандартный режим розыгрыша карт; карты можно разыгрывать в конце каждого цикла.
+GachaTemplate_Desc_Quick|Никаких розыгрышей карт; каждые 30 секунд будет выбираться случайная карта, чередуя положительные и отрицательные или нейтральные.
+GachaTemplate_Desc_Sandbox|Карты не разыгрываются, их можно свободно добавлять или удалять, при этом награды не выдаются.
+GachaTemplate_Desc_Survival|За исключением начального розыгрыша карт, можно разыгрывать только отрицательные или нейтральные карты.
+GachaTemplate_Desc_SurvivalOfFittest|Каждые пять циклов случайным образом получайте одну из следующих карт: VultureShapedMutation, SpiderShapedMutation, PixieSlug, JellyfishShapedMutation, SlugSlug, и складывайте их в максимальную стопку.
+GachaTemplate_Desc_SephirahMeltdowns|Каждые четыре цикла составляют этап. В начале каждого этапа можно получить определенную отрицательную карту, а в конце этапа — две положительные карты.
+GachaTemplate_Detail_Base|<Color=FFC300>Множитель опыта: {0}<ENTRY><Color=FFE180>Нач. множитель розыгрыша: {1}<ENTRY>{2} исп. переход для изм. карт
+GachaTemplate_Detail_Base_NoFreePick|<Color=FFC300>Множитель опыта: {0}<ENTRY><Color=FFE180>Без нач. розыгрыша<ENTRY>{1} исп. переход для изм. карт
+GachaTemplate_Detail_Normal|<GachaPositive>Пол. или нейтр. розыгрыши: {0}<ENTRY><GachaNonPositive>Отр. или нейт. розыгрыши: {1}
+GachaTemplate_Detail_Base_Yes|Можно
+GachaTemplate_Detail_Base_No|Нельзя
+GachaTemplate_Detail_Base_Boost|<Color=D2174D>Доп. спавны
+
+//BuffCondition
+DisplayName_Achievement|Открой переход: {0}
+DisplayName_Cycle|Выживи {0} циклов
+DisplayName_Card|Собери {0} {1} бафф-карт
+DisplayName_Like|Повысить репутацию: {0}
+DisplayName_MeetSS_SL|Посети Гальку и Луну в течении {0} циклов
+DisplayName_Gourmand|Пройди миссию Гурмана
+DisplayName_Interval_OutRange|Пройди скрытые задания в течении {0}-{1} циклов
+DisplayName_FixCycle|Пройди миссию в течении {0} циклов
+DisplayName_MeltDownHunt|Убей {0} {1} 
+DisplayName_Death|Пройди миссию в течении {0} смертей  
+DisplayName_CycleScore|Заработай {0} оч., от убйств в этом цикле
+DisplayName_SaveMoon|Вылечи Луну в течении {0} циклов
+DisplayName_Battery|Пройди миссию Ручья
+DisplayName_MeltDownBinah|Победи Арбитра
+DisplayName_Extermination|Убей {0} существ с помощью: {1}
+DisplayName_Score|Заработай {0} оч., от убйств
+DisplayName_TreeOfLight|Собери полный запас энергии (еды)
+DisplayName_Abyss|Прийди в глубины
+DisplayName_Ascend|Вознеси всех существ в регионе: {0}
+DisplayName_AscendOracle|Вознеси Гальку и Луну
+DisplayName_Distance|Пройди {0} метров
+DisplayName_Distance_Faster|Пройди {0} метров, пока карта даёт пибавку к скорости
+DisplayName_ScorchCreature|Используй тепло что бы сжечь {0} существ
+DisplayName_PermanentlyHold|Постоянно держи у себя карту {0}
+DisplayName_HuntAll|Убей {0} существ
+DisplayName_ContinuousSurvival|Выживи в течении {0} циклов подряд
+DisplayName_WithInCycle|Заверши миссию за {0} циклов 
+DisplayName_BreakShellCondition|Пронзи {0} ящериц в голову и убей их
+DisplayName_UltraKill|Закончи волны
+DisplayName_EatOracleCondition|Съешь{0}/{1}куклу итератора
+
+//BuffCondition_BuffTypes
+all types|все
+Negative|отр.
+Positive|пол.
+Duality|нейтр.
+
+///BuffCondition_ShortName
+ConditionFilter_Cycle_Condition|Виживние циклов
+ConditionFilter_Card_Condition|Собирание карт
+ConditionFilter_Achievement_Condition|Достижения
+ConditionFilter_Like_Condition|Повышение репутации
+ConditionFilter_Meet_SS_and SL|Посещение Итераторов
+ConditionFilter_Gourmand_Feast|Миссия Гурмана
+ConditionFilter_Cycle_Score Condition|Зарабатывание очков за цикл
+ConditionFilter_Score_Condition|Зарабатывние очков
+ConditionFilter_Hunt_Condition|Убить определённых существ
+ConditionFilter_Hunt_All_Condition|Убить существ
+ConditionFilter_Extermination_Condition|Убить существ с поммощью
+ConditionFilter_Death|Макс. смертей
+ConditionFilter_Continuous_Survival|Выжить в течении циклов
+ConditionFilter_Distance|Пройти метров
+
+//BuffCondition_Builtin
+InRangeDisplayName_WormGrassWipeOutCondition|Уничтожьте всю траву в комнате за один цикл
+
+//BuffCondition_CommunityID
+Lizards|
+Scavengers|
+Cicadas|
+
+//BuffCondition_WeaponID
+Spear|
+ScavengerBomb|
+Rock|
+
+//ProgressionUI
+ProgressionUI_Record|RECORD
+ProgressionUI_Quest|QUEST
+ProgressionUI_Cosmetic|COSMETIC
+ScoreCaculator_ExpMulti|Множитель Exp
+ScoreCaculator_KillScoreLimit|Лимит кол-ва убийств
+ScoreCaculator_WinOrFailLabel_Win|-WIN-
+ScoreCaculator_WinOrFailLabel_Fail|-FAILED-
+
+//QuestCondition
+Quest_Display_MissionQuest|Заверши миссию {0}
+Quest_Display_LevelQuest|Дастигни уровня {0}
+Quest_Display_RunCountQuest|Заверши {0} игр
+Quest_Display_SingleRunCardQuest|Собери {1} {0} карты в игре (дубликаты разрешены)
+Quest_Display_CardQuest|Собери {1} {0} карты (дубликаты разрешены)
+Quest_Display_CosmeticQuest|Открой косметику: {0}
+
+//QuestRender
+QuestRender_FreePick|Выбор карт +1
+
+//Mission
+Mission_Display_DodgeTheRock|УКЛОНЯЙСЯ ОТ КАМНЕЙ
+Mission_Display_Meltdown|СЕФИРА ТАЕТ
+Mission_Display_Druid|ТАНЦЫ С ДРАКОНАМИ
+Mission_Display_Strayer|СТРАННЫЙ БРОДЯГА
+Mission_Display_EmergnshyTreatment|НЕОТЛОЖНОЕ ЛЕЧЕНИЕ
+Mission_Display_MidnightSnack|ПРИЗРАЧНАЯ ПОЛНОЧЬ
+Mission_Display_ArtOfExplosion|ИСКУССТВО ВЗРЫВОВ
+Mission_Display_DuelsOfSnipers|ДУЭЛИ СНАЙПЕРОВ
+Mission_Display_DoomExpress|РОКОВОЙ ЭКСПРЕСС
+Mission_Display_RadiationCrisis|РАДИАЦИОННЫЙ КРИЗИС
+Mission_Display_LawnCleaner|УБОРЩИК ГАЗОНОВ
+Mission_Display_TripleAffirmation|ТРОЙНОЕ<LINE>ПОДТВЕРЖДЕНИЕ
+Mission_Display_InHurry|ТОРОПЛИВЫЙ И<LINE>ВЗВОЛНОВАННЫЙ
+Mission_Display_SurvivalOfFittest|ВЫЖИВЕТ СИЛЬНЕЙШИЙ
+Mission_Display_SlugOfTheFlame|СЛИЗЕНЬ ПЛАМЕНИ
+Mission_Display_KingOfIsles|КОРОЛЬ ОСТРОВОВ
+Mission_Display_TunnelBattle|БИТВА ЗА ТОННЕЛЬ
+Mission_Display_RegularCleanup|РЕГУЛЯРНАЯ ЧИСТКА
+Mission_Display_ShellBreaker|ПРОБИВАТЕЛЬ СНАРЯДОВ
+Mission_Display_UltraKill|УЛЬТРАУБОЙНЫЙ<LINE>СЛИЗНЕКОТ
+Mission_Display_DevouringMysteries|ПОЖИРАЮЩИЕ ТАЙНЫ
+
+//Credit
+CreditTitle_Intro|Random Buff
+CreditTitle_Coding|Coding
+CreditTitle_ArtWorks|ArtWorks
+CreditTitle_PlayTest|PlayTest
+CreditTitle_SpecialThanks|SpecialThanks
+CreditTitle_ThanksForPlaying|Thanks for playing!
+
+//BuffManual
+//BuffManual_Topic
+BuffManual_Introduction|Введение
+BuffManual_Gameplay|Геймплей
+BuffManual_Buff|Баффы
+BuffManual_Condition|Условия
+BuffManual_FreeMode|Свободный режим
+BuffManual_MissionMode|Режим миссий
+BuffManual_BuffAndCard|Баффы & Бафф-карты
+BuffManual_Progression|Прогресс
+
+//BuffManual_SubpageTitle
+BuffManual_Introduction_0|Введение
+BuffManual_Gameplay_0|Геймплей
+BuffManual_Gameplay_1|Игровые режимы
+BuffManual_Gameplay_2|Условия
+BuffManual_Condition_0|Условия
+BuffManual_Gamemode_0|Введение в игровой режим
+BuffManual_FreeMode_0|Свободный режим
+BuffManual_FreeMode_1|Обычный режим
+BuffManual_FreeMode_2|Быстрый режим
+BuffManual_FreeMode_3|Режим выживание
+BuffManual_FreeMode_4|Режим песочница
+BuffManual_FreeMode_5|Детали режима
+BuffManual_MissionMode_0|Режим миссий
+BuffManual_MissionMode_1|Выбор миссии
+BuffManual_MissionMode_2|Условия миссии
+BuffManual_MissionMode_3|Уст. бафф карты
+BuffManual_MissionMode_4|Детали режима
+BuffManual_BuffAndCard_0|Баффы & Бафф-карты
+BuffManual_BuffAndCard_1|Сохранение циклов
+BuffManual_BuffAndCard_2|Счетчик стаков
+BuffManual_BuffAndCard_3|Активные
+BuffManual_Progression_0|Прогресс
+BuffManual_Progression_1|Записи
+BuffManual_Progression_2|Квесты
+BuffManual_Progression_3|Косметика
+BuffManual_CardPedia_0|Картопедия
+BuffManual_CardPedia_1|Обзор Бафф карт
+
+//BuffManual_Summary
+BuffManual_Summary_Content_0|Random Buff — это режим игры со случайным сочетанием эффектов. Вы можете добавлять себе сложности или выполнять специальные миссии, чтобы получить награды.
+BuffManual_Gameplay_Content_0|Включение различных баффов может незначительно или значительно повлиять на игровой процесс.<LINE>Большинство изменений динамичны, и различные баффы можно комбинировать для получения неожиданных эффектов.
+BuffManual_Gameplay_Content_1|Вы можете выбрать один из двух режимов игры в Random Buff: свободный режим и режим миссий.
+BuffManual_Gameplay_Content_2|В разных режимах игры есть условия, которые можно выполнить.<LINE>Каждое условие имеет свои требования и ход выполнения, и за их выполнение вы получаете разное количество опыта.
+BuffManual_FreeMode_Content_0|Самый обычный способ игры. <LINE>Если вам удастся создать урегулирование, вы будете получать очки опыта для повышения уровня в зависимости от выполненных условий, количества убийств и количества карт.<LINE>Подрежимы можно переключать в левом нижнем углу экрана.
+BuffManual_FreeMode_Content_1|Вы можете выбрать от 0 до 5 условий для игры, после каждой успешной спячки вы будете разыгрывать раунд, и игра будет завершена, когда спячка выполнит все условия. <LINE>При 0 условиях урегулирование не происходит.<LINE>В зависимости от выбранного слизнекота, начальная комната будет такой же, как и в режиме истории слизнекота.
+BuffManual_FreeMode_Content_2|Условия выбираются так же, как и в обычном режиме, но каждые 30 секунд будет проводиться полностью рандомизированный розыгрыш.<LINE>Самый ранний разыгранный бафф будет автоматически удален, когда количество карт превысит лимит.<LINE>Начальная комната будет выбрана случайным образом из всех убежищ в текущей области.
+BuffManual_FreeMode_Content_3|Условия выбираются так же, как и в обычном режиме. Однако в начале игры вы можете выбрать определенное количество начальных баффов, и каждый раз, когда вы будете проходить через цикл дождя после этого, будет добавляться дополнительный отрицательный бафф.<LINE>Начальная комната выбирается так же, как и в Быстром режиме.
+BuffManual_FreeMode_Content_4|Условия выбираются так же, как и в обычном режиме, но опыт не начисляется.<LINE>Во время игры не будет происходить розыгрышей карт, их заменит набор карт из песочницы с баффами, которые можно свободно включать и выключать.<LINE>Начальная комната будет выбираться так же, как и в Обычном режиме, и в ней не будет урегулирования.
+BuffManual_FreeMode_Content_5|Подробности этого режима можно посмотреть с помощью кнопки в правом нижнем углу
+BuffManual_MissionMode_Content_0|Режим с фиксированными условиями и начальными баффами в зависимости от миссии. Существует два типа миссий: общие и эксклюзивные.<LINE>Эксклюзивные миссии могут быть выполнены только определенными слизнекотами, в то время как общие миссии могут быть выполнены любым слизнекотом.<LINE>Выполнение миссий позволяет не только повышать уровень, как в свободном режиме, но и разблокировать специальные предметы коллекций.
+BuffManual_MissionMode_Content_1|На выбор предлагается два типа миссий:<LINE>Эксклюзивная миссия: может быть выполнена только выбранным слизнекотом<LINE>Общая миссия: может быть выполнена любым слизнекотом.
+BuffManual_MissionMode_Content_2|У каждой миссии есть свои условия, которые можно посмотреть в разделе условий, и миссия может быть завершена, только если вы выполните требования условий.
+BuffManual_MissionMode_Content_3|Каждая миссия имеет свой начальный набор баффов, который можно посмотреть в разделе «Баффы миссии».
+BuffManual_MissionMode_Content_4|Подробности этого режима можно посмотреть с помощью кнопки в правом нижнем углу
+BuffManual_BuffAndCard_Content_0|Баффы разделены на три основные категории: положительные, нейтральные и отрицательные.<LINE>Эффекты различных баффов сильно различаются, и для отображения информации о них можно использовать карточки.<LINE>Каждый бафф имеет свою карточку, на которой он изображен, и на карточке может отображаться обложка, название и описание баффа.<LINE>На карточках может отображаться и другая дополнительная информация, например, оставшиеся циклы жизни и уровень стака.
+BuffManual_BuffAndCard_Content_1|Если на карте появляется круглая метка (〇), это означает, что бафф чувствителен ко времени. Число в графике<LINE>указывает, через сколько циклов дождя бафф начнет действовать.
+BuffManual_BuffAndCard_Content_2|Когда на карте появляется ромбовидная метка (◇), это означает, что бафф можно стакать.<LINE>Число на графике указывает на текущий уровень суммирования баффа.<LINE>Точный эффект уровня суммирования зависит от того, как реализованы различные баффы.
+BuffManual_BuffAndCard_Content_3|Если на карте появляется шестиугольная метка, это означает, что бафф активно срабатывает.<LINE>Если на графике стоит знак >>, это означает, что вы не привязали к нему никаких триггерных ярлыков.<LINE>Ярлыки можно привязать, нажав клавишу, указанную в меню конфигурации. После привязки вы можете использовать ярлык для запуска баффа.<LINE>Далее вы можете щелкнуть правой кнопкой мыши на карте, чтобы вызвать бафф.
+BuffManual_Progression_Content_0|В Random Buff есть отдельная система прогресса для уровней, рекордов, квестов и косметики,<LINE>где уровни видны на всех трех страницах, причем текущий уровень и опыт отображаются слева, а опыт, необходимый для следующего уровня, - справа.
+BuffManual_Progression_Content_1|На странице записи отображается специальный прогресс, который можно использовать для подсчета количества событий, вызванных при воспроизведении некоторого случайного буфера.
+BuffManual_Progression_Content_2|На странице квестов отображается коллекция коллекционных предметов. Вы можете навести курсор на кнопку коллекционных предметов, чтобы просмотреть подробности.
+BuffManual_Progression_Content_3|На странице косметики отображаются все собранные косметические средства. Вы можете включать и выключать украшения, нажав на кнопку косметики. Включенная косметика появится в игре и будет<LINE>действовать только на того слизнекота, который соответствует значку слизнекота слева. Косметика серого цвета включена для всех слизнекотов.<LINE>Включенные косметические кнопки имеют зеленую рамку.
+BuffManual_CardPedia_Content_0|Картопедия может отображать все карты баффов, которые вы разблокировали или нарисовали,<LINE>а также прогресс вашей коллекции карт баффов.
+BuffManual_CardPedia_Content_1|Выбрав любой тип баффа, вы можете просмотреть подробности о баффе текущего типа, нажав на карточку баффа.
+
+//Remix
+Remix_Title|Бафф Режим
+Remix_Option|Опции
+Remix_BuffPack|Паки
+Remix_Wawa|Wawa
+Remix_BuffPackDescription|Управление всеми паками. Включённые паки будут отображаться зеленым цветом.<LINE>Нажмите кнопку, соответствующую паку, чтобы переключить его статус на «включено».<LINE>Встроенные паки не могут быть отключены.
+Remix_CardSlotKey|Кнопка для просмотра карт
+Remix_CardSlotKey_Desc|Нажмите эту клавишу, чтобы просмотреть карты, которые сейчас у вас есть.
+Remix_KeyBindKey|Кнопка для привязки карт
+Remix_KeyBindKey_Desc|Выбрав карту с возможностью привязки клавиш, удерживайте эту клавишу и нажмите другую, чтобы привязать последнюю клавишу к функции триггера карты.
+Remix_ShowExceptionLog|Уведомления об исключениях
+Remix_ShowExceptionLog_Desc|При возникновении исключения (exceptionLog.txt) в правом верхнем углу появится восклицательный знак(!). Нажмите на него, чтобы просмотреть подробности журнала.
+Remix_CosmeticForEverySlug|Косметика для всех слизнекотов
+Remix_CosmeticForEverySlug_Desc|Включить использование косметики для всех слизнекотов.
+Remix_DisableCardPocketConflict|Включить защиту от конфликта карт
+Remix_DisableCardPocketConflict_Desc|Позволяет вам выбирать средства защиты от конфликта карт, это может вызвать более неожиданные проблемы.
+Remix_EnableExpeditionExtend|Эксп. — Преобразовать карты экспедиции из DLC
+Remix_EnableExpeditionExtend_Desc|НЕОБХОДИМО ПЕРЕЗАПУСТИТЬ ДЛЯ ПРИМЕНЕНИЯ, Конвертирует перки из Экспедиции и More Slugcat Expansion в карты.
+Remix_EnableExpeditionModExtend|Эксп. — Преобразовать карты экспедиции из Модов
+Remix_EnableExpeditionModExtend_Desc|НЕОБХОДИМО ПЕРЕЗАПУСТИТЬ ДЛЯ ПРИМЕНЕНИЯ, Конвертирует перки из других модов в карты. Это может вызвать проблемы с совместимостью.
+Remix_Cheat|Читы
+Remix_CheatAllCards|Открыть все карты
+Remix_CheatAllCards_Desc|Открывает бесплатный розыгрыш карт в режиме «песочницы». Карты обычно нужно получить один раз, чтобы разблокировать.
+Remix_CheatAllCosmetics|Открыть всю косметику
+Remix_CheatAllCosmetics_Desc|Обычно для разблокировки требуется выполнить определенные миссии.
+Remix_Credit|Титры
+Remix_EnableDevChat|Включить чат разработчиков?
+Remix_EnableDevChat_Desc|Чат разработчиков.
+
+//SleepMenu
+SleepMenu_Stack|Стак карт
+SleepMenu_UnStack|Удалить карту
+SleepMenu_Stack_Title|Выберите 1 карту для стака
+SleepMenu_UnStack_Title|Выберите 1 карту для удаления
+
+//CardPocket
+CardPocket_PackButton|Pack
+CardPocket_StackButton|Стак.
+CardPocket_UnstackButton|Не Стак.
+CardPocket_ConflictLabel|Current buff is conflicted with selected buffs
+CardPocket_HelpInfo_None|[Левый клик/X] на кнопку типа баффа, чтобы переключить тип просматриваемого баффа<LINE>[Левый клик/X] на кнопку X, чтобы закрыть карман для карт<LINE>[Прокрутка/стрелочки] в кармане для просмотра карт.
+CardPocket_HelpInfo_Hover|[Левый клик/X] на карточке баффа, чтобы проверить детали баффа {0}<LINE>[Правый клик/Shift] на карточке баффа, чтобы переключить выбор {0}
+CardPocket_HelpInfo_Hover_Stackable|<LINE>Переключить счетчик стака {0} при просмотре деталей {0}
+CardPocket_HelpInfo_Exclusive|[Левый клик/X] на бафф карте, чтобы перевернуть её<LINE>[Клик на пустом месте/Esc], чтобы выйти из режима детализации<LINE>[Правый клик/Shift] на бафкарте, чтобы переключить выбор.<LINE>
+CardPocket_HelpInfo_Exclusive_Stackable|[Левый клик/X] на кнопки ниже, чтобы переключить счетчик стака {0}<LINE>Когда счетчик стака равен 0, выбор баффа будет отключен<LINE>Выбор баффа установит счетчик стака на 1
