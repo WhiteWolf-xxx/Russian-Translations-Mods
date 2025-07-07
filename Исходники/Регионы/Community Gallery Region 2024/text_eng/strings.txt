@@ -13,3 +13,9 @@ Respite|Покой
 Diseased|Заражённое
 The Community Gallery Region 2024|Исследователь (2024)
 Community Gallery 2024|Галерея сообщества 2024
+///Ремикс
+Always show credits|Всегда показывать титры
+Allow flight|Разрешить полёт
+Always spawn in new room, if any unvisited|Всегда появляться в новой комнате, если ты её ещё не посещал
+Always spawn in unvisited room|Всегда появляться в неизведанной комнате
+RESET PROGRESS|СБРОСИТЬ ПРОГРЕСС
