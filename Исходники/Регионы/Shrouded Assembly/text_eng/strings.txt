@@ -6,8 +6,13 @@ Steaming Edifice|Паровая конструкция
 Cold Dredge|Охладелая драга
 Fog Gulch|Туманное ущелье
 Hadal Depths|Бездонные глубины
+///Предметы
+///Чистый кристалл
+This is the crystalline fruit of some sort of plant.<LINE>It seems very delicate, so handle it with care!|Это кристаллический плод какого-то растения.<LINE>Он очень хрупкий, поэтому обращайся с ним осторожно.
+///Каменный фрукт
+It’s some sort of shelled fruit, of no nutritional value to you.<LINE>The indentations in it’s mantle help build up air inside, releasing in a pop when provoked.|Это какой-то фрукт в кожуре, который не представляет для тебя никакой питательной ценности.<LINE>Углубления в кожуре помогают скапливаться воздуху внутри, который при раздражении с хлопком высвобождается.
 ///Большая жемчужина
-///Галька
+///Диалог Гальки
 Oh. Interesting. This is a standard issue confluence pearl,<LINE>many times larger than the standard fare, printed from a similarly colossal strand manipulator.|Как интересно! Это жемчужина, произведённая по стандартной технологии, но она гораздо крупнее обычных.<LINE>Она была напечатана на таком же огромном нитяном манипуляторе.
 The pearl itself contains a barely living liquid center,<LINE>rendering the data easily overwritten by any skilled technician.|Сама жемчужина состоит из почти живой жидкости, что делает её чрезвычайно восприимчивой к перезаписи данных,<LINE>которую может выполнить любой квалифицированный специалист.
 The data on this traces its ownership back to a massive cargo sail,<LINE>with a departure date scheduled soon after our benefactors mass ascension. How peculiar.|Информация на ней свидетельствует о том, что она была частью большого грузового корабля.<LINE>Дата отправления была назначена вскоре после массового вознесения наших создателей, что весьма удивительно.
@@ -16,7 +21,7 @@ Given the ships proximity to a particularly weak spot in the firmament,<LINE>the
 Focused on a physical and spiritual un-birth, this reclusive order felt their fate lie in the stars rather than beneath them,<LINE>and this particular believer may have escaped in order to decipher the nature of this ancient belief, unheeded by everyday needs.|Этот орден отшельников, погружённый в физическое и духовное небытиё, ощущал, что их судьба находится среди звёзд, а не на земле.<LINE>Возможно, именно поэтому этот верующий покинул свои родные края, стремясь постичь суть древней веры, не затуманенной повседневными заботами.
 As for where it departed from? The tracking data suggests it came from one of my neighboring cans-<LINE>not that I care enough to discover its exact origin.|Откуда он появился? Согласно данным отслеживания, его взяли из одной из соседних банок.<LINE>Хотя меня и не очень волнует его точное происхождение, мне всё же интересно.
 Although it hardly aligns with my present ambitions, I thank you for this strange insight.|Хотя это и не совсем соответствует моим нынешним целям, я хочу выразить свою благодарность за это неожиданное открытие.
-///Луна
+///Диалог Луны
 This seems to be a larger variant of the standard data pearls you may have seen around,<LINE>meant for more direct interfacing.|Вероятно, это более крупный вариант стандартных пакетов данных, с которыми ты, возможно, знаком.<LINE>Он предназначен для более удобного взаимодействия.
 The data stored on this shows a trade route traversing the celestial underlayer,<LINE>our creators ever so wary of any slips in the firmament.|На этом носителе хранятся данные о торговом маршруте, который проходит через нижний слой неба.<LINE>Наши создатели всегда внимательно следят за любыми изменениями в небесной сфере.
 I never payed them any mind, however.<LINE>My kind concerned themselves with matters below, rather than above.|Однако я никогда не обращала на них внимания.<LINE>Таких, как я, больше интересовали дела внизу, чем наверху.
