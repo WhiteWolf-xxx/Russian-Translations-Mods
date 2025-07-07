@@ -1,0 +1,14 @@
+﻿0-0
+This one seems to have a lot of log entries in regards to various operations around the station.<LINE>I'm impressed it kept sending logs after all this time, until you picked it up and brought it here!
+
+Most of the logs are just notifications of destroyed machinery and closed train lines so I will skip over the 58135 message errors.
+
+Ah! I found something, it’s a message between this station and another one, far away from our facility grounds.
+
+"1347.871 - CLOSED CHANNEL<LINE>Contacting from Bound High-Point Terminal to Paramount Nucleus Terminal.<LINE>BHT: Presented as Thus, the Situation Appears to be So: Our Precious Shipment of Rich Nectar and Substrates has Not Been Located upon our Rendezvous Specification, as was Promised.<LINE>Our People hold a Great Concern for the Wellness and Integrity of this Shipment, and Potential for Infrastructural Damage Inhibiting the Transfer of Goods Must Be Considered.<LINE>We Humbly Request Insights and Notification regarding the State of the Rail Network in the Surrounding Area. 
+
+1347.873 - CLOSED CHANNEL<LINE>PNT: Contact received. The Degrading Stability of the Outer-Facility Rim has Continued, Exceeding Predictions; Some Cycles shall be Necessary to repair the Damages and retrieve the Described Cargo.<LINE>We Administer our Greatest Apologies to the Humble People of your Communion. 
+
+1347.879 - CLOSED CHANNEL<LINE>BHT: We Bring To You this Message with Wellness and Prosperity:<LINE>Our Precious Shipment of Rich Nectar, Micro-Engineered Waters, and Varied Substrates has Arrived at the Designated Point;<LINE>Furthermore, the Precious Materials Within appear to have maintained Excellent Condition.<LINE>We Consign our Everlasting Gratitude to Our Suppliers; The Investigation shall Continue As Planned.<LINE>With the Resolution of this Matter, Our Shipment (Advanced Alloy Metals, Infused with Bio-Engineered Plating) shall be Provided, as Solicitations Express.”
+
+After this the logs got corrupted and flooded with errors.
