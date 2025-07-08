@@ -1767,13 +1767,13 @@ Unlock All Graffiti|Открыть все граффити
 Unlock every graffiti. Useful if your game is bugged or you had to reset your Graffiti folder.|Открыть все граффити. Полезно, если ваша игра сломалась или вам пришлось сбросить папку с граффити.
 Reset All Unlockables|Сбросить все граффити
 Reset all unlockable graffitis to be locked from use.|Сбросить все разблокированные граффити, чтобы они были заблокированы вновь.
-///Улучшена конфигурация ввода
+///Улучшенная конфигурация ввода
 Grind|Скольжение
 Toggle Grind|Скольжение
 Graffiti Mode|Граффити
 Spray Graffiti|Нар. Граф.
 Craft Spray Can|Крафт Граф.
-Tag Creatures|Пемечение
+Tag Creatures|Пометка Сущ.
 ///Начало игры
 And what do we have here, on the once-pristine walls of my chamber?|И что же мы видим здесь, на некогда нетронутых стенах моей комнаты?
 Is that ... scribble supposed to be me? Are those ... ears I'm wearing?|Этими... каракулями должен быть я? Это те самые... уши, которые я ношу?
@@ -1818,8 +1818,8 @@ Little creature... I asked you to please not interrupt me. I know you love art, 
 And now you are painting again...|А теперь ты снова рисуешь...
 Am I boring you, little creature?|Я тебе не надоела, маленькое создание?
 You are not the most attentive creature, are you?|Ты не самое внимательное создание, не так ли?
-Ah... I would appreciate you not painting over my chamber walls. Feel free to do so outside of it, but I require clear walls to project holographic graphs over. Your art, as beautiful as it is, might distort them.|Ах... Я была бы признателена, если бы ты не закрашивал стены моей комнаты.<LINE>Не стесняйся делать это за её пределами, но мне нужны прозрачные стены для проецирования голографических графиков.<LINE>Твои рисунки, какими бы прекрасными они ни были, могут их исказить.
-I already told you to not paint over my chamber walls. I'm sure you can find plenty of significantly better canvas outside of my chamber, and I don't want to have to destroy your hard work, so please do so outside.|Я уже говорила тебе, чтобы ты не закрашивал стены моей комнаты.<LINE>Я уверена, что ты можешь найти множество холстов значительно лучшего качества за пределами моей комнаты,<LINE>и я не хочу портить твою кропотливую работу, поэтому, пожалуйста, делай это снаружи.
+Ah... I would appreciate you not painting over my chamber walls. Feel free to do so outside of it, but I require clear walls to project holographic graphs over.<LINE>Your art, as beautiful as it is, might distort them.|Ах... Я была бы признателена, если бы ты не закрашивал стены моей комнаты.<LINE>Не стесняйся делать это за её пределами, но мне нужны прозрачные стены для проецирования голографических графиков.<LINE>Твои рисунки, какими бы прекрасными они ни были, могут их исказить.
+I already told you to not paint over my chamber walls. I'm sure you can find plenty of significantly better canvas outside of my chamber,<LINE>and I don't want to have to destroy your hard work, so please do so outside.|Я уже говорила тебе, чтобы ты не закрашивал стены моей комнаты.<LINE>Я уверена, что ты можешь найти множество холстов значительно лучшего качества за пределами моей комнаты,<LINE>и я не хочу портить твою кропотливую работу, поэтому, пожалуйста, делай это снаружи.
 Are you ignoring my request on purpose? Please paint outside.|Ты намеренно игнорируешь мою просьбу? Пожалуйста, рисуй снаружи.
 Little friend, I truly need my walls clean for my systems to work correctly. Please stop.|Маленький друг, мне действительно нужно, чтобы мои стены были чистыми, чтобы мои системы работали правильно.<LINE>Пожалуйста, остановись.
 You are wasting your materials. Your paintings cannot stay here. Please listen.|Ты напрасно тратишь материалы. Твои картины не могут остаться здесь. Пожалуйста, выслушай меня.
@@ -1850,8 +1850,12 @@ Oh, it appears that the color-changing radiation worked! You look spiffy, little
 Hello, little friend!|Привет, маленький друг!
 I have the pearl for you, with your mural safely stored within it.|У меня есть для тебя жемчужина, в которой надежно хранится твоя фреска.
 If you would like to see it again, just hand me the pearl, and I will project it once again.|Если ты хочешь увидеть её снова, просто передай мне жемчужину, и я покажу её ещё раз.
+Hello, маленький зверь.|Привет, маленький зверь.
 It is good to see you again, even if I have nothing to give you.|Рада снова тебя видеть, даже если мне нечего тебе дать.
+Hello again, маленький зверь.|Привет ещё раз, маленький зверь.
 How have you been?|Как у тебя дела?
+Ah... маленький зверь, you're back!|Ах... маленький зверь, ты вернулся!
+Hello, маленький зверь. You're here again.|Привет, маленький зверь. Ты снова здесь.
 Welcome back unusual creature.|Добро пожаловать обратно, необычное существо.
 It seems to me like you were quite busy with your work, and yet you still made some time to visit me.|Мне кажется, ты был очень занят своей работой, но всё же нашёл время навестить меня.
 I wonder what is it that you want? Is it just to say hello?|Интересно, чего ты хочешь? Это просто чтобы поздороваться?
@@ -2022,8 +2026,8 @@ Is this your interpretation of how my creators appeared? It is very interesting 
 I am sure you would like for me to tell you if your interpretation is correct or not. But, that would take all of the fun out of it, little creature!|Я уверена, ты бы хотел, чтобы я сказала тебе, верна ли твоя интерпретация или нет.<LINE>Но это лишило бы меня всего удовольствия, маленькое создание!
 ///Natex008 - Guess Who Was Here
 ...I do not believe you understand our written language very well, but this is cute nonetheless!|...Я не верю, что ты хорошо понимаешь наш письменный язык, но, тем не менее, это мило!
-Would you like to know what you wrote? \"Our main needs more castrophony. Eighty-four!\|Хотел бы ты знать, что ты написал? «Нашему мейну нужно больше кастрофонии. Восемьдесят четыре!»
-Castrophony? I do not believe that's even a word. It sounds like something one of the musical artists in my city would invent to sound clever.|Кастрофония? Я не верю, что это вообще такое слово.<LINE>Похоже на то, что придумал один из музыкантов в моём городе, чтобы звучать умно.
+Would you like to know what you wrote? "Our main needs more castrophony. Eighty-four!"|Хотел бы ты знать, что ты написал? «Нашему мейну нужно больше кастрофонии. Восемьдесят четыре!»
+Castrophony? I do not believe that's even a word. It sounds like something one of the musical artists in my city would invent to sound clever.|Кастрофония? Я не верю, что такое слово вообще существует.<LINE>Похоже на то, что придумал один из музыкантов в моём городе, чтобы звучать умно.
 Apologies, little creature. I wish I could teach you our language, but I'm afraid that I do not have the time.|Прошу прощения, маленькое создание. Я бы хотела научить тебя нашему языку, но, боюсь, у меня нет на это времени.
 ///JayDee - Pipe Slug
 What a fun-looking creature! I don't really recognize it, but it looks quite interesting.|Какое забавное создание! Я действительно не узнаю его, но выглядит оно довольно интересно.
