@@ -50,8 +50,9 @@ Putrescine Reservoir|Водохранилище путресцина
 Rigor Mortis|Окоченелый труп
 The Quiet|Тишина
 ///Обучение
-When a double jump isn't enough prepare a longjump instead.|Если двойного прыжка недостаточно, подготовь вместо него прыжок в длину.
-After a long jump he can jump three times but use the third carefully.|После длинного прыжка он может прыгнуть три раза, но используй третий осторожно.
+Press jump while in the air to jump a second time.|Нажми кнопку прыжка в воздухе, чтобы прыгнуть ещё раз.
+When a double jump isn't enough, prepare a longjump instead.|Если двойного прыжка недостаточно, подготовь вместо него прыжок в длину.
+After a long jump, he can jump three times, but use the third carefully.|После длинного прыжка он может прыгнуть ещё три раза, но третий раз используй с осторожностью.
 ///Первое сообщение без метки
 FP: Great, another one. I can never seem to rid myself of these little pests.|ПГ: Отлично, ещё один. Я никак не могу избавиться от этих маленьких вредителей.
 FP: Whose Overseer is that? No matter, I do not have the time to care.|ПГ: Чей это наблюдатель? Неважно, у меня нет времени на это.
