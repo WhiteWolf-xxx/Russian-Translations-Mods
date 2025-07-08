@@ -33,8 +33,8 @@ An anxious entomophage that made many foes.<LINE>Jump like a Cyan in order to fi
 beast|мерзкий
 vile|зверь
 ///Названия регионов
-Knowledge That Binds|
-The Guts|
+Knowledge That Binds|Знание Которое Связывает
+The Guts|Мужество
 Memory of a Corpse|Память о трупе
 Silent Heart|Тихое сердце
 Broken Voice|Сломанный голос
@@ -43,6 +43,10 @@ The City|Город
 Putrescine Reservoir|Водохранилище путресцина
 Rigor Mortis|Окоченелый труп
 The Quiet|Тишина
+///Обучение
+Press jump while in the air to jump a second time.|Нажми кнопку прыжка в воздухе, чтобы прыгнуть ещё раз.
+When a double jump isn't enough, prepare a longjump instead.|Если двойного прыжка недостаточно, подготовь вместо него прыжок в длину.
+After a long jump, he can jump three times, but use the third carefully.|После длинного прыжка он может прыгнуть ещё три раза, но третий раз используй с осторожностью.
 ///Первое сообщение без метки
 FP: Great, another one. I can never seem to rid myself of these little pests.|ПГ: Отлично, ещё один. Я никак не могу избавиться от этих маленьких вредителей.
 FP: Whose Overseer is that? No matter, I do not have the time to care.|ПГ: Чей это наблюдатель? Неважно, у меня нет времени на это.
