@@ -1,0 +1,5 @@
+///Auxiliary Intake (3457887314)///
+auxiliaryintake-name|Вспомогательный водозабор
+auxiliaryintake-description|Водный регион, простирающийся от Дренажной системы и Побережья до Пяти Галек через систему водозабора.
+Auxiliary Intake|Вспомогательный водозабор
+The Reservoir|Резервуар
