@@ -1,0 +1,8 @@
+///Ashen Bow (3474041462)///
+ashenbow-name|Ashen Bow
+ashenbow-description|A super-cooled satellite launch and communications base lost to time and degradation, connecting Farm Arrays and Shaded Citadel. The Region features 71 rooms (not counting gates / shelters), new threat and ambient music, 4 unique pearls, and an echo. Hope you have fun exploring!<LINE><LINE>This region is unavailable to Saint (For the time being... I have plans to add them later along with a few room design overhauls). Updates will be made to fix issues / QOL as they are discovered (kinda new to all this). You don't need the watcher DLC but if you have it, a few of the creatures from there will spawn :D<LINE><LINE>owlsquish - Region and Music<LINE><LINE>Artisticallycaffeinated - Region Splash Art<LINE><LINE>Boo (Hayden McAlpine-Hall) and @hello_bjf - Extra Decals
+Ashen Bow|Пепельный лук
+Undertracks|Скрытые следы
+Starlit Spire|Звёздный шпиль
+The Spine|Хребет
+Reticent Lines|Скрытые линии

@@ -1,0 +1,12 @@
+﻿0-IAR_13
+This is a production artifact - one of the earliest designs for sequenced storage. I would date it at least three versions back.
+
+Modern libraries reached their current form over several iterations - each following a lengthy process of design, production, evaluation, and distribution.
+
+Which is to say - this is a prototype of a prototype.
+
+These initial designs were somewhat rugged - offering more protection from wind, rain, and little creatures like yourself than modern versions.
+
+I have been gifted several of these devices...they are not entirely foreign to me.
+
+Unfortunately - this one contains no data.

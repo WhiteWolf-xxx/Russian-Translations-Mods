@@ -1,0 +1,16 @@
+﻿0-IAR_06
+This is part of a conversation between Five Pebbles and his friend.
+
+I will read it to you.
+
+"FP: I could use your help with something.
+
+SRS: Alright. I can probably find a break in my busy schedule.<LINE>Kidding. Go ahead.
+
+FP: I found samples outside one of our cans - inside SA-91 of all places.
+
+FP: It's the perfect place to resolve some lingering questions - considering the environment.
+
+SRS: And yet you have locked out the controls. Do you intend to share your gift with the others?
+
+FP: Not yet."

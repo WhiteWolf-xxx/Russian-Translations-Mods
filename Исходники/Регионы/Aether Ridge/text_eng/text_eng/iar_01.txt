@@ -1,0 +1,12 @@
+﻿0-IAR_01
+These are error logs from the local platform. It appears to be quite damaged.
+
+I will read them to you.
+
+1950A787 - Tram Station Alpha - Service Status - Offline<LINE>951C988 - Warning - High density solution is at maximum capacity
+
+1951F977 - Cont : Request drainage - greywater reserve - 1 - 2 - 3<LINE>1111 - Manual Input: "filter in north vault needs to be replaced"
+
+1961A991 - Warning - Excess heat build up in central duct<LINE>964C991 - Note: Central bank in error state. Request operator reset
+
+I would shut it down but the controls have been locked out.

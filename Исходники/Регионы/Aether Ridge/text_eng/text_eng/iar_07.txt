@@ -1,0 +1,16 @@
+﻿0-IAR_07
+These are maintenance records from a desalination system - the local platform - to be precise.
+
+It seems Five Pebbles has kept things in working order.
+
+Primary systems - such as those driving my servos - are cooled using free-flowing water to dissipate heat.<LINE>Unfortunately, this design does not accommodate the smaller bore pipes used in older systems.
+
+These pipes would often freeze - slowing or disabling non-vital functions.
+
+Salt water is extracted from the ground and distilled to create a lower density solution.<LINE>This solution is then mixed into our reservoirs to slightly lower the freezing point.
+
+This fluid is inherently corrosive so they should have all been shut down.
+
+Why is this one still active?
+
+Either way - a creature like you should avoid such places. You would shrivel up in an instant!

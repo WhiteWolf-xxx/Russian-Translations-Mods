@@ -1,0 +1,12 @@
+IAR_08
+These are detailed work plans to retrofit the carriages in a telescopic rail station with additional parts.
+
+Freight systems like these were a popular and scalable solution for hauling cargo onto service utility decks.
+
+The parts in question are refillable hoppers and direct line sensors.
+
+The sensors would simultaneously shut the newly added hoppers and seal the carriage for transport.
+
+At least - that's what they were intended to accomplish. I don't know if these were actually built.
+
+Anyway...this particular system is very large - it could even reach the ground when fully extended!

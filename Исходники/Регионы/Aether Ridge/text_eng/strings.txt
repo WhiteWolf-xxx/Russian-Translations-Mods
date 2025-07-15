@@ -1,0 +1,3 @@
+///Aether Ridge (3465624083)///
+integratedAR-name|Aether Ridge
+integratedAR-description|An attempt at stitching back together everybodys favorite region!<LINE>Now with echo!

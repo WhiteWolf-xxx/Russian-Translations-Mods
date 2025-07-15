@@ -1,0 +1,16 @@
+﻿0-IAR_05
+"1711.280 - PRIVATE Five Pebbles, Seven Red Suns
+
+SRS: You've become quite popular. And yet you refuse an audience! 
+
+FP: What exactly is your point?
+
+SRS: My point is - your neighbor has been nagging me about...that thing we spoke of in confidence.
+
+FP: Well...there's not much I can do about it at this point<LINE>- probably better if she doesn't know.
+
+FP: I've been working on ways to buy us more time.
+
+SRS: I'm sure her safety is of your utmost concern."
+
+This appears to be the first half of their conversation.
