@@ -5,7 +5,7 @@ Chasing Wind|В-Погоне-за-Ветром
 Chasing Wind (Main Processing Cortex)|В-Погоне-за-Ветром (Основная обрабатывающая кора)
 Chasing Wind (Lymphatic Conduits)|В-Погоне-за-Ветром (Лимфатические каналы)
 Chasing Wind (Memory Conflux)|В-Погоне-за-Ветром (Отсек памяти)
-Chasing Wind (Inner Wall)|В-Погоне-за-Ветром (Внутренняя стена)
+Chasing Wind (Embedded Heat Frame)|В-Погоне-за-Ветром (Встроенная тепловая рама)
 The Anchor|Крепёж
 Chatoyant Waterfalls|Оживлённые водопады
 Derelict Rigs|Покинутые буровые установки
