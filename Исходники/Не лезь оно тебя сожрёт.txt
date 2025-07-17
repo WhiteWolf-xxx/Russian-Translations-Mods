@@ -1,0 +1,61 @@
+﻿0-1
+Список итераторов:
+
+ОФИЦИАЛЬНЫЕ
+
+ПГ (Пять Галек) FP (Five Pebbles)
+СКС (Семь Красных Солнц) SRS (Seven Red Suns)
+ПС (Прядь Соломы) SOS (Sliver of Straw)
+ССЛ (Старшая Сестра Луна) BSM (Big Sis Moon)
+НЗЗ (Нет Значимых Забот) NSH (No Significant Harassment)
+ВПЗВ (В-Погоне-за-Ветром) CW (Chasing Wind)
+НН (Непревзойдённая Невинность) UI (Unparalleled Innocence)
+СЗ (Смотрящий-на-Звёзды) GT (Gazing Stars)
+УИ (Уединённый Инстинкт) SI (Secluded Instinct)
+БЗ (Блуждающее Знамение) WO (Wandbring Omen)
+ПР (Просительный Разум) PI (Pleading Intellect)
+ЭО (Эпоха Облаков) EOC (Epoch of Clouds)
+СВСК, НГИ (Северная Великая Слоновая Кость, Нет Грандиозных Идей) NGI (Northern Grand Ivory, No Grand Ideas) (Пока что используется СВСК)
+НП (Неустойчивый Пульс) EP (Errasic Pulse)
+
+НЕИЗВЕСТНЫЕ
+
+ГР HR
+УУ UU
+ГФ HF
+
+НЕОФИЦИАЛЬНЫЕ
+
+НМ (Неустойчивая Мечта) UD (Unstable Daydream)
+ВП (Вершина Паломничества) PS (PNlgrimaged Summit)
+ЧПК (Четырнадцать Полярных Костей) FPB (Fourteen Polar Bones)
+ДЗНГ (Двенадцать Звезд Над Головой) TSA (Twelve Stars Above)
+ЗС (Звездная Симфония) SLS (Starlight Symphony)
+НСБЗ (Нет Слишком Больших Затрат) NCTG (No Cost Too Great)
+ВА (Вечная Амбра) PU (Perpetual Umbra)
+ТО (Ток Обмотки) WC (Winding Current)
+БВ (Бледная Вода) WW (Lesson Over Pale Water)
+РР (Размышляющие Развалины) TD (Thinking Debris)
+РК (Разочаровывающие Коммуникации) FC (Frustrating Communications)
+ТМЛ (Три Маленькие Лягушки) TSF (Three Small Frogs)
+ДДН (Дотянуться до Небес) RTTS (Reach to the Skies)
+ОСП (Оседание Северных Потоков) NSS (Northern Streams Subsiding)
+ВК (Высшие Колебания) FA (Fluctuations Above)
+ОГ (Осознанные Горизонты) HR (Horizons Realized)
+КСС (Ковш с Соком) BOS (Buckets of Sap)
+КП (Красный Песок) RS (Red Sand)
+ООО (Окно Оставленное Открытым) WLO (Windows Left Open)
+
+НЕИЗВЕСТНЫЕ
+
+АГС AGS
+ДФ DA
+ГМ GM
+ДСС DSS
+АА АА
+КР QR
+НМ NM
+БА BA
+ДВ DV
+ГС GS
+БГХЛ BGHL
