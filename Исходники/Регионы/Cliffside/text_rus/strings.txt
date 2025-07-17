@@ -1,0 +1,6 @@
+///Cliffside (3482731057)///
+nograndideas-name|Склон горы
+nograndideas-description|На побережье далёкого континента находится горный хребет, усеянный старыми шахтами и туннелями, окутанный туманом и тенью от близлежащей надстройки.<LINE>В настоящее время доступно только для Мастера копья из региона Мшистые поля.<LINE>-------ТИТРЫ-------<LINE>Редактирование комнат, написание: Parageist.<LINE>Код: NV<LINE>Тема угрозы от LudoCrypt.<LINE>«Обломки» и «Размыв» от Sidera, «Палисация» от Tryn.<LINE>Региональная заставка: Wolfycatt.<LINE>Наклейка NGIGULL от Seroen, все остальные наклейки от Parageist.<LINE>Тестеры: VoidComputer, Vividyon, macaco103, Moldova223, theonewhoscreamsiguess.<LINE>Бонусное спасибо Myrmice за создание Мшистых полей.
+Cliffside|Склон горы
+Bygone Mineshaft|Заброшенные шахты
+Summit of Mistakes|Вершина ошибок

@@ -1,0 +1,6 @@
+///Cliffside (3482731057)///
+nograndideas-name|Cliffside
+nograndideas-description|On the coast of a distant continent, lies a mountain range dotted with old mines and tunnels, shrouded in fog and shadow from a nearby superstructure.<LINE>Currently accessible only for Spearmaster from Moss Fields.<LINE>-------CREDITS-------<LINE>Level Editing, Writing: Parageist<LINE>Coding: NV<LINE>Threat Theme by LudoCrypt<LINE>'Debris' and 'Washout' by Sidera, 'Palisation' by Tryn<LINE>Cliffside Region Art: Wolfycatt<LINE>NGIGULL decal is by Seroen, all other decals by Parageist.<LINE>Playtesting: VoidComputer, Vividyon, macaco103, Moldova223, theonewhoscreamsiguess<LINE>Bonus thanks to Myrmice for creating Moss Fields
+Cliffside|Скала
+Bygone Mineshaft|Заброшенная шахта
+Summit of Mistakes|Вершина ошибок

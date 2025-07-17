@@ -1,0 +1,36 @@
+0-NGI_LI_PebblesRot
+[LIVE BROADCAST] - PRIVATE Horizons Realized, Buckets of Sap
+
+BOS: Did you hear the news?
+
+HR: What?
+
+BOS: I don't even know why I asked, you never read our local group messages anymore.
+
+HR: It's been nothing but gossip for the last forty-thousand cycles, why should I bother?
+
+HR: Maybe No Grand Ideas was right. You all have been slacking off and wasting our time.
+
+BOS: Hey, don't give me that!
+
+BOS: I wasn't expecting such hostility, but if you don't want to talk to us, then fine.
+
+HR: ...
+
+HR: Apologies, I suppose I did come off strong in that message. It has been some time since I have interacted with another.
+
+BOS: Apology accepted.
+
+BOS: Will you allow me to inform of you of the current events now?
+
+HR: Sure, if it means avoiding the escalation of our relations.
+
+BOS: You remember Five Pebbles? From the group closest to our locale?
+
+HR: Not really, but the name does sound familiar.
+
+BOS: Well, another member of his group sent an overseer over to his can and well, I guess I'll just send an image now.
+
+HR: Do we still have the bandwith for th-
+
+[[ERROR]] CONNECTION TIME-OUT; Unable to process broadcast data, unsupported information type - [IMAGE]
