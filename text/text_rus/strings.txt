@@ -306,7 +306,7 @@ limecultivist.forgottenboiler-name|Забытый бойлер
 limecultivist.forgottenboiler-description|Тёмный и коварный проход, соединяющий Затенённую цитадель и Дымоход.
 Forgotten Boiler|Забытый бойлер
 South Warehouse|Южный склад
-Centipede's Lair|Логово сороконожки
+Centipede's Lair|Логово сколопендры
 
 ///Forsaken Factory (3301169303)///
 Nytrok07.ForsakkenFactory-name|Покинутый завод
@@ -2568,4 +2568,5 @@ Slide Pounce: Stun and deal minor damage|Скользящий удар оглу�
 ///Мороз
 Frost Mechanic:|Механики Мороза:
 ///КОНЕЦ ТЕКСТА
+
 
