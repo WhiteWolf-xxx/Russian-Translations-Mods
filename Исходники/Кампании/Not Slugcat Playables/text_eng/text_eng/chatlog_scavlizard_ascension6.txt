@@ -1,0 +1,10 @@
+﻿0-chatlog_scavlizard_ascension6
+[DIRECT BROADCAST] EQUIPMENT MANIFEST - Proud Innovation, GA_SUB_924
+
+SOURCE NODE TRACE: GA_ROOT, GA_COMM12, GA_SUB_924_ROOT
+
+EM: Warning, all primary systems are being disabled.
+
+EM: Life support systems offline. Estimated death time, 3 minutes(s) and 24 second(s).
+
+EM: Following damage to unit will become permanent after an estimated 1 minute(s).
