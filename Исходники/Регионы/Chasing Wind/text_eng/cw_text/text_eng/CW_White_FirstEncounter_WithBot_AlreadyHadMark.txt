@@ -1,0 +1,77 @@
+SPECIAL : LOCKPATHS
+
+SPECIAL : GRAV
+
+WAIT : 5
+
+Greetings, curious visitor!
+
+WAIT : 5
+
+...
+
+Your trajectory through my systems has been... fascinating to witness.
+
+The data transmitted by my overseers already did a lot, but I admit your behaviour is still beyond me.
+
+What are you looking for? Are you in search for your kin?
+
+...
+
+It seems one of my neighbors has already bestowed you the gift of communication! This is a surprising privilege for a small lifeform like you.
+
+Were you sent by one of them? You don't look like a messenger. Let me see...
+
+...
+
+SPECIAL : TAKEBOT
+
+WAIT : 10
+
+Oh, you seem to have come with a gift! What is it?
+
+...
+
+This looks like a citizen ID drone. One of mine as well!
+
+These are very rare, and hard to find. It opens a very special place at the heart of my city.
+
+This one isn't exactly in proper working condition...
+
+If you want to use it, you'll have to find a way to reactivate it and imprint it to yourself.
+
+...
+
+If that's the reason for your visit here, I'm afraid I can't do anything about it unfortunately.
+
+...
+
+SPECIAL : RELEASEBOT
+
+You might find answers on my roof, but I wouldn't bother with this old artifact too much.
+
+Your best bet is to follow the old path. Go to the north-west, past the overgrown farms.
+
+Then down into the earth, where the rock boils, go as deep as you can reach.
+
+WAIT : 5
+
+Whatever choice you make, let me reward you for the journey you have taken so far.
+
+SPECIAL : FOODMAX+KARMA10
+
+WAIT : 5
+
+You're resourceful, I'm sure you'll find your way.
+
+WAIT : 5
+
+You can exit my structure by using the access shaft on the left.
+
+I will now resume my work, there is much to be done.
+
+WAIT : 5
+
+SPECIAL : PARTIALGRAV
+
+SPECIAL : UNLOCKPATHS
