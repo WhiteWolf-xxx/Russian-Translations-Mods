@@ -1,40 +1,63 @@
 ///ULTRAKILL Style Region Titles (3050636729)///
-nacu.ultrakilltitles-name|
-nacu.ultrakilltitles-description|
-
-nesting birds|
-whisper in the darkness|
-waxing crescent|
-last drop of sanity|
-dancing monkeys|
-the slaughterhouse|
-i find it quite simple|
-lost city|
-el dorado|
-touch grass|
-calm before the storm|
-god damn the salt|
-endured to the end|
-root of the problem|
-godlike in comparison|
-ancient swan song|
-14.3 billion spiders|
-six miles above|
-lizards of the coast|
-bug in a maze|
-the gift of life|
-forgotten crossroads|
-???|
-CRESCENDO|
-CLIMAX|
-FIRST|
-SECOND|
-THIRD|
-FOURTH|
-FIFTH|
-SIXTH|
-SEVENTH|
-EIGTH|
-NINTH|
-TENTH|
-CYCLE|
+///nacu.ultrakilltitles-name|ULTRAKILL Style Region Titles
+nacu.ultrakilltitles-description|Отображает названия регионов и субрегионов в стиле всплывающих подсказок с названиями уровней в Ultrakill.
+///Chimney Canopy
+nesting birds|гнездящиеся птицы
+///Silent Construct
+whisper in the darkness|шепот в темноте
+///Looks to the Moon
+waxing crescent|восковой полумесяц
+///Drainage System
+last drop of sanity|последняя капля здравомыслия
+///Garbage Wastes
+dancing monkeys|танцующие обезьяны
+///Garbage Wastes-artificer
+the slaughterhouse|скотобойня
+///Industrial Complex
+i find it quite simple|я нахожу это довольно простым
+///Metropolis
+lost city|потерянный город
+///Metropolis-artificer
+el dorado|эльдорадо
+///Farm Arrays
+touch grass|потогай траву
+///Waterfront Facility
+calm before the storm|затишье перед бурей
+///Waterfront Facility-artificer
+god damn the salt|черт бы побрал эту соль
+///Submerged Superstructure
+endured to the end|терпеть до конца
+///Outer Expanse
+root of the problem|в чем корень проблемы
+///The Rot
+godlike in comparison|богоподобный в сравнении
+///Subterranean
+ancient swan song|древняя лебединая песня
+///Shaded Citadel
+14.3 billion spiders|14,3 миллиарда пауков
+///Sky Islands
+six miles above|на высоте шести миль
+///Shoreline
+lizards of the coast|ящерицы побережья
+///Five Pebbles
+bug in a maze|жук в лабиринте
+///Outskirts
+urban jungle|городские джунгли
+///Undergrowth
+the gift of life|дар жизни
+///Pipeyard
+forgotten crossroads|забытый перекресток
+???|???
+CRESCENDO|CRESCENDO
+CLIMAX|CLIMAX
+FIRST|ПЕРВЫЙ
+SECOND|ВТОРОЙ
+THIRD|ТРЕТИЙ
+FOURTH|ЧЕТВЁРТЫЙ
+FIFTH|ПЯТЫЙ
+SIXTH|ШЕСТОЙ
+SEVENTH|СЕДЬМОЙ
+EIGTH|ВОСЬМО
+NINTH|ДЕВЯТЫЙ
+TENTH|ДЕСЯТЫЙ
+CYCLE|ЦИКЛ
