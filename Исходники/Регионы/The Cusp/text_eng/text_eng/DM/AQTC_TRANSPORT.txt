@@ -1,0 +1,6 @@
+﻿0-AQTC_TRANSPORT
+
+It’s a long instruction manual detailing the process and safety<LINE>measures of handling and transporting dangerous gases. You must<LINE>have found this in the old waste transportation facility behind<LINE>my superstructure.
+Liquid, solid, and gaseous waste deemed too dangerous were moved<LINE>far away to a distant waste facility. Many of the processes used<LINE>to move this waste were only semi-automated, meaning some manual<LINE>labor was required to operate many of the involved systems.
+From my recollection, it was long abandoned after a group of highly<LINE>influential benefactors deemed it too much effort to transport organic<LINE>and industrial waste to a remote location. Instead, they opted to create<LINE>a newer, more streamlined waste processing facility close by.
+Like many other industrial sites located within the retaining wall,<LINE>it was remodeled and reincorporated into the other industrial sites.<LINE>Most resources at the time were being allocated to the iterator projects,<LINE>so I can only assume it assisted in construction somehow.

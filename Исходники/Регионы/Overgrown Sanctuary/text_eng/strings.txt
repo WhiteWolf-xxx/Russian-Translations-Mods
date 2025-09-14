@@ -1,0 +1,12 @@
+///Overgrown Sanctuary (3557418115)///
+overgrown_sanctuary-name|Overgrown Sanctuary
+overgrown_sanctuary-description|This mod adds a new region for Rain World called Overgrown Sanctuary
+Overgrown Sanctuary|Заросшее святилище
+Catacombs|Катакомбы
+Cathedral|Собор
+Ruined Marshes|Разрушенные болота
+This region is still a wip for inv|Этот регион всё ещё не готов к inv
+Desolate Bastion|Заброшенный бастион
+Ancient Graveyard|Древнее кладбище
+Frigid Spire|Холодный шпиль
+Lacustral Tundra|Озëрная тундра

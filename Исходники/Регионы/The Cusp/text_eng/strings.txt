@@ -1,0 +1,5 @@
+///The Cusp (3548861158)///
+thecusp-name|The Cusp
+thecusp-description|A series of regions that let you traverse over the eastern retaining wall<LINE>Two entrances in Chimey Canopy(Recommended) and Shoreline<LINE>Currently includes one region with two more on the way
+The Cusp|Остриё
+Pipe Wastes|Отходы труб

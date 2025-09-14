@@ -1,0 +1,6 @@
+﻿0-AQTC_TRANSPORT
+
+It’s a long instruction manual detailing the process and safety<LINE>measures of handling and transporting dangerous gases from a waste<LINE>transportation facility to a distant garbage dump.
+Liquid, solid, and gaseous waste deemed too dangerous were<LINE>moved far away to a distant waste facility. Many of the<LINE>processes used to move this waste were only semi-automated,<LINE>meaning some manual labor may have been required to operate<LINE>many of the involved systems.
+The second portion warns of what happens if someone were to spend<LINE>too much time within the facility without the proper equipment.
+Please do be cautious if you ever plan to return, <PLAYERNAME>.

@@ -1,0 +1,11 @@
+///Eastern Expanse (3459890439)///
+easternexpanse-name|Eastern Expanse
+easternexpanse-description|behind Five Pebbles, to the east, There lies beyond the old constructions a region of wilderness. 
+	Discover the wilden swamps and the tides of the weathered Rivers 
+	on your journey, away from the memories of the past. (connects to memory crypts)
+Flooded Nest|Затопленное гнездо
+Weathered Lake|Выветренное озеро
+Eastern Expanse|Восточные просторы
+New Home|Новый дом
+Wilden Swamps|Дикие болота
+Hillside|Склон холма

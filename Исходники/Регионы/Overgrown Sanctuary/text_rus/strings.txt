@@ -1,0 +1,12 @@
+///Overgrown Sanctuary (3557418115)///
+overgrown_sanctuary-name|Заросшее святилище
+overgrown_sanctuary-description|Этот мод добавляет новый регион под названием Заросшее святилище.
+Overgrown Sanctuary|Заросшее святилище
+Catacombs|Катакомбы
+Cathedral|Собор
+Ruined Marshes|Разрушенные болота
+This region is still a wip for inv|Этот регион всё ещё не готов к inv
+Desolate Bastion|Заброшенный бастион
+Ancient Graveyard|Древнее кладбище
+Frigid Spire|Холодный шпиль
+Lacustral Tundra|Озëрная тундра

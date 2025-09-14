@@ -1,0 +1,4 @@
+///Corrosive Geysers (3558692001)///
+fishy.CorrosiveGeysers-name|Corrosive Geysers
+fishy.CorrosiveGeysers-description|A region for the watcher, consisting of acid and geysers.<LINE>Thank you croken85 for making the Acidic Salamander.
+Corrosive Geysers|Едкие гейзеры

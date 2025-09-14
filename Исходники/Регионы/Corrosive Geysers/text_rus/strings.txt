@@ -1,0 +1,4 @@
+///Corrosive Geysers (3558692001)///
+fishy.CorrosiveGeysers-name|Едкие гейзеры
+fishy.CorrosiveGeysers-description|Регион для созерцателя, состоящий из кислоты и гейзеров.<LINE>Спасибо croken85 за создание кислотной саламандры.
+Corrosive Geysers|Едкие гейзеры
