@@ -1,0 +1,8 @@
+///Saint's Outer Expanse (3520647464)///
+xuanzebufeng.saintouterexpanse-name|Saint's Outer Expanse
+xuanzebufeng.saintouterexpanse-description|Added Outer Expanse for saint.
+Frostbite Plain|Обмёрзшая равнина
+Frozen Valley|Замëрзшая долина
+Soaking Facility (Western Labyrinth)|Промокшая установка (Западный лабиринт)
+Luxuriant Land|Пышные земли
+Former Residence|Бывшая резиденция

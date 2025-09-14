@@ -1,0 +1,11 @@
+0OE_CATTREE02-White
+XuanZeBuFeng: Honestly, I really don't like the vanilla Monk and Survivor's Journey's End Ending.
+XuanZeBuFeng: Even though they reunited, they still lost contact with their family.
+XuanZeBuFeng: So I've always wanted to create a better ending for them.
+XuanZeBuFeng: In the Former Residence, I originally planned to have an Overseer project something.
+XuanZeBuFeng: The Overseer would project Monk and Survivor leaving the Former Residence and arriving at the place where they got separated from their family.
+XuanZeBuFeng: They would climb onto the barbed wire fence (in the vanilla CG, their family climbed onto the top of the barbed wire fence).
+XuanZeBuFeng: This probably implied that Monk (Yellow) and Survivor (White) began searching for their family. Whether they found them or not was left to each player's interpretation.
+XuanZeBuFeng: Anyway, I believe they ultimately found their family, which is also why this place is called the Former Residence.
+XuanZeBuFeng: But I discovered that the probability of an Overseer spawning in the Outer Expense is extremely low. Even if I implemented it, there likely wouldn't be an Overseer projection.
+XuanZeBuFeng: It was more trouble than it was worth, so I simply abandoned that idea.

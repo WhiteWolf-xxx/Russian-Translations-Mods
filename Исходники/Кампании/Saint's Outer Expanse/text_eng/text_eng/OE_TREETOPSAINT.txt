@@ -1,0 +1,8 @@
+0OE_TREETOPSAINT-White
+XuanZeBuFeng: I originally only planned to add three dev texts, but Rain World completely disgusted me.
+XuanZeBuFeng: So, right before release, I added this dev text specifically to rant about Rain World.
+XuanZeBuFeng: First thing I demand to know is: Why does saving the map cause every room in the map to shift position???
+XuanZeBuFeng: This causes the Y-coordinate of every room's background to become completely messed up.
+XuanZeBuFeng: I've already had to readjust this four times because of this problem.
+XuanZeBuFeng: Plus, OE's background is hard-coded, resulting in occasional conflicts with RegionKit's custom backgrounds.
+XuanZeBuFeng: There are still many troubles I haven't listed; I'm already too exhausted to complain about them.

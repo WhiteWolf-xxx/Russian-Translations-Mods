@@ -1,0 +1,12 @@
+0OE_TOWER01SAINT-White
+XuanZeBuFeng: If you pay attention during the night, you'll notice that the EffectColor (used to modify specific colored objects in the game, like plants, etc.)
+XuanZeBuFeng: changes to other colors at night.
+XuanZeBuFeng: Don't be fooled by how simple this effect seems; it actually took me a month to implement.
+XuanZeBuFeng: Not that it was difficult to make; the main reason was that my coding skills were just too poor.
+XuanZeBuFeng: If you decompiled that code, you'd see it's not very long and the implementation logic is quite simple.
+XuanZeBuFeng: But in reality, I practically rewrote that code three times.
+XuanZeBuFeng: The first time, because it couldn't properly get the vanilla EffectColor, and it even replaced other EffectColors, making them darker.
+XuanZeBuFeng: The second time was because the day-night transition wasn't smooth, and it couldn't modify a single specific EffectColor.
+XuanZeBuFeng: The third time was because sometimes EffectColors I didn't want to change would constantly flicker and change color.
+XuanZeBuFeng: It ended up like this (and I encountered many other troubles during the process, like matching the vanilla day-night cycle timing, room colors not refreshing, changing colors across rooms).
+XuanZeBuFeng: Frankly, I never want to touch this thing again.
