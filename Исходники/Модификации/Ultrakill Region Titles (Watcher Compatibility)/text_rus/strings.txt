@@ -1,0 +1,45 @@
+///Ultrakill Region Titles (Watcher Compatibility) (3463848058)///
+spire.ultrakilltitles.watcher-name|Ultrakill Region Titles (Watcher Compatibility)
+spire.ultrakilltitles.watcher-description|Добавляет подтекст с названиями регионов в стиле Ultrakill в регионы созерцателя.
+///Shattered Terrace
+some effortless place|какое-то лёгкое место
+///Salination
+beneath the brine|под рассолом
+///Fetid Glen
+putrid maze|гнилостный лабиринт
+///Cold Storage
+preservation facility|консервационный комплекс
+///Heat Ducts
+scorching crucible|раскалённый тигель
+///Aether Ridge
+all encompassing steel labyrinth|всеобъемлющий стальной лабиринт
+///The Surface
+frigid snowswept ruin|холодные, снежные руины
+///Ancient Urban
+ancient urban|древняя застройка
+///Badlands
+here come the locusts|а вот и саранча
+///Outer Rim
+our starlit kingdom|наше звёздное королевство
+///Signal Spires
+threading the heavens|пронизывающие небеса
+///Coral Caves
+seashells on the seashore|ракушки на берегу моря
+///Turbulent Pump
+mechanical riptide|механический разрыв
+///Rusted Wrecks
+lost at sea|затерянный в море
+///Torrential Railways
+mile after mile|миля за милей
+///Sunlit Port
+a softer warmth|более мягкое тепло
+///Stormy Coast
+very very frightening|очень, очень пугающий
+///Shrouded Coast
+atmosphere gone heavy|атмосфера стала тяжёлой
+///Torrid Desert
+these rusted sands|эти ржавые пески
+///Desolate Tract
+this wind-torn expanse|продуваемое всеми ветрами пространство
+///Verdant Waterways
+parisian sewer system|парижская канализационная система
