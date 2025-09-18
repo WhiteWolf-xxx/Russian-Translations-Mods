@@ -1,0 +1,12 @@
+sm2
+none
+
+It's getting cold. Climbing up this metallic mountain wouldn't lead to anything good.
+But something in your bones tells you that there's something at the top.
+
+Go Back
+startdrmr.txt
+Press Onwards
+northdrmr_2.txt
+Find Shelter
+ndrmr_1.txt

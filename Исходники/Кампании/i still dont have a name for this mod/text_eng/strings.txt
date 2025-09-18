@@ -1,0 +1,233 @@
+///i still dont have a name for this mod (3490206617)///
+saltedsour.desiccationrebaked-name|cant keep workin on this shit
+saltedsour.desiccationrebaked-description|DRESS MY SLUGCAT NOT COMPATIBLE. Thank you Ris from Iterator Walk for allowing the use of sprites for The Oracle
+///Ремикс
+Options|1
+Trailblazer|2
+Changes the forehead mark for the oracle character.|3
+
+saltedsour.desiccation Options|4
+Hello, hello!! Thank you for trying out my mod. It's a heavy work in progress, but I'm only one person|5
+and I'm really only coding what makes me specifically have fun. (and bugfixes :(, sadly)|6
+
+Viper Options|7
+Give Viper's Arm Back|8
+Give Viper's Arm Back... for a price. :-]|9
+
+Trailblazer Options|10
+Trailblazer Grapple Always|11
+Trailblazer Grapple When Full|12
+Trailblazer Dual Spears|13
+
+Oracle Options|14
+Oracle Head Mark|15
+Oracle Antennae|16
+Oracle Eyes|17
+Changes the antennae for the oracle character.|18
+Changes the eyes for the oracle character.|19
+Toggles if the Oracle is naked. If checked, you will have no clothes.|20
+///Меню
+THE DREAMER|МЕЧТАТЕЛЬ
+The Dreamer|Мечтатель
+Dreamer|Мечтатель
+An unwelcome loner. The path you take throws away with having karmic<LINE>balance. You move freely through the cycles like water, ebbing and flowing like the tide.|Нежеланный одиночка.<LINE>Твой путь лишает тебя кармического баланса.<LINE>Ты свободно перемещаешься по циклам, как вода, прилив сменяет отлив.
+Clawing your way out of the sea, you're deadset on your goals to survive.|Выбираясь из моря, ты твёрдо намерен выжить.
+///Обучение
+You are infused with karmic properties, and may find yourself with different advantages and disadvantages|Ты наделён кармическими свойствами и можешь столкнуться с различными преимуществами и недостатками
+///Сообщение Гальки
+How strange.|Как странно.
+You are... no. Not a creature.|Ты... нет. Не существо.
+I have been watching your journey. Watching anxiously.|Я наблюдал за твоим путешествием. С тревогой наблюдал.
+You are something special, aren't you? Clawing your way out of a point of no return.|Ты ведь особенный, не так ли? Прокладываешь себе путь из точки невозврата.
+If you were a creature, you know my story by now. We may have crossed paths at one point.|Если бы ты был существом, то уже знал бы мою историю. Возможно, наши пути когда-то пересекались.
+If you weren't one...|Если бы ты не был...
+Then you change quite a lot, don't you?|Тогда ты бы сильно изменился, не так ли?
+
+A little animal, on the floor of my chamber! I may know what you are looking for.|
+Do you feel restricted? Trapped by the cycle we all reside in, that is.<LINE>A pattern weaved through all of life.|
+Whether or not you notice it, that trapped feeling permeates through every body. Your frustration is not unique.<LINE> From lower lifeforms such as microbes, to this very superstructure that surrounds you!|
+My role is to alleviate that frustration. Our kind, we have it as our purpose to solve the claustrophobia in your chests.<LINE>We are a charity of sorts - you a recipient, and us as a gift remaining until the end of eternity.<LINE>As for the benefactors? They are gone, and have been for a very long time.|
+However. There is no solution found. I doubt there ever will be one. We are losing our minds over an impossible<LINE>problem, a problem we had to solve as our only goal. There is nobody who succeeded. No broadcasts saying anything beyond<LINE> myth, no evidence, a sheer void of solutions. There is nothing any of us can do to help you.|
+...Nor do I want to. My apologies.|
+...My neighbour, Five Pebbles, went mad from that problem, from this<LINE>purpose forced on us.|
+He was built close to me. We did not share groundwater, but we were still abnormally close.|
+He started to be eaten from within by failed experiments, a rot permeating through every bit of him.<LINE>He did not communicate any of this. Because of shame? Guilt? I do not know.|
+I had been distant for so long, tired of this world, but I did not know how much it affected him.<LINE>Not until it was too late.|
+He had sounded so fine until he just... stopped. Messages, experiments, broadcasts.<LINE>His emergency relays were not sent to any senior. Now only I remain. I doubt he trusts me after my neglect,<LINE>if he is even able to open communications.|
+I do not wish for another to go through such a path of obsession.<LINE>My apologies, little creature.|
+///Меню
+Alone and weakened, you set out for the first time<LINE>in a world you've only seen with clinical distance.|Одинокий и ослабленный, ты впервые отправляешься в мир, который видел лишь издалека.
+drencher|Нет текста
+///Меню
+THE TRAILBLAXER|ПЕРВОПРОХОДЕЦ
+The Trailblazer|Первопроходец
+Trailblazer|Первопроходец
+A master of combat raised by scavengers in the dying lands, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|Мастер боя, воспитанный мусорщиками в умирающих землях,<LINE>ты странствуешь по царству ушедших богов в поисках тайн,<LINE>которые лежат далеко за пределами твоего маленького дома.
+Your kin have assigned you another goal, and so <LINE> you embark on your journey once again.|Твои родственники поставили перед тобой новую цель,<LINE>и ты снова отправляешься в путь.
+///Сообщение Гальки
+A little animal, on the floor of my chamber! I may know what you are looking for.|
+Do you feel restricted? Trapped by the cycle we all reside in, that is.<LINE>A pattern weaved through all of life.|
+Whether or not you notice it, that trapped feeling permeates through every body. Your frustration is not unique.<LINE> From lower lifeforms such as microbes, to this very superstructure that surrounds you!|
+My role is to alleviate that frustration. Our kind, we have it as our purpose to solve the claustrophobia in your chests.<LINE>We are a charity of sorts - you a recipient, and us as a gift remaining until the end of eternity.<LINE>As for the benefactors? They are gone, and have been for a very long time.|
+The object following you registers you as a citizen of my facility, however logs suggest that the previous owner moved.|
+...My neighbour, Five Pebbles, is either dead or dying. I assume you rifled through his rubble for that?|
+He is, to put it in concepts you can grasp, like a sibling to me. He went mad, and caused his own demise...|
+He started to be eaten from within by failed experiments.|
+I had been distant for so long, tired of this world, tired of reminders of the past benefactors,<LINE>but I did not know how much it affected him.<LINE>Not until it was too late.|
+He had sounded so fine until he just... stopped. Messages, experiments, broadcasts.<LINE>His emergency relays were not sent to any senior. Now only I remain. I doubt he trusts me after my neglect,<LINE>if he is even able to open communications.|
+I cannot help you, and I suggest you do not bother either of us any longer.|
+///Меню
+THE VIPER|ГАДЮКА
+The Viper|Гадюка
+Viper|Гадюка
+Arm torn off by what was once was your kin,<LINE>you prowl the lands to sate your hunger.|Рука, оторванная тем, кто когда-то был твоим родственником, бродит по землям в поисках пищи.
+I wouldn't recommend using this slugcat in expedition, as it's untested. You do you tho.|Я бы не рекомендовал использовать этого слизнекота в экспедиции, так как он не тестировался.<LINE>Но дело ваше.
+///Сообщение Гальки
+...Ferocious creature! You have returned.|
+I have not seen you for quite some time, you know! You were barely half my<LINE>puppet's height when I sent you out.|
+I see you are injured. I wonder if you passed my message to the recipient, long ago.<LINE>It doesn't matter here, anyhow...|
+I am sorry, but I cannot fix your limb. Or the... more severe damage to your body.|
+You do not deserve this, no, but I suppose life can be cruel.|
+I... hm, I didn't expect you to be capable of bringing in a companion.|
+I suppose you surprised me once more! Haha.|
+...You can feel free to spend the rest of your days here, until you wake up again.|
+I do not have any advice for your new friend, however...|
+I doubt it knows of your eventual fate.|
+It is nice to see you once more, I apologise it had to be this way.|
+You are very, very brave. Thank you, old friend.|
+
+///Разное
+Oh? Hello there?|О? Привет, ты здесь?
+Are these words of mine reaching you?|Доходят ли до тебя мои слова?
+You have gained a tolerance to the glowing swarmers around you. A last resort for food.|Ты стал терпимее относиться к светящимся роям вокруг тебя. Последнее средство для добычи пищи.
+
+
+
+
+public static CreatureDialog CreateDialog(Creature target, int ID)
+...Ow.
+...always hurts...
+...not... used to this...
+...hmph.
+...tired of falling...
+...great.
+Ouch...
+Don't... mean to fall...
+...my... legs...
+Back away...!
+Don't... come close!
+Move away! Move... away...
+Yes...!
+Learn... your lesson, creature...
+I'll... I'll kill you, creature...!
+Ah--! Wait!
+Wh--
+Let go!--
+...Moon...
+Help...
+...no... please...
+...no...
+Ow...
+...I should keep this with me.
+Useful. I think.
+Extra weaponry will help...
+...It's good to hold this.
+I shouldn't lose this.
+...I'll keep it safe.
+I might want this...
+Worth the effort... hopefully.
+Let's... not starve.
+Unassigned!
+I'm... here...
+Wh--!
+!!...
+I can walk.
+This place is... wrong.
+Even if I... can't... recall why...
+I... I should leave. And soon.
+
+
+Ghgh... hhgck--...
+My head...
+This place is dying. I need shelter, now.
+
+
+///ScavengerDialogue
+You may pass.
+Thank you, thank you.
+Pass.
+A threat!
+Everyone, run!
+I will handle this!
+I would like to trade!
+May we trade for that, friend?
+Give.
+
+
+Holding the special button allows you to camouflage against terrain.
+You are being followed.
+You can use the rebar spears around you to scale the wall.
+
+
+
+A... pearl. I can read it, hold on...
+I still am able to read this...
+It has some data for me...
+Decrypting this pearl's text...
+...Here we go, I can see what is inside...
+This may be hard to decrypt...
+The pearl has a passcode... aaaand... solved.
+Hm, it contains a cipher... no challenge for me...
+
+I have already read this...
+No need to reuse this pearl...
+Ah, right... already read it...
+The scavengers would have a better use...
+I've read it already...
+Still no change after reading it once more.
+Another read may help...
+This one I remember reading.
+Oh, right, this one.
+
+///DataPearl.AbstractDataPearl.DataPearlType.SU
+Repeating mantras... 5061, then a termination verse... An amulet from some garment, perhaps.<LINE>All an analogy of the cycle. I loathe reminders like these...
+
+///DataPearl.AbstractDataPearl.DataPearlType.HI
+...
+Ah, this is where the holy ash facilities were? Interesting. I had... forgotten.
+I never bothered to research the history, but bone masks were a pleasant sight.
+...Despite what she says, I cannot loathe them in the same way she does.
+They were our creators. They gave me gifts.
+
+///DataPearl.AbstractDataPearl.DataPearlType.DS
+Yes, this is the pearl I was looking for... Archived hymns, before the Green<LINE>hegemonic linguistic dynasty's second revelation.
+A priceless find!
+Although, you could make a critique...
+The cycle of a jellyfish still is inescapable. It is not as easy as slipping through a net.
+...But for its time, this is groundbreaking. And besides, my critique relies on ignoring certain aspects of the older language.
+Are you getting this?<LINE>Ah. Right. Nobody is here to listen.
+
+Could it be?
+Yes! Archived works, before the Green hegemonic linguistic dynasty's second revelation!
+These hymns are a treasure. Priceless, actually. The fishing net line has seen many uses, but this is the oldest example.
+And later, Pel's works would change the proverb for a slightly more modern lens!
+...not that it matters to me.
+
+///DataPearl.AbstractDataPearl.DataPearlType.GW
+Ah, this is... my work.
+Poorly encrypted, I can read parts of it.
+...It was not made when I fully understood this world. Clearly.
+Garbage. It belongs here.
+
+///DataPearl.AbstractDataPearl.DataPearlType.CC
+Of course... this thing. I thought it was erased.
+Instead, carried away by scavengers and vultures, all unaware of how... significant this object was.
+...And yet, I am like those creatures. These instructions mean nothing to me without the superstructure to perform them.
+I suppose it can be traded away, but what if it ends up being delivered to someone else?
+Maybe everyone is too busy still laughing over my own rot to care.
+
+///DataPearl.AbstractDataPearl.DataPearlType.UW
+Lengthy introductions... ah, this one is about me.
+It seems to be about the success of moving the plans for my construction.
+...I do remember enjoying how they'd talk about what displeases my construction in a way that obviously alludes to about how it displeases themselves.
+Moon wouldn't see the value of a citadel like that one, anyhow.

@@ -1,0 +1,12 @@
+sm2
+pebb1
+
+Reaching the top, you find a lone creature struggling to stand.
+The gravity seems to shift around them, their eyes flickering with a long gone power.
+
+"hey there cutie patootie"
+northdrmr_3.txt
+"youre kind of like that one guy's mom"
+northdreamer_3b.txt
+"wanna date"
+pebblesrefusal.txt

@@ -1,0 +1,11 @@
+sm2
+none
+
+You head towards the polluted pools that reside in the Garbage Wastes.
+
+Go Back
+startdrmr.txt
+Press Onwards
+northdrmr_2.txt
+Find Shelter
+ndrmr_1.txt
