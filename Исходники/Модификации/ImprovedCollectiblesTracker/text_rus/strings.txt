@@ -1,3 +1,67 @@
 ///ImprovedCollectiblesTracker (3126910221)///
 ///improvedcollectiblestracker-name|ImprovedCollectiblesTracker
 improvedcollectiblestracker-description|Трекер коллекционных предметов переработан и отображается после каждого цикла.<LINE>При наведении курсора на код региона появляется подсказка с полным его названием.<LINE>Поддерживает пользовательские регионы.
+///ImprovedCollectiblesTracker (3126910221)///
+improvedcollectiblestracker-description|Трекер коллекционных предметов переработан и отображается после каждого цикла.<LINE>При наведении курсора на код региона появляется подсказка с полным его названием.<LINE>Поддерживает пользовательские регионы.
+///Меню
+1 regions left to discover!|Осталось открыть ещё 1 регион!                    
+2 regions left to discover!|Осталось открыть ещё 2 региона!                    
+3 regions left to discover!|Осталось открыть ещё 3 региона!                    
+4 regions left to discover!|Осталось открыть ещё 4 региона!                    
+5 regions left to discover!|Осталось открыть ещё 5 регионов!                    
+6 regions left to discover!|Осталось открыть ещё 6 регионов!                    
+7 regions left to discover!|Осталось открыть ещё 7 регионов!                    
+8 regions left to discover!|Осталось открыть ещё 8 регионов!                    
+9 regions left to discover!|Осталось открыть ещё 9 регионов!                    
+10 regions left to discover!|Осталось открыть ещё 10 регионов!                    
+11 regions left to discover!|Осталось открыть ещё 11 регионов!                    
+12 regions left to discover!|Осталось открыть ещё 12 регионов!                    
+13 regions left to discover!|Осталось открыть ещё 13 регионов!                    
+14 regions left to discover!|Осталось открыть ещё 14 регионов!                    
+15 regions left to discover!|Осталось открыть ещё 15 регионов!                    
+16 regions left to discover!|Осталось открыть ещё 16 регионов!                    
+17 regions left to discover!|Осталось открыть ещё 17 регионов!                    
+18 regions left to discover!|Осталось открыть ещё 18 регионов!                    
+19 regions left to discover!|Осталось открыть ещё 19 регионов!                    
+20 regions left to discover!|Осталось открыть ещё 20 регионов!                    
+21 regions left to discover!|Осталось открыть ещё 21 регион!                    
+22 regions left to discover!|Осталось открыть ещё 22 региона!                    
+23 regions left to discover!|Осталось открыть ещё 23 региона!                    
+24 regions left to discover!|Осталось открыть ещё 24 региона!                    
+25 regions left to discover!|Осталось открыть ещё 25 регионов!                    
+26 regions left to discover!|Осталось открыть ещё 26 регионов!                    
+27 regions left to discover!|Осталось открыть ещё 27 регионов!                    
+28 regions left to discover!|Осталось открыть ещё 28 регионов!                    
+29 regions left to discover!|Осталось открыть ещё 29 регионов!                    
+30 regions left to discover!|Осталось открыть ещё 30 регионов!                    
+31 regions left to discover!|Осталось открыть ещё 31 регион!                    
+32 regions left to discover!|Осталось открыть ещё 32 региона!                    
+33 regions left to discover!|Осталось открыть ещё 33 региона!                    
+34 regions left to discover!|Осталось открыть ещё 34 региона!                    
+35 regions left to discover!|Осталось открыть ещё 35 регионов!                    
+36 regions left to discover!|Осталось открыть ещё 36 регионов!                    
+37 regions left to discover!|Осталось открыть ещё 37 регионов!                    
+38 regions left to discover!|Осталось открыть ещё 38 регионов!                    
+39 regions left to discover!|Осталось открыть ещё 39 регионов!                    
+40 regions left to discover!|Осталось открыть ещё 40 регионов!                    
+41 regions left to discover!|Осталось открыть ещё 41 регион!                    
+42 regions left to discover!|Осталось открыть ещё 42 региона!                    
+43 regions left to discover!|Осталось открыть ещё 43 региона!                    
+44 regions left to discover!|Осталось открыть ещё 44 региона!                    
+45 regions left to discover!|Осталось открыть ещё 45 регионов!                    
+46 regions left to discover!|Осталось открыть ещё 46 регионов!                    
+47 regions left to discover!|Осталось открыть ещё 47 регионов!                    
+48 regions left to discover!|Осталось открыть ещё 48 регионов!                    
+49 regions left to discover!|Осталось открыть ещё 49 регионов!                    
+50 regions left to discover!|Осталось открыть ещё 50 регионов!                    
+51 regions left to discover!|Осталось открыть ещё 51 регион!                    
+52 regions left to discover!|Осталось открыть ещё 52 региона!                    
+53 regions left to discover!|Осталось открыть ещё 53 региона!                    
+54 regions left to discover!|Осталось открыть ещё 54 региона!                    
+55 regions left to discover!|Осталось открыть ещё 55 регионов!                    
+56 regions left to discover!|Осталось открыть ещё 56 регионов!                    
+57 regions left to discover!|Осталось открыть ещё 57 регионов!                    
+58 regions left to discover!|Осталось открыть ещё 58 регионов!                    
+59 regions left to discover!|Осталось открыть ещё 59 регионов!                    
+60 regions left to discover!|Осталось открыть ещё 60 регионов!                    
+///Надеюсь столько хватит
