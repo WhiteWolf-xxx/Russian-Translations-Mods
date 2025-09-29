@@ -1,0 +1,22 @@
+{
+    "FaceName" : "SpringSlug",
+    "BuffID" : "SpringSlugID",
+    "BuffType" : "Positive",
+    "BuffProperty" : "Normal",
+    "Triggerable" : false,
+    "Stackable" : false,
+    "Color" : "#282a36",
+    "Conflict" : ["UpsideDown"],
+    "Chinese" : {
+        "BuffName" : "弹力蛞蝓",
+        "Description" : "摔落后会以一半的速度弹起"
+    },
+    "English" : {
+        "BuffName" : "Bouncy Slug",
+        "Description" : "When slugcat lands, it bounces off the ground with half of its velocity."
+    },
+    "Russian" : {
+        "BuffName" : "Упругий Слизнень",
+        "Description" : "Когда слизнекот приземляется, он отскакивает от земли, теряя половину своей скорости."
+    }
+}

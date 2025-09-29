@@ -1,0 +1,20 @@
+{
+    "FaceName" : "herbicide",
+    "BuffID" : "Herbicide",
+    "BuffType" : "Positive",
+    "BuffProperty" : "Normal",
+    "Triggerable" : false,
+    "Color" : "3C8F9E",
+    "Chinese" : {
+        "BuffName" : "除草剂",
+        "Description" : "清除所有舌草"
+    },
+    "English" : {
+        "BuffName" : "Herbicide",
+        "Description" : "Removes all wormgrass."
+    },
+    "Russian" : {
+        "BuffName" : "Гербицид",
+        "Description" : "Удаляет всю живую траву."
+    }
+}
