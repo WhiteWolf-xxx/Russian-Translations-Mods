@@ -1,0 +1,21 @@
+{
+    "FaceName" : "HandAche",
+    "BuffID" : "HandAcheID",
+    "BuffType" : "Negative",
+    "BuffProperty" : "Normal",
+    "Triggerable" : false,
+    "Stackable" : false,
+    "Color" : "da792f",
+    "Chinese" : {
+        "BuffName" : "我手疼疼",
+        "Description" : "握持5秒就会松手"
+    },
+    "English" : {
+        "BuffName" : "Handache",
+        "Description" : "Slugcat will randomly stop using its hands for up to 5 seconds."
+    },
+    "Russian" : {
+        "BuffName" : "Боль в Руке",
+        "Description" : "Слизнекот будет случайным образом переставать использовать свои руки на время до 5 секунд."
+    }
+}
