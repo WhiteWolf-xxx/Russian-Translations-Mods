@@ -1,0 +1,3 @@
+///Merge Fix (2977508597)///
+///bro.mergefix-name|Merge Fix
+bro.mergefix-description|Makes mods reload exponentially faster,<LINE>and fixes a handful of bugs.
