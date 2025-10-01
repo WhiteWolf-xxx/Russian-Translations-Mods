@@ -1,0 +1,55 @@
+///SBCameraScroll (2928752589)///
+///SBCameraScroll-name|SBCameraScroll
+SBCameraScroll-description|Создает плавную прокрутку камеры, которая перемещается вместе со слизнекотом.<LINE>Основана на моде CameraScroll от pipi toki.<LINE>НЕСОВМЕСТИМОСТИ: Функция масштабирования камеры в моде Slugcat Eyebrow Raise.
+///Ремикс
+SBCameraScroll Mod|SBCameraScroll
+Version 3.2.0|Версия 3.2.0
+by SchuhBaum|от SchuhBaum
+General:|Общие:
+Camera Type|Тип камеры
+Position (Default)|Позиция (по умолчанию)
+This type tries to stay close to the player. A larger distance means a faster camera.\nThe smoothing factor determines how much of the distance is covered per frame.|Этот тип камеры старается оставаться рядом с тобой.<LINE>Чем больше расстояние, тем быстрее движется камера. Коэффициент сглаживания определяет, какая часть расстояния покрывается за кадр.
+Vanilla|Ванильная
+Vanilla-style camera. You can center the camera by pressing the map button. Pressing the map button again will revert to vanilla camera positions.\nWhen the player is close to the edge of the screen the camera jumps a constant distance.|Камера в ванильном стиле. Ты можешь центрировать камеру, нажав на карту.<LINE>Повторное нажатие на карту вернёт камеру в ванильное положение. Когда ты приближаешься к краю экрана, камера перемещается на постоянное расстояние.
+Switch|Переключение
+You can switch between the other two camera types by pressing the map button.\nThe keybinding can be configured using the mod 'Improved Input Config'.|Ты можешь переключаться между двумя другими типами камер, нажимая на кнопку с изображением карты. Привязку клавиш можно настроить с помощью мода Improved Input Config.
+Full Screen Effects|Эффекты
+When disabled, full screen effects like fog, bloom and melt are removed.|Если функция отключена, эффекты, такие как туман, размытие и плавление, удалятся.
+One Screen Rooms|Один экран
+When disabled, the camera does not scroll in rooms with only one screen.|Если функция отключена, камера не будет перемещаться в комнатах с одним экраном.
+Ripple Trail Effect|След ряби
+Watcher's ripple trail moves with the camera. You can disable the effect as a workaround.|След от ряби Созерцателя перемещается вместе с камерой. Ты можешь отключить этот эффект, если он мешает.
+Smoothing Factor (8)|Коэффициент сглаживания (8)
+Determines how much of the distance is covered per frame. This is used when switching cameras as well to ensure a smooth transition.|Определяет, какая часть расстояния покрывается за кадр. Это также используется при переключении камер для обеспечения плавного перехода.
+CLEAR CACHE|ОЧИСТИТЬ КЭШ
+The cache is not used anymore. Just clear it.|Кэш больше не используется. Просто очисти его.
+Position|Позиция
+Position Type Camera:|Позиционный тип камеры:
+0 tiles|0 плиток
+35 tiles|35 плиток
+Minimum Distance in X (2)|Минимальное расстояние по оси X (2)
+Minimum Distance in Y (2)|Минимальное расстояние по оси Y (2)
+The camera does not move when the player is closer than this.|Камера не двигается, когда ты находишься ближе указанного расстояния.
+Camera Offset|Смещение камеры
+When enabled, the camera can move ahead but still stays within the minimum distance.|Если функция включена, камера может двигаться вперед, но при этом остаётся на минимальном расстоянии.
+Camera Offset Speed Multiplier (2)|Множитель скорости смещения камеры (2)
+Determines how fast the camera pulls ahead. When set to 1.0 then the offset changes as fast as the player moves.|Определяет, насколько быстро ты смещаешься вперёд. Если установлено значение 1.0, то смещение происходит так же быстро, как и твоё движение.
+Vanilla Type Camera:|Ванильный тип камеры:
+Distance from the Edge in X (9)|Расстояние от края по оси X (9)
+Distance to the Edge in Y (1)|Расстояние до края по оси Y (1)
+The camera changes position if the player is closer to the edge of the screen than this value.|Камера меняет положение, если ты находишься ближе к краю экрана, чем на заданном расстоянии.
+Experimental|Эксперементальные
+Experimental:|Эксперементальные:
+Reduced Memory Usage|Уменьшенное использование памяти
+When enabled, caches only pixel colors on demand (e.g. when worm grass or\nwhite lizards request them). This is slower but should reduce memory usage.|Если функция включена, кэшируются только цвета пикселей по запросу (например, когда их запрашивает живая трава или белые ящерицы).<LINE>Это замедляет работу, но позволяет сократить использование памяти.
+Camera Zoom (10)|Увеличение камеры (10)
+Works for the most part but makes some shaders glitch out more. Not used when the SplitScreen Co-op mod is active.|Работает в большинстве случаев, но некоторые шейдеры работают с перебоями. Не используется, если активен мод SplitScreen Co-op.
+Dynamic Zoom|Динамический зум
+When enabled, the camera zoom is adjusted dynamically per room. This removes any black borders when using custom resolutions.\nEnables scrolling in one-screen rooms. Disabled when SplitScreen Coop is used.|Если функция включена, масштаб камеры динамически настраивается для каждой комнаты. Это позволяет избавиться от чёрных границ при использовании пользовательских разрешений.<LINE>Включает прокрутку в комнатах с одним экраном. Отключается при использовании SplitScreen Coop.
+Custom Resolution:|Польз. разрешение:
+Requires the format \"WIDTHxHEIGHT\". Needs to be at least 960x540.\nFirst, you need to select \"Custom\" in the Resolution combo box.|Требуется формат «ШИРИНАxВЫСОТА». Должно быть не менее 960x540. Сначала нужно выбрать «Вручную» в поле «Разрешение».
+Resolution:|Разрешение:
+Overrides the current resolution. Can be used to zoom out with less\npixelation issues. Might reduce black borders on larger monitors.|Заменяет текущее разрешение.<LINE>Можно использовать для уменьшения масштаба с меньшим количеством пикселей. Может уменьшить чёрные границы на больших мониторах.
+Default|По умолчанию
+Custom|Вручную
+SBCameraScroll: Merging camera textures completed.|SBCameraScroll: Слияние текстур камеры завершено.
