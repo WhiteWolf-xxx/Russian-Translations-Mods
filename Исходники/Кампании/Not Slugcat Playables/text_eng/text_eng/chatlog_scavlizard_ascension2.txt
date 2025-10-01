@@ -1,6 +1,0 @@
-﻿0-chatlog_scavlizard_ascension2
-[DIRECT BROADCAST] PRIVATE - Proud Innovation, GA_SUB_924
-
-SOURCE NODE TRACE: GA_ROOT, GA_COMM12, GA_SUB_924_ROOT
-
-GA: Are you listening to me? DO NOT CONTINUE MOVING INTO THE AREA.
