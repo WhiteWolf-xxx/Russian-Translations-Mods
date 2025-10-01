@@ -1,0 +1,42 @@
+///Dress My Slugcat (2948971756)///
+///dressmyslugcat-name|Dress My Slugcat
+dressmyslugcat-description|Dress My Slugcat<LINE>Примечание: если кнопка «Стань Модным» не отображается в главном меню, отключите мод, перезапустите игру и снова включите мод. Если это не помогло, проверьте целостность игровых файлов и повторите действия.
+///Ремикс
+Load Inactive Mods|Загружать неактивные моды
+Default skins for Rain Meadow players|Скины по умолчанию для игроков Rain Meadow
+Requires the Rain Meadow mod. If disabled, all other players skins are treated as player 1|Требуется мод Rain Meadow. Если эта функция отключена, все остальные скины игроков будут скинами первого игрока.
+///Меню
+GET FANCY|СТАНЬ МОДНЫМ
+RESET|СБРОС
+COPY|КОПИЯ
+PASTE|ВСТАВКА
+RELOAD ATLASES|ПЕРЕЗАГРУЗИТЬ АТЛАС
+Customize|Настроить
+Player 1|Игрок 1
+Player 2|Игрок 2
+Player 3|Игрок 3
+Player 4|Игрок 4
+Face|Физиономия
+FACE|ФИЗИОНОМИЯ
+BODY|ТЕЛО
+HEAD|ГОЛОВА
+LEGS|НОГИ
+ARMS|РУКИ
+PIXEL|МЕТКА
+The Mark|Метка
+TAIL|ХВОСТ
+FACESCAR|ШРАМ
+Face Scar|Шрам
+GILLS|ЖАБРЫ
+TAILSPECKLES|КРАПИНКИ
+Tail Speckles|Крапинки
+ASCENSION|ВОЗНИСЕНИЕ
+Hips|Низ
+HIPS|НИЗ
+Asymmetry|Асимметрия
+Custom Tail Size|Размер хвоста
+Length|Длина
+Wideness|Ширина
+Roundness|Округлость
+Use Defaults|По умолчанию
+Use Entire Set|Весь набор
