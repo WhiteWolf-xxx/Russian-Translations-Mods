@@ -1,0 +1,18 @@
+///Region Kit (2928752589)///
+///regionkit-name|RegionKit
+regionkit-description|All-in-one custom region dependency pack.<LINE>Source code and detailed descriptions are hosted here: https://github.com/Rain-World-Modding/RegionKit<LINE>[b]Reporting bugs[/b]<LINE>If you have a problem to report, please do it via github issues, Rain World discord server, or leave a post on discussions under this workshop item. Try to first look if anyone has already reported similar problem, attach logs and other materials if relevant!<LINE>[b]Common issue and ways to fix[/b]<LINE>If the game crashes without logs, try manually deleting BepInEx folder and re-verifying game files.
+///Ремикс
+by RegionKit Team|от RegionKit Team
+Enable Iggy?|Включить Игги?
+When checked, Iggy will appear in the devtools menu to describe various elements of the UI.|Если флажок установлен, в меню инструментов разработчика появится Игги, который будет описывать различные элементы пользовательского интерфейса.
+Alt Gate Art?|Альтернативные ворота?
+When checked, uses an alternative set of art for region gate glyphs.|Если флажок установлен, для региональных символов используется альтернативный набор изображений.
+Disable Rant?|Отключить разглагольствования?
+When checked, enables the rant that has a chance to be logged to the console on startup.|Если флажок установлен, включается запись в консоль при запуске.
+Credits|Титры
+Bakery|Перезапуск
+Rebake All Rooms|Перезагрустить все комнаты
+Include Hidden Slugcats|Включить скрытых слизнекотов
+Baking Threads|Перезагрустить музыку угроз
+Regions:|Регионы:
+Bake!|Перезапуск!
