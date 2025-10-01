@@ -1,8 +1,6 @@
 ///ImprovedCollectiblesTracker (3126910221)///
 ///improvedcollectiblestracker-name|ImprovedCollectiblesTracker
 improvedcollectiblestracker-description|Трекер коллекционных предметов переработан и отображается после каждого цикла.<LINE>При наведении курсора на код региона появляется подсказка с полным его названием.<LINE>Поддерживает пользовательские регионы.
-///ImprovedCollectiblesTracker (3126910221)///
-improvedcollectiblestracker-description|Трекер коллекционных предметов переработан и отображается после каждого цикла.<LINE>При наведении курсора на код региона появляется подсказка с полным его названием.<LINE>Поддерживает пользовательские регионы.
 ///Меню
 1 regions left to discover!|Осталось открыть ещё 1 регион!                    
 2 regions left to discover!|Осталось открыть ещё 2 региона!                    
