@@ -1,0 +1,24 @@
+///Custom Regions Support (2941565790)///
+///crs-name|Custom Regions Support
+crs-description|Поддержка модифицированных регионов!<LINE>Обложка выполнена @Nautillo1.
+///Ремикс
+Debug Level|Уровень отладки
+NONE|НИЧЕГО
+DEFAULT|ПО УМОЛЧАНИЮ
+MEDIUM|СРЕДНЕЕ
+FULL|ПОЛНОЕ
+Determines how much CRS should log|Определяет, какой объём данных должен регистрироваться.
+Stream Threat Music?|Транслировать музыку с угрозами?
+Checked to stream custom threat themes from file, unchecked to load them on threat shuffle (may cause infrequent freezes)|Включена потоковая передача пользовательских тем угроз из файла, отключена их загрузка при случайном выборе угроз (может привести к редким зависаниям).
+Fix Room Index Cache Misalignment?|Исправить смещение кэша Room Index?
+Checked to fix room index cache misalignment, a bug which causes items and creatures to disappear from shelters. Only uncheck if offscreen creatures are disappearing|Исправлена ошибка, из-за которой в убежищах исчезали предметы и существа. Отключайте только в том случае, если существа за пределами экрана исчезают.
+///Разное
+Challenge unlocked:|Открыто испытание:
+Collect a challenge token to unlock.|Соберите жетон испытания, чтобы разблокировать.
+Collect the character token for ## to unlock.|Соберите жетон с персонажем ## чтобы разблокировать.
+Collect the safari token for ## to unlock.|Соберите жетон с сафари ## чтобы разблокировать.
+Collect the arena token for ## to unlock.|Соберите жетон с песочницей ## чтобы разблокировать.
+Collect the sandbox token for ## to unlock.|Соберите жетон с песочнитцой ## чтобы разблокировать.
+Clear challenges ## to unlock.|Заверши испытание ##, чтобы разблокировать.
+Clear the game as ## to unlock.|Чтобы разблокировать, пройдите игру за ##.
+Clear a total of ## challenges to unlock.|Чтобы разблокировать, пройдите в общей сложности ## испытаний.
