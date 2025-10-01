@@ -1,14 +1,14 @@
 ///The Unbound Slugcat (3262661679)///
-///Название///
-NCR.theunbound-name|Несвязанный
+///NCR.theunbound-name|Несвязанный
 NCR.theunbound-description|Слизнекот с миссией циановой ящерицы! ...В некотором роде. Ну, это не совсем круто или впечатляюще, но это миссия. Спорно. Ладно, это цель. Посредственная, и... ты будешь играть или нет?
 ///Ремикс
+Options|Опции
 Cyan Doublejump Recharge|Перезарядка двойного прыжка
-Disable Misc Graphics|Отключить различную графику
-Disable Cyan Rings|Отключить циановый звук
+Disable Misc Graphics|Выкл. разную графику
+Disable Cyan Rings|Выкл. циановый звук
 Cyan Triplejump Recharge|Перезарядка тройного прыжка
-Disable Cyan Wings|Отключить циановые крылья
-Allow Object Swallowing|Разрешить глотание объектов
+Disable Cyan Wings|Выкл. циановые крылья
+Allow Object Swallowing|Разрешить глотание предметов
 Party Button!|Кнопка вечеринки!
 More Debug Logs|Дополнительный журнал отладки
 ///Экспедиция
@@ -25,7 +25,6 @@ A slugpup that is sensitive to light.<LINE>The world is quite vast, but you are 
 THE TECHNICIAN|ЛАБОРАНТ
 The Technician|Лаборант
 Technician|Лаборант
-...?|...?
 Smile, for you are alive today.<LINE>A calmer experience than Unbound, but...|Улыбнись, потому что ты жив сегодня.<LINE>Это более спокойный опыт, чем Несвязанный, но...
 THE UNBOUND|НЕСВЯЗАННЫЙ
 The Unbound|Несвязанный
@@ -153,4 +152,4 @@ FP: Are you not busy? Are we both not busy, beast?|ПГ: Ты не занят? �
 A small beast, on the floor of my chamber.|Маленький зверёк на полу моей комнаты.
 You do not appear to belong to Suns. What is it you want?|Ты, кажется, не принадлежишь к Семи Красным Солнцам. Чего ты хочешь?
 I do not have time to entertain your antics.|У меня нет времени развлекаться твоими выходками.
-///КОНЕЦ СООБЩЕНИЙ
+///КОНЕЦ ТЕКСТА
