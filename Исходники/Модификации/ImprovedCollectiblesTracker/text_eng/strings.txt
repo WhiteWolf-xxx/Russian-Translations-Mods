@@ -1,10 +1,5 @@
 ///ImprovedCollectiblesTracker (3126910221)///
 ///improvedcollectiblestracker-name|ImprovedCollectiblesTracker
-improvedcollectiblestracker-description|Overhauls the collectibles tracker that shows after each cycle.
-
-    A tool tip showing the full region name is shown when you hover over the region code.
-    Supports custom regions.
-///ImprovedCollectiblesTracker (3126910221)///
 improvedcollectiblestracker-description|Трекер коллекционных предметов переработан и отображается после каждого цикла.<LINE>При наведении курсора на код региона появляется подсказка с полным его названием.<LINE>Поддерживает пользовательские регионы.
 ///Меню
 1 regions left to discover!|Осталось открыть ещё 1 регион!                    
