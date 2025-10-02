@@ -20,57 +20,69 @@ Glasses|Очки
 New Best Combo!|Новая лучшая комбинация!
 New Best Combo and Score!|Новая лучшая комбинация и результат!
 New Best Score!|Новый лучший результат!
-Best Trick Combo: |Лучшая комбинация трюка: 
-Best Trick Score: |Лучший результат при выполнении трюка: 
-///Регион
+///Best Trick Combo: |Лучшая комбинация трюка: 
+///Best Trick Score: |Лучший результат при выполнении трюка: 
+///Названия регионов
 Five Pebbles (Research and Development)|Пять Галек (Исследования и Разработки)
 ///Ремикс
 Last Page|Предыдущая страница
-///Опции
-///Gameplay|Геймплей
-///Require Spray Cans for Graffiti|Требуется баллончик для нанесения граффити
-///Requires a spray can to spray graffiti on the background (craft a can with a rock and a colorful item).|Для нанесения граффити требуется баллончик с распылителем (смастерьте баллончик из камня и какого-нибудь красочного предмета).
-///Require Spray Cans for Tagging|Требуется баллончик для маркировки
-///Requires a spray can to tag creatures (craft a can with a rock and a colorful item).|Требуется баллончик с распылителем, чтобы помечать существ (смастерьте баллончик из камня и какого-нибудь красочного предмета).
-///Graffiti Mode Button for Controls (Improved Input Config)|Кнопка режима граффити (Улучшена конфигурация ввода)
-///Use the Graffiti Mode button when crafting, spraying, and tagging. Disable if you have custom bindings and don't like having to press two buttons to perform these abilities.|Используйте кнопку «Режим граффити». Отключите, если у вас есть пользовательские привязки и вам не нравится нажимать две кнопки для использования способностей.
-///Use Up as Graffiti Mode (Improved Input Config)|Использовать в режиме граффити (Улучшена конфигурация ввода)
-///Use the Up direction for Graffiti Mode (in addition to the normal binding).|Используйте кнопу «Вверх» для режима граффити (в дополнение к обычной привязке).
-///Tagging Damages Jolly Players|Нанесение меток наносит урон игрокам
-///Tagging a player while in Jolly Coop does damage.|Пометка игрока, наносит урон.
-///Graffiti Tokens in Any Campaign|Открываемые граффити в любой кампании
-///Be able to collect the unlockable graffiti tokens in campaigns besides Vinki's (excluding Saint)|Можно собирать открываемые граффити в кампаниях, помимо кампании Винки (за исключением Святого).
-///Skip Intro and Tutorials|Пропустить вступление и обучение
-///When starting a new game skip the campaign intro and tutorials and start at the top of The Wall.|При запуске новой игры пропустите вступление к кампании и обучение и начните с верхней части стены.
-///Visuals|Визуальные эффекты
-///Catmaid Iterators|Итераторы в виде кошек
-///RESTART FOR CHANGES TO TAKE EFFECT! Show art containing depictions of iterators as catmaids. Disable if you think that's weird.|ПЕРЕЗАПУСТИТЕ, ЧТОБЫ ИЗМЕНЕНИЯ ВСТУПИЛИ В СИЛУ! Показать изображения, на которых итераторы представлены в виде кошек. Отключите, если считаете это странным.
-///Wear Glasses Over DMS Skin|Надеть очки поверх скина DMS
-///Wear Vinki's glasses on top of the current DMS skin for Vinki. Only works if you have DMS enabled.|Наденьте очки Винки поверх текущего скина DMS для Винки. Работает только при включённом DMS.
+Gameplay|Геймплей
+Require Spray Cans for Graffiti|Требуется баллончик для нанесения граффити
+Requires a spray can to spray graffiti on the background (craft a can with a rock and a colorful item).|Для нанесения граффити требуется балончик с краской. Ты можешь сделать его из камня и какого-нибудь красочного предмета.
+Require Spray Cans for Tagging|Для маркировки нужен баллончик
+Requires a spray can to tag creatures (craft a can with a rock and a colorful item).|Для маркировки чуществ требуется балончик с краской. Ты можешь сделать его из камня и какого-нибудь красочного предмета.
+Graffiti Mode Button for Controls (Improved Input Config)|Кнопка режима граффити (Improved Input Config)
+Use the Graffiti Mode button when crafting, spraying, and tagging. Disable if you have custom bindings and don't like having to press two buttons to perform these abilities.|Используй кнопку «Режим граффити». Отключи, если у тебя есть пользовательские привязки и тебе не нравится нажимать две кнопки для использования способностей.
+Use Up as Graffiti Mode (Improved Input Config)|Использовать «Режим граффити» (Improved Input Config)
+Use the Up direction for Graffiti Mode (in addition to the normal binding).|Используй кнопку «Вверх» для режима граффити (в дополнение к обычной привязке).
+Tagging Damages Jolly Players|Маркировка игроков наносит им урон
+Tagging a player while in Jolly Coop does damage.|Если пометить игрока во время игры в Jolly Coop, он получит урон.
+Graffiti Tokens in Any Campaign|Открывать граффити в любой кампании
+Be able to collect the unlockable graffiti tokens in campaigns besides Vinki's (excluding Saint)|Ты сможешь собирать открываемые жетоны с граффити в кампаниях, помимо кампании Винки (за исключением Святого).
+Skip Intro and Tutorials|Пропустить вступление и обучение
+When starting a new game skip the campaign intro and tutorials and start at the top of The Wall.|При запуске новой игры вступление к кампании и обучение будет пропущено, и ты начнёшь игру с верхней части стены.
+Visuals|Визуальные эффекты
+Catmaid Iterators|Итераторы в виде служанок-кошек
+RESTART FOR CHANGES TO TAKE EFFECT! Show art containing depictions of iterators as catmaids. Disable if you think that's weird.|ПЕРЕЗАПУСТИ, ЧТОБЫ ИЗМЕНЕНИЯ ВСТУПИЛИ В СИЛУ! Показывать изображения, на которых итераторы представлены в виде служанок-кошек. Отключи, если считаешь это странным.
+Wear Glasses Over DMS Skin|Очки поверх скина Dress My Slugcat
+Wear Vinki's glasses on top of the current DMS skin for Vinki. Only works if you have DMS enabled.|Надеть очки Винки поверх текущего скина Dress My Slugcat для Винки. Работает только при включённом моде Dress My Slugcat.
 Graffiti Display Cycles|Циклы отображения граффити
-How many cycles sprayed graffiti should last (excludes story-related graffiti). Use -1 for infinite cycles.|Сколько циклов длится нанесённое граффити (исключая граффити, связанные с историей). Используйте (-1) для бесконечных циклов.
-///Delete Graffiti Permanently After Display Cycles|Удаление граффити безвозвратно после циклов отображения
-///Delete Graffiti permanently when running out of display cycles. Will help with loading times if you've sprayed a lot of graffiti.|Удалите граффити навсегда, когда закончатся циклы отображения. Это поможет сократить время загрузки, если вы нанесли много граффити.
-///Show Trick Score and Combo HUD|Индикатор оценки трюков и комбо
-///Enable the Trick Score and Combo HUD that appears when you start a combo.|Включить индикатор оценки трюков и комбо, который появляется при запуске комбо.
-///Graffiti Files|Файлы с граффити
-///Restore Default Graffiti when Mod Updates|Восстанавливать граффити по умолчанию
-///Restore default graffiti when the mod updates to a new version. Helpful to automatically add any new graffiti from updates.|Восстановить граффити по умолчанию, когда мод обновится до новой версии. Полезно после установки обновления, включающего новые граффити.
+How many cycles sprayed graffiti should last (excludes story-related graffiti). Use -1 for infinite cycles.|Сколько циклов длится нанесённое граффити (исключая граффити, связанные с историей). Используй (-1) для бесконечных отображения.
+Delete Graffiti Permanently After Display Cycles|Удалить граффити безвозвратно после циклов отображения
+Delete Graffiti permanently when running out of display cycles. Will help with loading times if you've sprayed a lot of graffiti.|Граффити навсегда удалится, когда закончатся циклы отображения. Это поможет сократить время загрузки, если ты нанёс слишком много граффити.
+Show Trick Score and Combo HUD|Индикатор оценки трюков и комбо
+Enable the Trick Score and Combo HUD that appears when you start a combo.|Включить индикатор оценки трюков и комбо, который появляется при запуске комбо.
+Graffiti Files|Файлы с граффити
+Restore Default Graffiti when Mod Updates|Восстанавливать граффити по умолчанию
+Restore default graffiti when the mod updates to a new version. Helpful to automatically add any new graffiti from updates.|Восстанавливать граффити по умолчанию, когда мод обновляется до новой версии. Полезно после установки обновления, включающего новые граффити.
 Open Graffiti Folder|Открыть папку с граффити
-Click to open the Graffiti Folder in your file explorer for easily adding custom graffiti|Нажмите, чтобы открыть папку граффити в вашем проводнике файлов, чтобы легко добавить пользовательские граффити.
+Click to open the Graffiti Folder in your file explorer for easily adding custom graffiti|Нажми, чтобы открыть папку граффити в твоём проводнике файлов, чтобы легко добавить собственные граффити.
 Restore Default Graffiti|Восстановить по умолчанию
 Restore the default graffiti that came with The Vinki. Useful for after installing an update that includes new default graffiti.|Восстановить граффити по умолчанию, поставляемые с Винки. Полезно после установки обновления, включающего новые граффити.
 Reset Graffiti Folder to Default|Сбросить папку Граффити
-Revert Graffiti Folder to default. This will remove any custom graffiti you've added to it!|Вернуть папке Граффити значение по умолчанию. Это удалит все пользовательские граффити, которые вы в неё добавили!
-///Automatically Open Quest Map|Автоматически открывающаяся квест карта
-///Automatically open the quest map after a cycle where you spray a new story graffiti. Disable if you want to speedrun|Автоматически открывать карту заданий после цикла, в котором вы норисовали новые сюжетные граффити. Отключите, если хотите пройти игру на скорость.
-///Vinki Graffiti|Граффити Винки
-///Unlockables|Открываемые
+Revert Graffiti Folder to default. This will remove any custom graffiti you've added to it!|Вернуть папке Граффити значение по умолчанию. Это удалит все собственны граффити, которые ты в неё добавил!
+///Automatically Open Quest Map|Автоматически открывать квест карту
+Automatically open the quest map after a cycle where you spray a new story graffiti. Disable if you want to speedrun|Автоматически открывать карту заданий после цикла, в котором ты норисовал новые сюжетные граффити. Отключи, если хочешь пройти игру на скорость.
+Vinki Graffiti|Граффити Винки
+Unlockables|Открываемые
 Unlock All Graffiti|Открыть все граффити
-Unlock every graffiti. Useful if your game is bugged or you had to reset your Graffiti folder.|Открыть все граффити. Полезно, если ваша игра сломалась или вам пришлось сбросить папку с граффити.
+Unlock every graffiti. Useful if your game is bugged or you had to reset your Graffiti folder.|Открыть все граффити. Полезно, если твоя игра сломалась или тебе пришлось сбросить папку с граффити.
 Reset All Unlockables|Сбросить все граффити
-Reset all unlockable graffitis to be locked from use.|Сбросить все разблокированные граффити, чтобы они были заблокированы вновь.
-///Other Graffiti|Другие граффити
+Reset all unlockable graffitis to be locked from use.|Сбросить все разблокированные граффити, чтобы их вновь можно было разблокировать.
+Other Graffiti|Другие граффити
+Misc.|Разное
+Escort|Эскорт
+Art|Иллюстрации
+Beep    burnerXIII    Tsuno|Beep, burnerXIII, Tsuno
+Coding|Программирование
+Cursed Art|Прочие иллюстрации
+Beep    Bluzai    MagicaJaphet    MaxDubstep    OlayColay|Beep, Bluzai, MagicaJaphet, MaxDubstep, OlayColay
+Level Editing|Редактирование уровней
+JayDee    NonIdiot   TarnishedPotato    Xim|JayDee, NonIdiot, TarnishedPotato, Xim
+Writing|Написание текста
+Beep    MaxDubstep    OlayColay    TarnishedPotato    Tsuno|Beep, MaxDubstep, OlayColay, TarnishedPotato, Tsuno
+Special Thanks|Особая благодарность
+Developers of this mod's dependencies\nAbigail    a doku    AxoTheAxolotl    Azura Hardware    banba fan    Bombyx_Silkmoth    BreadwardBolero    BUGS    Doop    Dusk\nEversplode    goof    googoowoogoo    hamburguesa    Hessi    Johnn    MagicaJaphet    Marcos66606    Nico    Pimski    quarter    Rae\nraintailed    Repeat    Sadman    Salami_Hunter    skrybl    Sunbloom    SunnyBeam    TacticalBombs    Vinyla    whatamidoing\n|Разработчики зависимостей для этого мода: Abigail, a doku, AxoTheAxolotl, Azura Hardware, banba fan, Bombyx_Silkmoth, BreadwardBolero, BUGS, Doop, Dusk, Eversplode, goof, googoowoogoo, hamburguesa, Hessi, Johnn, MagicaJaphet, Marcos66606, Nico, Pimski, quarter, Rae, raintailed, Repeat, Sadman, Salami_Hunter, skrybl, Sunbloom, SunnyBeam, TacticalBombs, Vinyla, whatamidoing
 ///Улучшенная конфигурация ввода
 Grind|Скольжение
 Toggle Grind|Скольжение
@@ -451,3 +463,4 @@ This amount of detail is quite incredible, for a little creature such as you!|Т
 So far, it seems to be one of your best works, and it imitates ancient art quite well!|Пока что это, кажется, одна из твоих лучших работ, и она очень хорошо имитирует древнее искусство!
 I definitely see the inspiration, and it truly makes vultures look scary, that's for sure. I'm glad I don't have to encounter them myself!|Я определённо вижу вдохновение, и на фоне него стервятники действительно выглядят устрашающе, это точно.<LINE>Я рада, что мне не придётся сталкиваться с ними!
 ///КОНЕЦ СООБЩЕНИЙ
+
