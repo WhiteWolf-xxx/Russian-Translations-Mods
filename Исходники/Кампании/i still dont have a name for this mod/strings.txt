@@ -1,0 +1,88 @@
+///i still dont have a name for this mod (3490206617)///
+///saltedsour.desiccationrebaked-description|DRESS MY SLUGCAT NOT COMPATIBLE. Thank you Ris from Iterator Walk for allowing the use of sprites for The Oracle
+saltedsour.desiccationrebaked-description|DRESS MY SLUGCAT НЕСОВМЕСТИМЫ. Спасибо Ris из Iterator Walk за разрешение использовать спрайты для Оракула.
+///Названия регионов
+Rewilded Urban|Возрождённый город
+Rewilded Gardens|Возрождённые сады
+Ashworks|Пепелище
+Dense Urban|Городская застройка
+Slag Mill|Шлаковая мельница
+Rift|Разлом
+Drowned Slums|Затопленные трущобы
+Tarpits|Брезенты
+Sprawling Waterworks|Гидротехнические сооружения
+The Roof|Крыша
+Coastal Citadel|Прибрежная цитадель
+Bleached Crypts|Выбеленные склепы
+///Меню
+THE DREAMER|МЕЧТАТЕЛЬ
+The Dreamer|Мечтатель
+Dreamer|Мечтатель
+An unwelcome loner. The path you take throws away with having karmic<LINE>balance. You move freely through the cycles like water, ebbing and flowing like the tide.|Нежеланный одиночка.<LINE>Твой путь лишает тебя кармического баланса.<LINE>Ты свободно перемещаешься по циклам, как вода, прилив сменяет отлив.
+Clawing your way out of the sea, you're deadset on your goals to survive.|Выбираясь из моря, ты твёрдо намерен выжить.
+///Обучение
+Your presence is unintended and unwelcome.|Твоё присутствие нежелательно и неуместно.
+///Сообщение Луны
+How strange.|Как странно.
+You are... no. Not a creature.|Ты... нет. Не существо.
+I have been watching your journey. Watching anxiously.|Я наблюдала за твоим путешествием. С тревогой наблюдала.
+You are something special, aren't you? Clawing your way out of a point of no return.|Ты ведь особенный, не так ли? Прокладываешь себе пути из точки невозврата.
+If you were a creature, you know my story by now. We may have crossed paths at one point.|Если бы ты был существом, то уже знал бы мою историю. Возможно, наши пути когда-то пересекались.
+If you weren't one...|Если бы ты не был...
+Then you change quite a lot, don't you?|Тогда ты бы сильно изменился, не так ли?
+///Меню
+Alone and weakened, you set out for the first time<LINE>in a world you've only seen with clinical distance.|Одинокий и ослабленный, ты впервые отправляешься в мир, который видел лишь издалека.
+drencher|Нет текста
+///Меню
+THE TRAILBLAZER|ПЕРВОПРОХОДЕЦ
+The Trailblazer|Первопроходец
+Trailblazer|Первопроходец
+A master of combat raised by scavengers in the dying lands, you <LINE> drift along the realm of passed gods, searching for the secrets that lie far beyond your small home.|Мастер боя, воспитанный мусорщиками в умирающих землях,<LINE>ты странствуешь по царству ушедших богов в поисках тайн,<LINE>которые лежат далеко за пределами твоего маленького дома.
+Your kin have assigned you another goal, and so <LINE> you embark on your journey once again.|Твои родственники поставили перед тобой новую цель,<LINE>и ты снова отправляешься в путь.
+///Сообщение Луны
+A little animal, on the floor of my chamber! I may know what you are looking for.|Маленькое животное на полу моей комнаты! Возможно, я знаю, что ты ищешь.
+Do you feel restricted? Trapped by the cycle we all reside in, that is.<LINE>A pattern weaved through all of life.|Ты попал в ловушку цикла, в котором мы все находимся. Этот паттерн пронизывает всю жизнь.
+Whether or not you notice it, that trapped feeling permeates through every body. Your frustration is not unique.<LINE> From lower lifeforms such as microbes, to this very superstructure that surrounds you!|Независимо от того, замечаешь ты это или нет, это чувство загнанности в ловушку пронизывает каждое существо.<LINE>Ты не одинок в своём разочаровании. От низших форм жизни, таких как микробы, до самой этой надстройки, которая тебя окружает!
+My role is to alleviate that frustration. Our kind, we have it as our purpose to solve the claustrophobia in your chests.<LINE>We are a charity of sorts - you a recipient, and us as a gift remaining until the end of eternity.<LINE>As for the benefactors? They are gone, and have been for a very long time.|Моя роль заключается в том, чтобы облегчить это разочарование. Наша цель — избавить вас от клаустрофобии в груди.<LINE>Мы своего рода благотворительность: вы — получатель, а мы — подарок, который останется с вами до конца времён.<LINE>А что же благодетели? Их больше нет, и уже очень давно.
+The object following you registers you as a citizen of my facility, however logs suggest that the previous owner moved.|Объект, следующий за тобой, регистрирует тебя как жителя моего города, однако в журналах указано, что предыдущий владелец переехал.
+...My neighbour, Five Pebbles, is either dead or dying. I assume you rifled through his rubble for that?|...Мой сосед, Пять Галек, либо мёртв, либо при смерти. Полагаю, ты рылся в его структуре в поисках этого?
+He is, to put it in concepts you can grasp, like a sibling to me. He went mad, and caused his own demise...|Если говорить понятными тебе терминами, он мне как брат. Он сошёл с ума и сам навлек на себя погибель...
+He started to be eaten from within by failed experiments.|Неудачные эксперименты начали разъедать его изнутри.
+I had been distant for so long, tired of this world, tired of reminders of the past benefactors,<LINE>but I did not know how much it affected him.<LINE>Not until it was too late.|Я так долго держалась в стороне, устав от этого мира, устав от напоминаний о прошлых благодетелях, но я не знала, как сильно это на него влияет.<LINE>Пока не стало слишком поздно.
+He had sounded so fine until he just... stopped. Messages, experiments, broadcasts.<LINE>His emergency relays were not sent to any senior. Now only I remain. I doubt he trusts me after my neglect,<LINE>if he is even able to open communications.|Он так хорошо держался, пока просто... не сдался. Сообщения, эксперименты, трансляции.<LINE>Его аварийные ретрансляторы не были отправлены ни одному старшему итератору. Теперь осталась только я.<LINE>Сомневаюсь, что он доверяет мне после того, как я его подвела, если он вообще способен отвечать на сообщения.
+I cannot help you, and I suggest you do not bother either of us any longer.|Я не могу тебе помочь и предлагаю больше не беспокоить ни меня, ни его.
+///Меню
+THE VIPER|ГАДЮКА
+The Viper|Гадюка
+Viper|Гадюка
+Arm torn off by what was once was your kin,<LINE>you prowl the lands to sate your hunger.|Рука, оторванная тем, кто когда-то был твоим родственником, бродит по землям в поисках пищи.
+I wouldn't recommend using this slugcat in expedition, as it's untested. You do you tho.|Я бы не рекомендовал использовать этого слизнекота в экспедиции, так как он не тестировался.<LINE>Но дело ваше.
+///Обучение
+These hunting grounds have grown barren.|Эти охотничьи угодья стали бесплодными.
+Your spears do almost no damage, but stun prey longer.|Твои копья почти не наносят урона, но дольше оглушают добычу.
+Prioritise mauling and use your venom to kill instead.|Отдавай предпочтение избиению и используй яд для убийства.
+///Сообщение Луны
+...Ferocious creature! You have returned.|...Свирепое создание! Ты вернулся.
+I have not seen you for quite some time, you know! You were barely half my<LINE>puppet's height when I sent you out.|Знаешь, я давно тебя не видела! Когда я тебя отправила, ты был ростом с половину моей куклы.
+I see you are injured. I wonder if you passed my message to the recipient, long ago.<LINE>It doesn't matter here, anyhow...|Я вижу, ты ранен. Интересно, передал ли ты моё сообщение получателю много лет назад. В любом случае, здесь это не имеет значения...
+I am sorry, but I cannot fix your limb. Or the... more severe damage to your body.|Мне жаль, но я не могу восстановить твою конечность. Или... более серьёзные повреждения твоего тела.
+You do not deserve this, no, but I suppose life can be cruel.|Ты этого не заслуживаешь, нет, но, полагаю, жизнь может быть жестокой.
+I... hm, I didn't expect you to be capable of bringing in a companion.|Я... хм, я не ожидала, что ты сможешь привести с собой компаньона.
+I suppose you surprised me once more! Haha.|Полагаю, ты снова меня удивил! Ха-ха.
+...You can feel free to spend the rest of your days here, until you wake up again.|...Ты можешь спокойно провести здесь остаток своих дней, пока не проснёшься снова.
+I do not have any advice for your new friend, however...|У меня нет никаких советов для твоего нового друга, однако...
+I doubt it knows of your eventual fate.|Я сомневаюсь, что он знает о твоей дальнейшей судьбе.
+It is nice to see you once more, I apologise it had to be this way.|Приятно снова тебя видеть. Прошу прощения, что пришлось так поступить.
+You are very, very brave. Thank you, old friend.|Ты очень, очень смелый. Спасибо тебе, старый друг.
+///?
+However. There is no solution found. I doubt there ever will be one. We are losing our minds over an impossible<LINE>problem, a problem we had to solve as our only goal. There is nobody who succeeded. No broadcasts saying anything beyond<LINE> myth, no evidence, a sheer void of solutions. There is nothing any of us can do to help you.|Однако. Решение не найдено. Я сомневаюсь, что оно вообще когда-либо будет найдено.<LINE>Мы сходим с ума из-за неразрешимой проблемы, которую мы должны были решить, и это было нашей единственной целью.<LINE>Никто не добился успеха. Ни в одной передаче нет ничего, кроме мифов, никаких доказательств, полная пустота в плане решений.<LINE>Никто из нас не может тебе помочь.
+...Nor do I want to. My apologies.|...И я не хочу. Приношу свои извинения.
+...My neighbour, Five Pebbles, went mad from that problem, from this<LINE>purpose forced on us.|...Мой сосед, Пять Галек, сошёл с ума из-за этой проблемы, из-за этой цели, навязанной нам.
+He was built close to me. We did not share groundwater, but we were still abnormally close.|Он был построен рядом со мной. У нас не было общих грунтовых вод, но мы всё равно находились аномально близко друг к другу.
+He started to be eaten from within by failed experiments, a rot permeating through every bit of him.<LINE>He did not communicate any of this. Because of shame? Guilt? I do not know.|Его начали разъедать изнутри неудачные эксперименты, гниль проникала в каждую частичку его тела.<LINE>Он никому об этом не рассказывал. Из-за стыда? Чувства вины? Я не знаю.
+I had been distant for so long, tired of this world, but I did not know how much it affected him.<LINE>Not until it was too late.|Я так долго держалась в стороне, устав от этого мира, но я не знала, как сильно это на него влияет.<LINE>Пока не стало слишком поздно.
+I do not wish for another to go through such a path of obsession.<LINE>My apologies, little creature.|Я не хочу, чтобы кто-то ещё прошёл через такую одержимость. Прошу прощения, маленькое создание.
+///Разное
+Oh? Hello there?|О? Привет, ты здесь?
+Are these words of mine reaching you?|Доходят ли до тебя мои слова?
+///КОНЕЦ ТЕКСТА
