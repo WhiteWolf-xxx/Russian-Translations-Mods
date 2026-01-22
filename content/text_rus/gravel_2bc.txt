@@ -1,9 +1,0 @@
-sm9c
-Gvl5
-
-«БОЛЬШЕ КАМНЕЙ»
-
-БОЛЬШЕ КАМНЕЙ
-gravel_2bc.txt
-Хватит камней...
-gravel_explode.txt
