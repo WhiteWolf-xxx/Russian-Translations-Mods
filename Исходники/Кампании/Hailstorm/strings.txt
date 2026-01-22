@@ -1,0 +1,284 @@
+///Hailstorm (2960863440)///
+theincandescent-name|Hailstorm
+theincandescent-description|Brave an ever-harshening ice age as the Incandescent, a post-Saint slugcat with a rather extreme adaptation to ward off the blizzard's cold.\nCurrently featuring completely new spawns, four new creatures, and a plethora of small changes to the world, this campaign aims to be more difficult than most campaigns in the More Slugcats expansion!
+///Меню
+THE INCANDESCENT
+The Incandescent
+Incandescent
+A recluse capable of astounding mobility. Emotions stir you into a search for brighter lands, but<LINE>journeying through a wasteland so cold and cruel will require careful management of your needs.
+A sorrowful flame with powerful mobility, the Incandescent journeys<LINE>through an ice-cold land in search for a brighter future.
+///IncanStoryTutorialTex
+Your flaming tail requires a great amount of energy to sustain.
+It will keep you warm as you venture out to find food.
+Thanks to your tail, you possess increased mobility and a heightened jump.
+With the heat from your flame, your mobility can be used to attack other creatures.
+Be wary, though; with every heat attack performed, your flame will lose some of its warmth.
+Don't get too careless! Keep an eye on your glow to see how much warmth you still have.
+Water will dampen your flame, weakening its glow and making you more vulnerable to the cold.
+The longer you stay in water, the longer the effect will last, and the stronger it will be.
+Eating certain things may help your tail resist these effects... or boost it in other ways.
+///Ghost_MS
+In all my time spent bound to these peaks, never have I beared witness to a beast such as you.
+A brilliant flame that pierces the darkness, paired with such great sorrow...<LINE>Little one, a great tragedy has befallen you, hasn't it?
+After watching you hide away for so many moons in this desolate place, I wish to<LINE>impart a warning: what you are doing will only bring you more pain.
+Allowing fear and pain to control you will leave you trapped up here,<LINE>where there is nothing to accompany you but vicious birds and a bitter cold.
+Do not resign yourself to such a fate, young one. Go on, and allow yourself to<LINE>search for greener pastures. I will root for you from this forgotten peak.
+///Ghost_CC
+From my perch, I've overlooked this land for an eternity.
+Watched as this vast expanse was blanketed into an endless tundra.
+We remain trapped in place, and yet can never stop moving.
+Funneled endlessly into an unknown future...
+To what destination do these memories reach?
+///Ghost_SI
+Another presence attempts to commune with mine.
+Have I perceived your voice before? I have existed long enough to overhear them all.
+Those who have been, and those who have yet to be.
+Each serving as a wave propagating throughout the annals of history.
+Listened as I have for many eons, 'tis true, some of those swells cannot help but mirror back.
+///Ghost_LF
+Why is it?
+This long forgotten place beckons me, drawn by a certain presence...
+The fields here are not as I remember. Too much has changed.
+But, by forfeiting familiarities, perhaps something new is gained?
+Despite all, this site still has not revealed the entirety of its secrets.
+Perhaps that is the reason for my continued imprisonment.
+///Ghost_SB
+A little beast!?
+Come to join me in this great undoing.
+The old world will soon vanish, wiped from history, to pave a path for the dawning of a new era.
+How many have been consumed so far? Were we the tenth civilization, or the thousandth?
+Amusingly, they thought their small struggles bore such great significance.
+All was naught but to serve the void.
+///SLOracleBehaviorHasMark.MoonConversation
+///?
+Little flame, this is mean!
+///?
+Little one, come back with that!
+///?
+How could you be so cruel?! I cannot forgive this.
+///?
+You are a terrible little beast. Do not come back.
+///?
+Wha-
+No, incandescent, please! Bring that back!
+///?
+NO, this is not the time to be doing this! Stop at once!
+I will not forgive you if you take this from me now!
+///?
+No, I WILL NOT put up with this. Not now.
+Give that back immediately!
+///?
+...
+You know what? Fine. Then stay away. I do not need you toying with my emotions.
+///?
+Stay AWAY!
+///Conversation.ID.Moon_Pearl_LF_west
+...
+A functional pearl? How did you find this?
+This is written in plain text.
+On regards of the (by spiritual splendor eternally graced) people of the Congregation of...
+I am sorry little flame, I am too amazed about the clarity of this data, despite its age...
+///?
+A pearl written in plain text. I am still curious as to how you found this, little flame.
+On regards of the (by spiritual splendor eternally graced) people of the Congregation of...
+It is truly amazing how well the data on this pearl has survived after all this time.
+At this point it's safe to say that this text has been burned into the pearl's structure permanently.<LINE>I don't think I could clear this pearl out for my own purposes even if I wanted to.
+What a bizarre thing to have lasted all this time. I wonder how much of my creators will be remembered.
+///MoreSlugcatsEnums.ConversationID.Moon_Pearl_RM
+A pearl? It's highly faded, yet a faint amount of data still...
+...Oh. Little flame, I believe I know exactly where you found this. Please, return this.
+I am sure what little is left of him misses this dearly.
+...Little flame?
+Little one, what's wrong?
+...
+I...
+I see.
+Little one, I...
+I apologize, but I need some time alone.
+Allow me to hold on to this for this cycle. Please.
+///?
+Thank you, little one.
+Please, don't do that again. This pearl means much more to me than you might think.
+I want some time to think. Allow me that much, at least.
+///?
+Please... allow me some time to myself.<LINE>At least for this cycle.
+I need this.
+///?
+I am not willing to put up with whatever it is you are trying to do. Leave me be for now.
+Your antics are only bringing me more distress.
+///Unreadable pearls
+It's a pearl! With nothing left inside, unfortunately.
+Little flame, I'm sure you know that these are valued greatly by the scavengers for trade and decoration.<LINE>But did you know that pearls were originally made to store information?
+Back then, my kind made extensive use of pearls in our search for an answer to a great problem.<LINE>Each of our structures housed hundreds, if not thousands, of them, and they came in a wide variety of colors.
+They were quite handy back when they were still functional, but by this point, time has likely taken its toll<LINE>on most pearls. Their colors have faded away, as well as their information.
+This pearl is no different. There is not much that I can do with this now, but as I said<LINE>earlier, I am sure the scavengers would still appreciate them!
+///?
+Oh, little flame, another pearl! I have told you this already, but there is nothing left to these besides their shine.
+Pearls are valued greatly by the scavengers for trade and decoration, so if you want to<LINE>make use of them, I'm sure the scavengers would appreciate a gift!
+If there were any pearls that could still function after all this time, I may be able to use them, but this one is too damaged.
+I still appreciate the gift, though, little one! Thank you.
+///SLOracleBehaviorHasMark.MiscItemType.Lantern
+It appears to be... a pupa shell, smeared on the inside with a glowing substance? It's been mixed<LINE>with fire powder for warmth. It's not much, but anything to escape the cold is welcome.
+///?
+Of course, you're already plenty capable of withstanding the cold on your own, little one!
+This might still be helpful for you, though. Perhaps it can help dry your tail whenever it gets wet!
+///?
+The scavengers never cease to adapt, even in this weather!
+///Conversation.ID.MoonRecieveSwarmer
+...
+...where did... you get... this?..
+///?
+...
+...Where... did you get this?..
+///?
+...
+...little... fire...
+...where... getting these?..
+///?
+..I... do not know how I... feel about accepting these.
+Little one, where are you getting them from?
+///?
+This is... really cold! Little incandescent, you must be incredibly careful when holding this!
+Besides being dangerously cold, this crystal is incredibly sharp, as well as highly fragile. You might be<LINE>able to use it as a weapon if necessary, although it would most likely shatter on impact.
+I'm quite curious as to where you found this. I will have to send some of<LINE>my Overseers out to find some more! Thank you, little one.
+///?
+This is... really cold! Little friend, you must be careful when holding this!
+This crystal is incredibly sharp and highly fragile. It could likely be used as a weapon<LINE>if necessary, although I wouldn't expect it to remain intact afterwards.
+What a peculiar crystal. I must send some of my Overseers out to<LINE>study them. Thank you, little one.
+///MoreSlugcatsEnums.SlugcatStatsName.Saint
+This is extremely cold! Take care when holding this, little one.
+This strange crystal is incredibly sharp, as well as highly fragile. You could likely use it as<LINE>a weapon if necessary, although I wouldn't expect it to remain intact afterwards.
+///?
+This is... quite cold! Be careful when holding this, strange friend.
+This crystal is incredibly sharp, as well as highly fragile. You could likely use it as a weapon<LINE>if necessary, although I wouldn't expect it to remain intact afterwards.
+What a peculiar crystal. I must send some of my Overseers out to<LINE>study them. Thank you, friend.
+///SLOrcacleState.PlayerOpinion.Likes
+INCANDESCENT!
+FIERY ONE!
+Do not do that again! I will not allow you to treat me like that!
+///?
+Stop that! What have I done to deserve this, incandescent one?
+Stop that! What have I done to deserve this, fiery one?
+///?
+Little one! Why would you do such a thing?! You know I mean you no harm!
+Little one, what is your explanation for this?! You know I mean you no harm!
+///Six or more neurons
+Oh, it sounds like the blizzard has arrived!<LINE>Little incandescent, do you still wish to stay?
+If you do, be sure that your friends don't freeze!
+If you do, take care that your little friend doesn't freeze!<LINE>They don't have a fiery tail like you do!
+If you do, take care that your friend doesn't freeze!<LINE>They don't seem as resistant to the cold as you are!
+If so, make sure to avoid the water until you leave!
+Oh, it sounds like the blizzard has arrived.
+If you wish to stay, then be sure to avoid the water, little incandescent.
+And keep your friends warm!
+And keep your little friend warm!
+And keep your friend warm!
+Oh, the blizzard has arrived.
+Not that it matters for you, I suppose...
+For the sake of both your friends and myself, however, I implore that you leave.
+...However, your young friend is not as fortunate.<LINE>Please leave, for their sake.
+...But it might matter for your friend.<LINE>Please leave, and take them with you.
+///Five neurons
+Oh, the storm is here!
+Fiery friend, if you wish to stay, then be careful of the water!
+Keep your friends warm, too!
+Keep your little friend warm, too!
+Keep your friend warm, too!
+It sounds like the storm has arrived.
+If you intend to stay, fiery one, be sure to avoid the water.
+And don't forget that your friends are not as protected from the cold as you are!
+Although, your little friend is shivering badly.<LINE>Maybe you should leave, for their sake.
+Though I should mention that your friend doesn't seem to be taking the cold as well as you are...
+...Oh, the storm has arrived.
+You should leave.
+You should leave, for both your friends' sakes and for mine.
+You should go, so that your friend doesn't freeze.
+///Four neurons
+The storm is here.
+You... should leave.
+If you value your friends... do not let them freeze.
+If not for my sake... then for your friend.
+...The storm is here. Be careful, little flame.
+Your friends... need warmth, too.
+Protect your friend from the cold...
+///Three neurons
+...Cold...
+...leave... now.
+Take them... with you...
+...Cold...
+not... safe.
+Protect... friends!
+///Two neurons
+...s... storm...
+run
+///One neuron
+...
+///CrystalBrokeMidtalk
+!
+Little one! You would bring this all the way to me just to smash it in my hand?<LINE>Well, I hope the amusement was worth the effort...
+///?
+...
+Nevermind then.
+///?
+...
+And there it goes.
+///?
+Little one! Goodness...
+Well, all that's left to talk about now are little ice shards, and I do not think<LINE>either of us will find much interest in those.
+///?
+...
+...Little one, why did you do that?
+///Hailstorm Remix!
+Hailstorm Remix!
+The Incandescent
+Spear Damage Multiplier
+Multiplies damage done with spears. Guess this one was pretty self-explanatory, huh?
+Collision Damage Multiplier
+Multiplies damage done via heat attacks. I'll let you go above the default value for this one so you can go ham with the slams.\nActually the end of that sentence kinda sounds weird now that I've typed that out; uuuuuuhhhh
+Arena Downgrades Everywhere?
+The Incandescent will lose warmth just for using her heat attacks at all. Significantly less harsh than in Arena.
+No Arena Downgrades?
+Prevents heat loss from simply using the Incandescent's heat attacks.\nIf you enable this solely to be a jerk in Arena, I will find you.
+No Fire Fuel Limit
+You know how eating certain foods makes the Incandescent's glow a little bigger for a bit? If not, then uh now you do.\nAnyways, the maximum duration of that effect is usually capped out at 1 minute. Turn this option on to remove that limit.
+Wavering Flame
+The Incandescent's flame will slowly begin to fade if too much time passes without eating any fire fuel, weakening her hypothermia resistance and collision damage.\nI'm actually not sure how possible this is in every region, so do tell me about your adventures if you try this out!
+///Creatures
+Creatures
+Stowaways
+Deathfood Survival Chance
+If you want, you can give the creatures that Stowaways spit out on death a higher chance of being alive, with higher health on average, to boot.
+Stowaway HP Multiplier
+Do ya think Stowaways die too quickly? Then slide their HP up!
+Hardened Sides
+Okay, but what if attacking Stowaways from the sides just didn't work? Check this off to make spears and stuff bounce off unless they come from below!
+Hailstorm Stowaways\nEverywhere?
+Have you seen what changes I've made to Stowaways in the Incandescent's campaign? Now want 'em in aaaall campaigns?
+Mother Spiders
+Even MORE Spiders
+Just in case these didn't already spit out enough spiders, I guess. You can increase the spider count to up to double!\nWARNING: THIS *WILL* START TO LAG YOUR GAME AT HIGHER NUMBERS.
+Mother Spider CRONCH
+Yes they will literally kill you if they slam into you quickly enough. That'll take a LOT of speed, though; they'll usually just stun.
+Hailstorm Mother Spiders\nEverywhere?
+Maybe their changes are a little less interesting than the Stowaway's, but I thought I'd at least give you the option.
+Baby Spiders
+Hailstorm Baby Spiders\nEverywhere?
+*Extra fun* when paired with the Mother Spider's Remix options!
+Miros Vultures
+No Normal Lasers
+Did you ever notice that I gave Miros Vultures new laser types?\nWith *this* checked off you DEFINITELY will!
+Eager Birds
+Instead of firing their lasers when hurt, Miros Vultures will just start shooting at you whenever.\nThis will extend their laser timers by a second, to make reacting to the lasers a bit more reasonable.
+Hailstorm Miros Vultures\nEverywhere?
+For all the people who dislike how Miros Vultures only attack players: this one's for you.
+Cyanwings
+Cyanwing Atomization
+Uh, this one's a little, how you say, 'fucked up'? Anything Cyanwings zap will straight-up get atomized. Poof.  G O N E.\nThis one is OFF by default because the fucked-up-ness of it was getting to me during testing.
+///Color Variation
+Color Variation
+Pole Plant Colors Everywhere?
+Monster Kelp Colors Everywhere?
+Big Spider Colors Everywhere?
+Yellow Lizard Colors Everywhere?
+Eel Lizard Colors Everywhere?
+Strawberry Lizard Colors Everywhere?
