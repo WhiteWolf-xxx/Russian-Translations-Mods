@@ -1,22 +1,21 @@
-﻿0-1
+0-1
 Список итераторов:
 
 ОФИЦИАЛЬНЫЕ
 
-ПГ (Пять Галек) FP (Five Pebbles)
-СКС (Семь Красных Солнц) SRS (Seven Red Suns)
-ПС (Прядь Соломы) SOS (Sliver of Straw)
 ССЛ (Старшая Сестра Луна) BSM (Big Sis Moon)
+ПГ, ПП (Пять Галек, Прерывистый Пульс) FP, EP (Five Pebbles, Errasic Pulse)
 НЗЗ (Нет Значимых Забот) NSH (No Significant Harassment)
-ВПЗВ (В-Погоне-за-Ветром) CW (Chasing Wind)
-НН (Непревзойдённая Невинность) UI (Unparalleled Innocence)
+СКС (Семь Красных Солнц) SRS (Seven Red Suns)
+ВПЗВ, СВ (В-Погоне-за-Ветром, Серый Ветер) CW (Chasing Wind)
+ПР (Просительный Разум) PI (Pleading Intellect)
+БЗ (Блуждающее Знамение) WO (Wandbring Omen)
 СЗ (Смотрящий-на-Звёзды) GT (Gazing Stars)
 УИ (Уединённый Инстинкт) SI (Secluded Instinct)
-БЗ (Блуждающее Знамение) WO (Wandbring Omen)
-ПР (Просительный Разум) PI (Pleading Intellect)
 ЭО (Эпоха Облаков) EOC (Epoch of Clouds)
+НН (Непревзойдённая Невинность) UI (Unparalleled Innocence)
+ПС (Прядь Соломы) SOS (Sliver of Straw)
 СВСК, НГИ (Северная Великая Слоновая Кость, Нет Грандиозных Идей) NGI (Northern Grand Ivory, No Grand Ideas) (Пока что используется СВСК)
-НП (Неустойчивый Пульс) EP (Errasic Pulse)
 
 НЕИЗВЕСТНЫЕ
 
@@ -30,7 +29,7 @@
 ВП (Вершина Паломничества) PS (PNlgrimaged Summit)
 ЧПК (Четырнадцать Полярных Костей) FPB (Fourteen Polar Bones)
 ДЗНГ (Двенадцать Звезд Над Головой) TSA (Twelve Stars Above)
-ЗС (Звездная Симфония) SLS (Starlight Symphony)
+ЗС (Звёздная Симфония) SLS (Starlight Symphony)
 НСБЗ (Нет Слишком Больших Затрат) NCTG (No Cost Too Great)
 ВА (Вечная Амбра) PU (Perpetual Umbra)
 ТО (Ток Обмотки) WC (Winding Current)
@@ -45,6 +44,15 @@
 КСС (Ковш с Соком) BOS (Buckets of Sap)
 КП (Красный Песок) RS (Red Sand)
 ООО (Окно Оставленное Открытым) WLO (Windows Left Open)
+ВД (Великие Достижения) GA (Grand Achievements)
+ВС (Вещание Солнца) THTS (To Herald The Sun)
+ПВР (Простор в Равновесии) EIE (Expanses In Equilibrium)
+ВТЗС (Вечно Танцующий Звёздный Свет) EDS (Ever-Dancing Starlight)
+КИ (Кружащиеся Искры) SS (Swirling Sparks)
+ДВЦ (Десять Вложенных Циклов) TLN (Ten Loops Nested)
+ХТ (Хладоцвет Туманности) CM (Cryobloom Mist)
+МС (Мимолетный Светлячок) FF (Fleeting Firefly)
+ПС (Порог Сумерек) TT (Twilit Threshold)
 
 НЕИЗВЕСТНЫЕ
 
