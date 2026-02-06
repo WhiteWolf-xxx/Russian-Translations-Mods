@@ -1,0 +1,29 @@
+///Reclaiming Entropy (3215860805)///
+///reclaimingentropy-name|Reclaiming Entropy - A post-Saint world state
+///reclaimingentropy-description|WORK IN PROGRESS! See steamdescription.txt for more details :)
+reclaimingentropy-description|Разработка приостановлена. Чтобы попасть в регионы, используй Warp Menu.
+///Меню
+THE MATRIARCH|МАТРИАРХ
+The Matriarch|Матриарх
+Matriarch|Матриарх
+An ancient legend calls you to a familiar, faraway land<LINE>to establish a new home for your kind. With your three companions,<LINE>offspring and apprentices both, you will lead the future of your species.|Древняя легенда зовет тебя в знакомые и далекие земли,<LINE>чтобы основать новый дом для своего вида. Вместе с тремя своими спутниками,<LINE>потомками и учениками, ты возглавишь будущее своего вида.
+///Названия регионов
+Aquifer Tunnels|Водоносные туннели
+Melting Depths|Тающие глубины
+Farflung Beach|Пляж Фарфлунг
+The Undergrowth|Подлесок
+Heart of the Jungle|Сердце джунглей
+Gloomy Marshland|Мрачные болота
+Crumpled Scaffolding|Помятые строительные леса
+Pipegrave|Трубная могила
+Desolate Canal|Пустынный канал
+Luna|Луна
+Rusted Basin|Ржавый бассейн
+Sunlit Alleyways|Солнечные аллеи
+Suburban Outpost|Пригородная застава
+Smokestack Treetop|Верхушка древа над дымовыми трубами
+The Stump|Пень
+Nascent Woods|Зарождающийся лес
+Fallen Spires|Упавшие шпили
+Withstanding Factory|Устойчивый завод
+///КОНЕЦ ТЕКСТА
