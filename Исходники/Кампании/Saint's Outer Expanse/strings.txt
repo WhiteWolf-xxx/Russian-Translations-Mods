@@ -1,0 +1,20 @@
+///Saint's Outer Expanse (3520647464)///
+///xuanzebufeng.saintouterexpanse-name|Saint's Outer Expanse
+///xuanzebufeng.saintouterexpanse-description|Added Outer Expanse for saint.
+xuanzebufeng.saintouterexpanse-description|Делает Внешнюю даль доступной для Святого.
+///Названия регионов
+Frostbite Plain|Обмёрзшая равнина
+Frozen Valley|Замëрзшая долина
+Soaking Facility (Western Labyrinth)|Промокшая установка (Западный лабиринт)
+Luxuriant Land|Пышные земли
+Former Residence|Бывшая резиденция
+Eastern Jungle|Восточные джунгли
+///ULTRAKILL Style Region Titles (3050636729)///
+///Frostbite Plain
+Snow Vitality|жизненная сила снега
+Silent in Blizzard|безмолвная в метель
+Red Light Silence|тишина красного света
+Warm Oasis|тёплый оазис
+Home no more, murals remain|дома больше нет, но фрески остались
+Lush Sheltering Forest|пышный, укрывающий лес
+///КОНЕЦ ТЕКСТА
