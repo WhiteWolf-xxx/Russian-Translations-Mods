@@ -1,0 +1,176 @@
+GATE_SU_UB: 484.2606><450.1959><655.5283><465.9146><1><><48><35
+GATE_UB_SL: 2042.062><-1601.394><1582.97><-1384.914><1><><48><35
+GATE_UB_LF: -2148.379><997.4936><-2073.052><1019.596><1><><48><35
+UB_HUB: 330.2599><443.1959><527.5285><465.9146><1><><48><35
+UB_S01: 179.22><406.8457><4.717108><5.360387><1><><48><35
+UB_room2: 331.2603><177.1959><491.5273><229.9148><1><The Shallows><78><85
+UB_room3: 323.2605><-62.80475><493.5273><19.91535><1><The Shallows><78><65
+UB_room4: 332.2603><-294.8041><439.5268><-197.085><1><The Shallows><88><75
+UB_room5: 596.9751><-300.3758><650.671><-160.6567><2><The Shallows><48><35
+UB_room6: 289.9742><-236.3759><200.6698><-138.6567><0><Power Core><108><55
+UB_room7: -33.02554><-219.3759><-13.32984><-129.6567><0><Power Core><78><95
+UB_room9: -247.0254><-267.3758><-172.33><-151.6567><0><Power Core><48><35
+UB_room8: -508.0251><-297.3758><-34.32972><-408.6563><0><Power Core><108><95
+UB_room10: -158.6921><-187.0427><-220.9962><-385.5731><1><Power Core><78><75
+UB_room11: -147.9997><-395.4273><-226.4574><-554.3424><1><Power Core><68><55
+UB_shelter2: -173.9999><-398.2844><-14.60081><-559.6997><2><><48><35
+UB_room12: -422.7986><38.58271><-377.1342><-41.23304><1><The Shallows><68><55
+UB_room13: -715.5495><43.14503><-685.1966><-24.48299><2><The Shallows><128><55
+UB_room14: -141.785><71.61594><8.450163><184.0468><2><The Shallows><78><65
+UB_room15: 1027.328><-83.3852><839.4517><-42.95359><2><The Shallows><148><75
+UB_room16: 573.4847><-8.963938><340.0818><145.3626><2><The Shallows><70><40
+UB_room17: 1431.38><-209.4632><1232.132><-87.88792><1><Pipeline><98><85
+UB_room18: -954.1961><310.9976><-813.5931><270.6395><1><The Shallows><98><75
+UB_room20: 1144.048><-334.0346><1015.942><-252.7924><1><Pipeline><78><75
+UB_room21: 955.2314><-340.1258><832.6699><-215.2013><1><Pipeline><48><35
+UB_room22: 1633.401><-423.5606><1498.542><-368.6798><0><Pipeline><53><115
+UB_room23: 1773.569><-298.8937><1617.667><-154.9717><1><Pipeline><48><35
+UB_shelter3: 1960.569><-297.8937><1736.667><-142.9717><1><><48><35
+UB_room25: -900.122><-99.81685><-661.3348><-359.4712><1><Power Core><108><85
+UB_room24: -859.1956><130.9982><-696.594><150.6398><1><The Shallows><48><35
+UB_room26: 1783.802><-403.6923><1872.648><-346.9121><2><Pipeline><78><125
+UB_room27: 131.273><-371.4589><93.07804><-606.979><2><Power Core><118><55
+UB_room28: -986.6643><509.445><-855.7566><461.5371><1><The Shallows><118><55
+UB_room29: -682.0377><517.9448><-601.6332><454.2559><1><The Shallows><78><45
+UB_room30: 1140.479><-514.7521><1013.669><-427.9568><1><Pipeline><78><45
+UB_room31: 1444.828><-238.0463><1623.287><-10.60305><2><Pipeline><118><80
+UB_room33: 1383.512><-512.9609><1661.488><-403.0034><2><Pipeline><78><90
+UB_room34: -1326.988><600.2895><-1111.123><502.7188><2><The Shallows><118><80
+UB_room35: -1248.988><234.2893><-869.1216><50.71944><1><The Shallows><73><80
+UB_room38: 933.753><-490.2896><840.6392><-473.0969><2><Pipeline><73><80
+UB_room40: 1363.186><-611.1356><1207.665><-452.3532><0><Pipeline><118><80
+UB_room41: 1043.963><-676.7105><650.6392><-450.4782><1><Pipeline><78><45
+UB_room42: -1505.089><248.2893><-1262.994><97.88795><1><The Shallows><73><130
+UB_room43: -1322.375><-57.3774><-1095.708><39.67387><1><The Shallows><78><45
+UB_room44: -1764.422><371.3435><-1440.661><229.9291><1><The Shallows><73><130
+UB_room46: -1723.625><743.8436><-1410.004><529.3612><1><The Shallows><73><80
+UB_room47: -1733.957><895.6208><-1440.936><726.1164><2><The Shallows><73><80
+UB_room48: -1687.957><1054.624><-1438.936><966.1164><1><The Shallows><78><45
+UB_room49: -1448.444><998.6428><-1438.895><1149.159><1><Scavenger lair><78><45
+UB_room51: -1223.776><1045.894><-1250.478><1205.096><1><Scavenger lair><70><40
+UB_shelter4: -1079.004><1029.016><-1092.478><1137.544><2><><70><40
+UB_room50: -1391.203><1178.018><-1397.718><1344.745><1><Scavenger lair><122><40
+UB_room52: -1099.105><1216.644><-1138.425><1360.726><1><Scavenger lair><70><40
+UB_room53: -1390.913><1415.394><-1322.02><1475.456><1><Scavenger lair><71><80
+UB_room54: -1748.5><1485.054><-1744.755><1571.945><1><Scavenger lair><70><40
+UB_room55: -1685.349><1358.608><-1713.904><1346.262><2><Scavenger lair><71><80
+UB_room56: 997.2668><-531.4099><1043.405><-686.5014><0><Pipeline><71><80
+UB_room57: 1286.698><-678.0526><1208.566><-692.2514><1><Pipeline><70><40
+UB_room58: 1426.484><-866.8417><1309.532><-911.1828><1><Pipeline><71><80
+UB_room59: 79.81502><-253.6351><204.1178><-459.5949><1><Power Core><66><115
+UB_room60: 319.4923><-594.2965><353.1346><-466.663><1><Wreckage><122><40
+UB_room61: 656.6587><-781.1296><623.8007><-765.2297><1><Wreckage><66><115
+UB_room62: 949.5113><-891.0313><770.3419><-713.9345><1><Wreckage><118><80
+UB_room63: 1286.687><-1086.981><916.4221><-972.9185><1><Wreckage><172><40
+UB_longroom: 1647.291><-1221.701><1281.201><-1202.836><1><Pipeline><66><115
+UB_small: -1432.379><1286.493><-1552.052><1315.596><2><Scavenger lair><70><40
+UB_room64: 1858.609><-1491.22><1433.439><-1407.602><1><Pipeline><66><115
+UB_shelter5: 1833.293><-1732.701><1400.201><-1538.836><1><><70><40
+UB_room65: -1594.379><1143.493><-1807.052><1177.596><2><><172><40
+UB_room66: -2084.093><1089.065><-2071.01><1148.583><2><><122><40
+UB_room67: -2335.093><1022.065><-2228.01><1074.583><1><><70><40
+UB_69: 1546.213><-810.6987><1410.074><-690.4458><0><><70><40
+UB_S3: -1450.431><-29.315><-1261.228><-33.32238><2><><70><40
+UB_A3: -458.4308><526.6849><-431.2285><464.6776><1><The Shallows><70><40
+UB_S4: -487.4308><434.6851><-451.2284><326.6776><0><><70><40
+UB_C1: 368.0428><-386.6834><-136.3338><-897.3355><0><Underbelly><172><40
+UB_A1: 616.0553><-378.0661><233.6662><-920.3355><1><Underbelly><70><40
+UB_B1: 629.0428><-224.6832><327.6661><-791.3355><0><Underbelly><71><80
+UB_S1: 631.0428><-28.6834><317.6661><-564.3355><1><><70><40
+UB_A2: 717.9175><-529.4335><449.8535><-595.0355><2><Underbelly><70><40
+UB_S2: 1497.708><-420.1419><1338.632><-223.5664><1><><70><40
+OffScreenDen_UB: -679.7395><-305.8046><799.5283><351.915><1><Underbelly><0><0
+Connection: GATE_SU_UB,UB_HUB,2,12,41,15,2,0
+Connection: GATE_UB_SL,UB_room64,2,9,62,12,2,0
+Connection: GATE_UB_LF,UB_room67,2,12,55,7,2,0
+Connection: UB_HUB,UB_S01,3,9,34,21,2,0
+Connection: UB_HUB,UB_room2,29,3,44,72,3,1
+Connection: UB_room2,UB_room3,39,12,41,47,3,1
+Connection: UB_room3,UB_room4,51,25,48,56,3,2
+Connection: UB_room4,UB_room5,62,56,3,24,0,2
+Connection: UB_room4,UB_room27,18,27,98,32,2,0
+Connection: UB_room5,UB_room6,3,10,85,17,2,0
+Connection: UB_room5,UB_room15,44,10,22,35,0,2
+Connection: UB_room6,UB_room7,3,27,64,42,2,0
+Connection: UB_room7,UB_room9,19,29,39,25,2,0
+Connection: UB_room7,UB_room8,19,17,100,39,2,0
+Connection: UB_room9,UB_room8,39,9,100,68,0,0
+Connection: UB_room9,UB_room10,6,5,29,71,3,1
+Connection: UB_room8,UB_room25,14,79,98,9,2,0
+Connection: UB_room10,UB_room14,48,71,49,22,1,3
+Connection: UB_room10,UB_room59,71,45,18,88,0,2
+Connection: UB_room10,UB_room11,26,10,11,45,3,1
+Connection: UB_room10,UB_shelter2,36,7,26,26,3,1
+Connection: UB_room11,UB_room27,63,16,3,8,0,2
+Connection: UB_room12,UB_room14,65,39,24,36,0,1
+Connection: UB_room12,UB_room13,3,36,112,34,2,0
+Connection: UB_room13,UB_room24,17,27,24,9,1,3
+Connection: UB_room13,UB_room25,17,15,67,54,3,1
+Connection: UB_room14,UB_room16,73,38,1,19,0,2
+Connection: UB_room15,UB_room38,98,52,60,72,2,1
+Connection: UB_room15,UB_room16,22,56,67,20,2,0
+Connection: UB_room15,UB_room17,134,43,45,63,0,2
+Connection: UB_room17,UB_room20,14,15,55,48,2,0
+Connection: UB_room17,UB_room22,78,11,22,99,0,2
+Connection: UB_room18,UB_room28,54,54,75,17,1,3
+Connection: UB_room18,UB_room24,82,12,24,23,0,1
+Connection: UB_room20,UB_room21,17,29,40,11,3,0
+Connection: UB_room20,UB_room30,30,6,31,32,3,1
+Connection: UB_room22,UB_room23,37,99,17,13,0,2
+Connection: UB_room22,UB_room26,38,45,14,48,3,3
+Connection: UB_room22,UB_room40,15,19,106,51,3,1
+Connection: UB_room23,UB_shelter3,30,13,16,15,0,2
+Connection: UB_room24,UB_room35,2,17,53,21,2,0
+Connection: UB_room26,UB_room31,8,99,109,37,2,0
+Connection: UB_room28,UB_room34,2,26,113,8,2,0
+Connection: UB_room28,UB_room29,115,20,17,12,0,2
+Connection: UB_room29,UB_A3,72,13,3,8,0,2
+Connection: UB_room30,UB_room33,72,13,15,35,0,2
+Connection: UB_room30,UB_room38,4,10,63,17,2,0
+Connection: UB_room31,UB_room33,51,15,25,59,3,1
+Connection: UB_room34,UB_room44,11,34,58,105,2,0
+Connection: UB_room34,UB_room35,13,10,5,70,3,2
+Connection: UB_room35,UB_room42,58,57,60,106,0,0
+Connection: UB_room35,UB_room43,13,17,18,30,1,0
+Connection: UB_room38,UB_A2,6,16,63,10,2,0
+Connection: UB_room38,UB_room41,43,8,37,26,3,1
+Connection: UB_room40,UB_S2,101,77,32,1,1,3
+Connection: UB_room40,UB_room56,2,73,67,74,2,0
+Connection: UB_room40,UB_room41,4,34,67,23,2,0
+Connection: UB_room42,UB_room44,3,75,66,24,3,0
+Connection: UB_room42,UB_room43,41,23,50,22,3,1
+Connection: UB_room43,UB_S3,9,30,43,19,2,0
+Connection: UB_room44,UB_room46,52,116,38,3,1,3
+Connection: UB_room46,UB_room47,24,56,41,4,1,3
+Connection: UB_room47,UB_room48,27,73,14,6,1,3
+Connection: UB_room48,UB_room49,56,18,10,14,3,2
+Connection: UB_room49,UB_room51,72,24,4,6,0,2
+Connection: UB_room51,UB_room50,4,33,87,2,2,3
+Connection: UB_room51,UB_shelter4,61,13,23,19,3,2
+Connection: UB_room50,UB_room53,77,18,39,3,1,3
+Connection: UB_room50,UB_room52,119,31,5,19,0,2
+Connection: UB_room53,UB_room54,3,60,66,25,2,0
+Connection: UB_room54,UB_room55,54,10,11,57,3,1
+Connection: UB_room55,UB_small,68,17,2,32,0,2
+Connection: UB_room56,UB_B1,17,70,66,18,2,0
+Connection: UB_room56,UB_room57,68,17,3,19,0,2
+Connection: UB_room57,UB_room58,60,6,9,72,3,1
+Connection: UB_room58,UB_69,49,35,35,5,0,3
+Connection: UB_room58,UB_room63,40,4,142,37,2,1
+Connection: UB_room59,UB_C1,61,87,5,24,0,2
+Connection: UB_room59,UB_room60,63,16,53,26,0,2
+Connection: UB_room60,UB_room61,119,14,17,90,0,1
+Connection: UB_room61,UB_room62,49,34,14,20,0,3
+Connection: UB_room62,UB_A1,17,71,59,6,1,3
+Connection: UB_room62,UB_room63,106,3,15,31,3,1
+Connection: UB_room63,UB_longroom,169,9,9,91,0,2
+Connection: UB_longroom,UB_room64,58,16,2,106,0,2
+Connection: UB_small,UB_room65,63,7,165,37,3,1
+Connection: UB_room64,UB_shelter5,14,4,25,25,3,1
+Connection: UB_room65,UB_room66,2,8,119,22,2,0
+Connection: UB_room66,UB_room67,3,12,55,30,2,0
+Connection: UB_A3,UB_S4,24,1,34,27,3,1
+Connection: UB_C1,UB_A1,162,32,3,28,0,2
+Connection: UB_A1,UB_B1,48,30,56,6,1,3
+Connection: UB_B1,UB_S1,35,62,34,6,1,3
+Connection: UB_B1,UB_A2,67,47,4,23,0,2

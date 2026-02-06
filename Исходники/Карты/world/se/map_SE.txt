@@ -1,0 +1,160 @@
+GATE_FO_SE: -2346.799><-628.526><-1755.607><-430.0508><0><><48><35
+GATE_SE_LF: 1775.053><-860.167><1200.164><-617.6729><0><><48><35
+GATE_LH_SE: -758.1692><3304.019><-86.74435><0.04226654><1><><48><35
+GATE_SE_GH: 1154.239><184.2671><-61.67365><0.6323985><2><><48><35
+SE_first: -1574.798><852.9746><207.3968><362.9495><0><Steaming Edifice><72><48
+SE_hotroom: -1385.798><779.4748><-672.6035><-77.05167><1><Dreg Disposal><48><35
+SE_swampline: -2074.298><-650.026><-1680.607><-444.0508><1><><125><40
+SE_sewerexit: -1957.798><-852.026><-1444.607><-569.051><1><Steaming Edifice><60><40
+SE_buildup: -1616.798><-583.0252><-1420.607><-446.0508><1><Steaming Edifice><180><90
+SE_firstinner: -1290.798><-495.5254><-1072.604><-328.0508><1><Steaming Edifice><48><35
+SE_midisle: -1653.798><-854.0249><-1309.607><-571.051><1><Steaming Edifice><166><40
+SE_lightpeak: -1270.798><-861.026><-982.6035><-575.051><1><Steaming Edifice><48><38
+SE_huballey: -1134.799><-371.5254><-574.6035><-121.0517><1><Steaming Edifice><72><117
+SE_crampt: -1280.799><-504.0253><-963.6035><-353.0516><0><Steaming Edifice><48><78
+SE_scavtrader: -1452.799><-394.5254><-1238.607><-224.052><0><Steaming Edifice><72><43
+SE_bubbletube: -941.7997><-293.5254><-650.6035><-270.0516><0><Steaming Edifice><48><35
+SE_roofgap: -853.7986><-131.5254><87.39679><420.9492><1><Steaming Edifice><230><43
+SE_eggs: -821.7997><-248.5255><318.3969><309.9492><0><><48><35
+SE_grates: 543.2025><74.4748><303.3969><200.9491><2><><48><35
+SE_2bigtubes: -924.7975><-601.0252><-669.6035><-466.0508><1><Steaming Edifice><72><86
+SE_junction: -488.7983><-86.52541><-229.6032><-5.051692><0><Steaming Edifice><48><35
+SE_funswarm: -306.384><-138.5861><-35.89409><0.7102677><1><><72><43
+SE_wirehub: 0.2017155><383.4746><443.3968><536.949><1><Steaming Edifice><72><43
+SE_drainpipe: -456.7983><99.97485><-407.6031><-53.05168><2><Steaming Edifice><72><86
+SE_garbshute: -283.7983><-299.0251><581.3965><-308.0508><2><Steaming Edifice><48><242
+SE_bridge: -1571.798><697.4759><-341.6028><151.9491><0><Steaming Edifice><130><43
+SE_bigbridge: -146.3839><254.4137><-247.894><281.7104><1><Steaming Edifice><180><43
+SE_tankstorage: -1326.798><686.4737><-73.60276><167.9491><0><Steaming Edifice><48><35
+SE_tightalley: 312.2005><259.9747><28.39687><52.94911><2><Steaming Edifice><48><86
+SE_2layer: 532.2022><174.4748><208.397><281.9492><2><Steaming Edifice><48><35
+SE_gh: 896.0072><174.3123><828.9319><547.1304><2><Steaming Edifice><200><43
+SE_coilintro: 486.7188><-70.04374><156.3968><40.9483><2><Steaming Edifice><48><35
+SE_drainswamp: -1126.8><-753.5249><-971.6035><-473.0508><1><Steaming Edifice><142><43
+SE_connector: -705.7991><-295.5256><429.3969><293.9492><1><Steaming Edifice><72><43
+SE_swampdescent: -712.7995><-539.0252><-501.6031><-481.0516><1><Steaming Edifice><72><120
+SE_firstsecret: -510.7984><-152.5261><273.3969><65.94813><2><Steaming Edifice><110><35
+SE_secondsecret: -750.7983><-106.5255><130.3969><144.9491><2><Steaming Edifice><72><43
+SE_coilisles: 162.2019><-432.5254><-323.6029><-225.052><1><Steaming Edifice><140><43
+SE_shaft: 217.2019><-630.0252><-191.603><-428.0508><1><Steaming Edifice><72><86
+SE_waterbottom: 226.2018><-815.5241><-113.603><-556.051><1><Steaming Edifice><72><43
+SE_swarmcrampt: -111.798><-435.5252><-292.6031><-399.0508><1><Steaming Edifice><48><35
+SE_pipedrain: 97.20193><-898.5241><-360.6031><-591.051><2><Steaming Edifice><116><35
+SE_stomach: -227.7972><-777.026><-472.6031><-586.051><2><Steaming Edifice><48><38
+SE_hottunnel: 541.2014><-544.5252><-37.60298><-388.0508><1><Steaming Edifice><176><35
+SE_multifan: 464.2014><-378.0256><-94.60292><-79.05167><0><Steaming Edifice><48><78
+SE_widebottom: 479.2014><-556.5252><-34.60298><-243.052><0><Steaming Edifice><72><43
+SE_bigdrain: 481.2014><-745.0252><43.39685><-555.051><0><Steaming Edifice><118><84
+SE_hotshaft: 558.2003><-370.0254><139.3969><-289.0516><2><Steaming Edifice><72><86
+SE_hotwalls: 736.2005><-712.5252><289.3968><-483.0508><0><Steaming Edifice><72><43
+SE_hothub: 740.2005><-420.5254><307.3969><-374.0516><0><Steaming Edifice><48><83
+SE_dumper: 747.2005><-38.02548><308.3969><-172.0519><0><Steaming Edifice><48><40
+SE_hotwat: 643.2014><369.4746><131.3969><-64.05169><1><Steaming Edifice><118><35
+SE_sdeadcoil: 873.2011><375.4746><399.3969><-51.05168><1><><48><35
+SE_fanbridge: 399.2014><387.4746><440.3968><174.9491><1><Steaming Edifice><72><43
+SE_incinerator: 732.2014><-895.5249><312.3968><-668.051><0><Steaming Edifice><48><81
+SE_wideroof: 324.7013><516.4758><512.3965><648.949><1><Steaming Edifice><219><43
+SE_coilintro2: 1089.202><-490.5254><719.3965><-322.0516><0><Steaming Edifice><48><35
+SE_easer: 1209.996><-475.7834><-62.26033><3.146903><0><><48><35
+SE_mosquit: 566.2005><960.974><846.3965><974.9489><1><><72><86
+SE_echoleadup: 557.6425><704.7481><837.5027><761.907><1><><72><86
+SE_bigslope: 1319.202><-560.0252><832.3965><-421.0508><1><Steaming Edifice><48><78
+SE_fanintro: 1517.052><-794.9897><12.65829><-1.358866><1><><176><78
+SE_thebigone: -716.7978><983.977><8.39683><294.9492><2><><48><682
+SE_themediumone: -855.8426><1628.468><-121.9422><1369.487><1><><60><35
+SE_thelittleone: -743.948><2032.839><5.162851><1692.328><2><><48><43
+SE_shigh: -651.9477><2052.84><99.16269><1705.328><0><><48><35
+SE_thelessbigone: -744.9482><2225.34><-15.83699><1816.328><1><><72><86
+SE_lilpit: 943.6422><-405.8304><455.4087><-331.2806><0><Steaming Edifice><48><78
+SE_hottight: 713.6433><-309.3303><698.4084><-47.28049><1><Steaming Edifice><120><35
+SE_S01: 942.1073><-241.2><13.3506><-108.5476><0><><48><35
+SE_skywire: -751.9117><2804.063><-20.77471><2022.8><1><><72><300
+SE_jackkrig: 753.8308><-196.9817><774.2554><66.04231><2><Steaming Edifice><48><40
+SE_saint1: 2696.106><-25.19999><1269.351><-275.5475><1><Cold Dredge><176><78
+SE_saint2: 2367.845><-42.27511><1293.633><-353.6807><1><Cold Dredge><48><35
+SE_saint03: 2258.845><143.7249><969.6326><-361.6807><0><Cold Dredge><48><78
+SE_ssaint: 2398.845><121.7249><855.6326><-182.6809><0><><48><35
+SE_saint4: 2061.845><-10.27511><1302.633><15.31926><1><Cold Dredge><118><84
+SE_saint5: 1739.238><171.2671><956.3265><104.6323><1><Cold Dredge><116><242
+OffScreenDen_SE: -724.7995><-432.0254><-494.6031><-144.0517><1><><0><0
+Connection: GATE_FO_SE,SE_swampline,42,13,12,19,0,2
+Connection: GATE_SE_LF,SE_fanintro,4,9,146,9,2,0
+Connection: GATE_LH_SE,SE_skywire,36,5,42,281,3,1
+Connection: GATE_SE_GH,SE_gh,2,11,156,18,2,0
+Connection: SE_first,SE_hotroom,56,9,23,27,0,1
+Connection: SE_swampline,SE_buildup,114,11,11,14,0,2
+Connection: SE_swampline,SE_sewerexit,92,2,25,34,3,1
+Connection: SE_sewerexit,SE_midisle,42,9,4,19,0,2
+Connection: SE_buildup,SE_firstinner,153,65,14,13,0,2
+Connection: SE_firstinner,SE_huballey,32,18,13,13,0,2
+Connection: SE_midisle,SE_lightpeak,150,20,10,14,0,2
+Connection: SE_lightpeak,SE_drainswamp,25,32,25,10,1,3
+Connection: SE_huballey,SE_roofgap,42,106,36,16,1,3
+Connection: SE_huballey,SE_bubbletube,57,89,11,19,0,2
+Connection: SE_huballey,SE_crampt,13,51,35,66,2,0
+Connection: SE_crampt,SE_scavtrader,15,64,56,25,2,0
+Connection: SE_crampt,SE_drainswamp,25,4,23,34,3,1
+Connection: SE_bubbletube,SE_2bigtubes,37,11,35,77,0,1
+Connection: SE_roofgap,SE_junction,209,35,5,9,0,2
+Connection: SE_roofgap,SE_eggs,126,5,25,25,3,1
+Connection: SE_roofgap,SE_connector,168,9,43,26,0,3
+Connection: SE_grates,SE_2layer,22,26,28,8,1,3
+Connection: SE_2bigtubes,SE_swampdescent,51,62,18,58,0,2
+Connection: SE_2bigtubes,SE_drainswamp,31,10,106,24,3,0
+Connection: SE_junction,SE_drainpipe,22,27,36,7,1,3
+Connection: SE_junction,SE_funswarm,40,7,12,27,0,2
+Connection: SE_wirehub,SE_wideroof,61,37,29,23,0,3
+Connection: SE_wirehub,SE_bigbridge,50,7,163,25,3,0
+Connection: SE_drainpipe,SE_bigbridge,36,74,17,32,1,2
+Connection: SE_drainpipe,SE_garbshute,47,17,15,226,0,2
+Connection: SE_garbshute,SE_firstsecret,9,163,89,7,2,0
+Connection: SE_garbshute,SE_stomach,12,35,22,30,2,1
+Connection: SE_tightalley,SE_fanbridge,31,71,20,19,0,2
+Connection: SE_tightalley,SE_2layer,28,50,10,16,0,2
+Connection: SE_tightalley,SE_coilintro,28,11,9,20,3,2
+Connection: SE_2layer,SE_gh,35,19,12,21,0,2
+Connection: SE_coilintro,SE_hotshaft,36,17,32,81,0,1
+Connection: SE_connector,SE_swampdescent,15,10,20,108,2,1
+Connection: SE_firstsecret,SE_secondsecret,9,26,45,15,2,0
+Connection: SE_secondsecret,SE_thebigone,34,35,24,32,1,3
+Connection: SE_coilisles,SE_swarmcrampt,16,21,32,16,2,0
+Connection: SE_coilisles,SE_multifan,109,20,33,11,0,3
+Connection: SE_coilisles,SE_shaft,95,7,33,79,3,1
+Connection: SE_shaft,SE_hottunnel,48,68,3,13,0,2
+Connection: SE_shaft,SE_waterbottom,26,11,33,35,2,1
+Connection: SE_waterbottom,SE_bigdrain,55,21,10,17,0,2
+Connection: SE_pipedrain,SE_bigdrain,103,22,53,6,1,3
+Connection: SE_pipedrain,SE_stomach,13,16,30,11,2,0
+Connection: SE_hottunnel,SE_hothub,147,11,4,19,0,2
+Connection: SE_multifan,SE_hottight,41,65,22,17,0,2
+Connection: SE_multifan,SE_widebottom,12,14,21,26,2,2
+Connection: SE_widebottom,SE_bigdrain,20,13,26,71,2,1
+Connection: SE_bigdrain,SE_hotshaft,89,73,27,14,1,3
+Connection: SE_bigdrain,SE_hotwalls,108,59,23,32,0,2
+Connection: SE_hotshaft,SE_hothub,49,52,8,69,0,2
+Connection: SE_hotwalls,SE_hothub,35,36,24,8,1,3
+Connection: SE_hotwalls,SE_incinerator,36,15,25,72,3,1
+Connection: SE_hothub,SE_dumper,25,76,24,10,1,3
+Connection: SE_hothub,SE_lilpit,41,31,4,12,0,2
+Connection: SE_dumper,SE_hotwat,22,34,101,5,1,3
+Connection: SE_hotwat,SE_sdeadcoil,114,21,17,17,0,2
+Connection: SE_hotwat,SE_fanbridge,22,17,57,20,2,0
+Connection: SE_fanbridge,SE_wideroof,51,31,152,7,0,3
+Connection: SE_wideroof,SE_echoleadup,207,28,51,14,0,3
+Connection: SE_coilintro2,SE_lilpit,9,19,45,12,2,0
+Connection: SE_coilintro2,SE_easer,35,19,9,15,0,2
+Connection: SE_easer,SE_bigslope,36,13,24,64,0,1
+Connection: SE_mosquit,SE_echoleadup,46,8,45,60,3,0
+Connection: SE_bigslope,SE_fanintro,17,10,8,73,3,1
+Connection: SE_thebigone,SE_thelittleone,15,673,14,8,1,3
+Connection: SE_thebigone,SE_themediumone,9,557,46,17,2,0
+Connection: SE_thelittleone,SE_thelessbigone,30,38,40,15,1,3
+Connection: SE_thelittleone,SE_shigh,42,29,15,18,0,2
+Connection: SE_thelessbigone,SE_skywire,44,67,33,11,1,3
+Connection: SE_lilpit,SE_S01,24,70,23,7,1,3
+Connection: SE_lilpit,SE_hottight,5,59,111,16,2,0
+Connection: SE_hottight,SE_jackkrig,61,23,10,9,1,2
+Connection: SE_saint2,SE_saint03,26,13,7,8,1,3
+Connection: SE_saint2,SE_saint4,23,13,104,18,1,0
+Connection: SE_saint03,SE_ssaint,42,33,10,18,0,2
+Connection: SE_saint4,SE_saint5,10,19,90,38,2,0

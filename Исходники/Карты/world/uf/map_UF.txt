@@ -1,0 +1,80 @@
+UF_A_pipes1: 84.13954><59.82559><136.8837><162.3256><1><Sizzling Maze><48><35
+UF_S1: 168.1395><309.8256><40.88372><136.3256><1><><48><35
+UF_S_F: -52.86046><18.32559><-29.11628><-19.6744><1><><48><35
+UF_A_pipes2: -149.8605><-51.17441><40.88372><134.3256><0><Sizzling Maze><48><35
+UF_A_pipes4: -407.8605><-170.1744><-147.1163><108.3256><0><Sizzling Maze><48><35
+UF_A_pipes3: -247.8605><-176.1744><-53.11628><108.3256><0><Sizzling Maze><48><35
+UF_A_pipes5: -245.8605><15.82559><-125.1163><148.3256><2><Sizzling Maze><48><35
+UF_A_pipes6: 119.1395><20.82559><48.88372><124.3256><0><Sizzling Maze><48><35
+UF_A_pipes7: -151.8605><66.82559><38.88372><202.3256><0><Sizzling Maze><48><35
+GATE_GW_UF: -80.86046><191.8256><60.88372><224.3256><1><><48><35
+UF_A_pipes8: 77.13954><-191.1744><138.8837><-23.6744><1><Caustic Caverns><48><35
+UF_A_cc2: 182.1395><-226.1744><160.8837><32.3256><2><Caustic Caverns><48><35
+UF_B_pipes1: 425.1395><-182.6744><4.883716><54.3256><0><Sizzling Maze><48><78
+UF_A_pipes9: 43.13954><-183.1744><132.8837><38.3256><2><Sizzling Maze><48><35
+UF_S02: 152.1395><-138.1744><210.8837><100.3256><2><><48><35
+UF_B_pipes2: -98.86046><-224.6744><42.88372><34.3256><2><Sizzling Maze><48><78
+UF_pipes10: -67.86046><-53.17441><-29.11628><-89.6744><0><Sizzling Maze><48><35
+UF_A_cave1: -397.8605><42.82559><-29.11628><-89.6744><1><Caustic Caverns><48><35
+UF_A_cave2: -523.8605><69.82559><-29.11628><-89.6744><0><Caustic Caverns><48><35
+UF_VIEW1: -269.8605><341.3256><-29.11628><-19.6744><1><><99><35
+UF_A_pipesE: 527.1395><-408.6744><76.88371><40.3256><2><Sizzling Maze><48><35
+UF_A1: 224.1395><-108.1744><-65.11629><-155.6744><0><Sizzling Maze><48><35
+GATE_VS_UF: 77.13954><-88.67441><-199.1163><-167.6744><0><><48><35
+UF_S_3: 244.1395><-138.1744><102.8837><-145.6744><1><><48><35
+UF_A_CAVEIN: 249.1395><-221.1744><-185.1163><-51.6744><0><Sizzling Maze><48><35
+UF_BACK1: -0.8604594><477.3256><302.8837><-45.6744><0><Caustic Caverns><48><35
+UF_S_pipeview: -559.8605><-203.1744><-237.1163><86.3256><0><><48><35
+UF_A_Cavein_wet: -168.8605><475.8256><-29.11628><-89.6744><0><Sizzling Maze><48><35
+UF_A_cc_to_ds: 346.1395><-182.1744><-29.11628><-89.6744><1><Caustic Caverns><48><35
+UF_B_cc_DSCON1: 445.1395><-288.6744><-29.11628><-89.6744><0><Caustic Caverns><99><35
+UF_BEEEEG_Drop: 673.1395><-121.1744><-29.11628><-317.6744><0><><48><149
+UF_TERRY: -1486.86><103.3256><-29.11628><-89.6744><0><><48><35
+GATE_UF_DS: 828.1395><48.82559><-29.11628><-89.6744><0><><48><35
+UF_A_PIPE1PAST: 325.1395><371.3256><-29.11628><-89.6744><0><><48><35
+GATE_UF_GW: 170.1395><431.3256><-29.11628><-89.6744><0><><48><35
+UF_A1start: -338.8605><474.3256><-29.11628><-19.6744><1><><48><35
+UF_A2start: -3.860459><339.3256><-29.11628><-19.6744><1><><48><35
+UF_HH1: 365.1395><-412.6744><-29.11628><-19.6744><1><><48><35
+UF_HH2: 209.1395><-407.6744><-29.11628><-19.6744><1><><48><35
+GATE_HH_UF: 55.13954><-420.6744><-29.11628><-19.6744><1><><50><35
+UF_4B: 74.13954><89.32559><-29.11628><-19.6744><2><><52><34
+GATE_4B_UF: -81.86046><105.3256><-29.11628><-19.6744><2><><48><35
+OffScreenDen_UF: -727.8605><544.3256><52.88372><246.3256><0><><0><0
+Connection: UF_A_pipes1,GATE_GW_UF,3,25,36,5,2,3
+Connection: UF_A_pipes1,UF_A_pipes2,1,15,42,28,2,0
+Connection: UF_A_pipes1,UF_S_F,1,9,34,22,2,0
+Connection: UF_S1,UF_A_PIPE1PAST,34,22,1,9,0,2
+Connection: UF_A_pipes2,UF_A_pipes7,2,28,3,15,2,2
+Connection: UF_A_pipes2,UF_A_pipes3,2,15,36,28,2,0
+Connection: UF_A_pipes4,UF_A_pipes5,40,17,29,8,1,3
+Connection: UF_A_pipes4,UF_A_pipes3,32,19,2,19,0,2
+Connection: UF_A_pipes4,UF_S_pipeview,2,10,42,21,2,0
+Connection: UF_A_pipes3,UF_B_pipes2,44,20,3,57,0,2
+Connection: UF_A_pipes5,UF_A_cave1,4,26,43,17,2,0
+Connection: UF_A_pipes5,UF_A_pipes6,45,16,2,13,0,2
+Connection: UF_A_pipes6,UF_4B,38,30,44,14,1,0
+Connection: UF_A_pipes6,UF_A_pipes7,10,25,40,20,2,0
+Connection: UF_A_pipes6,UF_B_pipes1,45,13,2,66,0,2
+Connection: UF_A_pipes6,UF_A_pipes8,23,4,4,22,3,2
+Connection: UF_A_pipes8,UF_A_cc2,37,19,28,7,0,3
+Connection: UF_A_cc2,UF_A_cc_to_ds,42,32,17,16,1,3
+Connection: UF_A_cc2,UF_A_pipes9,8,22,44,10,2,0
+Connection: UF_B_pipes1,UF_A_CAVEIN,9,35,44,23,2,0
+Connection: UF_B_pipes1,UF_A_pipesE,43,21,14,28,0,2
+Connection: UF_A_pipes9,UF_pipes10,4,31,41,2,1,3
+Connection: UF_A_pipes9,UF_S02,38,31,14,17,1,3
+Connection: UF_B_pipes2,UF_pipes10,37,72,27,2,1,3
+Connection: UF_B_pipes2,UF_A_pipesE,24,23,14,19,0,2
+Connection: UF_A_cave1,UF_A_cave2,13,17,46,8,2,0
+Connection: UF_A_pipesE,UF_HH1,14,10,44,8,2,0
+Connection: UF_A1,GATE_VS_UF,1,15,45,9,2,0
+Connection: UF_A1,UF_S_3,20,11,19,25,3,1
+Connection: UF_A1,UF_A_CAVEIN,27,11,10,31,3,1
+Connection: UF_A_cc_to_ds,UF_B_cc_DSCON1,34,5,19,28,3,1
+Connection: UF_B_cc_DSCON1,UF_BEEEEG_Drop,97,18,12,18,0,2
+Connection: UF_BEEEEG_Drop,GATE_UF_DS,46,136,1,22,0,2
+Connection: UF_A_PIPE1PAST,GATE_UF_GW,3,25,36,5,2,3
+Connection: UF_HH1,UF_HH2,4,24,44,23,2,0
+Connection: UF_HH2,GATE_HH_UF,10,8,45,12,2,0
+Connection: UF_4B,GATE_4B_UF,7,17,45,12,2,0
