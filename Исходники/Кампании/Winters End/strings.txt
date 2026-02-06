@@ -1,0 +1,217 @@
+///Winters End (3424930016)///
+///SnowBee.Snow-name|Winters End
+///SnowBee.Snow-description|Expansion and different perspective of the world.
+SnowBee.Snow-description|Расширение и другой взгляд на мир.
+///Меню
+///Снежинка
+The SnowFlake|Снежинка
+THE SNOWFLAKE|СНЕЖИНКА
+SnowFlake|Снежинка
+Fragile in the embrace of its icy power, navigates the brutal blizzards with a remarkable resilience. <LINE>Its unique survival skills keep it thriving amidst the unforgiving snowscape.|Хрупкий в объятиях своей ледяной мощи, он с поразительной стойкостью преодолевает жестокие снежные бури.<LINE>Благодаря уникальным навыкам выживания он процветает среди неумолимого снежного пейзажа.
+Details|Детали
+Blush|Румянец
+///Люмия
+The Lumia|Люмия
+THE LUMIA|ЛЮМИЯ
+Lumia|Люмия
+Seems concerned about the two iterators.|Похоже, тебя беспокоят два итератора.
+///SNOWBEE
+SNOWBEE|СНЕЖИНКА И ПЧЕЛОКОТ
+Snowflake, fragile yet resilient, twirls with icy grace. Alongside the playful Beecat,<LINE>a jolly duo emerges, their unique bond partner blossoming amidst the snowscape.|Снежинка, хрупкая, но стойкая, кружится с ледяной грацией. Вместе с игривым Пчелкотом они образуют весёлый дуэт,<LINE>а их уникальная связь расцветает среди снежных просторов.
+///Миссии
+UNLOCKS|ОТКРЫТО
+Hungry Beecat|Голодный Пчелокот
+Hunting Critters|Охота на Тварей
+Venture out Flowers|Цветочная Авантюра
+Friends to Lose|Потерянные Друзья
+Losing ideas|Потерянная идея
+Snowy Snuggly Business|Снежный Уютный Комплекс
+Fight than flee!|Сражайся, а не убегай!
+What?|Что?
+Lovable Critters|Милые Создания
+Lore Advocate|Защитник Знаний
+Blizzard Lizard|Снежные ящеры
+Frost Lizard|Морозные ящеры
+Glace Lizard|Глазированные ящеры
+Ice Lizard|Ледяные ящеры
+WEBlizard Lizard|Перепончатокрылые ящеры
+Cryptic Centi|Скрытные сороконожки
+Frosti Centi|Морозные сороконожки
+IceSpear|Ледяные копья
+<region> pearl delivered to CryoBloom|<region>: доставь жемчужину Хладоцвету
+///Ремикс
+Winters End|Конец Зимы
+///Титры
+Thanks to|Спасибо вам:
+Spanish Language & Special thanks to: BensoneWhite :3|Испанский язык и особая благодарность: BensoneWhite :3
+Arts: Tsunochizu, Lat, Elliot (from the snowbee hug), Allux (Snowflake ending art), ScugLat (Art IntroMenu)|Иллюстрации: Tsunochizu, Lat, Elliot (from the snowbee hug), Allux (Snowflake ending art), ScugLat (Art IntroMenu)
+Music Threat Theme: Roasted, Sequoia7|Музыкальная Тема Угрозы: Roasted, Sequoia7
+Misc Music: itsloq(Iterator Music)|Разная Музыка: itsloq (Iterator Music)
+Parts: RegionKit (Fan Codes Fix Ver.), Vigaro (Gate Effects, Conveyor, and fruit)|Частицы: RegionKit (Fan Codes Fix Ver.), Vigaro (Gate Effects, Conveyor, and fruit)
+PLAYTESTER|ТЕСТЕРЫ
+///Опции
+Able to grab snowflake|Способность схватить снежинку
+Less Particle|Меньше Частиц
+Snowflake Pup grab|Возможность котят хватать Снежинку
+Disable Snowflake Pup Grab|Отключить возможность котятам схватить Снежинку
+///Читы
+Remove Z1 Requirements|Удалить требования Цитадельной заставы
+///Названия регионов
+Conduit Reliquary|Трубопроводный реликварий
+NaturePath|Природный путь
+Outpost Citadel|Цитадельная застава
+Terrestrial Tower|Наземная башня
+Blizzard's Embrace|Объятья метели
+Frostbite Hailstorm |Обмёрзший град
+Tundra Ruinfields|Тундровые руины
+Terranium Train|Поезд Терраниум
+Ashen Desolation|Пепельное запустение
+Dusk|Сумерки
+Eroded Ridge|Разрушенный хребет
+FrostFall Expanse|Ледяные просторы
+Withered Wall|Иссохшая стена
+CryoBloom|Хладоцвет
+CryoBloom Chamber|Хладоцвет (Камера)
+CryoBloom (General Bus)|Хладоцвет (Общая шина)
+CryoBloom (Data Recursive Data)|Хладоцвет (Данные рекурсивных данных)
+CryoBloom (PowerLine System)|Хладоцвет (Система линий электропередачи)
+CryoBloom (Memory Flux Lane)|Хладоцвет (Полоса потока памяти)
+Glacial Tower|Ледяная башня
+///Снежинка
+///Обучение
+[ Pause to see all mechanic ]|[Поставь паузу, чтобы просмотреть все механики]
+Snowflake Mechanic:|Механики Снежинки:
+Grab + Jmp = Double jump, Weakens by the high hypothermia|Нажми «Взять» + «Прыжок» = Двойной прыжок, ослабевает при сильном переохлаждении.
+Hold Grab + Press Jump: Double Jump|Нажми «Взять» + «Прыжок», чтобы сделать двойной прыжок
+Hold Down: Warm up to lower hypothermia|Нажми «Вниз», чтобы согреться и снизить переохлаждение
+Hold Down + Grab + Press Jump: SnowPuffs|Нажми «Вниз» + «Взять» + «Прыжок», чтобы сделать снежную завесу
+Hold Grab with spear and 1 food pip: Ice Spear|Нажми «Взять» с копьём в руках и 1 кусочком еды, чтобы сделать ледяное копьё
+Slide/Crawling: Deal more damage|Скольжение и ползание наносит больше урона
+Slide Pounce: Stun and deal minor damage|Скользящий удар оглушает и наносит незначительный урон
+///Пчелокот
+Can you hear me..?|Ты меня слышишь...?
+I... I don't know if you're still there...|Я... Я не знаю, здесь ли ты ещё...
+I tried to reach you sooner... but everything is falling apart...|Я пытался связаться с тобой раньше... но всё рушится...
+I... I don’t know what to say...|Я... Я не знаю, что сказать...
+Did we fail? Is this the end?|Мы потерпели неудачу? Это конец?
+I wanted to save you... but I don't know if I can...|Я хотел спасти тебя... но не знаю, смогу ли...
+Please, if you can still hear me... say something...|Пожалуйста, если ты меня ещё слышишь... скажи что-нибудь...
+Anything...|Что угодно...
+But maybe... it's too late.|Но, может быть... уже слишком поздно.
+///Пчелокот
+The telecommunication is back?.|Связь восстановлена?
+I must check on my friend...|Я должен проведать своего друга...
+There is nothing i can do now.|Сейчас я ничего не могу сделать.
+I wonder who fix the tower...|Интересно, кто починил вышку...
+///Пчелокот начало
+A creature?|Существо?
+How interesting. It got into my chamber.|Как интересно. Оно проникло в мою комнату.
+I must assume you did not arrive here of your own volition.|Полагаю, ты оказался здесь не по своей воле.
+Whatever led you here whether accident or intention it is wasted effort.|Что бы ни привело тебя сюда, случайность или намерение, это напрасное усилие.
+There is nothing of value for you within this place.|Здесь нет ничего ценного для тебя.
+I suggest you turn back. No curiosity for beings such as yourself.|Я предлагаю тебе вернуться. Такие существа, как ты, не представляют интереса.
+///Пчелокот жемчужина
+Oh.|О.
+You're back|Ты вернулся.
+There is nothing i can do in this chamber.|В этой комнате я ничего не могу сделать.
+Who brought you here still?|Кто привёл тебя сюда?
+Although, i feel something you have..|Хотя я чувствую, что у тебя что-то есть...
+May I see?|Могу я взглянуть?
+This pearl...|Эта жемчужина...
+It holds significance beyond your understanding.|Она имеет значение, недоступное твоему пониманию.
+Deliver it to the top of the tower. It is imperative.|Отнеси её на вершину башни. Это необходимо.
+You may not comprehend its importance, but you have my gratitude.|Возможно, ты не осознаёшь её важности, но я благодарен тебе.
+Do not delay.|Не медли.
+The reason I require your assistance is simple.|Причина, по которой мне нужна твоя помощь, проста.
+Something has occurred...|Что-то произошло...
+The communication tower’s processing unit has been damaged.|Блок обработки данных коммуникационной вышки был повреждён.
+///Пчелокот
+Who brought you here, intelligent creature?|Кто привёл тебя сюда, разумное существо?
+///Снежинка
+Does this method suffice? Is this reaching you?|Достаточно ли этого метода? Ты слышишь меня?
+You two are quite adorable. You should work together in this situation.|Вы оба просто очаровательны. В этой ситуации вам следует действовать сообща.
+Perhaps a kinder entity has already tried, though their success is uncertain.|Возможно, более доброжелательное существо уже попыталось это сделать, но успех был не гарантирован.
+Now, I find myself requiring your assistance to stabilize this decaying structure.|Теперь мне нужна твоя помощь, чтобы стабилизировать эту разрушающуюся структуру.
+Time is not a resource we can afford to squander.|Время — это ресурс, который мы не можем позволить себе тратить впустую.
+Here. This device will serve as your temporary Drone.|Вот. Это устройство будет твоим временным дроном.
+It's calibrated to interact with the core systems of the power network.|Он откалиброван для взаимодействия с основными системами энергосети.
+Travel to Outpost Citadel, that's where ancient lived. Beyond that, head bottom left of the map.|Отправляйся в Цитадельную заставу, где жили древние. Далее, направляйся в нижний левый угол региона.
+There's a gate, only for drone unit to open. To avoid any dangerous creature coming in.|Там есть ворота, которые может открыть только этот дрон. Чтобы внутрь не проникло ни одно опасное существо.
+There lies the system drawing power to sustain this place.|Там находится система, которая питает это место энергией.
+We will speak further when the energy flow is restored. I trust you.|Мы поговорим позже, когда поток энергии восстановится. Я доверяю тебе.
+I will wait... for as long as I can.|Я буду ждать... столько, сколько смогу.
+///Пчелокот
+A different species.|Другой вид.
+Curious. Speak.|Любопытно. Говори.
+Your kind should not persist in these conditions.|Твой вид не должен выживать в таких условиях.
+I am surprised you survive so far from safer habitats.|Я удивлён, что ты выжил так далеко от более безопасных мест обитания.
+Your body temperature teeters dangerously close to hyperthermic collapse.|Температура твоего тела опасно близка к гипертермическому коллапсу.
+Yet... you are alive. Resilient, against odds.|И всё же... ты жив. Стойкий, несмотря ни на что.
+What drives you here, small creature? Is it mere instinct?|Что привело тебя сюда, маленькое существо? Это просто инстинкт?
+Or perhaps... something more?|Или, возможно... нечто большее?
+Your presence warrants observation. Speak or act. I will watch.|Твоё присутствие заслуживает внимания. Говори или действуй. Я буду наблюдать.
+Bye.|Пока.
+///Пчелокот
+There is nothing i can talk.|Мне нечего сказать.
+You can sleep here now.|Теперь ты можешь здесь поспать.
+///Снежинка
+We don't have time.|У нас нет времени.
+Please.|Прошу.
+///Снежинка завершить миссию
+You finally come back.|Ты наконец-то вернулся.
+I don't understand why the power went malfunction itself.|Я не понимаю, почему система питания вышла из строя.
+Where ancient lives now? Where are they?|Где сейчас древние? Где они?
+Been a long time.|Давно не виделись.
+Your efforts have preserved my existence an outcome I had not dared to hope for.|Благодаря твоим усилиям я выжил, на что я даже не смел надеяться.
+Now, I must attempt to establish contact with an acquaintance.|Теперь я должен попытаться связаться со своим другом.
+... It appears I cannot.|... Похоже, у меня не получится.
+What has become of the other places, I wonder?|Интересно, что стало с другими местами?
+Nevertheless, my gratitude remains.|Тем не менее я тебе благодарен.
+If you carry pearls or seek answers, I will do what I can to assist.|Если ты найдёшь жемчужины или ищешь ответы, я сделаю всё, что в моих силах, чтобы помочь тебе.
+My name is Cryobloom Mist.|Меня зовут Хладоцвет Туманности.
+Often call as cryobloom.|Часто называют просто Хладоцвет.
+I can only hope they are safe.|Я могу только надеяться, что он в безопасности.
+You two should be along together.|Вам двоим стоит быть вместе.
+I have gathered more data on you...|Я собрал о вас много данных...
+You are different from the others I have seen.|Ты отличаешься от других, кого я видел раньше.
+Your behavior unlike the usual patterns.|Твоё поведение не соответствует обычным шаблонам.<LINE>К сожалению, я не могу отследить твоё прошлое. Хотел бы я знать, что с тобой случилось.
+Sadly, I cannot trace your past. I wish I knew what happened to you.\r\n|К сожалению, я не могу отследить твоё прошлое. Хотел бы я знать, что с тобой случилось.
+You appear weak... yet you stand against hostile creatures without hesitation.|Ты кажешься слабым... но ты без колебаний сражаешься с враждебными существами.
+Nonetheless, I believe you can endure.|Тем не менее я верю, что ты справишься.
+///Снежинка прийти снова
+Hello.|Привет.
+All the system is restored.|Вся система восстановлена.
+Again, thank you.|Ещё раз спасибо.
+I don't have any plans but you can enjoy resting here.|У меня нет никаких планов, но ты можешь отдохнуть здесь.
+As your own big little chamber with me.|Это твоя собственная маленькая комната со мной.
+I have nothing to do on, Take a good rest.|Мне нечего делать, так что хорошенько отдохни.
+///Чтение жемчужин
+I do not have time, please.|У меня нет времени, прошу.
+I cant help with this, i need you to restore my power.|Я не могу помочь с этим, мне нужно, чтобы ты восстановил мою энергию.
+Time is ticking, please quick.|Время идёт, пожалуйста, поторопись.
+You really like to know this pearl, Later after you restore the power.|Тебе действительно хочется узнать об этой жемчужине? Потом, когда ты восстановишь энергию.
+Lets see.|Посмотрим.
+Let me read this pearl.|Дай мне прочитать эту жемчужину.
+A pearl. How intriguing.|Жемчужина. Как интригующе.
+Its data is fragmented, but I will extract what I can.|Её данные фрагментированы, но я извлеку всё, что смогу.
+Pearl one? These objects hold secrets even their creators forgot.|Жемчужина? Эти предметы хранят тайны, о которых забыли даже их создатели.
+This will take a moment to process.|Обработка данных займёт некоторое время.
+Hmm. This pearl is unlike the others.|Хм. Эта жемчужина не похожа на остальные.
+The data might be corrupted, but there’s something here...|Данные могут быть повреждены, но здесь что-то есть...
+What is this? An offering?|Что это? Подношение?
+Very well. Let me see if it holds anything of value.|Хорошо. Давай посмотрим, есть ли здесь что-то ценное.
+///Люмия
+Ah, another creature.|А, ещё одно существо.
+feels familiar.|Кажется, я тебя знаю.
+Lumia..? is that.|Люмия..? Это ты.
+i.. remember you..|Я... помню тебя...
+i'm deeply sorry what you've done to yourself...|Мне очень жаль, что ты так с собой поступила...
+your body seems.. good condition what i saw.|Твоё тело кажется... в хорошем состоянии, насколько я могу судить.
+Give that pearl to Moon.|Отдай эту жемчужину Луне.
+and leave. I want you to be safe..|И уходи. Я хочу, чтобы ты была в безопасности...
+///?
+Dont, please... They are not edible.|Не надо, пожалуйста... Они несъедобные.
+So, what i said.|Итак, о чём я говорил.
+///Конец
+Hold down to end the campaign.|Удерживай «Вниз», чтобы завершить кампанию.
+///КОНЕЦ ТЕКСТА
