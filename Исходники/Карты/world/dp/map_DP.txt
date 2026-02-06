@@ -1,0 +1,158 @@
+GATE_DS_DP: -2166.416><283.3663><-1531.31><180.8571><1><><48><35
+GATE_SB_DP: -2417.416><-356.6337><-1685.31><-352.1431><1><><48><35
+GATE_DP_SH: 3542.583><3.366219><2565.689><38.85732><0><><48><35
+DP_basiccon: -1269.494><276.2238><-936.1049><181.4776><1><Drowned Pantheon><100><77
+DP_belltower: 1321.747><290.8992><892.8693><279.2344><0><Drowned Pantheon><152><35
+DP_bellwall: -267.5027><972.6492><-293.5565><738.3846><0><Drowned Pantheon><117><104
+DP_BOGGATE: 3380.808><-169.6341><2443.799><-213.4207><0><Drowned Pantheon><49><152
+DP_bridgetosec: 576.7465><284.8992><168.868><295.2344><0><Drowned Pantheon><251><35
+DP_connectiontodarkex: 1434.747><177.8989><1091.864><129.235><0><Drowned Pantheon><52><35
+DP_finalshelter: -2045.843><386.8741><-1522.293><300.9592><1><><48><35
+DP_pipedown: 2067.506><-221.7768><1570.893><-188.5224><0><Drowned Pantheon><48><37
+DP_simplecon: -1550.3><438.0048><-1079.36><359.8288><1><Drowned Pantheon><48><35
+DP_trashshelter: 191.154><-128.1256><130.7078><45.95961><0><><48><35
+DP_KA1: -1435.565><-449.425><-994.8128><-456.6191><1><Drowned Pantheon><48><35
+DP_KA2: 2019.435><-599.4253><1455.187><-456.6191><1><Drowned Pantheon><48><35
+DP_DE04: -897.4169><252.3663><-703.3085><140.8573><0><Drowned Pantheon><111><111
+DP_DE07: 1788.584><30.36628><1218.69><-7.142476><0><Drowned Pantheon><204><78
+DP_DEA08: 104.5837><706.3662><133.6917><587.8569><0><Drowned Pantheon><48><35
+DP_DE09: 1231.396><170.4042><926.7292><129.827><0><Drowned Pantheon><48><35
+DP_DE10: 1069.396><113.4046><766.7292><129.8271><0><Drowned Pantheon><60><35
+DP_DE11: 821.3939><-211.5958><603.7292><-87.1732><2><Drowned Pantheon><48><78
+DP_DE12: 218.131><16.4234><163.0514><151.5172><0><Drowned Pantheon><60><35
+DP_FE01: 561.5834><-595.6338><366.6917><-358.1434><2><Drowned Pantheon><104><35
+DP_FE02: -828.4169><-408.6337><-627.3085><-301.1434><1><Drowned Pantheon><48><67
+DP_FE031: -641.9872><-49.27828><-449.0233><35.35017><0><Drowned Pantheon><111><73
+DP_FE032: -227.9873><17.7217><-200.0227><115.3503><0><Drowned Pantheon><162><35
+DP_FE04: 305.5833><-423.6337><228.6914><-356.1434><2><Drowned Pantheon><60><149
+DP_FE05: -431.4164><-373.6337><-375.3083><-357.1434><2><Drowned Pantheon><111><149
+DP_FEA06: -1213.414><-452.6342><-879.3085><-466.1424><1><Drowned Pantheon><50><38
+DP_FEA07: -657.4169><-454.6342><-515.3085><-290.1424><1><Drowned Pantheon><60><35
+DP_FE08: 835.6821><-541.1211><591.7974><-358.5799><2><Drowned Pantheon><60><73
+DP_FE09: 1781.683><-519.121><1310.796><-324.5799><1><Drowned Pantheon><111><73
+DP_FES01: 456.2809><-497.418><371.2458><-198.8665><2><><60><35
+DP_FES02: -179.264><-410.6805><-123.3886><-358.7083><2><Drowned Pantheon><60><35
+DP_FI02: -2179.416><-444.6337><-1566.31><-452.1434><1><Drowned Pantheon><100><80
+DP_FI04: -1687.414><-532.634><-1233.31><-454.1434><1><Drowned Pantheon><111><35
+DP_FI05: 20.49701><277.6492><-5.557066><250.3847><0><Drowned Pantheon><60><73
+DP_FIA07: -1011.414><-448.6343><-743.3085><-448.1424><1><Drowned Pantheon><48><35
+DP_FIA08: -1953.414><-365.6332><-1338.31><-297.1431><1><Drowned Pantheon><48><35
+DP_FIA09: -1950.414><-488.6342><-1350.31><-432.1424><1><Drowned Pantheon><48><38
+DP_FIA10: -94.50294><669.6492><-126.5566><603.3846><0><Drowned Pantheon><48><35
+DP_FI11: 1065.431><-730.4675><738.215><-352.7027><2><Drowned Pantheon><100><35
+DP_FI12: 2291.124><-692.8401><1720.867><-551.9132><0><Drowned Pantheon><48><35
+DP_FI13: -1013.27><-291.233><-746.9174><-324.6453><1><Drowned Pantheon><48><78
+DP_FIS01: -1764.414><-317.6337><-1209.31><-281.1424><1><><48><35
+DP_IN01: -27.41698><-308.6337><-119.3082><-226.1427><2><Drowned Pantheon><162><42
+DP_IN03: -1572.414><119.3662><-1119.31><-20.14246><1><Drowned Pantheon><70><115
+DP_IN04: -1361.416><-53.63316><-953.3085><-154.1429><1><Drowned Pantheon><60><117
+DP_IN05: -1008.414><-3.633772><-814.3085><-97.14282><1><Drowned Pantheon><168><80
+DP_INA06: 1003.585><-499.6342><740.6901><-216.1431><2><Drowned Pantheon><48><35
+DP_IN07: -1882.414><266.3668><-1414.31><164.8571><1><Drowned Pantheon><138><35
+DP_IN08: -1305.971><-312.8624><-945.4528><-315.0253><1><Drowned Pantheon><60><35
+DP_LES01: -784.678><807.5337><-587.7172><668.5203><0><><48><35
+DP_LES01x: -784.264><808.3195><-550.3887><620.2917><0><Drowned Pantheon><48><35
+DP_brokensegment: -882.5029><932.6492><-759.5574><782.3846><0><Drowned Pantheon><155><38
+DP_LE03: 1354.586><-484.6337><973.6901><-353.1434><1><Drowned Pantheon><152><121
+DP_LEA04: -7.4167><1068.363><-30.30823><855.8574><0><Drowned Pantheon><48><37
+DP_LE05: -1155.414><545.3662><-937.3085><393.8566><0><Drowned Pantheon><150><76
+DP_LEA07: 102.5835><938.3662><117.6917><750.8569><0><Drowned Pantheon><70><41
+DP_LES08: 2265.589><-218.6341><1723.69><-159.1429><0><><48><35
+DP_LE09: -1381.364><773.0618><-1004.067><596.2303><0><Drowned Pantheon><51><70
+DP_LE10: -1379.836><935.8015><-1002.112><798.644><0><Drowned Pantheon><48><35
+DP_LE11: -133.869><1292.422><-183.9486><1029.517><0><Drowned Pantheon><100><38
+DP_LE12: -132.7369><1546.041><-144.9925><1175.724><0><Drowned Pantheon><60><73
+DP_TB01: -877.3669><-432.9384><-611.0634><-456.7702><2><Drowned Pantheon><111><35
+DP_TB02: 1470.584><-591.6338><910.6923><-506.1434><0><Drowned Pantheon><264><35
+DP_TB03: 2292.589><-510.6343><1569.69><-418.1434><0><Drowned Pantheon><154><74
+DP_TB05: 2970.589><-510.6342><2077.69><-342.1434><0><Drowned Pantheon><148><35
+DP_TBA06: 895.5836><-588.6338><672.6915><-512.1434><0><Drowned Pantheon><66><37
+DP_TB07: 3365.433><-509.4674><2410.214><-346.7027><0><Drowned Pantheon><64><40
+DP_TB08: 2633.822><-446.5607><1951.844><-356.5546><0><Drowned Pantheon><48><78
+OffScreenDen_DP: -2879.411><1245.36><-1196.309><673.8564><1><Drowned Pantheon><0><0
+Connection: GATE_DS_DP,DP_IN07,45,9,1,15,0,2
+Connection: GATE_SB_DP,DP_FI02,45,9,3,60,0,2
+Connection: GATE_DP_SH,DP_BOGGATE,2,9,42,125,2,0
+Connection: DP_basiccon,DP_LE05,78,69,90,8,1,3
+Connection: DP_basiccon,DP_IN03,4,8,63,69,2,0
+Connection: DP_basiccon,DP_DE04,95,8,1,64,0,2
+Connection: DP_belltower,DP_bridgetosec,6,6,232,9,3,3
+Connection: DP_belltower,DP_connectiontodarkex,146,6,36,31,3,1
+Connection: DP_belltower,DP_DE09,27,3,5,26,2,2
+Connection: DP_bellwall,DP_LE11,81,100,22,8,1,3
+Connection: DP_bellwall,DP_LEA07,114,35,4,19,0,2
+Connection: DP_bellwall,DP_brokensegment,28,34,133,12,3,3
+Connection: DP_bellwall,DP_FIA10,81,4,5,22,3,2
+Connection: DP_BOGGATE,DP_TB07,30,3,49,36,0,1
+Connection: DP_bridgetosec,DP_DEA08,7,25,16,1,2,3
+Connection: DP_bridgetosec,DP_FI05,14,11,55,31,2,0
+Connection: DP_connectiontodarkex,DP_DE09,2,9,35,7,2,0
+Connection: DP_connectiontodarkex,DP_DE07,41,3,10,63,0,2
+Connection: DP_finalshelter,DP_IN07,22,19,7,23,0,1
+Connection: DP_pipedown,DP_DE07,29,20,198,5,2,3
+Connection: DP_pipedown,DP_LES08,45,23,22,22,1,1
+Connection: DP_pipedown,DP_TB03,29,5,7,61,3,2
+Connection: DP_simplecon,DP_LE05,36,27,25,11,0,3
+Connection: DP_simplecon,DP_IN03,8,4,21,104,2,1
+Connection: DP_trashshelter,DP_DE12,19,15,6,8,2,3
+Connection: DP_KA1,DP_IN08,15,30,25,13,1,3
+Connection: DP_KA1,DP_FEA06,42,26,1,29,0,2
+Connection: DP_KA1,DP_FI04,22,6,101,5,3,0
+Connection: DP_KA2,DP_FE09,6,22,105,13,2,0
+Connection: DP_KA2,DP_TB03,41,14,8,18,1,2
+Connection: DP_DE04,DP_LE05,36,104,140,21,0,0
+Connection: DP_DE04,DP_FE031,82,2,4,67,3,2
+Connection: DP_DEA08,DP_LEA07,2,27,5,11,2,2
+Connection: DP_DEA08,DP_FIA10,2,12,40,22,2,0
+Connection: DP_DE09,DP_DE10,7,6,53,17,2,0
+Connection: DP_DE10,DP_DE11,7,5,9,65,3,1
+Connection: DP_DE11,DP_FE08,9,5,7,71,3,1
+Connection: DP_DE12,DP_FI05,4,31,22,6,2,3
+Connection: DP_DE12,DP_FE032,5,17,159,15,2,0
+Connection: DP_FE01,DP_FES01,16,33,23,10,1,0
+Connection: DP_FE01,DP_FE08,99,22,3,22,0,2
+Connection: DP_FE01,DP_FE04,2,20,58,20,2,0
+Connection: DP_FE01,DP_TBA06,97,8,11,33,3,3
+Connection: DP_FE02,DP_FI13,17,54,39,23,1,0
+Connection: DP_FE02,DP_FIA07,2,17,46,17,2,0
+Connection: DP_FE02,DP_FEA07,40,15,7,17,3,2
+Connection: DP_FE02,DP_TB01,6,1,71,2,3,2
+Connection: DP_FE031,DP_FE032,106,52,3,11,0,2
+Connection: DP_FE032,DP_FI05,145,29,9,14,0,2
+Connection: DP_FE04,DP_IN01,1,102,153,7,2,0
+Connection: DP_FE05,DP_IN05,4,137,146,14,2,3
+Connection: DP_FE05,DP_IN01,109,82,8,7,0,2
+Connection: DP_FE05,DP_FES02,108,77,16,17,0,2
+Connection: DP_FE05,DP_TB01,1,61,107,18,2,0
+Connection: DP_FE05,DP_FEA07,3,44,52,19,2,0
+Connection: DP_FEA06,DP_FIA07,48,29,1,19,0,2
+Connection: DP_FEA06,DP_TB01,16,1,3,11,3,2
+Connection: DP_FE08,DP_INA06,50,65,6,30,0,2
+Connection: DP_FE08,DP_FI11,45,13,4,28,0,2
+Connection: DP_FE09,DP_LE03,6,46,149,52,2,0
+Connection: DP_FE09,DP_TB02,58,22,251,15,3,3
+Connection: DP_FI02,DP_FIA09,90,19,4,10,0,2
+Connection: DP_FI04,DP_FIA09,1,25,42,11,2,0
+Connection: DP_FI05,DP_FIA10,28,70,7,11,1,2
+Connection: DP_FIA07,DP_IN08,1,30,54,8,2,0
+Connection: DP_FIA08,DP_FIS01,43,16,22,17,0,3
+Connection: DP_FIA08,DP_FIA09,19,6,6,31,2,0
+Connection: DP_FI11,DP_LE03,94,27,24,17,1,3
+Connection: DP_FI11,DP_INA06,27,29,26,2,0,2
+Connection: DP_FI12,DP_TB03,11,30,69,8,1,3
+Connection: DP_FI13,DP_IN05,31,61,90,7,2,2
+Connection: DP_IN03,DP_IN07,6,99,133,8,2,0
+Connection: DP_IN03,DP_IN04,61,15,7,72,0,2
+Connection: DP_IN04,DP_IN05,51,70,12,32,0,1
+Connection: DP_IN04,DP_IN08,30,3,13,33,3,1
+Connection: DP_LES01,DP_brokensegment,10,18,113,4,1,3
+Connection: DP_brokensegment,DP_LE10,19,12,40,9,3,3
+Connection: DP_LEA04,DP_LE11,13,35,62,3,2,3
+Connection: DP_LEA04,DP_LEA07,27,5,4,31,2,2
+Connection: DP_LE05,DP_LE09,13,65,31,6,2,0
+Connection: DP_LE09,DP_LE10,6,65,14,6,2,3
+Connection: DP_LE11,DP_LE12,56,34,29,2,1,3
+Connection: DP_TB02,DP_TBA06,7,11,43,33,3,3
+Connection: DP_TB03,DP_TB08,148,71,3,45,1,2
+Connection: DP_TB05,DP_TB07,140,15,13,12,0,3
+Connection: DP_TB05,DP_TB08,35,9,34,9,3,3
