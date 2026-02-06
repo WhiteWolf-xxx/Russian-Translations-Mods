@@ -1,0 +1,725 @@
+///Bingo Mode (3441764924)///
+///nacu.bingomode-name|Bingo Mode
+///nacu.bingomode-version|In Rain World Bingo, your goal is to complete various customizable challenges on your bingo board, play alone or compete with others!
+nacu.bingomode-version|В Rain World Bingo твоя цель — выполнить различные настраиваемые испытпния на игровом поле. Ты можешь играть в одиночку или соревноваться с другими игроками!
+Bingo Mod Config|Настройки
+Open Bingo HUD keybind:|Клавиша для открытия\nменю испытаний
+Which button opens/closes the Bingo grid in game|Какая кнопка открывает/закрывает сетку бинго в игре.
+-  Keyboard|- Клавиатура
+-  Controller 1|- Контроллер 1
+-  Controller 2|- Контроллер 2
+-  Controller 3|- Контроллер 3
+-  Controller 4|- Контроллер 4
+Use map input instead:|Использовать кнопку\nкарты
+Quick reset keybind:|Сброс клавиш
+Play custom music in bingo menu:|Играть касномную музыку в меню бинго
+Play custom music when game ends:|Играть касномную музыку в конце игры
+Play custom music when your team is losing:|Играть касномную музыку после поражения
+Singleplayer team color:|Цвет команды игрока
+Which team's color to use in singleplayer|Какой цвет команды использовать в одиночной игре.
+///Слова, которые всегда должны оставаться на английском, иначе мод не будет работать.
+Red|Red
+Blue|Blue
+Green|Green
+Orange|Orange
+Pink|Pink
+Сyan|Сyan
+Black|Black
+Hurricane|Hurricane
+Board view|Board view
+///Меню
+Config|Настройки
+STARTBINGO|НАЧАТЬ<LINE>БИНГО
+Tally up|Проверить
+JOIN|ПРИСОЕДИНИТЬСЯ
+Bingo - Scheming|Бинго — Интрига
+unl-|unl-
+bur-|bur-
+PLAY<LINE>BINGO|БИНГО
+CONTINUE<LINE>BINGO|ПРОДОЛЖИТЬ<LINE>БИНГО
+CONTINUE<LINE>MULTIPLAYER|ПРОДОЛЖИТЬ<LINE>МУЛЬТИПЛЕЕР
+FRIENDS|ДРУЗЬЯ
+HOSTMODS|МОДЫ ХОСТА
+QUITGAEM|ПОКИНУТЬ ИГРУ
+NEWBINGO|НОВОЕ<LINE>БИНГО
+lobbysettings|настройки лобби
+createlobby|создать лобби
+End Session|Завершить
+<LINE>Save the game to Complete|<LINE>Сохрани игру чтобы завершить испытание
+Cycle complete, saving run data|Цикл завершён, данные о забеге сохранены
+Multiplayer|Мультиплеер
+Profiles|Профили
+unloaded|Выгрузить
+UNLOAD|ВЫГРУЗИТЬ
+BEGIN|НАЧАТЬ
+I'M<LINE>READY|Я<LINE>ГОТОВ
+Shelter: |Убежище: 
+The shelter players start in. Please type in a valid shelter's room name (CASE SENSITIVE), or 'random'|Игроки начинают игру в убежище. Пожалуйста, введи правильное название комнаты убежища (с учётом регистра) или выбери «random».
+Copy board|Копировать
+Paste board|Вставить
+Leave Lobby|Покинуть лобби
+Refresh|Обновить
+Friends only: |Тлько друзья: 
+Friends only: Yes|Тлько друзья: Да
+Friends only: No|Тлько друзья: Нет
+Require host's mods: |Требуются моды хоста: 
+Max Players: |Максимум игроков: 
+Game mode: |Режим игры: 
+Game mode:|Режим игры:
+Bingo - |Бинго — 
+Lockout (ties) - |Lockout (ties) — 
+Lockout (no ties) - |Lockout (no ties) — 
+Blackout - |Blackout — 
+Perks:|Привилегии:
+Perks: |Привилегии: 
+perkList|Привелегии
+Allowed - |Включено — 
+Allowed|Включено
+Disabled - |Выключено — 
+Disabled|Выключено
+Host decides - |Хост решает — 
+Host decides|Хост решает
+Burdens:|Burdens:
+Burdens: |Burdens: 
+burdenList|Burdens
+Slugcat: |Слизнекот: 
+Mod version: |Версия мода: 
+Slugcat mismatch!<LINE><LINE>|Несоответствие слизнекотов!<LINE><LINE>
+Selected slugcat: White<LINE>|Выбран слизнекот: Выживший<LINE>
+Selected slugcat: Yellow<LINE>|Выбран слизнекот: Монах<LINE>
+Selected slugcat: Red<LINE>|Выбран слизнекот: Охотник<LINE>
+Selected slugcat: Rivulet<LINE>|Выбран слизнекот: Ручей<LINE>
+Selected slugcat: Artificer<LINE>|Выбран слизнекот: Техник<LINE>
+Selected slugcat: Saint<LINE>|Выбран слизнекот: Святой<LINE>
+Selected slugcat: Spear<LINE>|Выбран слизнекот: Мастер копья<LINE>
+Selected slugcat: Gourmand<LINE>|Выбран слизнекот: Гурман<LINE>
+Selected slugcat: Inv<LINE>|Выбран слизнекот: Inv<LINE>
+Selected slugcat: Watcher<LINE>|Выбран слизнекот: Созерцатель<LINE>
+Provided Slugcat: White<LINE><LINE>|Нужен слизнекот: Выживший<LINE><LINE>
+Provided Slugcat: Yellow<LINE><LINE>|Нужен слизнекот: Монах<LINE><LINE>
+Provided Slugcat: Red<LINE><LINE>|Нужен слизнекот: Охотник<LINE><LINE>
+Provided Slugcat: Rivulet<LINE><LINE>|Нужен слизнекот: Ручей<LINE><LINE>
+Provided Slugcat: Artificer<LINE><LINE>|Нужен слизнекот: Техник<LINE><LINE>
+Provided Slugcat: Saint<LINE><LINE>|Нужен слизнекот: Святой<LINE><LINE>
+Provided Slugcat: Spear<LINE><LINE>|Нужен слизнекот: Мастер копья<LINE><LINE>
+Provided Slugcat: Gourmand<LINE><LINE>|Нужен слизнекот: Гурман<LINE><LINE>
+Provided Slugcat: Inv<LINE><LINE>|Нужен слизнекот: Inv<LINE><LINE>
+Provided Slugcat: Watcher<LINE><LINE>|Нужен слизнекот: Созерцатель<LINE><LINE>
+Please paste a board from the same slugcat that's currently selected.|Пожалуйста, вставь доску из той же категории, которая выбрана в данный момент.
+Not all players are ready !|Не все игроки готовы!
+Trying to reconnect to the host.|Попытка повторного подключения к хосту.
+Cannot reconnect to host.|Не удаётся повторно подключиться к хосту.
+Lost connection to host.|Потеряно соединение с хостом.
+///Игра
+AVAILABLE: 1|В НАЛИЧИИ: 1
+AVAILABLE: 0|В НАЛИЧИИ: 0
+AVAILABLE: |В НАЛИЧИИ: 
+Team <team_name> won!|Команда <team_name> победила!
+You won!|Ты победил!
+We have a tie!|У нас ничья!
+Press the button in the bingo HUD or abandon the save to end the bingo session.|Нажми кнопку в интерфейсе бинго, чтобы завершить свой сеанс бинго.
+Press the button in the bingo HUD to end the bingo session for everyone.|Нажми кнопку в интерфейсе бинго, чтобы завершить сеанс игры для всех.
+Exit the game and abandon the save or wait for host to end the session.|Выйди из игры или подожди, пока ведущий завершит сеанс.
+Game concluded!|Игра завершена!
+Number of challenges completed: |Количество выполненных заданий: 
+Number of challenges completed for each team: |Количество выполненных заданий каждой команды: 
+<LINE>Completed by: |<LINE>Завершено: 
+<LINE>Failed by: |<LINE>Провалено: 
+///Слова, которые всегда должны оставаться на английском, иначе мод не будет работать.
+CC|CC
+LM|LM
+VS|VS
+CL|CL
+RM|RM
+OE|OE
+DM|DM
+HR|HR
+UG|UG
+MS|MS
+LC|LC
+SS|SS
+SB|SB
+UW|UW
+LF|LF
+SI|SI
+SH|SH
+SL|SL
+GW|GW
+HI|HI
+SU|SU
+DS|DS
+filter|filter
+gutter|gutter
+GWold|GWold
+LM-safari|LM-safari
+VS-safari|VS-safari
+CL-safari|CL-safari
+RM-safari|RM-safari
+OE-safari|OE-safari
+DM-safari|DM-safari
+HR-safari|HR-safari
+UG-safari|UG-safari
+MS-safari|MS-safari
+LC-safari|LC-safari
+SS-safari|SS-safari
+SB-safari|SB-safari
+UW-safari|UW-safari
+LF-safari|LF-safari
+SI-safari|SI-safari
+SH-safari|SH-safari
+SL-safari|SL-safari
+GW-safari|GW-safari
+CC-safari|CC-safari
+HI-safari|HI-safari
+SU-safari|SU-safari
+DS-safari|DS-safari
+SpinningTop|SpinningTop
+Any Region|Any Region
+Any Creature|Any Creature
+CicadaA|CicadaA
+CicadaB|CicadaB
+Hazer|Hazer
+JetFish|JetFish
+VultureGrub|VultureGrub
+Yeek|Yeek
+Spear|Spear
+DataPearl|DataPearl
+GlowWeed|GlowWeed
+GooieDuck|GooieDuck
+Lantern|Lantern
+Rock|Rock
+ScavengerBomb|ScavengerBomb
+BubbleGrass|BubbleGrass
+DangleFruit|DangleFruit
+DandelionPeach|DandelionPeach
+EggBugEgg|EggBugEgg
+FirecrackerPlant|FirecrackerPlant
+FlareBomb|FlareBomb
+FlyLure|FlyLure
+PuffBall|PuffBall
+Mushroom|Mushroom
+LillyPuck|LillyPuck
+SlimeMold|SlimeMold
+SporePlant|SporePlant
+VultureMask|VultureMask
+JellyFish|JellyFish
+BigNeedleWorm|BigNeedleWorm
+BigSpider|BigSpider
+BlackLizard|BlackLizard
+BlueLizard|BlueLizard
+BrotherLongLegs|BrotherLongLegs
+Centipede|Centipede
+Centiwing|Centiwing
+CyanLizard|CyanLizard
+DropBug|DropBug
+EelLizard|EelLizard
+EggBug|EggBug
+GreenLizard|GreenLizard
+Inspector|Inspector
+JetFish|JetFish
+KingVulture|KingVulture
+LanternMouse|LanternMouse
+MirosBird|MirosBird
+MirosVulture|MirosVulture
+MotherSpider|MotherSpider
+PinkLizard|PinkLizard
+PoleMimic|PoleMimic
+RedCentipede|RedCentipede
+RedLizard|RedLizard
+Salamander|Salamander
+Scavenger|Scavenger
+ScavengerElite|ScavengerElite
+SmallCentipede|SmallCentipede
+SpitLizard|SpitLizard
+Snail|Snail
+SpitterSpider|SpitterSpider
+TentaclePlant|TentaclePlant
+Vulture|Vulture
+TubeWorm|TubeWorm
+WhiteLizard|WhiteLizard
+YellowLizard|YellowLizard
+Chieftain|Chieftain
+DragonSlayer|DragonSlayer
+Friend|Friend
+Hunter|Hunter
+Martyr|Martyr
+Monk|Monk
+Nomad|Nomad
+Outlaw|Outlaw
+Pilgrim|Pilgrim
+Saint|Saint
+Scholar|Scholar
+Survivor|Survivor
+Traveller|Traveller
+BigCentipede|BigCentipede
+BigEel|BigEel
+DaddyLongLegs|DaddyLongLegs
+FireSpear|FireSpear
+Leech|Leech
+Pearl|Pearl
+SeaLeech|SeaLeech
+Spearmaster|Spearmaster
+Spider|Spider
+AltSkyWhale|AltSkyWhale
+Angler|Angler
+Barnacle|Barnacle
+BasiliskLizard|BasiliskLizard
+BigMoth|BigMoth
+BigSandGrub|BigSandGrub
+BlizzardLizard|BlizzardLizard
+Boomerang|Boomerang
+BoxWorm|BoxWorm
+Deer|Deer
+DrillCrab|DrillCrab
+Frog|Frog
+GraffitiBomb|GraffitiBomb
+IndigoLizard|IndigoLizard
+Loach|Loach
+MothGrub|MothGrub
+PeachLizard|PeachLizard
+Pomegranate|Pomegranate
+Rat|Rat
+SeeDCob|SeeDCob
+SkyWhale|SkyWhale
+SmallMoth|SmallMoth
+Tardigrade|Tardigrade
+ZoopLizard|ZoopLizard
+Fly|Fly
+SSOracleSwarmer|SSOracleSwarmer
+WaterNut|WaterNut
+AquaCenti|AquaCenti
+BigJelly|BigJelly
+Rivulet|Rivulet
+TerrorLongLegs|TerrorLongLegs
+StowawayBug|StowawayBug
+JungleLeech|JungleLeech
+Artificer|Artificer
+ElectricSpear|ElectricSpear
+SingularityBomb|SingularityBomb
+Gourmand|Gourmand
+FireEgg|FireEgg
+SmallNeedleWorm|SmallNeedleWorm
+///Что можно перевести
+Rocks|Камни
+Bee Hives|Ульи
+Pearls|Жемчужины
+Pebbles' Neurons|Нейроны Гальки
+Eggbug Eggs|Яйцо Яичного жука
+Bubble Fruit|Пузыреплод
+Slime Mold|Слизевик
+Bubble Grass|Пузырники
+Glow Weed|Светящаяся трава
+Dandelion Peaches|Одуванчиковые персики
+Lillypucks|Лильки
+Gooieducks|Гудутки
+Small Noodleflies|Молодые лапшемухи
+Hazers|Осьминоги
+Vulture Grubs|Личинки стервятников
+Yeeks|Ики
+Blue Fruit|Синеплод
+Salamanders|Саламандры
+///Испытания
+Click on a challenge type to block it from generating|Выбери испытания, которые могут появиться при случайном подборе
+///1
+Avoiding a region|Избегание регионов
+Do not enter Окраина|Не заходи в регион: Окраина
+Do not enter Промышленный комплекс|Не заходи в регион: Промышленный комплекс
+Do not enter Дымоход|Не заходи в регион: Дымоход
+Do not enter Дренажная система|Не заходи в регион: Дренажная система
+Do not enter Свалка|Не заходи в регион: Свалка
+Do not enter Затенённая цитадель|Не заходи в регион: Затенённая цитадель
+Do not enter Побережье|Не заходи в регион: Побережье
+Do not enter Небесные острова|Не заходи в регион: Небесные острова
+Do not enter Массивы ферм|Не заходи в регион: Массивы ферм
+Do not enter Корпус|Не заходи в регион: Корпус
+Do not enter Пять Галек|Не заходи в регион: Пять Галек
+Do not enter Подземка|Не заходи в регион: Подземка
+Do not enter Трубная база|Не заходи в регион: Трубная база
+Do not enter Затонувшая конструкция|Не заходи в регион: Затонувшая конструкция
+Do not enter Внешняя даль|Не заходи в регион: Внешняя даль
+Do not enter Прибрежная установка|Не заходи в регион: Прибрежная установка
+Do not enter Мегаполис|Не заходи в регион: Мегаполис
+Do not enter The Rot|Не заходи в регион: Гниль
+Do not enter Смотрящая-на-Луну|Не заходи в регион: Смотрящая-на-Луну
+Do not enter Пригородные нанос|Не заходи в регион: Пригородные наносы
+Do not enter Ледяной монумент|Не заходи в регион: Ледяной монумент
+Do not enter Подлесок|Не заходи в регион: Подлесок
+Do not enter Одинокие башни|Не заходи в регион: Одинокие башни
+Do not enter Ледниковая пустошь|Не заходи в регион: Ледниковая пустошь
+Do not enter Студёный берег|Не заходи в регион: Студёный берег
+Do not enter Безмолвное сооружение|Не заходи в регион: Безмолвное сооружение
+Do not enter Обветренные шпили|Не заходи в регион: Обветренные шпили
+Do not enter Опустелые поля|Не заходи в регион: Опустелые поля
+Do not enter Пустынные каналы|Не заходи в регион: Пустынные каналы
+Do not enter Первозданное подземелье|Не заходи в регион: Первозданное подземелье
+Do not enter Рубикон|Не заходи в регион: Рубикон
+///2
+Entering a region|Посещение регионов
+Enter Окраина|Посети регион: Окраина
+Enter Промышленный комплекс|Посети регион: Промышленный комплекс
+Enter Дымоход|Посети регион: Дымоход
+Enter Дренажная система|Посети регион: Дренажная система
+Enter Свалка|Посети регион: Свалка
+Enter Затенённая цитадель|Посети регион: Затенëнная цитадель
+Enter Побережье|Посети регион: Побережье
+Enter Небесные острова|Посети регион: Небесные острова
+Enter Массивы ферм|Посети регион: Массивы ферм
+Enter Корпус|Посети регион: Корпус
+Enter Пять Галек|Посети регион: Пять Галек
+Enter Подземка|Посети регион: Подземка
+Enter Трубная база|Посети регион: Трубная база
+Enter Затонувшая конструкция|Посети регион: Затонувшая конструкция
+Enter Внешняя даль|Посети регион: Внешняя даль
+Enter Прибрежная установка|Посети регион: Прибрежная установка
+Enter Мегаполис|Посети регион: Мегаполис
+Enter The Rot|Посети регион: Гниль
+Enter Смотрящая-на-Луну|Посети регион: Смотрящая-на-Луну
+Enter Пригородные нанос|Посети регион: Пригородные наносы
+Enter Ледяной монумент|Посети регион: Ледяной монумент
+Enter Подлесок|Посети регион: Подлесок
+Enter Одинокие башни|Посети регион: Одинокие башни
+Enter Ледниковая пустошь|Посети регион: Ледниковая пустошь
+Enter Студёный берег|Посети регион: Студёный берег
+Enter Безмолвное сооружение|Посети регион: Безмолвное сооружение
+Enter Обветренные шпили|Посети регион: Обветренные шпили
+Enter Опустелые поля|Посети регион: Опустелые поля
+Enter Пустынные каналы|Посети регион: Пустынные каналы
+Enter Первозданное подземелье|Посети регион: Первозданное подземелье
+Enter Рубикон|Посети регион: Рубикон
+///3
+Entering regions without visiting one|Посещение регионов не заходя в определённый регион
+Enter [<current>/<required>] regions without entering Окраина|Посети <required> регион(а,ов), не заходя в регион: Окраина [<current>/<required>]
+Enter [<current>/<required>] regions without entering Промышленный комплекс|Посети <required> регион(а,ов), не заходя в регион: Промышленный комплекс [<current>/<required>]
+Enter [<current>/<required>] regions without entering Дымоход|Посети <required> регион(а,ов), не заходя в регион: Дымоход [<current>/<required>]
+Enter [<current>/<required>] regions without entering Дренажная система|Посети <required> регион(а,ов), не заходя в регион: Дренажная система [<current>/<required>]
+Enter [<current>/<required>] regions without entering Свалка|Посети <required> регион(а,ов), не заходя в регион: Свалка [<current>/<required>]
+Enter [<current>/<required>] regions without entering Затенённая цитадель|Посети <required> регион(а,ов), не заходя в регион: Затенённая цитадель [<current>/<required>]
+Enter [<current>/<required>] regions without entering Побережье|Посети <required> регион(а,ов), не заходя в регион: Побережье [<current>/<required>]
+Enter [<current>/<required>] regions without entering Небесные острова|Посети <required> регион(а,ов), не заходя в регион: Небесные острова [<current>/<required>]
+Enter [<current>/<required>] regions without entering Массивы ферм|Посети <required> регион(а,ов), не заходя в регион: Массивы ферм [<current>/<required>]
+Enter [<current>/<required>] regions without entering Корпус|Посети <required> регион(а,ов), не заходя в регион: Корпус [<current>/<required>]
+Enter [<current>/<required>] regions without entering Пять Галек|Посети <required> регион(а,ов), не заходя в регион: Пять Галек [<current>/<required>]
+Enter [<current>/<required>] regions without entering Подземка|Посети <required> регион(а,ов), не заходя в регион: Подземка [<current>/<required>]
+Enter [<current>/<required>] regions without entering Трубная база|Посети <required> регион(а,ов), не заходя в регион: Трубная база [<current>/<required>]
+Enter [<current>/<required>] regions without entering Затонувшая конструкция|Посети <required> регион(а,ов), не заходя в регион: Затонувшая конструкция [<current>/<required>]
+Enter [<current>/<required>] regions without entering Внешняя даль|Посети <required> регион(а,ов), не заходя в регион: Внешняя даль [<current>/<required>]
+Enter [<current>/<required>] regions without entering Прибрежная установка|Посети <required> регион(а,ов), не заходя в регион: Прибрежная установка [<current>/<required>]
+Enter [<current>/<required>] regions without entering Мегаполис|Посети <required> регион(а,ов), не заходя в регион: Мегаполис [<current>/<required>]
+Enter [<current>/<required>] regions without entering The Rot|Посети <required> регион(а,ов), не заходя в регион: Гниль [<current>/<required>]
+Enter [<current>/<required>] regions without entering Смотрящая-на-Луну|Посети <required> регион(а,ов), не заходя в регион: Смотрящая-на-Луну [<current>/<required>]
+Enter [<current>/<required>] regions without entering Пригородные нанос|Посети <required> регион(а,ов), не заходя в регион: Пригородные наносы [<current>/<required>]
+Enter [<current>/<required>] regions without entering Ледяной монумент|Посети <required> регион(а,ов), не заходя в регион: Ледяной монумент [<current>/<required>]
+Enter [<current>/<required>] regions without entering Подлесок|Посети <required> регион(а,ов), не заходя в регион: Подлесок [<current>/<required>]
+Enter [<current>/<required>] regions without entering Одинокие башни|Посети <required> регион(а,ов), не заходя в регион: Одинокие башни [<current>/<required>]
+Enter [<current>/<required>] regions without entering Ледниковая пустошь|Посети <required> регион(а,ов), не заходя в регион: Ледниковая пустошь [<current>/<required>]
+Enter [<current>/<required>] regions without entering Студёный берег|Посети <required> регион(а,ов), не заходя в регион: Студёный берег [<current>/<required>]
+Enter [<current>/<required>] regions without entering Безмолвное сооружение|Посети <required> регион(а,ов), не заходя в регион: Безмолвное сооружение [<current>/<required>]
+Enter [<current>/<required>] regions without entering Обветренные шпили|Посети <required> регион(а,ов), не заходя в регион: Обветренные шпили [<current>/<required>]
+Enter [<current>/<required>] regions without entering Опустелые поля|Посети <required> регион(а,ов), не заходя в регион: Опустелые поля [<current>/<required>]
+Enter [<current>/<required>] regions without entering Пустынные каналы|Посети <required> регион(а,ов), не заходя в регион: Пустынные каналы [<current>/<required>]
+Enter [<current>/<required>] regions without entering Первозданное подземелье|Посети <required> регион(а,ов), не заходя в регион: Первозданное подземелье [<current>/<required>]
+Enter [<current>/<required>] regions without entering Рубикон|Посети <required> регион(а,ов), не заходя в регион: Рубикон [<current>/<required>]
+///4
+Crafting items|Создание предметов
+Craft [0/1] <item>|Создай предмет «<item>» 1 раз: [0/1]
+Craft [0/2] <item>|Создай предмет «<item>» 2 раза: [0/2]
+Craft [0/3] <item>|Создай предмет «<item>» 3 раза: [0/3]
+Craft [0/4] <item>|Создай предмет «<item>» 4 раза: [0/4]
+Craft [0/5] <item>|Создай предмет «<item>» 5 раз: [0/5]
+Craft [0/6] <item>|Создай предмет «<item>» 6 раз: [0/6]
+Craft [0/7] <item>|Создай предмет «<item>» 7 раз: [0/7]
+Craft [0/8] <item>|Создай предмет «<item>» 8 раз: [0/8]
+Craft [0/9] <item>|Создай предмет «<item>» 9 раз: [0/9]
+Craft [0/10] <item>|Создай предмет «<item>» 10 раз: [0/10]
+Craft [1/1] <item>|Создай предмет «<item>» 1 раз: [1/1]
+Craft [1/2] <item>|Создай предмет «<item>» 2 раза: [1/2]
+Craft [1/3] <item>|Создай предмет «<item>» 3 раза: [1/3]
+Craft [1/4] <item>|Создай предмет «<item>» 4 раза: [1/4]
+Craft [1/5] <item>|Создай предмет «<item>» 5 раз: [1/5]
+Craft [1/6] <item>|Создай предмет «<item>» 6 раз: [1/6]
+Craft [1/7] <item>|Создай предмет «<item>» 7 раз: [1/7]
+Craft [1/8] <item>|Создай предмет «<item>» 8 раз: [1/8]
+Craft [1/9] <item>|Создай предмет «<item>» 9 раз: [1/9]
+Craft [1/10] <item>|Создай предмет «<item>» 10 раз: [1/10]
+Craft [2/1] <item>|Создай предмет «<item>» 1 раз: [2/1]
+Craft [2/2] <item>|Создай предмет «<item>» 2 раза: [2/2]
+Craft [2/3] <item>|Создай предмет «<item>» 3 раза: [2/3]
+Craft [2/4] <item>|Создай предмет «<item>» 4 раза: [2/4]
+Craft [2/5] <item>|Создай предмет «<item>» 5 раз: [2/5]
+Craft [2/6] <item>|Создай предмет «<item>» 6 раз: [2/6]
+Craft [2/7] <item>|Создай предмет «<item>» 7 раз: [2/7]
+Craft [2/8] <item>|Создай предмет «<item>» 8 раз: [2/8]
+Craft [2/9] <item>|Создай предмет «<item>» 9 раз: [2/9]
+Craft [2/10] <item>|Создай предмет «<item>» 10 раз: [2/10]
+Craft [3/1] <item>|Создай предмет «<item>» 1 раз: [3/1]
+Craft [3/2] <item>|Создай предмет «<item>» 2 раза: [3/2]
+Craft [3/3] <item>|Создай предмет «<item>» 3 раза: [3/3]
+Craft [3/4] <item>|Создай предмет «<item>» 4 раза: [3/4]
+Craft [3/5] <item>|Создай предмет «<item>» 5 раз: [3/5]
+Craft [3/6] <item>|Создай предмет «<item>» 6 раз: [3/6]
+Craft [3/7] <item>|Создай предмет «<item>» 7 раз: [3/7]
+Craft [3/8] <item>|Создай предмет «<item>» 8 раз: [3/8]
+Craft [3/9] <item>|Создай предмет «<item>» 9 раз: [3/9]
+Craft [3/10] <item>|Создай предмет «<item>» 10 раз: [3/10]
+Craft [4/1] <item>|Создай предмет «<item>» 1 раз: [4/1]
+Craft [4/2] <item>|Создай предмет «<item>» 2 раза: [4/2]
+Craft [4/3] <item>|Создай предмет «<item>» 3 раза: [4/3]
+Craft [4/4] <item>|Создай предмет «<item>» 4 раза: [4/4]
+Craft [4/5] <item>|Создай предмет «<item>» 5 раз: [4/5]
+Craft [4/6] <item>|Создай предмет «<item>» 6 раз: [4/6]
+Craft [4/7] <item>|Создай предмет «<item>» 7 раз: [4/7]
+Craft [4/8] <item>|Создай предмет «<item>» 8 раз: [4/8]
+Craft [4/9] <item>|Создай предмет «<item>» 9 раз: [4/9]
+Craft [4/10] <item>|Создай предмет «<item>» 10 раз: [4/10]
+Craft [5/1] <item>|Создай предмет «<item>» 1 раз: [5/1]
+Craft [5/2] <item>|Создай предмет «<item>» 2 раза: [5/2]
+Craft [5/3] <item>|Создай предмет «<item>» 3 раза: [5/3]
+Craft [5/4] <item>|Создай предмет «<item>» 4 раза: [5/4]
+Craft [5/5] <item>|Создай предмет «<item>» 5 раз: [5/5]
+Craft [5/6] <item>|Создай предмет «<item>» 6 раз: [5/6]
+Craft [5/7] <item>|Создай предмет «<item>» 7 раз: [5/7]
+Craft [5/8] <item>|Создай предмет «<item>» 8 раз: [5/8]
+Craft [5/9] <item>|Создай предмет «<item>» 9 раз: [5/9]
+Craft [5/10] <item>|Создай предмет «<item>» 10 раз: [5/10]
+Craft [6/1] <item>|Создай предмет «<item>» 1 раз: [6/1]
+Craft [6/2] <item>|Создай предмет «<item>» 2 раза: [6/2]
+Craft [6/3] <item>|Создай предмет «<item>» 3 раза: [6/3]
+Craft [6/4] <item>|Создай предмет «<item>» 4 раза: [6/4]
+Craft [6/5] <item>|Создай предмет «<item>» 5 раз: [6/5]
+Craft [6/6] <item>|Создай предмет «<item>» 6 раз: [6/6]
+Craft [6/7] <item>|Создай предмет «<item>» 7 раз: [6/7]
+Craft [6/8] <item>|Создай предмет «<item>» 8 раз: [6/8]
+Craft [6/9] <item>|Создай предмет «<item>» 9 раз: [6/9]
+Craft [6/10] <item>|Создай предмет «<item>» 10 раз: [6/10]
+Craft [7/1] <item>|Создай предмет «<item>» 1 раз: [7/1]
+Craft [7/2] <item>|Создай предмет «<item>» 2 раза: [7/2]
+Craft [7/3] <item>|Создай предмет «<item>» 3 раза: [7/3]
+Craft [7/4] <item>|Создай предмет «<item>» 4 раза: [7/4]
+Craft [7/5] <item>|Создай предмет «<item>» 5 раз: [7/5]
+Craft [7/6] <item>|Создай предмет «<item>» 6 раз: [7/6]
+Craft [7/7] <item>|Создай предмет «<item>» 7 раз: [7/7]
+Craft [7/8] <item>|Создай предмет «<item>» 8 раз: [7/8]
+Craft [7/9] <item>|Создай предмет «<item>» 9 раз: [7/9]
+Craft [7/10] <item>|Создай предмет «<item>» 10 раз: [7/10]
+Craft [8/1] <item>|Создай предмет «<item>» 1 раз: [8/1]
+Craft [8/2] <item>|Создай предмет «<item>» 2 раза: [8/2]
+Craft [8/3] <item>|Создай предмет «<item>» 3 раза: [8/3]
+Craft [8/4] <item>|Создай предмет «<item>» 4 раза: [8/4]
+Craft [8/5] <item>|Создай предмет «<item>» 5 раз: [8/5]
+Craft [8/6] <item>|Создай предмет «<item>» 6 раз: [8/6]
+Craft [8/7] <item>|Создай предмет «<item>» 7 раз: [8/7]
+Craft [8/8] <item>|Создай предмет «<item>» 8 раз: [8/8]
+Craft [8/9] <item>|Создай предмет «<item>» 9 раз: [8/9]
+Craft [8/10] <item>|Создай предмет «<item>» 10 раз: [8/10]
+Craft [9/1] <item>|Создай предмет «<item>» 1 раз: [9/1]
+Craft [9/2] <item>|Создай предмет «<item>» 2 раза: [9/2]
+Craft [9/3] <item>|Создай предмет «<item>» 3 раза: [9/3]
+Craft [9/4] <item>|Создай предмет «<item>» 4 раза: [9/4]
+Craft [9/5] <item>|Создай предмет «<item>» 5 раз: [9/5]
+Craft [9/6] <item>|Создай предмет «<item>» 6 раз: [9/6]
+Craft [9/7] <item>|Создай предмет «<item>» 7 раз: [9/7]
+Craft [9/8] <item>|Создай предмет «<item>» 8 раз: [9/8]
+Craft [9/9] <item>|Создай предмет «<item>» 9 раз: [9/9]
+Craft [9/10] <item>|Создай предмет «<item>» 10 раз: [9/10]
+Craft [10/1] <item>|Создай предмет «<item>» 1 раз: [10/1]
+Craft [10/2] <item>|Создай предмет «<item>» 2 раза: [10/2]
+Craft [10/3] <item>|Создай предмет «<item>» 3 раза: [10/3]
+Craft [10/4] <item>|Создай предмет «<item>» 4 раза: [10/4]
+Craft [10/5] <item>|Создай предмет «<item>» 5 раз: [10/5]
+Craft [10/6] <item>|Создай предмет «<item>» 6 раз: [10/6]
+Craft [10/7] <item>|Создай предмет «<item>» 7 раз: [10/7]
+Craft [10/8] <item>|Создай предмет «<item>» 8 раз: [10/8]
+Craft [10/9] <item>|Создай предмет «<item>» 9 раз: [10/9]
+Craft [10/10] <item>|Создай предмет «<item>» 10 раз: [10/10]
+///5
+Avoiding items|Избегание предметов
+Never eat <item>|Не ешь еду: <item>
+Never use <item>|Не используй предмет: <item>
+///6
+Befriending creatures|Дружба с существом
+Befriend [<current>/<amount>] unique creature types|Подружись с <amount> существом(ами): [<current>/<amount>]
+Befriend a <crit>|Подружись с существом: <crit>
+///7
+Avoiding killing creatures|Избегание убийства существ
+Never kill <victim>|Не убивай существ: <victim>
+a creature|Любых существ
+///8
+Entering a region from another region|Посещение региона из другого региона
+First time entering <to> must be from <from>|Первый вход в регион «<to>» должен быть из региона «<from>»
+///9
+Obtaining passages|Переход
+///10
+Collecting arena unlocks|Жетоны арены и песочницы
+Collect the <unlock> unlock|Собери жетон: <unlock>
+///11
+Collecting or delivering Moon's cloak|Доставка или нахождение плаща Луны
+Collect Moon's Cloak|Найди плащ Луны
+Deliver the Cloak to Moon|Доставь плащ к Луне
+///12
+Collecting vistas|Посещение обзорной точки
+Collect the vista in <region_name>|<region_name>: достигни точки обзора
+///13
+Avoiding death before completing challenges|Не умирай, пока не выполнишь испытания
+Do not die before completing [<current>/<amount>] bingo challenges|Не умирай, пока не выполнишь <amount> испытани(е,я,й) бинго: [<current>/<amount>]
+///14
+Consuming karma flowers|Цветы кармы
+Consume [<current>/<amount>] Karma Flowers|Съешь цветок кармы <amount> раз(а): [<current>/<amount>]
+//15
+Collecting pearls|Сбор жемчужин
+Collect [<current>/<amount>] colored pearls|Подними разные цветные жемчужины <amount> раз(а): [<current>/<amount>]
+Collect the <pearl> pearl from <region>|Подними <pearl> жемчужину в регионе: <region>
+Dull Yellow|грязно-жёлтую
+Bright Green|ярко-зелёную
+Dark Green|тёмно-зелёную
+Dark Magenta|бордовую
+Olive Green|тёмно-жёлтую
+Light Yellow|грязно-жёлтую
+Deep Magenta|пурпурно-красную
+Bright Magenta|розовую
+Dark Purple|тёмно-фиолетовую
+Viridian|бирюзовую
+Deep Green|зелёную
+Light Blue|светло-синию
+Pale Green|серо-мятную
+Deep Purple|пурпурную
+Gold|золотую
+Pale Yellow|жёлтую
+Light Purple|лавандовую
+Bright Blue|синюю
+Bright Red|алую
+Deep Pink|насыщено-розовую
+Bronze|бронзовую
+Dark Blue|тёмно-синию
+Light Pink|бледно-розовую
+Teal|тиловую
+Bright Purple|фиолетовую
+///16
+Delivering colored pearls|Доставка жемчужин
+Deliver the <region> colored pearl to <iterator>|<region>: доставь жемчужину итератору <iterator>
+///17
+Delivering neurons|Доставка нейронов
+Deliver <progress> neurons to Looks to the Moon|Доставлено нейронов Смотрящей-на-Луну: <progress>
+///18
+Dodging a Leviathan|Уклонение от левиафана
+Dodge a Leviathan's bite|Уклонись от атаки левиафана
+///19
+Dodging Noodlefly attacks|Уклонение от лапшемухи
+Dodge [<current>/<amount>] Noodlefly attacks|Уклонись от атаки лапшемухи <amount> раз(а): [<current>/<amount>]
+///20
+Dropping a creature in the depth pit|Бросание существ в глубокую трубу
+Drop a <crit> into the depths drop room (SB_D06)|В глубокую трубу комнаты (SB_D06) нужно бросить существо: <crit>
+///21
+Eating specific food|Употребление оределённой пищи
+Eat [<current>/<amount>] <food_type> <starved>|Съешь <amount> раз(а) «<food_type>»<starved>: [<current>/<amount>]
+while starving| когда ты изнемогаешь от голода
+///22
+Getting licked by lizards|Облизывание ящерицами
+Get licked by [<current>/<amount>] unique lizards|Будь облизан разными ящерицами <amount> раз(а): [<current>/<amount>]
+///23
+Hatching Noodlefly eggs|Вылупление лапшемух
+Hatch [<current>/<amount>] noodlefly eggs|Вылупившихся яиц лапшемух — <amount>: [<current>/<amount>]
+Hatch [<current>/<amount>] noodlefly eggs in one cycle|Вылупившихся яиц лапшемух в этом цикле — <amount>: [<current>/<amount>]
+///24
+Hitting creatures with items|Бросание предметов в существ
+Hit <crit> with <weapon> [<current>/<amount>] times<location>|Попади в существо «<crit>» с помощью «<weapon>»<location> <amount> раз(а): [<current>/<amount>]
+Hit <crit> with <weapon> [<current>/<amount>] times<location> in one cycle|Попади в существо «<crit>» с помощью «<weapon>»<location> в этом цикле <amount> раз(а): [<current>/<amount>]
+ in | в регионе 
+creatures|Любое существо
+///25
+Popping popcorn plants|Попкорник
+Open [<current>/<amount>] popcorn plants|Открой попкорник <amount> раз(а): [<current>/<amount>]
+///26
+Transporting the same creature through gates|Транспортировка существ через врата
+Transport the same <crit> through [<current>/<amount>] gates|Пронеси существо «<crit>» через разные врата <amount> раз(а): [<current>/<amount>]
+///27
+Scoring cycle points|Очки за цикл
+Earn [<current_score>/<score_target>] points from creature kills in one cycle|Заработай <score_target> оч. убивая существ в этом цикле: [<current_score>/<score_target>]
+///28
+Visiting echoes|Отголосок
+Visit the <echo_location> Echo while starving|Посети отголосок региона <echo_location> когда ты изнемогаешь от голода
+Visit <amount> Echoes|Посети отголосок <amount> раз(а)
+Visit <amount> Echoes while starving|Посети отголосок когда ты изнемогаешь от голода <amount> раз(а)
+///29
+Scoring total points|Всего очков
+Earn [<current_score>/<score_target>] points from creature kills|Заработай <score_target> оч. убивая существ: [<current_score>/<score_target>]
+///30
+Visiting iterators|Посещение итераторов
+Visit <iterator>|Посети итератора <iterator>
+///31
+Putting pearls in shelters|Сохранение жемчужин
+///32
+Putting items in shelters|Сохранение предметов
+<action> [<current>/<amount>] <target_item> <shelter_type> shelter <location>|<action> <amount> «<target_item>» <shelter_type> убежище<location>: [<current>/<amount>]
+Bring|Принеси
+Hoard|Сохрани
+to any|в любое
+in the same|в одном и том же
+in | в регионе 
+///33
+Stealing items|Кража предметов
+Steal [<current>/<amount>] <item> from a Scavenger toll|Укради предмет «<item>» с заставы мусорщиков <amount> раз(а): [<current>/<amount>]
+Steal [<current>/<amount>] <item> from Scavengers|Укради предмет «<item>» у мусорщика <amount> раз(а): [<current>/<amount>]
+///34
+Pinning creatures|Пригвождение существ
+Pin [<current_pin>/<pin_amount>] <crit> to walls or floors<region>|Пригвозди существо «<crit>» <pin_amount> раз(а)<region>: [<current_pin>/<pin_amount>]
+ in different regions| в разных регионах
+///35
+Trading items to merchants|Обмен предметов у торговца мусорщиков
+Trade [<current>/<amount>] worth of value to Scavenger Merchants|Обменяй предмет у торговца <amount> раз(а): [<current>/<amount>]
+///37
+Trading same items between merchants|Трейдер мусорщиков
+Trade [<current>/<amount>] item from Scavenger Merchants to other Scavenger Merchants|Обменяй предмет у торговца, а потом обменяй этот предмет у другого торговца <amount> раз(а): [<current>/<amount>]
+Trade [<current>/<amount>] items from Scavenger Merchants to other Scavenger Merchants|Обменяй предмет у торговца, а потом обменяй этот предмет у другого торговца <amount> раз(а): [<current>/<amount>]
+///38
+Throwing grenades at scavenger tolls|Бросание бомб в заставы мусорщиков
+Throw <action> at <toll><pass>|Брось <action> <toll><pass>
+[<current>/<amount>] unique tolls|<amount> раз(а): [<current>/<amount>]
+the <toll> toll|в регионе <toll>
+ underground| «Под землёй»
+ surface| «На поверхности»
+ and then pass them| и пройди через них
+ and then pass it| и пройди через неё
+a grenade|бомбу в заставу мусорщиков
+grenades|бомбы в разные заставы мусорщиков
+///39
+Transporting creatures|Перенос существ
+Transport a <crit><from><to>|Унеси существо «<crit>»<from><to>
+ to | в регион 
+ out of | из региона 
+ from | из региона 
+///40
+Killing creatures|Охота на существ
+Kill [<current>/<amount>] <crit><location><pitorweapon><starving><onecycle><shrooms>|Убей существ «<crit>»<location><pitorweapon><onecycle><starving><shrooms> <amount> раз(а): [<current>/<amount>]
+ with a death pit| сбросив их в бездну
+ with | с помощью предмета 
+ while starving| пока ты изнемогаешь от голода
+ in one cycle| в этом цикле
+ while under mushroom effect| и пока ты под эффектом грибов
+///41
+Crushing creatures|Сокрушение существа
+Crush [<current>/<amount>] unique creatures by falling|Сокруши существ падением сверху <amount> раз(а): [<current>/<amount>]
+///42
+Delivering the green neuron|Доставка зелёного нейрона
+Reactivate Looks to the Moon|Реактевировать Смотрящую-на-Луну
+Deliver the green neuron to Five Pebbles|Доставить зелёный нейрон к Пяти Галькам
+///43
+Mauling different types of creatures|Загрызть уникальных существ
+Maul [<current>/<amount>] unique creature types|Загрызть уникальных существ <amount> раз(а): [<current>/<amount>]
+///44
+Mauling creatures a certain amount of times|Загрызть любых существ
+Maul creatures [<current>/<amount>] times|Загрызть любых существ <amount> раз(а): [<current>/<amount>]
+///45
+Collecting broadcasts|Сбор трансляций
+Collect the <chatlog> broadcast|Собери трансляцию: <chatlog>
+///46
+Avoiding giving Needles to Scavengers|Не давай мусорщикам иглы
+Do not gift Needles to Scavengers|Не давай мусорщикам иглы
+///47
+Feeding the Rarefaction Cell to a Leviathan|Ячейка разряжения и левиафан
+Feed the Rarefaction Cell to a Leviathan (completes if you die)|Скормить ячейку разряжения левиафану (завершится если ты умрёшь)
+///48
+Delivering the music pearl to Five Pebbles|Музыкальная жемчужина
+Deliver the music pearl to Five Pebbles|Доставь музыкальную жемчужину к Пяти Галькам
+///49
+Eating popcorn plant seeds|Поедание семян попкорника
+Eat [<current>/<amount>] popcorn plant seeds|Съешь семена попкорника <amount> раз(а): [<current>/<amount>]
