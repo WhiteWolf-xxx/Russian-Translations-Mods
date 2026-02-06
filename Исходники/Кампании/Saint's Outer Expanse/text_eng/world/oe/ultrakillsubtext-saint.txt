@@ -1,0 +1,7 @@
+Base : Frostbite Plain
+Frostbite Plain : 1 : Snow Vitality
+Frozen Valley : 2 : Silent in Blizzard
+Soaking Facility (Western Labyrinth) : 3 : Red Light Silence
+Luxuriant Land : 4 : Warm Oasis
+Former Residence : 5 : Home no more, murals remain
+Eastern Jungle : 6 : Lush Sheltering Forest
