@@ -1,0 +1,98 @@
+GATE_LF_RA: 2511><138.6771><2003.5><165.1042><0><><48><35
+GATE_RA_LF: -1893><-608.3229><-826.5><-795.8959><0><Northern sealine><48><35
+RA_b1: 291.5><169.1771><120.5><263.1042><0><The plateau><212><49
+RA_s2: 1982><-569.8229><1629.5><-499.8958><0><The pits ><48><35
+RA_e1: 2203.5><255.6771><1509.5><268.1042><0><The plateau><237><42
+RA_c2: 1880><-305.3229><1595.5><-285.8958><2><The pits ><68><128
+RA_c3: 1964><-462.8229><1621.5><-365.8958><0><The pits ><48><35
+RA_c4: 1614><245.1771><1135.5><234.1042><0><The plateau><156><89
+RA_t1: 1387.5><114.1771><1042.5><61.10417><1><The pits ><67><39
+RA_m1: -122><-54.82292><-54.5><1.104174><2><><122><88
+RA_g1: -415><-37.32292><-276.5><28.10418><2><The barrier><48><74
+RA_WA: -410.5><199.6771><-280.5><243.1042><0><The barrier><69><74
+RA_br: 952.5><180.1771><650.5><239.1042><0><The plateau><209><65
+RA_t2: 245.5><-138.8229><246.5><-50.89583><2><The pits ><115><37
+RA_c6: 1319><-257.8229><1163.5><-197.8958><2><The pits ><90><99
+RA_shit: 427><-270.8229><515.5><-128.8958><2><The pits ><98><47
+RA_l2: -634.5><1121.677><-649.5><1026.104><0><The barrier><171><78
+RA_c17: 778><-330.3229><759.5><-153.8958><2><The pits ><130><36
+RA_b22: -443><473.6771><-300.5><450.1042><0><The barrier><64><94
+RA_s55: -528><901.1771><-494.5><827.1041><2><The barrier><58><35
+RA_l4: -931.5><799.1771><-795.5><595.1041><0><The barrier><69><137
+RA_s69: -935><-350.3229><-502.5><-311.8958><0><Northern sealine><93><57
+RA_l5: -1047><386.6771><-876.5><216.1042><0><The barrier><70><138
+RA_birmingham: -436.5><815.6771><-303.5><708.1041><0><The barrier><69><126
+RA_upla: -2565><-321.3229><-2178.5><-307.8958><0><Northern sealine><342><96
+RA_a9: -3213><-252.3229><-2482.5><-59.89583><0><Northern sealine><90><104
+RA_a10: -3367><-11.32292><-2618.5><220.1042><0><Northern sealine><104><48
+RA_end1: -3457><-323.8229><-2686.5><-200.8958><0><Northern sealine><46><151
+RA_end2: -2842.5><-611.8229><-2551.5><-912.8959><2><Northern sealine><469><35
+RA_end3: -2059><-500.8229><-1716.5><-800.8959><2><Northern sealine><160><35
+RA_s00: -3599><-502.8229><-2816.5><-206.8958><0><Northern sealine><48><35
+RA_Water: 1907><47.17708><1533.5><68.10418><0><The pits ><48><35
+RA_c19: 1624.5><-363.3229><1385.5><-237.8958><0><The pits ><69><46
+RA_plabright: -1483><-137.8229><-1466.5><-278.8958><0><Northern sealine><362><189
+RA_t90: 1099><-750.3229><681.5><-699.8959><0><The plateau><56><35
+RA_chicago: 1660><-148.8229><1409.5><-99.89582><0><The pits ><49><36
+RA_pstuc: -836><838.6771><-636.5><784.1041><2><The barrier><48><35
+RA_p1: 1377><-37.32292><1193.5><1.104174><2><The plateau><48><35
+RA_p2: 1386><120.6771><1193.5><93.10418><2><The plateau><48><65
+RA_p3: 673><-426.8229><791.5><-285.8958><0><The pits ><48><35
+RA_p4: 518.5><-327.8229><531.5><-251.8958><1><The pits ><121><35
+RA_p7: -776><946.6771><-620.5><878.1041><2><The barrier><48><35
+RA_blind: 1399><-710.3229><999.5><-759.8959><0><Northern sealine><138><38
+RA_ariedown: 930.5><-868.3229><517.5><-941.8959><0><The pits ><49><116
+RA_SECRET: -899><614.1771><-650.5><574.1041><2><The barrier><48><35
+RA_renpocket: -727><218.6771><-612.5><220.1042><0><The barrier><100><35
+RA_Connector: 1664.5><-5.822919><1317.5><62.10417><0><The pits ><99><35
+OffScreenDen_RA: 1825><1100.677><849.5><610.1041><0><><0><0
+Connection: GATE_LF_RA,RA_e1,11,19,208,10,1,1
+Connection: GATE_RA_LF,RA_end3,40,23,151,7,0,0
+Connection: RA_b1,RA_br,185,11,5,31,0,2
+Connection: RA_b1,RA_m1,26,11,105,58,2,3
+Connection: RA_s2,RA_c3,21,31,27,5,1,3
+Connection: RA_e1,RA_c4,14,24,108,40,2,3
+Connection: RA_e1,RA_Connector,14,14,83,26,2,0
+Connection: RA_e1,RA_Water,18,5,21,27,3,1
+Connection: RA_c2,RA_chicago,10,108,39,16,2,0
+Connection: RA_c2,RA_c19,7,67,57,20,3,0
+Connection: RA_c2,RA_c3,43,36,5,32,3,1
+Connection: RA_c4,RA_p2,11,51,22,60,3,1
+Connection: RA_c4,RA_t1,52,14,51,33,3,1
+Connection: RA_t1,RA_br,12,16,203,6,2,0
+Connection: RA_t1,RA_c6,48,2,15,91,0,2
+Connection: RA_m1,RA_g1,9,58,40,41,3,0
+Connection: RA_m1,RA_t2,105,33,5,34,0,2
+Connection: RA_g1,RA_WA,21,59,32,8,1,3
+Connection: RA_WA,RA_b22,21,66,7,16,2,2
+Connection: RA_WA,RA_renpocket,6,10,95,20,2,0
+Connection: RA_t2,RA_shit,80,5,10,35,2,2
+Connection: RA_c6,RA_Connector,81,91,11,11,0,2
+Connection: RA_c6,RA_chicago,78,71,15,9,0,3
+Connection: RA_c6,RA_c17,17,48,101,15,2,3
+Connection: RA_c6,RA_c19,79,17,10,37,0,2
+Connection: RA_shit,RA_c17,52,16,28,30,0,2
+Connection: RA_shit,RA_p4,15,10,7,21,0,2
+Connection: RA_l2,RA_p7,38,15,22,31,2,1
+Connection: RA_l2,RA_l4,12,32,61,117,3,1
+Connection: RA_l2,RA_birmingham,155,32,16,108,3,3
+Connection: RA_b22,RA_birmingham,35,87,14,15,2,2
+Connection: RA_s55,RA_birmingham,27,18,13,92,0,2
+Connection: RA_l4,RA_SECRET,14,8,3,19,0,2
+Connection: RA_l4,RA_l5,35,7,61,118,2,1
+Connection: RA_s69,RA_plabright,32,28,331,23,2,0
+Connection: RA_l5,RA_renpocket,61,23,15,22,1,1
+Connection: RA_l5,RA_plabright,65,18,351,180,0,0
+Connection: RA_upla,RA_plabright,315,51,17,37,3,3
+Connection: RA_upla,RA_a9,6,42,43,26,3,3
+Connection: RA_a9,RA_a10,48,88,102,13,1,3
+Connection: RA_a10,RA_end1,22,15,22,146,3,1
+Connection: RA_end1,RA_s00,13,15,37,17,2,0
+Connection: RA_end1,RA_end2,23,12,29,24,3,1
+Connection: RA_end2,RA_end3,438,31,22,9,1,3
+Connection: RA_Water,RA_chicago,19,4,30,21,3,1
+Connection: RA_t90,RA_ariedown,9,17,18,97,1,3
+Connection: RA_t90,RA_blind,42,25,10,12,0,2
+Connection: RA_pstuc,RA_p7,40,28,21,4,0,3
+Connection: RA_p1,RA_p2,25,29,23,3,1,2
+Connection: RA_p3,RA_p4,22,32,100,15,1,0
