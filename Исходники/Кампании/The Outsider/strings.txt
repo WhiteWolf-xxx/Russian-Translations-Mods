@@ -1,0 +1,66 @@
+///The Outsider (2961788239)///
+///Quaeledy.outsider-name|The Outsider
+///Quaeledy.outsider-description|[ HAVE REMIX MENU NOW! ]<LINE>[Introduction]<LINE>The Outsider is an overly flashy slugcat, or rather a distant relative of the slugcat. It possesses the genes of winged insects, which allows it to obtain biological fluorescence and flight ability, but also makes the Spore Puffs fatal to it.<LINE><LINE>1. The Outsider can fly. When in the air, hold down the jump button to flap your wings. The first flap of wings after each liftoff does not consume food points, but each subsequent flap will consume 1/4 of food points.<LINE>2. The Outsider can flare. When standing on the ground, holding down both the pick and jump buttons will consume 1 food point to release a flare.<LINE>3. The Outsider is a vegetarian animal. It cannot consume any meat, but as compensation, it can swallow more types of plants to obtain satiety, such as Bubble Weed, Flashbang, etc. But Spore Puffs is POISONOUS, and consuming it will immediately cause the outsider to die. Please don't blame it, there are no Spore Puffs in The Outsider's hometown, and The Outsider, like you, didn't know this at first.<LINE><LINE>I hope you will find these abilities useful... because it has to try to survive in a dark and gloomy world.<LINE><LINE>[Known issues]<LINE>Sometimes Jolly Coop will replace the character controlled by the player with a survivor. You only need to switch back to the outsider in the Jolly Coop.<LINE><LINE>[Notes]<LINE>I used a translator to write this introduction, so there may be some descriptions that are incorrect.<LINE>You can customize its color in the JOLLY CO-OP. I made some modifications to the world map, and also modified the generation of creatures in each region to align them with the current timeline. But there are currently no new endings.<LINE>There are almost no new storylines. I am also considering the issue of balance, please don't worry.<LINE><LINE>[Other]<LINE>Special thanks to Harvie and Pkuyo for their help and advice. This is the first mod I wrote, so there may be many bugs that I haven't discovered yet. If you find it, please let me know. Apologize in advance for any possible bugs, hope you enjoy it!<LINE>Additionally, I initially only wanted to play my own OC in the game, so I created this mod. Just to fit my OC timeline, I modified the world. So perhaps it won't achieve the completion level of the campaign in the game, please don't have too high expectations for it.<LINE>Due to Steam restrictions, I am unable to reply to comments. I am very sorry for this.<LINE>If you wish to create a video for this mod, you do not need my consent.
+Quaeledy.outsider-description|[ТЕПЕРЬ У ТЕЯ ЕСТЬ МЕНЮ РЕМИКСА!]<LINE>[Требуется дополнение, в противном случае это может привести к вылету игры.]<LINE>Аутсайдер — это чрезмерно броский слизнекот, или, скорее, дальний родственник слизнекота. Он обладает генами крылатых насекомых, что позволяет ему приобретать биологическую флуоресценцию и способность к полету, но также делает споровую пыльцу смертельной для него.
+///Меню
+THE OUTSIDER|АУТСАЙДЕР
+The Outsider|Аутсайдер
+Outsider|Аутсайдер
+A quick and light vegetarian animal that have bioluminescence and short-time flight ability.<LINE>With amazing vigilance and flexible skills, it seeks a foothold in this dark foreign land.|Быстрое и легкое животное-вегетарианец, обладающее биолюминесценцией и способностью к кратковременному полету.<LINE>Обладая удивительной бдительностью и гибкими навыками, оно стремится закрепиться на этой темной чужой земле.
+Antennae|Усики
+LepidoticWing|Чешуйки
+Speckles|Крапинки
+FlaringLight|Вспыхивающий свет
+///Названия регионов
+Auroral Mercury|Сияющий Меркурий
+Dark Loam|Тёмный суглинок
+Degenerate Cathedral|Дегенеративный собор
+Dry Ditch|Высохший канал
+Discontinued Factories|Остановленный завод
+Dust Wasteland|Пыльная пустошь
+///Ремикс
+///Удобства
+Capacity|Удобства
+These options mainly exist for the gaming experience.|Эти опции существуют в основном для удобства игры.
+Flight Does not Consume Food|Полет не требует употребления пищи
+Immune Spore Cloud|Облако иммунных спор
+Disable Flare|Отключить вспышку
+Set a Key Code to Fly|Установить клавишу для полёта
+Set a Key Code to Flare|Установить клавишу для вспышки
+///Внешний вид
+Appearance|Внешний вид
+These options mainly exist to dress up your slugcat.|Эти опции существуют для того, чтобы нарядить вашего слизнекота.
+Hide the Flaring Light|Спрятать вспыхивающий свет
+Hide the Swallow Tail|Спрятать хвост
+Hide the Antennae|Спрятать усики
+Hide the Speckles|Спрятать крапинки
+Hide the Wing all the time|Спрятать крылья на всё время
+Hide the Wing when it is folded|Спрятать крылья, когда они сложены
+Replacing Wings with Hands (Chiroptera)|Замена рук на крылья с руками (Рукокрылые)
+///Прочее
+Other|Прочее
+Other settings about this mod.|Прочии настройки этого мода.
+Allow Mothpups to generate in other campaigns that have slugpups|Разрешить появление котят-мотыльков в других кампаниях.
+Mothpups generation probability (The probability of other pups turning into mothpups)|Вероятность появления котят-мотыльков (Вероятность того, что другие детёныши превратятся в котят-мотыльков)
+Mothpups generation probability in other campaigns that have slugpups|Вероятность появления котят-мотыльков в других кампаниях, где есть слизнекотята.
+///Обучение
+While in the air, tap jump to flutter.|Находясь в воздухе, нажми «Прыжок», чтобы начать порхать.
+While stand on the ground, Tap jump and pick-up together to flare at the cost of consuming food.|Стоя на земле, нажми «Прыжок» и «Взять» вместе, чтобы вспыхнуть ценой потребления пищи.
+You have a wider range of vegetarian diet, including those Firebushes, Bubble Weeds, Batnips and so on.|У тебя есть более широкий выбор вегетарианской диеты, включая эти взрывоопасные красные травы.
+[Please do not see echoes in the first rain cycle. This will prevent your game from being saved.]|[Пожалуйста, не ходи к эхо в первом цикле. Это предотвратит сохранение твоей игры.]
+///Диалог Гальки
+...How long... has it been...|...Как давно... сколько времени прошло?...
+...Get out... of here...|...Убирайся... отсюда...
+...It is... brighter... today.|...Сегодня... светлее....
+...Why....|...Почему?....
+...Stop...|...Прекрати...
+...Please...|...Прошу...
+A ...|A...
+///Диалог Луны
+Hello, little creature.|Привет, маленькое создание.
+You seem to have met one of us before.|Кажется, ты уже встречался с одним из нас раньше.
+From your peculiar appearance, I guess you probably come from a distant place. What brought you here?|Судя по твоей необычной внешности, ты, вероятно, пришёл издалека. Что привело тебя сюда?
+Did you lose contact with your companions during your migration? I haven't seen your ethnic group. I haven't even seen your distant relatives for a long time.|Ты потерял связь со своими товарищами во время миграции? Я не видела твою этническую группу.<LINE>Я долгое время не видела даже твоих дальних родственников.
+I'm sorry, no matter what you want, I can't help you.|Мне очень жаль, но, чего бы ты ни хотел, я ничем не могу тебе помочь.
+Our era is about to pass. The old world is coming to an end. It's not advisable to stay here for a long time. You'd better leave here as soon as possible.|Наша эпоха подходит к концу. Старому миру приходит конец.<LINE>Не рекомендую оставаться здесь надолго. Тебе лучше уйти отсюда как можно скорее.
+///КОНЕЦ ТЕКСТА
