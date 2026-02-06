@@ -1,0 +1,200 @@
+///Rain World Drought (3324777051)///
+///Rain World Drought (3324777051)///
+///drought-name|Rain World Drought
+drought-description|Rain World Drought — это старый амбициозный мод от Drought Team, возвращённый к жизни самым пышным способом, который только можно себе представить. Исследуй мир и его новые тайны в роли Странника — и приготовься к тому, что ждёт тебя в будущем. 
+///Меню
+The Wanderer|Странник
+THE WANDERER|СТРАННИК
+Wanderer|Странник
+Curious and calm, with an innate desire to discover ancient mysteries around.<LINE>In tune with the events of the world, your journey will have a significant impact on things much greater than yourself.|Любознательный и спокойный, с врожденным желанием открывать древние тайны вокруг.<LINE>Находясь в гармонии с событиями в мире, ваше путешествие окажет значительное влияние на вещи,<LINE>которые намного значительнее вас самих.
+///Ремикс (Я не знаю как это преводить без описания)
+Main|Главная
+Burst|Рывок
+Boost direction memory frames|Boost direction memory frames
+Diagonal release grace frames|Diagonal release grace frames
+Enable Wanderer boost stored direction|Включить ускорение сохраненного направления
+///Shortest burst: {0}s|Короткий рывок: {0}с
+///Longest burst: {0}s|Длинный рывок: {0}с
+1 & 7: Burst build up / fade out|1 & 7: Burst build up / fade out
+2: Burst ramp A|2: Burst ramp A
+3: Burst plateau A|3: Burst plateau A
+4: Burst ramp B|4: Burst ramp B
+5: Burst plateau B|5: Burst plateau B
+6: Burst ramp down|6: Burst ramp down
+Bursts disable music?|Отключить звук рывка?
+% Intensity to build up/down (1,7)|% Интенсивность нарастания/спада (1,7)
+% MicroScreenShake to build up/down (1,7)|% MicroScreenShake to build up/down (1,7)
+% Intensity for the first stage (3)|% Intensity for the first stage (3)
+% MicroScreenShake for the first stage (3)|% MicroScreenShake for the first stage (3)
+% Intensity for the second stage (5)|% Intensity for the second stage (5)
+% MicroScreenShake for the second stage (5)|% MicroScreenShake for the second stage (5)
+This section will be|  Будет длиться от
+to|до
+seconds long.|секунд.
+///Названия регионов
+Intake System|Система впуска
+Water Reservoir|Водохранилище
+Gravity Pump|Гравитационный насос
+Looks to the Moon|Смотрящая-на-Луну
+Looks to the Moon (General System Bus)|Смотрящая-на-Луну (Генеральная системная шина)
+Looks to the Moon (Damaged Transform Arrays)|Смотрящая-на-Луну (Повреждённый трансформаторный массив)
+Looks to the Moon (Memory Conflux)|Смотрящая-на-Луну (Отсек памяти)
+Undershade|В тени
+Tidebrace|Полоса прилива
+The Conduit|Трубопровод
+The Exoframe|Внешний каркас
+The Decaying Wall|Разрушающаяся стена
+Forest Sanctuary|Лесной заповедник
+Depot Remnants|Остатки депо
+Preservation Facility|Консервационный комплекс
+///Обучение
+While on the ground, tap MAP and then press JUMP to slow down time.|Находясь на земле, нажми «Карту», а затем «Прыжок», чтобы замедлить время.
+Then hold a DIRECTION and press JUMP to finish the boost.|Затем выбири «Направление» и нажми «Прыжок», чтобы завершить ускорение.
+///Имя игрока
+///Луна
+Little creature|Маленький зверёк
+little creature|маленький зверёк
+///Галька
+Little messenger|Маленький посланник
+little messenger|маленький посланник
+///Солнца
+Messenger|Посланник
+messenger|посланник
+///Плохие отношения с Луной
+Little tormentor|Маленький мучитель
+little tormentor|маленький мучитель
+///Плохие отношения с Галькой
+Little annoyance|Небольшое раздражение
+little annoyance|небольшое раздражение
+///Плохие отношения с СКС
+Traitor|Предатель
+traitor|предатель
+///Хорошие отношения со всеми, принести 10+ жемчужин
+Little archaeologist|Маленький археолог
+little archaeologist|маленький археолог
+///Хорошие отношения с Луной
+Little friend|Маленький друг
+little friend|маленький друг
+///Хорошие отношения с Гальклй
+Little helper|Маленький помощник
+little helper|маленький помощник
+///Хорошие отношения с СКС
+My little friend|Мой маленький друг
+my little friend|мой маленький друг
+///Чтение жемчежин ~ Дистанционное подключение к LTTM с отметкой Луны
+///Конец игры
+You're reaching the end of your journey, little friend.|Ты приближаешься к концу своего путешествия, маленький друг.
+Thank you, for helping me.|Спасибо тебе, за то, что помог мне.
+///Луна
+I do enjoy the company. You're welcome to stay a while, little quiet one.|Мне действительно нравится твоя компания. Можешь остаться ненадолго, маленькая тихоня.
+///Луна чтение жемчужин
+Oh... Hello again, <PlayerName>!|О... Снова привет, <PlayerName>!
+Don't toy around with those, please.|Не играй с ними, пожалуйста.
+Here.|Здесь.
+That's all. You can leave now.|Вот и всё. Теперь ты можешь идти.
+Just GO ALREADY.|Просто УХОДИ УЖЕ.
+Another discovery?|Ещё одно открытие?
+And another one to inspect? You're quite curious, <PlayerName>!|А ещё одна для проверки? Ты очень любопытный, <PlayerName>!
+Yet another present?|Ещё один подарок?
+A new curio for me, <PlayerName>?|Новая диковинка для меня, <PlayerName>?
+<CapPlayerName>, this one again? We've seen it before!|<CapPlayerName>, опять она? Мы её уже видели!
+///Луна прийти снова
+Why don't you go somewhere else instead?|Почему бы тебе не пойти куда-нибудь ещё?
+It's you, <PlayerName>.|Это ты, <PlayerName>.
+It's you, <PlayerName>!|Это ты, <PlayerName>!
+///Луна
+It won't let you stay here, if you continue like this.|Если ты продолжишь в том же духе, это не позволит тебе остаться здесь.
+Down you go.|Спускайся вниз.
+///Луна прийти первый раз
+I can see that it's not for me. You should deliver it to Pebbles.|Я вижу, что это не для меня. Тебе следует отнести это Гальке.
+I can see that it's not for me. You should deliver it to Pebbles!|Я вижу, что это не для меня. Тебе следует отнести это Гальке!
+Once again, <PlayerName>? Well, aren't you a sweet little thing!<LINE>But listen, as much as I'd like to keep your gift - it clearly says that FP is recipient. Have it back.|Ещё раз, <PlayerName>? Ну, разве ты не прелесть, малыш?<LINE>Но послушай, как бы мне ни хотелось сохранить твой подарок — здесь ясно сказано, что получатель — ПГ.<LINE>Возьми её обратно.
+You're very stubborn about it, for some reason.<LINE>You want me to decorate the room with it? Or do you want to know what's inside?<LINE>I do really like the color of it... No, it's not for me, I shouldn't.|По какой-то причине ты очень упрямишься.<LINE>Ты хочешь, чтобы я украсила ей комнату? Или ты хочешь узнать, что внутри?<LINE>Мне действительно нравится её цвет... Нет, это не для меня, я не должна.
+///Галька
+Please, don't play around with those.|Пожалуйста, не играй с ними.
+///Галька чтение жемчужин
+I have already read this one to you, <PlayerName>.|Я уже читал тебе это, <PlayerName>.
+<CapPlayerName>, again?|<CapPlayerName>, опять?
+We have already talked about this one, <PlayerName>.|Мы уже говорили об этом, <PlayerName>.
+Oh, something from outside?|Ох, что-то извне?
+Another thing for me to inspect?|Ещё кое-что, что я должен проверить?
+What is it, <PlayerName>?|Что это, <PlayerName>?
+Something new you want me to investigate, <PlayerName>?|Ты хочешь, чтобы я исследовал что-то новое, <PlayerName>?
+Another thing for me to study?|Ещё одна вещь, которую я должен изучить?
+Let me see.|Дай-ка я посмотрю.
+You're unusually curious, <PlayerName>!|Ты необычайно любопытен, <PlayerName>!
+Your curiosity seems expansive, <PlayerName>.|Твоё любопытство кажется безграничным, <PlayerName>.
+Something else you want me to look at?|Ты хочешь, чтобы я посмотрел на что-то ещё?
+Something else you want me to see,<LINE>I suppose, <PlayerName>?|Я полагаю, ты хочешь, чтобы я увидел что-то ещё, <PlayerName>?
+Oh... sure, I will take a look.|О... конечно, я посмотрю.
+Oh... I will take a look.|О... Я сейчас посмотрю.
+Do you want me to take a look at that?|
+Another thing for me, <PlayerName>?|Ещё одна вещь для меня, <PlayerName>?
+///Галька забрать жемчужину
+GIVE THAT BACK!|ОТДАЙ ЕЁ ОБРАТНО!
+Yes, take it and don't bother me.|Да, возьми её и не беспокой меня.
+And now you're taking it.|И теперь ты забираешь её.
+Oh... Okay, have it back.|Ох... Ладно, забирай её обратно.
+You want it back?|Ты хочешь её вернуть?
+Yes, you may to have it back.|Да, ты можешь получить её обратно.
+A new object for me, <PlayerName>?|Новый предмет для меня, <PlayerName>?
+///Диалоги Гальки
+Hello, little envoy.|Здравствуй, маленький посланник.
+Do you have anything for me, perhaps?|Может быть, у тебя есть что-нибудь для меня?
+You are welcome to stay here, but I must return to my work.|Ты можешь остаться здесь, но я должен вернуться к своей работе.
+Please stop annoying me.|Пожалуйста, перестань меня раздражать.
+Welcome back.|С возвращением.
+///Старый текст (Используется ли он?)
+That's all. You can go now.|Вот и все. Теперь ты можешь идти.
+I have very little to give you.|Я могу дать тебе очень мало.
+Hello messenger.|Привет, посланник.
+Do you have that pearl Suns was talking about?|У тебя есть та жемчужина, о которой говорил Солнца?
+You are welcome to stay here, but I must return to my work shortly.|Ты можешь остаться здесь, но я вскоре должен вернуться к своей работе.
+Again?|Опять?
+Please. Calm down.|Пожалуйста. Успокойся.
+Stop it!|Прекрати это!
+I won't let you stay here, if you continue like this.|Я не позволю тебе остаться здесь, если ты будешь продолжать в том же духе.
+Calm down, <PlayerName>.|Успокойся, <PlayerName>.
+Are you done?|Ты закончил?
+Little messenger, stop that immediately!|Маленький посланник, немедленно прекрати это!
+Let's continue...|Давай продолжим...
+Now, if you let me, I will try to say this again.|А теперь, если ты позволишь, я попробую повторить это ещё раз.
+Just a minute, little messenger.|Минуточку, маленький посланник.
+You've helped me, and I am thankful for that, but you must go now.|Ты помог мне, и я благодарен тебе за это, но сейчас ты должен уйти.
+This one, <PlayerName>?|Ещё одна, <PlayerName>?
+<PlayerName>! AGAIN with this?|<PlayerName>! ОПЯТЬ это?
+GIVE THAT BACK, VERMIN!|ОТДАЙ ЕЁ, ВРЕДИТЕЛЬ!
+Ah, a pearl. Not the message though. Would you like me to read it to you?|Ах, жемчужина. Но это не послание. Хочешь, я тебе её прочту?
+Another? Your thirst for knowledge is really something!<LINE>Or is it that my readings calm your spirits?|Другая? Твоя жажда знаний — это действительно нечто!<LINE>Или это потому, что моё чтение поднимают тебе настроение?
+Let us see...<LINE>To be honest with you, <PlayerName>, I'm as curious to see what's in it as you are.|Давай посмотрим...<LINE>Честно говоря, <PlayerName>, мне так же, как и тебе, любопытно посмотреть, что там внутри.
+The scavengers must be envious of you.|Мусорщики, должно быть, завидуют тебе.
+Here we go again, <PlayerName>. Let's read your pearl.|И снова ты, <PlayerName>. Давай прочтём твою жемчужину.
+... You're getting quite good at this, you know. A little archaeologist creature.<LINE>Now, let's see what it says.|...Знаешь, у тебя это неплохо получается. Маленький зверёк-археолог.<LINE>А теперь давай посмотрим, что там написано.
+And yet another one! I will read it to you in a moment.|И ещё одна! Я зачитаю её тебе через минуту.
+So many of these lately! I see you've been wandering the world a lot.|В последнее время их так много! Я вижу, ты много путешествуешь по миру.
+This pearl must have been used recently. You can still feel the heat.|Эта жемчужина, должно быть, использовалась недавно. Я всё ешё чевствую тепло.
+A pearl... This one is crystal clear - it was used recently.|Жемчужина... Эта жемчужина кристально чистая — её использовали недавно.
+It has been recently written to.|Об этом недавно было написано.
+And this one is sharp! It was not long ago this data was written to it!|А эта — острая! Не так давно в неё были записаны данные!
+Would you like me to read this?|Ты хочешь, чтобы я это прочитала?
+///СКС
+///1
+[Incoming direct communication from low frequency emergency channel]
+[Utilizing stored energy to increase signal gain...]
+What is going on? I've stopped getting any data, the rebound is zeroed completely!
+I can't believe I'm talking into the void - turn back this instant!
+Nibby, you can still hear me, I know how the protocol works, I wrote it! GO. BACK.
+Wait, what if he can't hear me? Did the chip fry? Is he being dragged by predators?..
+///2
+[Incoming direct communication]
+[Warning: Low signal strength detected]
+You're still not out of there! Unbelievable!
+Well, I'm no longer aware of what's going on around you, but I believe that you have a reason to go so deep that the local array can't reach you.
+Still, I strongly advise you turn back when you can.
+///3
+Hey, little envoy, wherever you're going - I suggest you turn back a bit.
+The signal is getting too awry, I can't get a good reading of your status.
+///4
+There. There we go. You should be safe now, hopefully.
+Rest well, and then off you go to Pebbles!
+///КОНЕЦ ТЕКСТА
