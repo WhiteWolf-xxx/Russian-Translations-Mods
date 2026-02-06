@@ -1,0 +1,34 @@
+///The Castaway (3333707258)
+///pocky-raisin.bubblepup-name|The Castaway
+///pocky-raisin.bubblepup-description|Explore the world as the Castaway, a semi-aquatic, bubble blowing slugpup from beyond the sea!
+pocky-raisin.bubblepup-description|Исследуй мир в роли Потерпевшего — полуводный, пускающий пузыри слизнекот из-за моря!
+///Меню
+THE CASTAWAY|ПОТЕРПЕВШИЙ
+The Castaway|Потерпевший
+Castaway|Потерпевший
+A juvenile from beyond the sea, relying on wit and caution for survival.<LINE>Vunerable and far away from home, will you adapt to your circumstances, or reconnect with distant kin?|Юноша из-за моря, полагающийся в выживании на смекалку и осторожность.<LINE>Находясь вдали от дома, приспособитесь ли вы к своим обстоятельствам или воссоединитесь с дальними родственниками?
+Now confident in exploring the world,<LINE>the Castaway returns to find their place in the food chain|Теперь, уверенно исследуя мир,<LINE>Потерпевший возвращается, чтобы найти своё место в пищевой цепочке.
+///Миссии
+Sightseeing|Экскурсия
+///Обучение
+Castaway Interactions:|Механики Потерпевшего:
+Hold JUMP while swimming to increase swim speed|Удерживай «Прыжок» во время плавания, чтобы увеличить скорость
+Hold GRAB to blow a bubble / Maul bubble shield / Maul held bubble / Refill bubble-weed|Удерживай «Взять» чтобы: надуть пузырь, разбить пузырь, разрушить щит, наполнить воздухом Пузырьковый сорняк
+Press SPEC with at least 2 food pips to create a bubble shield|Нажми «C», чтобы создать пузырьковый щит, используется 2 еды
+Hold a directional input while mauling a bubble / shield to be propelled in that direction|Удерживай кнопку направления, чтобы толкать пузырь/щит в этом направлении
+You are starving, find food and shelter|Ты умираешь с голоду, найди еду и убежище
+Hold GRAB with free hands to blow a bubble|Удерживай «Взять» свободными руками, чтобы надуть пузырь
+Hold GRAB to maul a held bubble, this may propel you in a direction|Удерживай «Взять», чтобы разбить пузырь. Это может направить тебя в нужную сторону
+With sufficient food, press SPEC to create a bubble shield|При достаточном количестве еды нажми «C», чтобы создать пузырьковый щит
+You cannot blow bubbles whilst shielded. Holding GRAB will destroy the shield|Ты не можешь пускать пузыри, находясь в щите. Удерживай «Взять», чтобы разрушить щит
+Hold GRAB to fill shrivelled bubbleweed with air|Удерживай «Взять», чтобы наполнить воздухом Пузырьковый сорняк
+///Сообщение Гальки
+A young animal on the floor around my chamber. I think I know what you are looking for.|Молодое животное на полу моей комнаты. Думаю, я знаю, что ты ищешь.
+The good news first. As a gift of charity from my creators to this world, I am aware of the ecosystems enclosed within my facility.<LINE>You are an outsider. You do not belong here.|Сначала хорошие новости. В качестве благотворительного дара от моих создателей этому миру, я осведомлен об экосистемах, заключенных в пределах моего объекта. Ты посторонний. Тебе здесь не место.
+East past the shore, past the channel that separates your world from mine lies the rest of your subspecies.|К востоку от берега, за каналом, который отделяет твой мир от моего, находится остальная часть твоего подвида.
+A tunnel connects these two coastlines. Go east, beyond the Garbage Wastes, and deep into the remains of my neighbour's structure.|Туннель соединяет эти две береговые линии. Иди на восток, за пределы Свалки, вглубь остатков строения моей соседки.
+The bad news is that in your particular situation, the bonds that tether you to this world are too great.<LINE>Even with the assistance of a god such as myself, you would remain unable to pass through to the spiritual realm.|Плохая новость заключается в том, что в твоей конкретной ситуации узы, привязывающие тебя к этому миру, слишком велики. Даже с помощью такого бога, как я, ты не смог бы перейти в духовное царство.
+If for some inane reason you still believe that you could break free from your cycle, your solution lies deep beneath my structure, where the land fissures.|Если по какой-то безумной причине ты всё ещё веришь, что сможешь вырваться из своего порочного круга, твоё решение лежит глубоко под моей структурой, там, где земля расколота.
+Not that my assistance solves anyone's problem but yours.|Не то чтобы моя помощь решала чьи-либо проблемы, кроме твоих.
+Best of luck to you, young creature. I must resume my work.|Удачи тебе, юное создание. Я должен вернуться к работе.
+///КОНЕЦ ТЕКСТА
