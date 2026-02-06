@@ -1,0 +1,8 @@
+///Rivulets Outer Expanse (3338239924)///
+///rivuletouterexpanse-name|Rivulets Outer Expanse
+///rivuletouterexpanse-description|Makes Outer Expanse accessible for Rivulet.
+rivuletouterexpanse-description|Делает Внешнюю даль доступной для Ручья.
+///Названия регионов
+Fading Expanse|Затухающая даль
+Humid Fields|Влажные поля
+///КОНЕЦ ТЕКСТА
