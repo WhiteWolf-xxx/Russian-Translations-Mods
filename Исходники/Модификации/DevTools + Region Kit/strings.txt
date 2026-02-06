@@ -1,0 +1,579 @@
+///DevTools + Region Kit
+Iggy|Игги
+PAGES|СТРАНИЦА
+Room Settings|Настр. комнаты
+Objects|Объекты
+Sound|Звуки
+Map|Карта
+Triggers|Триггеры
+Dialog|Диалоги
+Background|Задний фон
+Create Specific|Создать новый
+Using Specific!|Исп. новый!
+Save|Сохранить
+Use Defaults|По умолчанию
+Create Modify|Создать в modify
+Inherit from Template:|Исп. шаблон:
+Save as Template:|Сохр. шаблон как:
+Next Page|След. страница
+Previous Page|Пред. страница
+Trash Bin|        Удалить элемент
+Collapse All|Свернуть Всё
+Prev|Следующая
+Previous|Следующая
+Next|Предыдущая
+///Настройки комнаты
+G.O: |Тип:
+Rain Intensity: |Интенс. дождя:
+Rumble Intensity: |Интенс. тряски:
+Ceiling Drips: |Капли с потолка:
+Wave Speed: |Скорость волн:
+Wave Length: |Длина волн:
+Wave Amplitude: |Амплитуда волн:
+Rollback Lgth: |Откат длины:
+Rollback amp: |Откат амплитуды:
+Clouds: |Облака:
+Grime: |Грязь:
+Rndm Itm Density: |Рандом пред. %:
+Rndm Itm Spear %: |Рандом копий %:
+Water Light: |Отражение воды:
+Inhrt|Сброс
+No room specific script active|Скрипт для ком. не активен
+!Room specific script ACTIVE!|!Скрипт для ком. АКТИВЕН!
+Wet terrain ON|Влажная местность ВКЛ
+Wet terrain OFF|Влажная местность ВЫКЛ
+///Палитра
+PALETTE|ПАЛИТРА
+Palette : |Палитра:
+Effect Color A: |Эффект цвета А:
+Effect Color B: |Эффект цвета Б:
+Fade Palette: |Оттенок палитры:
+Screen 0: |Экран 0:
+Screen 1: |Экран 1:
+Screen 2: |Экран 2:
+Screen 3: |Экран 3:
+Screen 4: |Экран 4:
+Screen 5: |Экран 5:
+Screen 6: |Экран 6:
+Screen 7: |Экран 7:
+Screen 8: |Экран 8:
+Screen 9: |Экран 9:
+Screen 10: |Экран 10:
+///Fade Palette: None|Затухающая палитра: Нет
+///Fade Palette: 2/2|Затухающая палитра: 2/2
+Add New|Создать
+Fade Palette Combiner|Комбинатор затухающей палитры
+New palette number:|Нов. номер палитры:
+Save fade as new palette|Сохранить палитру как новую
+Output: palettes/combinedPalettes|Выход: palettes/combinedPalettes
+Delete|Удалить
+///Местность
+TERRAIN|МЕСТНОСТЬ
+Select a palette|Выбор палитры
+NO PALETTE|НЕТ ПАЛИТРЫ
+Light|Свет
+Stain Amount|Количество пятен
+Stain Brightness|Яркость пятен
+Stain Height|Высота пятен
+Goo Height|Высота слизи
+Grain|Зернистость
+Edge Radius|Радиус края
+Waves|Волны
+Depth|Глубина
+Sky Fade|Затухание неба
+Screen 0:|Экран 0:
+Screen 1:|Экран 1:
+Screen 2:|Экран 2:
+Screen 3:|Экран 3:
+Screen 4:|Экран 4:
+Screen 5:|Экран 5:
+Screen 6:|Экран 6:
+Screen 7:|Экран 7:
+Screen 8:|Экран 8:
+Screen 9:|Экран 9:
+Screen 10:|Экран 10:
+///ЭФФЕКТЫ
+///Все
+Amount: |Количество:
+Red: |Красный:
+Green: |Зелёный:
+Blue: |Синий:
+Red |Красный:
+Green |Зелёный:
+Blue |Синий:
+///SKLightning|SK Молнии
+///EFFECT SKLightning|ЭФФЕКТ: SK Молнии
+Lethal Frequency: |Смерт. частота:
+Cosmetic Frequency: |Космет. частота:
+///ModifyEffectColorA|Модификатор цвета А
+///EFFECT ModifyEffectColorA|ЭФФЕКТ: Модификатор цвета А
+Hue: |Оттенок:
+Saturation: |Контраст:
+Value: |Яркость:
+///ModifyEffectColorB|Модификатор цвета Б
+///EFFECT ModifyEffectColorB|ЭФФЕКТ: Модификатор цвета Б
+///WindDirectional|Направление ветра
+///EFFECT WindDirectional|ЭФФЕКТ: Направление ветра
+Angle: |Угол:
+Strength: |Сила:
+///Ripple Settings|Настройки ряби
+///EFFECT Ripple Settings|ЭФФЕКТ: Настройки ряби
+Select decal|Выбор декали
+Timeline:UNDEFINED|Таймлайн: НЕТ
+Region:UNDEFINED|Регион: НЕТ
+Room:UNDEFINED|Комната: НЕТ
+Screen: |Экран:
+Pal: |Pal:
+Map to: |Map to:
+///LocustSwarmConfig|Рой саранчи
+///EFFECT LocustSwarmConfig|ЭФФЕКТ: Рой саранчи
+Density: |Плотность:
+Volume: |Громкость:
+Sound Proximity: |Близость звука:
+Fg Shadows: |Фоновые тени:
+Grounded: |Близость к земле:
+///FlowerWind|Цветочный ветер
+///EFFECT FlowerWind|ЭФФЕКТ: Цветочный ветер
+Minimum: |Минимум:
+Maximum: |Максимум:
+Turbulence: |Турбулентность:
+///testeffect|Тестовый эффект
+///EFFECT testeffect|ЭФФЕКТ: Тестовый эффект
+A string|Строка:
+A bool|Тип:
+True|Вкл
+False|Выкл
+An integer|Целое число:
+A float |Плавность:
+///FullRoomWind|Ветер во всей комнате
+///EFFECT FullRoomWind|ЭФФЕКТ: Ветер во всей комнате
+Vertical|Вертикаль:
+///MossWaterRGB|Мшистая вода RGB
+///EFFECT MossWaterRGB|ЭФФЕКТ: Мшистая вода RGB
+Height |Высота:
+///ReflectiveWater|Отражения от воды
+///EFFECT ReflectiveWater|ЭФФЕКТ: Отражения от воды
+Alpha |Альфа:
+LerpAngle |Угол:
+///RGBElectricDeath|Смерть от электричества
+///EFFECT RGBElectricDeath|ЭФФЕКТ: Смерть от электричества
+AffectElectricDeath|Электрич.
+AffectGreenSparks|Зел. искры
+AffectBKGLightning|Молнии
+///RainSiren|Дождевая сирена
+///EFFECT RainSiren|ЭФФЕКТ: Дождевая сирена
+Fade-In Time|Затухание:
+Song Name|Музыка:
+///HSLDisplaySnow|HSL Отображение снега
+///EFFECT HSLDisplaySnow|ЭФФЕКТ: HSL Отображение снега
+AffectSnowfall|Снегопад:
+LerpRainCycle|Цикл дождя:
+LerpNightCycle|Цикл ночи:
+Hue |Оттенок:
+Saturation |Контраст:
+Luminosity |Свечение:
+EndHue |Кон. оттенок:
+EndSaturation |Кон. насыщ.:
+EndLuminosity |Кон. свеч.:
+///Звуки
+Bkg Drone: |Фоновый гул:
+No threat drone vol: |Громкость гула:
+CREATE SOUND|СОЗДАТЬ МУЗЫКУ
+Omnidirectional|Omnidirectional
+Directional|Directional
+Spot|Spot
+///Карта
+Mode: |Мод:
+Dev View|Просмотр
+Reset Dev Positions (Hold 'N' and click)|Сброс позиций (Нажми «N» и сюда)
+Room Attractiveness Tool|Привлекательность комнат
+Room Attractiveness|Привлекательность комнат
+Apply Tool To All Rooms|Применить ко всем комнатам
+TOOL: Cycle|ТИП: Цикл
+TOOL: Neutral|ТИП: Нейтральная
+TOOL: Forbidden|ТИП: Запрещена
+TOOL: Avoid|ТИП: Избегать
+TOOL: Like|ТИП: Разрешена
+TOOL: Stay|ТИП: Оставаться
+Sub Regions|Настройка подрегионов
+Canon View|Вид карты
+Render Map|Отрисовать карту
+Output Texture|Выгрузить текстуру
+Create Def. Mat. Rect|Создать материал
+Material Rect Settings|Настройки материалов
+Remove|Удалить
+Change Material|Изм. материал
+Hold 'N' and click room to change its layer|Нажми «N» и на комнату, чтобы изменить слой
+Layers:|Слои:
+Ripple Stream Edit|Поток ряби
+Add Ripple Stream|Создать поток ряби
+stream1|Поток 1
+stream2|Поток 2
+stream3|Поток 3
+stream4|Поток 4
+stream5|Поток 5
+stream6|Поток 6
+stream7|Поток 7
+stream8|Поток 8
+stream9|Поток 9
+stream10|Поток 10
+no valid warpPoints :(|Нет допустимых точек деформации :(
+no valid nextStreams :(|Нет доступных следующих потоков :(
+Layers|Слои
+Warp Dest|Цель деф.
+Next Stream|Сл. поток
+rate|Высота
+width|Ширина
+///Триггеры
+CREATE TRIGGER|СОЗДАТЬ ТРИГГЕР
+Trigger : Spot|Триггрер : Spot
+Active from cycle:|Актив. от цикла:
+Active up to cycle:|Актив. до цикла:
+Fire chance:|Шанс срабат.:
+Trigger delay:|Задержка срабат.:
+Karma req.:|Требов. кармы:
+Can only fire once|Может сработать один раз
+Can fine multiple times|Может сработать несколько раз
+No entrance requirement|Требования отсутствуют
+Entrance: 0|Вход: 0
+Entrance: 1|Вход: 1
+Entrance: 2|Вход: 2
+Entrance: 3|Вход: 3
+Entrance: 4|Вход: 4
+Entrance: 5|Вход: 5
+Entrance: 6|Вход: 6
+Entrance: 7|Вход: 7
+Entrance: 8|Вход: 8
+Entrance: 9|Вход: 9
+Entrance: 10|Вход: 10
+Add Event|Добавить событие
+Select an event type|Выбор типа события
+MusicEvent|Музыка
+StopMusicEvent|Остановка музыки
+PoleMimicsSubtleReveal|PoleMimicsSubtleReveal
+ShowProjectedImageEvent|Проецирование изображения
+PickUpObjectInstruction|Инструкция по подбору объекта
+RoomSpecificTextMessage|Текстовое сообщение
+BringPlayerGuideToRoom|Руководство для игрока
+Event : MusicEvent|Событие : Музыка
+Select a song|Выбери музыку
+NO SONG|НЕТ МУЗЫКИ
+Play volume: |Громкость:
+Fade in: |Исчезать через:
+Song priority: |Приоритет:
+Drone volume: |Громкость гула:
+Fade out at threat: |Исч. при угрозе:
+Rest cycles: |Перезарядка:
+Room transitions: |Между комнатами:
+One song per cycle OFF|Одна песня за цикл ВКЛ
+One song per cycle ON|Одна песня за цикл ВЫКЛ
+Play Once|Один раз
+Loop|Зациклить
+Continue at death|Продолжить после смерти
+Stop at death|Остановить после смерти
+Continue through gate|Продолжить после ворот
+Stop at gate|Остановить после ворот
+Event : StopMusicEvent|Событие : Остановить музыку
+N/A|N/A
+Priority: |Приоритет:
+Fade out: |Исчезать через:
+Stop all song|Остановить всё
+Stop specific song|Остановить определенную песню
+Stop all but specific song|Остановите все, кроме определенной песни
+Event : PoleMimicsSubtleReveal|Событие : Полярная мимикрия
+Event : ShowProjectedImageEvent|Событие : Проецирование изображения
+Before Encounter|Перед встречей
+After Encounter|После встречи
+Only prog. dir.|Only prog. dir.
+Event : PickUpObjectInstruction|Событие : Инструкция по подбору объекта
+Event : RoomSpecificTextMessage|Событие : Текстовое сообщение
+Event : BringPlayerGuideToRoom|Событие : Руководство для игрока
+SeeCreature|SeeCreature
+Trigger : SeeCreature|Триггрер : SeeCreature
+PreRegionBump|PreRegionBump
+Trigger : PreRegionBump|Триггрер : PreRegionBump
+RegionBump|RegionBump
+Trigger : RegionBump|Триггрер : RegionBump
+///Диалоги
+Select dialog|Выбор диалога
+///Задний фон
+XOffset|Смещ. X
+YOffset|Смещ. Y
+Load|Загрузить
+Select Background|Выбор фона
+///Объекты
+Switch mode|Просмотр всего
+View by type|Просмотр по типу
+Placed Objects|Размещённые объекты
+All|Все
+Select All|Выбрать все
+Deselect All|Отменить
+Sort|Сорт.
+Delete Selected|Удалить выбраное
+Are you sure?|Ты уверен?
+Yes!|Да!
+No wait shit|Нет
+Duplicate|Дубликат
+///OBJECTS (Слишком много может в будующем переведу)
+CentipedeAttractor|CentipedeAttractor
+GhostSpot|Место отголоска
+VoidSpawnEgg|VoidSpawnEgg
+Consumable: VoidSpawnEgg|Расходник: VoidSpawnEgg
+Exit:0|Выход: 0
+Min Cycles: |Мин. циклов:
+Max Cycles: |Макс. циклов:
+ExitSymbolShelter|Символ убежища
+ExitSymbolHidden|Скрыть символ
+NoSpearStickZone|Зона без втыкания копий
+ScavengerOutpost|Застава мусорщиков
+Scavenger Outpost|Застава мусорщиков
+Direction: |Направление:
+Skull Seed: |Сид черепа:
+Pearls Seed: |Сид жемчужин:
+TradeOutpost|Торговец
+ScavengerTreasury|Сокровищница мусорщиков
+PlayerPushback|Отталкивание игрока
+Filter|Фильтр
+Placable Filter|Настраиваемый фильтр
+NoLeviathanStrandingZone|Зона появления Левиафана
+WindRect|Направление ветра
+Wind Rect|Направление ветра
+Affects:|Тип:
+Visuals|Визуал
+Objects|Объекты
+Creatures|Существа
+Velocity|Скорость:
+ShelterSpawnPoint|Точка появления в укрытии
+MudPit|Грязевая яма
+Vine|Лоза
+DeathFallFocus|DeathFallFocus
+NeuronSpawner|Спавнер нейронов
+ExitSymbolAncientShelter|Символ древнего убежища
+HarmfulSteam|Опасный пар
+Harmful Steam|Опасный пар
+Duration: |Длительность:
+Frequency: |Частота:
+Lifetime: |Время жизни:
+ARKillRect|ARKillRect
+PrinceFilter|Фильтр Принца
+Placable Prince Filter|Настраиваемый фильтр Принца
+Stage:|Этап:
+Not Bloomed|Не расцвёл
+Slightly Bloomed|Слегка расцвёл
+Almost Bloomed|Почти расцвёл
+Fully Bloomed|Полностью расцвёл
+Less or Equal|Меньше или равно
+Greater or Equal|Больше или равно
+Any Time|В любой момент
+Postgame Only|Только после игры
+
+SkyWhalePathfindingNode|1
+SkyWhale Pathfinding Node|2
+MSArteryPush|3
+DaemonClaw|4
+KarmaShrine|5
+DaemonEye|6
+WeaverSpot|7
+DaemonEye|8
+Daemon Eye|9
+Depth: |10
+PrinceBulb|11
+DaemonCrown|12
+Daemon Crown|13
+SpinToy|14
+PearlReader|15
+BallToy|16
+SoftToy|17
+WeirdToy|18
+ARZapperOmni|19
+ARZapperVertical|20
+ARZapperHorizontal|21
+TempleGuard|22
+JellyFish|23
+Consumable: JellyFish|24
+SandGrubHole|25
+Rattler|26
+BigJellyFish|27
+Stowaway|28
+PlacedFireSpite|29
+PlacedBoxWorm|30
+PlacedDrillCrab|31
+PlacedLoach|32
+PlacedRats|33
+PlacedBarnacles|34
+PlacedRotLoach|35
+BigSkyWhaleSpawner|36
+Big Sky Whale Spawner|37
+VultureGrub|38
+Consumable: VultureGrub|39
+DeadVultureGrub|40
+Consumable: DeadVultureGrub|41
+BigSkyWhaleTrigger|42
+Big Sky Whale Trigger|43
+Reset Cycles: |44
+Hazer|45
+Consumable: Hazer|46
+DeadHazer|47
+Consumable: DeadHazer|48
+TowerCrabSpawner|49
+Tower Crab Spawner|50
+Always Active|51
+Min Layer: |52
+Max Layer: |53
+Enter from nearest border|54
+FlareBomb|55
+Consumable: FlareBomb|58
+PuffBall|59
+Consumable: PuffBall|70
+DangleFruit|71
+Consumable: DangleFruit|72
+DataPearl|73
+Consumable: DataPearl|74
+Visible|75
+UniqueDataPearl|76
+Consumable: UniqueDataPearl|77
+SeedCob|78
+Consumable: SeedCob|79
+WaterNut|80
+Consumable: WaterNut|81
+KarmaFlower|82
+Consumable: KarmaFlower|83
+Rock|84
+Multiplayer Item|85
+Chance: |86
+CosmeticSlimeMold|87
+CosmeticSlimeMold2|88
+ReliableSpear|89
+Mushroom|90
+Consumable: Mushroom|91
+SlimeMold|92
+Consumable: SlimeMold|93
+FlyLure|94
+Consumable: FlyLure|95
+FirecrackerPlant|96
+Consumable: FirecrackerPlant|97
+NeedleEgg|98
+Consumable: NeedleEgg|99
+VultureMask|100
+HangingPearls|101
+BubbleGrass|102
+Consumable: BubbleGrass|103
+Lantern|104
+Consumable: Lantern|105
+Pomegranate|106
+Consumable: Pomegranate|107
+GraffitiBomb|108
+Consumable: GraffitiBomb|109
+GooieDuck|110
+Consumable: GooieDuck|111
+LillyPuck|112
+Consumable: LillyPuck|113
+GlowWeed|114
+Consumable: GlowWeed|115
+RotFlyPaper|116
+DandelionPeach|117
+Consumable: DandelionPeach|118
+RottenSeedCob|119
+Consumable: RottenSeedCob|120
+///CoralBrain
+CoralStem|121
+Corruption|122
+CoralStemWithNeurons|123
+CorruptionTube|124
+CoralNeuron|125
+CoralCircuit|126
+CorruptionDarkness|127
+WallMycelia|128
+StuckDaddy|129
+ProjectedStars|130
+ZapCoil|131
+SS Light Rod|132
+Light Rod|133
+Depth: |134
+Rotation: |135
+Length: |136
+Bright: |137
+ZapCoil|138
+SuperStructereFuses|139
+GravityDisruptor|140
+DeepProcessing|141
+Deep Processing|142
+From Depth: |143
+To Depth: |144
+Intensity: |145
+PassiveCorruption|146
+Custom Rot|147
+Behav: Passive|148
+Eyes: Dot|149
+Color: Default|150
+Goo Scale: |151
+Goo Chance: |152
+Legs: |153
+Slowdown: |154
+Min Color: |155
+Max Color: |156
+Min Eye Size: |157
+Max Eye Size: |158
+Eye Chance: |159
+Min Size: |160
+Max Size: |161
+///Ripple
+WarpPoint|162
+Warp Point|163
+Trigger duration : |164
+Active duration : |165
+Vignette : |166
+Darkness : |167
+Spiral gap : |168
+Swirl intensity : |169
+Lensing intensity : |170
+Noise intensity : |171
+Spiral twist : |172
+Agitation speed : |173
+Spaghettification : |174
+Effect Settings|175
+Position : UNDEFINED|176
+Select position|177
+War Modifiers|178
+Warp Modifiers Settings|179
+One Way: False|180
+One Way: True|181
+Ripple Warp: False|182
+Ripple Warp: True|183
+Uses : |184
+Warp Point effect settings|185
+DynamicWarpTarget|186
+Dynamic Warp Target|187
+Ripple Tier Required: |188
+Dead End: False|189
+Dead End: True|190
+Bad Warp: False|191
+Bad Warp: True|192
+RippleLevelFilter|193
+Placable Ripple Level Filter|194
+MIN Ripple Level: |195
+MAX Ripple Level: |196
+WarpFilter|197
+CosmeticRipple|198
+Cosmetic Ripple|199
+Leaves trail: False|200
+Leaves trail: True|201
+Is inverted: False|202
+Is inverted: True|203
+Intensity: |204
+FAllOff: |205
+Depth mix: |206
+Squish: |207
+Shape: circle|208
+SpawnMigrationStream|209
+SpawnType|210
+maxAmount|211
+RippleSpawn|212
+SpinningTopSpot|213
+Spinning Top Spot|214
+Spawn ID : |215
+Ripple Warp: False|216
+Ripple Warp: True|217
+EFFECT Ripple Settings|218
+Palette Amount: |219
+Trail Amount: |220
